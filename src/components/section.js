@@ -1,11 +1,11 @@
 import React from "react"
 import { Link } from "gatsby"
-import { rhythm, background } from "../utils/typography"
+import { rhythm } from "../utils/typography"
 
 function Section({ header, textNode, more, needsBackground }) {
   return (
     <section
-      style={{ backgroundColor: needsBackground ? background : "inherit" }}
+      style={{ backgroundColor: needsBackground ? needsBackground : "inherit" }}
     >
       <div
         style={{

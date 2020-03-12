@@ -2,6 +2,11 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Section from "../components/section"
+import {
+  backgroundGreen,
+  backgroundGrey,
+  backgroundOrange,
+} from "../utils/typography"
 
 class Index extends React.Component {
   render() {
@@ -41,7 +46,7 @@ class Index extends React.Component {
 
         <Section
           header="what's the challenge?"
-          needsBackground
+          needsBackground={backgroundGrey}
           textNode={
             <p>
               #TeamTanayJobChallenge requires you to finish a minimum of{" "}
@@ -58,7 +63,44 @@ class Index extends React.Component {
         />
 
         <Section
+          header="are we really getting a job?"
+          needsBackground={backgroundOrange}
+          textNode={
+            <p>
+              Yes, though the challenge initially was about getting visibility
+              and creating projects + profile it has transformed. Now, we have
+              hiring partners who are ready to help, interview and hire
+              successful participants from the challenge.
+            </p>
+          }
+          more={[
+            {
+              link: "/hiring-partners",
+              text: "know more about hiring partners",
+            },
+          ]}
+        />
+
+        <Section
+          header="do we have help?"
+          textNode={
+            <p>
+              Yes, you have and will have plenty of help from seniors across the
+              industry. They will be guiding you through projects, product and
+              design
+            </p>
+          }
+          more={[
+            {
+              link: "/mentors",
+              text: "checkout our mentors",
+            },
+          ]}
+        />
+
+        <Section
           header="have some questions?"
+          needsBackground={backgroundGrey}
           textNode={
             <p>
               We're sure you're having tons of questions. We got a lot of them
@@ -73,7 +115,6 @@ class Index extends React.Component {
           ]}
         />
         <Section
-          needsBackground
           header="did you checkout our blogs?"
           textNode={
             <p>

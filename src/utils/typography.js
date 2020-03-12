@@ -26,5 +26,8 @@ if (process.env.NODE_ENV !== `production`) {
 
 export default typography
 export const background = "#f8f8f8"
+export const backgroundGrey = "#f8f8f8"
+export const backgroundOrange = "#fae9de"
+export const backgroundGreen = "#c7fffb"
 export const rhythm = typography.rhythm
 export const scale = typography.scale
