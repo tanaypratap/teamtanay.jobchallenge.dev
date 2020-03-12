@@ -24,11 +24,10 @@ function createSecondPages(result, createPage) {
   })
 }
 
-function graphqlForSecondaryPages(graphql, createPage, type = "blog") {
+function graphqlForSecondaryPages(graphql, createPage, type) {
   return graphql(`
     {
       faqs: allMarkdownRemark(
-        sort: { fields: [frontmatter___priority], order: DESC }
         filter: { frontmatter: { type: { eq: "${type}" } } }
         limit: 1000
       ) {

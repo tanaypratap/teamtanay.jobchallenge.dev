@@ -20,7 +20,7 @@ function Section({ header, textNode, more, needsBackground }) {
         {textNode}
         {more &&
           more.map(additionalData => (
-            <p style={{ textAlign: "center" }}>
+            <p key={additionalData.link} style={{ textAlign: "center" }}>
               <Link style={{ boxShadow: `none` }} to={additionalData.link}>
                 {additionalData.text}
               </Link>

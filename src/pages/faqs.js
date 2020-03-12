@@ -64,7 +64,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___priority], order: ASC }
       filter: { frontmatter: { type: { eq: "faq" } } }
     ) {
       edges {

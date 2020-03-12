@@ -4,7 +4,7 @@ import LayoutPost from "../components/layout.page"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 
-const SecondaryPageTemplate = ({ data, pageContext, location, ...args }) => {
+const SecondaryPageTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
@@ -16,6 +16,7 @@ const SecondaryPageTemplate = ({ data, pageContext, location, ...args }) => {
         description={post.frontmatter.description || post.excerpt}
       />
       <article>
+        <nav></nav>
         <header>
           <h1
             style={{
@@ -42,6 +43,25 @@ const SecondaryPageTemplate = ({ data, pageContext, location, ...args }) => {
           }}
         />
       </article>
+
+      {
+        <nav>
+          <ul
+            style={{
+              listStyle: `none`,
+            }}
+          >
+            <li>
+              <a
+                style={{ cursor: "pointer" }}
+                onClick={() => window.history.back()}
+              >
+                &lt; back
+              </a>
+            </li>
+          </ul>
+        </nav>
+      }
 
       {type !== "main" && (
         <nav>
