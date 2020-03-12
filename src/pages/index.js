@@ -72,6 +72,22 @@ class Index extends React.Component {
             },
           ]}
         />
+        <Section
+          needsBackground
+          header="did you checkout our blogs?"
+          textNode={
+            <p>
+              We have cumulated free learning resources, cheap Udemy courses,
+              free design resources and project ideas for you.
+            </p>
+          }
+          more={[
+            {
+              link: "/blogs",
+              text: "see our blogs for helpful content..",
+            },
+          ]}
+        />
       </Layout>
     )
   }
