@@ -25,30 +25,36 @@ class PostsIndex extends React.Component {
             `react`,
           ]}
         />
-        {faqs.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
-          return (
-            <div
-              key={node.fields.slug}
-              style={{
-                paddingRight: `${rhythm(3 / 4)}`,
-                paddingLeft: `${rhythm(3 / 4)}`,
-                marginLeft: `auto`,
-                marginRight: `auto`,
-                maxWidth: rhythm(24),
-              }}
-            >
-              <h3
+        {faqs
+          .sort(
+            ({ node: nodeA }, { node: nodeB }) =>
+              parseInt(nodeA.frontmatter.priority, 10) -
+              parseInt(nodeB.frontmatter.priority, 10)
+          )
+          .map(({ node }) => {
+            const title = node.frontmatter.title || node.fields.slug
+            return (
+              <div
+                key={node.fields.slug}
                 style={{
-                  marginBottom: rhythm(1 / 4),
+                  paddingRight: `${rhythm(3 / 4)}`,
+                  paddingLeft: `${rhythm(3 / 4)}`,
+                  marginLeft: `auto`,
+                  marginRight: `auto`,
+                  maxWidth: rhythm(24),
                 }}
               >
-                <Link to={node.fields.slug}>{title}</Link>
-              </h3>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
-            </div>
-          )
-        })}
+                <h3
+                  style={{
+                    marginBottom: rhythm(1 / 4),
+                  }}
+                >
+                  <Link to={node.fields.slug}>{title}</Link>
+                </h3>
+                <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              </div>
+            )
+          })}
       </Layout>
     )
   }
@@ -77,6 +83,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             type
+            priority
           }
         }
       }
