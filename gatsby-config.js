@@ -3,10 +3,10 @@ module.exports = {
     title: `jobChallenge.dev`,
     author: {
       name: `Tanay Pratap`,
-      summary: `engineer at Microsoft`,
+      summary: `532 Job Challenge for TeamTanay`,
     },
-    description: `todo`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`, // todo
+    description: `Create 5 projects, 3 Blogs and 2 recommendations to win this challenge`,
+    siteUrl: `https://2020.teamtanay.jobchallenge.dev`,
     social: {
       twitter: `tanaypratap`,
     },
@@ -67,7 +67,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`, // todo
+        trackingId: `UA-49394184-5`,
       },
     },
     `gatsby-plugin-feed`,
@@ -77,8 +77,8 @@ module.exports = {
         name: `jobChallenge.dev`,
         short_name: `JC.dev`,
         start_url: `/`,
-        background_color: `#ffffff`, // todo
-        theme_color: `#663399`, // todo
+        background_color: `#ffe600`,
+        theme_color: `#ffe600`,
         display: `minimal-ui`,
         icon: `content/assets/JC.png`,
       },
