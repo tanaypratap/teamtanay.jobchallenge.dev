@@ -21,7 +21,7 @@ I am taking this challenege as I don't want to simply waste my time. Since I wil
 
 ## Something interesting about you?
 
-I like to study about the universe we live in and how it works and science applied in our daily life. A simple 
+I like to study about the universe we live in and how it works and science applied in our daily life.
 
 ### Help I need?
 
