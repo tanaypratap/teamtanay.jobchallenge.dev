@@ -6,15 +6,15 @@ portfolio: "https://soumya.dev"
 github-link: "https://github.com/geekysrm"
 linkedin-link: "https://linkedin.com/in/geekysrm"
 looking-for: "job"
-description: " React | Node | GraphQL | Gatsby | Next.js | React Native"
+description: "React | Node | GraphQL | Gatsby | Next.js | React Native"
 ---
 
 Hello!
-I am Soumya Ranjan Mohanty, Google Certified Mobile Web Specialist from IIIT Bhubaneswar, Odisha.
+I am Soumya Ranjan Mohanty, Google Certified Mobile Web Specialist and fullstack web developer from IIIT Bhubaneswar, Odisha.
 
 ### introduction
 
- I love working on the MERN stack and have done 5 internships incl. Hasura, JLL, Koyofea, Circle Jobs.
+I received the Google India Scholarship and I am a Google MWS. I love working on the MERN stack and have done 5 internships incl. Hasura, JLL, Koyofea, Circle Jobs.
 Currently doing an internship at JLL, Bangalore. I also love writing blogs (one of mine crossed 400K views). 
 I also have attended many hackathons
 
@@ -22,7 +22,7 @@ I also have attended many hackathons
 
 I need a job in July 2020.
 I want to resume my blog writing so this will help me kickstart it.
-Interact with new people and learn lot of new things.
+I would love to interact with new people and learn lot of new things.
 
 ## something interesting about you?
 
@@ -46,7 +46,7 @@ I would love to use the GraphQL ecosystem more with React.
 
 same as projects, I will keep updating my blogs as and when done.
 
-#### why I liked GraphQL over REST?
+#### Use TailwindCSS with Gatsby (with Emotion or styled-components)
 
 _description_ Let's have a look how to use TailwindCSS with Gatsby and Emotion
 
