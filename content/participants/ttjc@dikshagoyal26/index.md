@@ -45,7 +45,7 @@ _description_ It is a small web service,(MVP product), in which a user can purch
 
 _stack_ JS , NodeJS, MongoDB
 
-_hosted link_ pizzahubapp.herokuapp.com
+_hosted link_ https://pizzahubapp.herokuapp.com
 
 _github link_ https://github.com/dikshagoyal26/pizza-delivery-Backend
 
