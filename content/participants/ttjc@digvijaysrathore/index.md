@@ -1,7 +1,7 @@
 ---
 title: Digvijay Singh Rathore
 type: "participant"
-name: ""
+name: "Digvijay Singh Rathore"
 portfolio: "https://netlify.digvijay.com"
 github-link: "https://github.com/digvijaysrathore"
 linkedin-link: "https://www.linkedin.com/in/digvijay-singh-rathore-10b632190/"
