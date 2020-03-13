@@ -26,7 +26,7 @@ I Play Cricket But Don't Like to Watch On TV .
 
 ### help I need?
 
-It would be good if someone tells me how to do auth for apps.
+It would be good if someone tells me about Node JS , as i want to learn Node 
 
 ### how to contact me?
 
