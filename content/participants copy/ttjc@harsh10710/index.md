@@ -1,15 +1,15 @@
 ---
-title: demo participant
+title: dummy student
 type: "participant"
-name: "harsh patel"
-portfolio: "https://harshpatel.com"
-github-link: "https://github.com/harsh10710"
-linkedin-link: "http://www.linkedin.com/in/harsh10710"
-looking-for: "Internship"
+name: "dummy student"
+portfolio: "https://tanaypratap.com"
+github-link: "https://github.com/tanaypratap"
+linkedin-link: "https://linkedin.com/in/tanaypratap"
+looking-for: "job"
 description: "expert at CSS/HTML learning React"
 ---
 
-Hi! I am harsh patel.I want to become a fullstack devloper.
+Hi! I am a dummy student let me walk you through my intro, projects and blogs.
 
 ### introduction
 
@@ -30,8 +30,8 @@ It would be good if someone tells me how to do auth for apps.
 
 ### how to contact me?
 
-- [LinkedIn](http://www.linkedin.com/in/harsh10710)
-
+- Twitter
+- LinkedIn
 
 ### projects
 
