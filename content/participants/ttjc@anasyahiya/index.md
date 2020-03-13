@@ -9,7 +9,7 @@ looking-for: "internship"
 description: "HTML | CSS | JavaScript"
 ---
 
-Hi! My name is Anas, and welcome. Let's dive down into my profile.
+Hi! My name is Anas and welcome. Let's dive down into my profile.
 
 ### Introduction
 
