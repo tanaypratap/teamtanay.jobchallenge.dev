@@ -2,7 +2,7 @@
 title: afroz23
 type: "participant"
 name: "Afroz Quraishi"
-portfolio: "https://tanaypratap.com"
+portfolio: ""
 Github-link: "https://github.com/afroz23"
 LinkedIn-link: "https://www.linkedin.com/in/afroz-quraishi-72a399180"
 looking-for: "Internship"
