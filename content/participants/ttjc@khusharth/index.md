@@ -27,7 +27,7 @@ To get out of my comfort zone and improve myself.
 
 ## something interesting about you?
 
-Other than coding i enjoy [drawing and sketching]((https://www.instagram.com/khushu_zzz/)) mostly anime characters.
+Other than coding i enjoy [drawing and sketching](https://www.instagram.com/khushu_zzz/) mostly anime characters.
 
 I also have interest in cyber security.
 
