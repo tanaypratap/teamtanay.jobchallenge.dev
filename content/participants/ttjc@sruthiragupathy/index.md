@@ -9,13 +9,13 @@ looking-for: "job"
 description: "HTML | CSS | Javascript | React"
 ---
 
-Hi! I am Sruthi. I am a final year student.
+Hi! I am Sruthi. I am a final year student. And here is my profile!
 
 ### introduction
 
 Currently, I am doing an internship at Mr.Cooper.
 I am passionate about programming and I love learning new things.
-I am a beginner to web development,Hoping to learn a lot of stuffs through this challenge.
+I am a beginner to web development, hoping to learn a lot of stuffs through this challenge.
 
 
 ## why are you taking this challenge?
