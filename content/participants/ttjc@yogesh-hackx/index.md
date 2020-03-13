@@ -9,7 +9,7 @@ looking-for: "internship"
 description: "React | React Native | Django| Django REST Framework | GraphQL"
 ---
 
-Hello! I am Yogesh, let me walk you through my intro, projects and blogs.
+Hello! I am Yogesh Bhatt, B.Tech CSE student at Graphic Era University, let me walk you through my intro, projects and blogs.
 
 ### introduction
 
@@ -17,7 +17,7 @@ I am passionate about programming, and I love to build things.
 
 ## why are you taking this challenge?
 
-I need an internship.
+I need an internship. 
 I want to learn, &
 This is something which will really push me beyond my limits, and will help me in coming out of my comfort-zone.
 
