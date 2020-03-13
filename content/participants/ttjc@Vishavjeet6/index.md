@@ -1,5 +1,5 @@
 ---
-title: dummy student
+title: Vishavjeet student
 type: "participant"
 name: "dummy student"
 github-link: "https://github.com/Vishavjeet6"
