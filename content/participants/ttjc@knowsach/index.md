@@ -57,8 +57,3 @@ _github link_ https://github.com/knowsach/time-table
 ### blogs
 
 same as projects, I will keep updating my blogs as and when done.
-
-#### why I liked GraphQL over REST?
-
-_description_ I will write something really nice here so that you feel like reading my blog.
-
