@@ -30,7 +30,7 @@ Sometimes,I write poems.
 It would be good if someone tells me how to do auth for apps.
 
 ### how to contact me?
-- [gmail](hranaritsh@gmail.com)
+
 - [LinkedIn](https://linkedin.com/in/himanshu-rana-843383187/)
 
 ### projects
