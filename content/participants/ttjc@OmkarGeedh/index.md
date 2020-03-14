@@ -29,8 +29,9 @@ It would be good if someone help me in improve my communication skills.
 
 ### how to contact me?
 
-- Twitter
-- LinkedIn[https://www.linkedin.com/in/omkar-geedh-2ba538152/]
+- Twitter( https://twitter.com/geedh_omkar )
+- LinkedIn( https://www.linkedin.com/in/omkar-geedh-2ba538152 )
+- Telegram( https://t.me/Omkar546 )
 
 ### projects
 
