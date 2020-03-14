@@ -1,15 +1,15 @@
 ---
-title: afroz23
+title: Afroz Quraishi
 type: "participant"
 name: "Afroz Quraishi"
 portfolio: ""
-Github-link: "https://github.com/afroz23"
-LinkedIn-link: "https://www.linkedin.com/in/afroz-quraishi-72a399180"
+github-link: "https://github.com/afroz23"
+linkedIn-link: "https://www.linkedin.com/in/afroz-quraishi-72a399180"
 looking-for: "Internship"
 description: "App Developer | Open Source Contributor | Competitive Coding | Graphic Designer "
 ---
 
-Hi! I am Afroz Quraishi let me walk you through my Intro, projects, and blogs.
+T
 
 ### introduction
 
@@ -19,7 +19,7 @@ IIIT Gwalior, Madhya Pradesh.
 
 ## why are you taking this challenge?
 
-I want to work with community, learn and explore new things and need an Internship.
+I want to know work with community, learn and explore new things and need an Internship.
 
 ## something interesting about you?
 
@@ -27,7 +27,7 @@ I have good knowledge of Urdu Language.
 
 ### help I need?
 
-It would be good if someone tells me how to do auth for apps.
+I need a mentor of React-Native who can guide me. I don't know how to approch to the mentor and it will be very helpful for me if any one guide me.
 
 ### how to contact me?
 
@@ -36,7 +36,7 @@ It would be good if someone tells me how to do auth for apps.
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+I don't have any project now but I will try to update it soon.
 
 My projects:
 
