@@ -23,8 +23,7 @@ To work with startups!
 
 ## something interesting about you?
 
-A advanced web browser and chess player
-P.S: My freinds call me as a hacker.
+I read books and capture photos.
 
 ### help I need?
 
