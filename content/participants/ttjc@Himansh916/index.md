@@ -32,7 +32,7 @@ It would be good if someone tells me how to do auth for apps.
 ### how to contact me?
 
 - [LinkedIn](https://linkedin.com/in/himanshu-rana-843383187/)
-
+ 
 ### projects
 
 not a lot of projects are done. I will keep updating it with real links when done.
