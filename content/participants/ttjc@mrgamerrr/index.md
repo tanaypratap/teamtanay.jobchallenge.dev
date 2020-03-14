@@ -29,7 +29,7 @@ I like to play games & knows little bit about Ethical Hacking.
 ### Help I need?
 
 I know almost everything in HTML and CSS.
-Just started to learn javascript ypu can say i am a complete noob in it
+Just started to learn javascript you can say i am a complete noob in it.
 
 ### How to contact me?
 
