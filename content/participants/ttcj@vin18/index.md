@@ -29,8 +29,8 @@ Usage and best practices of using GraphQl in the project.
 
 ### how to contact me?
 
-- [Twitter] (https://twitter.com/vinitraut18)
-- [LinkedIn] (https://www.linkedin.com/in/vinit-raut-404651148/)
+- [Twitter](https://twitter.com/vinitraut18)
+- [LinkedIn](https://www.linkedin.com/in/vinit-raut-404651148/)
 
 ### projects
 
