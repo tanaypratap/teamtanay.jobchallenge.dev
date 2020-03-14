@@ -36,7 +36,6 @@ It would be good if someone tells me how to google like a pro!
 
 - [Twitter](https://twitter.com/Aravind20539684?s=03)
 - [LinkedIn](https://www.linkedin.com/in/aravindan-ravi-378058189/)
-- 
 
 ### projects
 
