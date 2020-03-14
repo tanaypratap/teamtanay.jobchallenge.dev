@@ -1,5 +1,5 @@
 ---
-title: dummy student
+title: Sumit Saurabh
 type: "participant"
 name: "Sumit Saurabh"
 portfolio: "(empty)"
