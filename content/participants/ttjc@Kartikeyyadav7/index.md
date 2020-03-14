@@ -13,7 +13,7 @@ Hi! Myself Kartikey Yadav , let me walk you through my info.
 
 ### introduction
 
-I am a B.E first year student ,currently studing in Sinhgad College of Enginnering Pune .
+I am a B.E first year student ,currently studing in Sinhgad College of Engineering Pune .
 
 ## why are you taking this challenge?
 
