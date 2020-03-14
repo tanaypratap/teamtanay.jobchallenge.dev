@@ -23,7 +23,7 @@ I want to learn new technologies, make a good network and grow in this field.
 
 ## something interesting about you?
 
-I like to play football and gymming is my favourite past time. I also fancy cooking at times.
+I like to play football and gymming is my favourite pastime. I also fancy cooking at times.
 
 ### help I need?
 
