@@ -9,7 +9,7 @@ looking-for: "Internships"
 description: "expert at figuring out things by googling it,know javaScript and learning react"
 ---
 
-Hi! I am a student let me walk you through my intro, projects and blogs.
+Hi! I am a student let me walk you through my intro, blogs and projects.
 
 ### introduction
 
@@ -40,7 +40,7 @@ As I have mentioned above that I am learning react, after completing it and doin
 
 not a lot of projects are done. I will keep updating it with real links when done.
 
-My projects:
+My projects: 
 
 #### project
 
