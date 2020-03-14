@@ -5,7 +5,7 @@ name: "Ujjwal Maurya"
 portfolio: ""
 github-link: "https://github.com/Ujjwal-here"
 linkedin-link: "https://www.linkedin.com/in/ujjwal-maurya-94754a191/"
-looking-for: ""
+looking-for: "internship"
 description: "CSS/HTML | React | React-Native | learning Django"
 ---
 
