@@ -28,10 +28,8 @@ It would be good if someone helps me with building backends using latest techs l
 
 ### how to contact me?
 
-- [Twitter] 
-(https://twitter.com/ExplorerAadi/)
-- [LinkedIn]
-(https://www.linkedin.com/in/exploreraadi/)
+- [Twitter](https://twitter.com/ExplorerAadi/)
+- [LinkedIn](https://www.linkedin.com/in/exploreraadi/)
 
 ### projects
 
