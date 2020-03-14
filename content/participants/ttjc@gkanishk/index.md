@@ -14,7 +14,7 @@ Hi! I am Kanishk Gupta,Microsoft Student Partner at Chandigarh University let me
 ### introduction
 
 Currently, a student pursuing B.E. CSE Hons. in Cloud Computing at Chandigarh University, holding the title of Microsoft Student Partner.
-Passionate about participating in competitions like Hackathons and organizing events.Keen interest in research on new technologies. I like contributing to the community and share my knowledge.
+Passionate about participating in competitions like Hackathons and organizing events.Keen interest in research on new technologies.I like contributing to the community and share my knowledge.
 A tech enthusiast and a public speaker ready to accept challenges.
 
 ## why are you taking this challenge?
