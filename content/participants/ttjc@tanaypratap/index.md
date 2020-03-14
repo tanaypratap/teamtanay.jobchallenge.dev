@@ -1,49 +1,66 @@
 ---
-title: Sudharsan G S
+title: dummy student
 type: "participant"
-name: "Sudharsan G S"
-portfolio: "http://sudharsangs.me/"
-github-link: "https://github.com/sudharsangs/"
-linkedin-link: "https://www.linkedin.com/in/sudharsangs/"
-looking-for: "Job"
-description: ""
+name: "dummy student"
+portfolio: "https://tanaypratap.com"
+github-link: "https://github.com/tanaypratap"
+linkedin-link: "https://linkedin.com/in/tanaypratap"
+looking-for: "job"
+description: "expert at CSS/HTML learning React"
 ---
 
-Hi! I am Sudharsan, a BCA final year student at Dayananda Sagar College,Bangalore 
-let me walk you through my intro, projects and blogs.
+Hi! I am a dummy student let me walk you through my intro, projects and blogs.
 
-### Introduction
+### introduction
 
-I am not a great developer striving to become one!
+I am studios but shy. But what to say I am just a dummy.
 
-## Why are you taking this challenge?
+## why are you taking this challenge?
 
-I want to learn about time management while building projects.
-I need a Job after my graduation.
+I need an internship in December 2020.
+I want to learn.
 
-## Something interesting about you?
+## something interesting about you?
 
-I can speak five languages. English, Tamil, Telugu, Kannada, Hindi
+I know lyrics to almost all Bollywood songs.
 
-### Help I need?
+### help I need?
 
-It would be great if someone helps me to learn GraphQL.
+It would be good if someone tells me how to do auth for apps.
 
-### How to contact me?
+### how to contact me?
 
-- [Twitter](https://twitter.com/gssudharsan)
-- [LinkedIn](https://www.linkedin.com/in/sudharsangs/)
-- [Telegram](https://t.me/sudharsangs)
+- Twitter
+- LinkedIn
 
-### Projects
+### projects
 
-Not a lot of projects are done. I will keep updating it with real links when done.
+not a lot of projects are done. I will keep updating it with real links when done.
 
 My projects:
 
-Now it's blank 
-I am building some projects now. Will add the links once completed!
+#### binder: tinder for books
 
+_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.
 
+_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
 
+_hosted link_ https://binder.netlify.com
 
+_github link_ https://github.com/tanaypratap/binder
+
+#### another project
+
+_description_
+
+_stack_
+
+### blogs
+
+same as projects, I will keep updating my blogs as and when done.
+
+#### why I liked GraphQL over REST?
+
+_description_ I will write something really nice here so that you feel like reading my blog.
+
+_link_ https://dev.to/some-imaginary-link
