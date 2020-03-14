@@ -1,39 +1,70 @@
 ---
-title: Thushar Sreenivas
+title: dummy student
 type: "participant"
-name: "Thushar Sreenivas"
-portfolio: "https://.com"
-github-link: "https://github.com/Thushar-Sreenivas"
-linkedin-link: "https://www.linkedin.com/in/thusharsreenivas/"
+name: "dummy student"
+portfolio: "https://tanaypratap.com"
+github-link: "https://github.com/tanaypratap"
+linkedin-link: "https://linkedin.com/in/tanaypratap"
 looking-for: "job"
-description: "Python | Machine Learning | Flask | Learning JavaScript and React"
+description: "expert at CSS/HTML learning React"
 ---
 
-Hey let me walk you through my intro, projects and blogs.
+Hi! I am a dummy student let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-I am a budding developer currently undergoing BTech CS at College of Engineering Chengannur. I am good at Python and Machine Learning, currently learning Flask.
+I am studios but shy. But what to say I am just a dummy.
 
 ## why are you taking this challenge?
 
-The one of the main reasons is that this challenge gives me an opportunity to learn new technologies and also to network and interact with awesome mentors and ultimately learn to build better products. There’s also the added perk of a job interview
+I need an internship in December 2020.
+I want to learn.
 
 ## something interesting about you?
 
-Technology | Coding | Gadgets |  History | Mythology | Documentaries | TedTalks 
+I know lyrics to almost all Bollywood songs.
 
 ### help I need?
 
-One of the most confusing things I face is to choose which framework to study, which one to implement for my projects. I would really like a mentor to guide me through these troubling waters.
+It would be good if someone tells me how to do auth for apps.
 
 ### how to contact me?
 
-- [LinkedIn](https://www.linkedin.com/in/thusharsreenivas/)
+- Twitter
+- LinkedIn
 
 ### projects
 
-Will update the projects as soon as i build a UI for it, Stay tuned for some Kick Ass projects
+not a lot of projects are done. I will keep updating it with real links when done.
+
+My projects:
+
+#### binder: tinder for books
+
+_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.
+
+_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
+
+_hosted link_ https://binder.netlify.com
+
+_github link_ https://github.com/tanaypratap/binder
+
+#### another project
+
+_description_
+
+_stack_
+
+### blogs
+
+same as projects, I will keep updating my blogs as and when done.
+
+#### why I liked GraphQL over REST?
+
+_description_ I will write something really nice here so that you feel like reading my blog.
+
+_link_ https://dev.to/some-imaginary-link
+
 
 
 
