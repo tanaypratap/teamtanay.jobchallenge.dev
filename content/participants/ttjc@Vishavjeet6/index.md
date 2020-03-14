@@ -1,7 +1,7 @@
 ---
 title: Vishavjeet student
 type: "participant"
-name: "dummy student"
+name: "Vishavjeet Singh"
 github-link: "https://github.com/Vishavjeet6"
 linkedin-link: "https://www.linkedin.com/in/vishavjeets/"
 looking-for: "job"
