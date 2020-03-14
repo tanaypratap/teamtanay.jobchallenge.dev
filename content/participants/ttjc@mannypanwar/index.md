@@ -32,6 +32,7 @@ Since I learnt everything online, I would love to know systematic approach to do
 - [Twitter](https://twitter.com/mannypanwar)
 - [LinkedIn](https://www.linkedin.com/in/mannypanwar/)
 - [Telegram](https://t.me/mannypanwar)
+- [Instagram](https://www.instagram.com/mannypanwar/)
 
 ### projects
 
