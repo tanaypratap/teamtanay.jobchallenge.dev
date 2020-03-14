@@ -6,14 +6,14 @@ portfolio: ""
 github-link: "https://github.com/vinod2305"
 linkedin-link: "https://www.linkedin.com/in/vinod-s-94a69a179/"
 looking-for: "internship"
-description: "Vuejs | Firebase | Flask "
+description: "HTML | CSS | JavaScript | Vuejs | Firebase | Flask  | Photoshop"
 ---
 
-Hi! I am a Vinod S, let me walk you through my intro, projects and blogs.
+Hi! I am a Vinod S. Let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-I am a passionate and motivated person. Allways looking forward to learn new things everyday.
+Creative and people-oriented . Knowledge of the creation of graphic design software and programming languages relevant to the web.
 
 ## why are you taking this challenge?
 
@@ -26,7 +26,7 @@ I am a intrested in photography. Love watching and playing cricket like most Ind
 
 ### help I need?
 
-It would be good if someone gives idea on projects. 
+It would be good if someone gives ideas on projects.  
 
 ### how to contact me?
 
