@@ -9,3 +9,4 @@ Website for the job challenge #teamtanay
 # todos
 
 1. Create blog post
+2. Five projects with varieties
