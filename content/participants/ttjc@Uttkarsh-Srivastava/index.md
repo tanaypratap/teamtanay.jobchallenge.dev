@@ -1,7 +1,7 @@
 ---
 title: Utkarsh Srivastava
 type: "participant"
-name: "dummy student"
+name: "Utkarsh Srivastava"
 portfolio: ""
 github-link: "https://github.com/Uttkarsh-Srivastava"
 linkedin-link: "https://linkedin.com/in/uttkarsh-srivastava"
