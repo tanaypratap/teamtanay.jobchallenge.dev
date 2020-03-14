@@ -67,6 +67,7 @@ _stack_
 _hosted link_ 
 
 _github link_ 
+
 #### Shuffler: Spotify Clone
 
 _description_ 
