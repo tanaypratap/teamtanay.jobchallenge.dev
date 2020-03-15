@@ -4,7 +4,7 @@ type: "participant"
 name: "Bharath Adhikari"
 portfolio: "null"
 github-link: "https://github.com/Adhikaribharath"
-linkedin-link: "https://www.linkedin.com/in/vinit-raut-404651148/"
+linkedin-link: "https://www.linkedin.com/in/bharath-kumar-adhikari-b53b81125/"
 looking-for: "job"
 description: "Good with backend stack(java,API's,..). I have good work experience on java,webservices."
 ---
