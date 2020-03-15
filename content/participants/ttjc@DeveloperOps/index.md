@@ -14,7 +14,7 @@ Hi! I am Saumaya Mani Tripathi let me walk you through my intro and projects.
 ### introduction
 
 
-Hi! I am am pursuing bachelor's degree in computer science and engineering at United Institute of Technology, Prayagraj 
+Hi! I am pursuing bachelor's degree in computer science and engineering at United Institute of Technology, Prayagraj 
 
 ## why are you taking this challenge?
 
