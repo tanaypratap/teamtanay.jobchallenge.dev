@@ -29,8 +29,8 @@ It would be good if someone help me in react, GraphQL as i want to learn it.
 
 ### how to contact me?
 
-- Twitter(https://twitter.com/AnushCodergirl)
-- LinkedIn(https://www.linkedin.com/in/anushka-raj/)
+- [Twitter](https://twitter.com/AnushCodergirl)
+- [LinkedIn](https://www.linkedin.com/in/anushka-raj/)
 
 ### projects
 
