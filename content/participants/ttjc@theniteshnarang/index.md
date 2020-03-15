@@ -13,19 +13,19 @@ Hi! I am a Nitesh Narang let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-I am proficient in C++ language , Actually that was the language that put me into the coding at first place, then i learned a java that is upto intermediate level, but i want to learn it to advanced level because i love making projects that includes algorithms and designing solutions to everyday problems. And now I'm learning JavaScript, and CSS to get me good job in start up company. To know more about me please visit my portfolio for lot of story.
+I am proficient in C++ language, Actually that was the language that put me into the coding at first place, then i learned a java that is upto intermediate level, but i want to learn it to advanced level because i love making projects that includes algorithms and designing solutions to everyday problems. And now I'm learning JavaScript, and CSS to get me good job in start up company. To know more about me please visit my portfolio for a lot of story.
 
 ## why are you taking this challenge?
 
-Afcourse the most basic reason would be to get a job but the actual reason is challenges pushes me to go out of the comfort zones thats why i like the challenges so much. 
+Ofcourse, the most basic reason would be to get a job but the actual reason is challenges pushes me to go out of the comfort zones, thats why i like the challenges so much. 
 
 ## something interesting about you?
 
-Well, i am good at learning new thing that comes to me, maybe its Photography, Editing, Coding, Digital Marketing or whether it is writing long Answers in Quora.
+Well, i am good at learning new thing that comes to me, maybe its Photography, Editing, Coding, Digital Marketing, Stock trading, or anything related to computer. I just want to learn it and apply it.
 
 ### help I need?
 
-The help i need from you is to give us more challenges everyday, put the deadlines behind every work. So that i can successfully complete this chalange and steal the job from you.
+The help i need from you is to give us more challenges everyday, put the deadlines behind every work. So that i can successfully complete this challenge and steal the job from you.
 
 ### how to contact me?
 
@@ -34,7 +34,7 @@ The help i need from you is to give us more challenges everyday, put the deadlin
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+Not a lot of projects are done. I will keep updating it with real links when done.
 
 My projects:
 
