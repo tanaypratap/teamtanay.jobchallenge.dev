@@ -31,7 +31,7 @@ It would be good if someone guides me with ReastJs as I have done little in it a
 ### how to contact me?
 
 - [Twitter](https://twitter.com/Megha_Pathak_)
-- [LinkedIn](linkedin.com/in/megha--pathak/)
+- [LinkedIn](https://linkedin.com/in/megha--pathak/)
 
 ### projects
 
