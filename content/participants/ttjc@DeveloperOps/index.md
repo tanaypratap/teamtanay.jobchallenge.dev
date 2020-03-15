@@ -55,4 +55,4 @@ _github-link_ (https://github.com/DeveloperOps/ReactJsNewsUi)
 
 ### blogs
 
-Currently, I dont have any blogs but i will start writing it soon.
+Currently, I don't have any blogs but i will start writing it soon.
