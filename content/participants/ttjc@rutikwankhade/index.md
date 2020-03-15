@@ -9,7 +9,7 @@ looking-for: "job"
 description: "avid learner,open source enthusiast, passionate about web technologies"
 ---
 
-Hi! I am Rutik Wankhade, Web Dev Team lead at Developer Students Club SIT Lonavala. let me walk you through my intro, projects and blogs.
+Hi! I am Rutik Wankhade, an avid learner, open source enthusiast and Web Dev Team lead at Developer Students Club SIT Lonavala. let me walk you through my intro, projects and blogs.
 
 ### introduction
 
@@ -25,7 +25,7 @@ Also this challenge will help me be consistant and focused.
 
 ## something interesting about you?
 
-I love reading books, mostly non-fiction, biographies and self help books. Also 
+I love reading books, mostly non-fiction, biographies and self help books. Also I am very enthusiastic person.I love meeting like minded people and discuss. 
 
 ### help I need?
 
