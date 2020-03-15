@@ -30,7 +30,7 @@ I want to learn and understand the world around me.
 
 ### help I need?
 
-I may need help in a lot of departments. Well, i'm just a beginner but definetly not a noob.
+I may need help in a lot of departments. Well, i'm just a beginner with some experience but definetly not a noob. 
 
 ### how to contact me?
 
