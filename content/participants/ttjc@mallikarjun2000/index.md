@@ -6,7 +6,7 @@ portfolio: "http://arjun999-resume.herokuapp.com/"
 github-link: "https://github.com/mallikarjun2000"
 linkedin-link: "https://www.linkedin.com/in/mallikarjun-komarraju-b4b070183"
 looking-for: "internship"
-description: "Android Developer | JAVA | Student"
+description: "Android Developer | JAVA | Student "
 ---
 
 Hi! I am Mallikarjun let me walk you through my intro, projects and blogs.
