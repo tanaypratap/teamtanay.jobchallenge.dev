@@ -2,7 +2,7 @@
 title: RahulChugwani
 type: "participant"
 name: "Rahul Chugwani"
-portfolio: "https://tanaypratap.com"
+portfolio: ""
 github-link: "https://github.com/RahulChugwani"
 linkedin-link: "https://linkedin.com/in/rahul-chugwani-438945158"
 looking-for: "job"
@@ -13,7 +13,7 @@ Hi! I am a Rahul Chugwani let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-I am studios and like to explore new technologies. Currently pursuing my B.Tech from Vishwakarma Institute of Technology, Pune and I have keen interest in product development and DS/Algorithms. I have worked under Edtech startup in second year where i developed projects of academic analytics for students better progress in learning. 
+I am the one who can't sleep until its work get done at time. Currently pursuing my B.Tech from Vishwakarma Institute of Technology, Pune and I have keen interest in product development and DS/Algorithms. I have worked under Edtech startup in second year where i developed projects of academic analytics for students better progress in learning. 
 
 ## why are you taking this challenge?
 
@@ -22,7 +22,7 @@ I want to learn and to get experienced in making different projects and blogs.
 
 ## something interesting about you?
 
-I like to read daily news about economics/finance and world politics .
+Interest in reading daily news about economics/finance and world politics .
 
 ### help I need?
 
@@ -39,15 +39,7 @@ not a lot of projects are done. I will keep updating it with real links when don
 
 My projects:
 
-
-
-
-
-#### another project
-
-_description_
-
-_stack_
+I will update this part soon and will add some more interesting projects in it.
 
 ### blogs
 
