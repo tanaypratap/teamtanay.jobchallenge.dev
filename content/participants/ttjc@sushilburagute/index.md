@@ -39,10 +39,10 @@ It would be nice to know about Software Engineering skills, Development Cycle, a
 
 ### projects
 
-I'm currently working on projects for a couple of startups. I'll keep updating the list here as I do new ones!
+I'm currently working on projects for couple of startups. I'll keep updating the list here as I do new ones!
 
 ### blogs
 
-Insteadf of doing blogs, I do these bite-sized learning posts on [Instagram](https://instagram.com/sushil.buragute)
+Instead of doing blogs, I do these bite-sized learning posts on [Instagram](https://instagram.com/sushil.buragute)
 
 I'm going to update this soon!
