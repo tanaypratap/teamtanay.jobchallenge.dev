@@ -11,4 +11,4 @@ tags: ["privacy", "user data"]
 - The information shared by you will be available openly on GitHub and on our website. Anyone can view your data.
 - Your information will be shared with our voulnteers, hiring partners and mentors as and when required.
 - We reserve all the rights to share your personal information (except sensitive information) on our social media platforms for promotional purposes.
-- Misusing of others' information without prior written consent is punishable under the law.
+- Using of others' information without prior written consent is punishable under the law.
