@@ -33,7 +33,6 @@ I want someone to answer my question like a mentor.
 
 ### how to contact me?
 
-- Twitter
 - [LinkedIn](https://www.linkedin.com/in/mallikarjun-komarraju-b4b070183)
 
 ### projects
