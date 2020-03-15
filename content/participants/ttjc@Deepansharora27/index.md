@@ -1,5 +1,5 @@
 ---
-title: Challenge Participant
+title: Deepanshu Arora
 type: "participant"
 name: "Deepanshu Arora"
 portfolio: ""
