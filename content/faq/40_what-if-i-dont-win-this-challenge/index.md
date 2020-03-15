@@ -2,7 +2,7 @@
 title: what if I don’t win this challenge? Am I gonna go back to square one?
 type: "faq"
 priority: "40"
-tags: ["participation"]
+tags: ["participation", "motivation"]
 ---
 
 Define loser for this challenge!
