@@ -29,7 +29,7 @@ Being from a non cs background would need help when I'm unable to figure out iss
 
 ### how to contact me?
 
-- LinkedIn(https://www.linkedin.com/in/sandeep-ashok/)
+- [LinkedIn](https://www.linkedin.com/in/sandeep-ashok/)
 
 ### projects
 
