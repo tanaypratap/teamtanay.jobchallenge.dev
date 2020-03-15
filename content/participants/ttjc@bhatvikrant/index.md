@@ -1,5 +1,5 @@
 ---
-title: Participant
+title: Vikrant Bhat
 type: "participant"
 name: "Vikrant Bhat"
 portfolio: "https://vikrantbhat.netlify.com/"
