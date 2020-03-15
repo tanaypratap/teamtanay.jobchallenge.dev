@@ -34,16 +34,12 @@ Full Stack Development
 
 ### how to contact me?
 
-- Twitter(https://twitter.com/deepansharora27)
-- LinkedIn(https://www.linkedin.com/in/deepansharora27/)
+- [Twitter](https://twitter.com/deepansharora27)
+- [LinkedIn](https://www.linkedin.com/in/deepansharora27/)
 
 ### projects
 
 not a lot of projects are done. I will keep updating it with real links when done.
-
-
-
-
 
 ### blogs
 
