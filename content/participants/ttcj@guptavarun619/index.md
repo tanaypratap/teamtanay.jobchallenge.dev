@@ -6,7 +6,11 @@ portfolio: "I'll be hosting it soon"
 github-link: "https://github.com/guptavarun619"
 linkedin-link: "https://www.linkedin.com/in/gupatvarun619/"
 looking-for: "Internship"
+<<<<<<< HEAD
 description: "Vanilla JavaScript| React | C/C++ | Python | HTML | CSS"
+=======
+description: "Vanilla JavaScript| React | C/C++ | Python | HTML5/CSS3(if required to mention)"
+>>>>>>> e6dfea75bb0353b8582a6e66cafc24ee5d586fb9
 ---
 
 Hello, I am Varun Vaibhav and thank you for your time to review my Introduciton, Project and Blog.
@@ -38,8 +42,13 @@ It would be great if i get some guidance in the journey of MERN stack projects.
 
 - [Telegram](https://telegram.me/guptavarun619)
 - [Twitter](https://twitter.com/guptavarun619)
+<<<<<<< HEAD
 - [LinkedIn](https://linkedin.com/in/guptavarun619/)
 - [E-mail](mailto:guptavarun619@gmail.com)
+=======
+- [LinkedIn](https://linkedin.com/in/guptavarun619)
+- [Mail - guptavarun619@gmail.com]
+>>>>>>> e6dfea75bb0353b8582a6e66cafc24ee5d586fb9
 
 ### projects
 
