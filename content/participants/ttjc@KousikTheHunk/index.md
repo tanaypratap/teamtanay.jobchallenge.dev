@@ -17,7 +17,7 @@ I am studious but shy. I love Cricket,Badminton and MMA . I want to be a Full St
 
 ## why are you taking this challenge?
 
-I want to showcase my project and get a well paid job in july in kolkata .
+I want to showcase my project and get a well paid job in july in kolkata . I love to learn new technologies . I want to show you that I am a true problem solver irrespective of what tech stack I use .
 
 ## something interesting about you?
 
@@ -25,7 +25,7 @@ I am an avid learner. All i need is Internet and Thats it . I can learn any stuf
 
 ### help I need?
 
-I just need some good mentor to mentor me . I want to start my own saas start up .
+I just need some good mentor to guide me . I want to start my own saas based start up .
 
 ### how to contact me?
 
