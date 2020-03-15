@@ -32,9 +32,9 @@ It will be good for me if someone could help me learn the write practices for
 making a real world projects that would minimize bugs and increase performnace.
 
 ### how to contact me?
-- [Instagram] (https://www.instagram.com/themritunjaysaha/)
-- [Twitter] (https://twitter.com/MritunjaySaha1)
-- [LinkedIn] (https://www.linkedin.com/in/mritunjay-saha-89a04796/)
+- [Instagram](https://www.instagram.com/themritunjaysaha)
+- [Twitter](https://twitter.com/MritunjaySaha1)
+- [LinkedIn](https://www.linkedin.com/in/mritunjay-saha-89a04796)
 
 ### projects
 
@@ -43,9 +43,3 @@ not a lot of projects are done. I will keep updating it with real links when don
 ### blogs
 
 same as projects, I will keep updating my blogs as and when done.
-
-#### why I liked GraphQL over REST?
-
-_description_ I will write something really nice here so that you feel like reading my blog.
-
-_link_ https://dev.to/some-imaginary-link
