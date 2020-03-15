@@ -30,7 +30,6 @@ help me add Frontend technologies to my Tech stack.
 
 ### how to contact me?
 
-- [Twitter]()
 - [LinkedIn](https://www.linkedin.com/in/bharath-kumar-adhikari-b53b81125/)
 
 ### projects
