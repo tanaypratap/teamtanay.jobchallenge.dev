@@ -2,6 +2,7 @@
 title: Gurpreet Singh
 type: "participant"
 name: "Gurpreet Singh"
+portfolio: ""
 github-link: "https://github.com/GurpreetSinghPruthi"
 linkedin-link: "https://www.linkedin.com/in/gurpreetsinghpruthi"
 looking-for: "job"
