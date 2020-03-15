@@ -41,7 +41,7 @@ My projects:
 
 #### Info-Hub: a social networking website for information mongers.
 
-Social Networking kind of Web-App created using Django, which allows users to register(with email confirmation) and sign in, check blog posts by other users, feature to follow and unfollow others, allow users to post their blog-posts, and some basic things like posting and changing profile picture as well as bio. And last but not least, a page to see onlt posts, posted by thew Authors, the user follows. Created this app, When I was not good at Frontend and CSS, so its aesthetics are minimilstic but works fully fine
+Social Networking kind of Web-App created using Django, which allows users to register(with email confirmation) and sign in, check blog posts by other users, feature to follow and unfollow others, allow users to post their blog-posts, and some basic things like posting and changing profile picture as well as bio. And last but not least, a page to see only posts, posted by the Authors, the user follows. Created this app, When I was not good at Frontend and CSS, so its aesthetics are minimilstic but works fully fine
 
 _stack_ Made in Django and frontend is done with HTML, CSS, Vanilla JavaScript.
 
