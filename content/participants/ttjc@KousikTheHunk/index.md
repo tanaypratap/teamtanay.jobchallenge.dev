@@ -1,8 +1,8 @@
 ---
-title: Student
+title: Kousik Chandra
 type: "participant"
 name: "Kousik Chandra"
-portfolio: ""
+portfolio: "On Process"
 github-link: "https://github.com/KousikTheHunk"
 linkedin-link: "https://www.linkedin.com/in/kousik-chandra-1a5509122/"
 looking-for: "Job"
