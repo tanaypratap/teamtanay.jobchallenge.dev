@@ -1,5 +1,5 @@
 ---
-title: registering
+title: Anand Kumar Jha
 type: "participant"
 name: "anand"
 portfolio: 
