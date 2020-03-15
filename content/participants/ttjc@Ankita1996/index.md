@@ -22,7 +22,7 @@ I want to explore.
 
 ## something interesting about you?
 
-I am execellent at googling information. 
+I am execellent at gooooogling information. 
 
 ### help I need?
 
