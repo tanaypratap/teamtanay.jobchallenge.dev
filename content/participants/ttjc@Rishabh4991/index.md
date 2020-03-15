@@ -12,7 +12,7 @@ description: "expert at CSS/HTML learning React"
 Hii! Iam experienced sales and marketing profession wanting to transition my carrer in software/web development.
 
 ### introduction
-A newbie in web and software development field having a basic knowledege of HTML,CSS,Python,Javascript,always interseted in building cool stuffs.
+A newbie in web and software development field having a basic knowledege of HTML,CSS,Python,Javascript,always interested in building cool stuff's.
 
 ## why are you taking this challenge?
 
