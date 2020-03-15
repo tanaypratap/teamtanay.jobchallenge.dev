@@ -9,7 +9,7 @@ looking-for: "internship"
 description: "Html/Css | Boostrap | Javascript | learning React"
 ---
 
-Hi! I am a **Mandeep** let me walk you through my intro, projects and blogs.
+Hi! I am **Mandeep** let me walk you through my intro, projects and blogs.
 
 ### introduction
 
