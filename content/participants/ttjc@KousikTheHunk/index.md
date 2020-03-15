@@ -6,7 +6,7 @@ portfolio: "On Process"
 github-link: "https://github.com/KousikTheHunk"
 linkedin-link: "https://www.linkedin.com/in/kousik-chandra-1a5509122/"
 looking-for: "Job"
-description: "Javascript | React | Node | MongoDB | React Native | Django "
+description: "Javascript | React | Node | MongoDB | React Native | Django"
 ---
 
 Hi! I am Kousik Chandra.I have completed my Masters Degree from Institue of Science,Banaras Hindu University with 6.8 CGPA.
