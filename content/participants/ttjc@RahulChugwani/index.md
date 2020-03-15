@@ -6,7 +6,7 @@ portfolio: "https://tanaypratap.com"
 github-link: "https://github.com/RahulChugwani"
 linkedin-link: "https://linkedin.com/in/rahul-chugwani-438945158"
 looking-for: "job"
-description: "experienced in Web Development and DS/algorithms. Also learning ReactJS and exploring Machine Learning"
+description: "Experienced in Web Development and DS/algorithms. Also learning ReactJS and exploring Machine Learning"
 ---
 
 Hi! I am a Rahul Chugwani let me walk you through my intro, projects and blogs.
