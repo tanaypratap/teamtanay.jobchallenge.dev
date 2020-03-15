@@ -2,7 +2,7 @@
 title: dummy student
 type: "participant"
 name: "Rishabh Joshi"
-portfolio: "https://tanaypratap.com"
+portfolio:
 github-link: "https://github.com/Rishabh4991"
 linkedin-link: "linkedin.com/in/rishabh-joshi-0b3287a2"
 looking-for: "Internship"
