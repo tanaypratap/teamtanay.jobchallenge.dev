@@ -17,7 +17,7 @@ I'm a final year engineering student based in Pune. I'm a Web Developer but I al
 
 ## why are you taking this challenge?
 
-I'll be completing my degree by May 2020.
+I'll be completing my engineering degree by May 2020.
 I need a job by June 2020.
 I want to learn new technologies, make a good network and grow in this field.
 
@@ -36,8 +36,8 @@ It would be good if someone guides me when I get stuck. A little push and I'll b
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+I will keep updating it with real links when done.
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+I will keep updating my blogs as and when done.
