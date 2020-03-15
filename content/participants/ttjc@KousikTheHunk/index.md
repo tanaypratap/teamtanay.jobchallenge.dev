@@ -29,7 +29,6 @@ I just need some good mentor to guide me . I want to start my own saas based sta
 
 ### how to contact me?
 
-- Twitter
 - [LinkedIn](https://www.linkedin.com/in/kousik-chandra-1a5509122/)
 
 ### projects
