@@ -9,7 +9,7 @@ looking-for: "internship"
 description: "Node | React | Flask | HTML | CSS | Responsive designing | Learning React-native"
 ---
 
-Hi! I am a Utkarsh yadav let me walk you through my intro, projects and blogs.
+Hi! I am Utkarsh yadav let me walk you through my intro, projects and blogs.
 
 ### introduction
 
