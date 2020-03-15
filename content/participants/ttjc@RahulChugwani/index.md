@@ -39,7 +39,15 @@ not a lot of projects are done. I will keep updating it with real links when don
 
 My projects:
 
+<<<<<<< HEAD
 I will update this part soon and will add some more interesting projects in it.
+=======
+#### another project
+
+_description_
+
+_stack_
+>>>>>>> 9cb59fe511f35f5db2db4c679363cc3300bf953e
 
 ### blogs
 
