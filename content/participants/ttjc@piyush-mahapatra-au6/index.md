@@ -1,5 +1,5 @@
 ---
-title: Participant
+title: Piyush Mahapatra
 type: "participant"
 name: "Piyush Mahapatra"
 portfolio: ""
