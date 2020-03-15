@@ -9,11 +9,11 @@ looking-for: "Internship"
 description: "App Developer | Open Source Contributor | Competitive Coding | Graphic Designer "
 ---
 
-T
+I Love to learn new things.
 
 ### introduction
 
-I am Afroz Quraishi. Currently pursuing Integrated postgraduate (Btech + Mtech) in Information Technology, 
+I am Afroz Quraishi. Currently i am 2nd year student and pursuing Integrated postgraduate (Btech + Mtech) in Information Technology, 
 IIIT Gwalior, Madhya Pradesh.
 
 
@@ -23,7 +23,7 @@ I want to know work with community, learn and explore new things and need an Int
 
 ## something interesting about you?
 
-I have good knowledge of Urdu Language.
+I am pro player of Mini Militia Game and i also love to play carrom and Racket.
 
 ### help I need?
 
@@ -38,30 +38,7 @@ I need a mentor of React-Native who can guide me. I don't know how to approch to
 
 I don't have any project now but I will try to update it soon.
 
-My projects:
-
-#### binder: tinder for books
-
-_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.
-
-_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
-
-_hosted link_ https://binder.netlify.com
-
-_github link_ https://github.com/tanaypratap/binder
-
-#### another project
-
-_description_
-
-_stack_
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
-
-#### why I liked GraphQL over REST?
-
-_description_ I will write something really nice here so that you feel like reading my blog.
-
-_link_ https://dev.to/some-imaginary-link
+Same as project,I will keep updating my blogs as and when done.
