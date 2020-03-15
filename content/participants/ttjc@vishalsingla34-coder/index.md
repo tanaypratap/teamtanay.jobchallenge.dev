@@ -6,7 +6,7 @@ portfolio: "https://webdroyd.com/portfolio/"
 github-link: "https://github.com/vishalsingla34-coder/"
 linkedin-link: "https://www.linkedin.com/in/vishalsingla34/"
 looking-for: "job"
-description: "self-taught developer, learning Javascript | Aspiring developer"
+description: "self-taught developer | learning Javascript | Aspiring developer"
 ---
 
 Hi! I am Vishal Singla let me walk you through my intro.
@@ -25,7 +25,7 @@ I never lose focus, even i am under stress, I like to finish every single task o
 
 ### how to contact me?
 
-- [LinkedIn] (https://www.linkedin.com/in/vishalsingla34/)
+- [LinkedIn](https://www.linkedin.com/in/vishalsingla34/)
 
 ### projects
 
