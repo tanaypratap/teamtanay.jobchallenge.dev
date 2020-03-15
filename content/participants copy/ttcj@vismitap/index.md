@@ -12,7 +12,7 @@ description: "Curious to learn a lot of new things in this challenge and update 
 Hi! I am an undergraduate computer science student who will be graduating next year. 
 
 ### introduction
-I am always curious to learn and with proper deadline,motivation and guidance, I believe there is nothing that I can't do.
+I am always curious to learn and with proper deadline,motivation and guidance, I believe there is nothing that I can't do. I will do my best to make use of this amazing opportunity.
 
 ## why are you taking this challenge?
 I think this challenge is an awesome opportunity for me to win an interview with the tech giants which otherwise is very difficult to get. We are getting this opportunity because of you Tanay sir and I hope we all enjoy this learning process and make You proud!
