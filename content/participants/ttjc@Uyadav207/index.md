@@ -36,8 +36,8 @@ It would be good if someone tells me how to pepare for job interview and project
 ### how to contact me?
 
 - [Email](mailto:yadavutkarsh207@gmail.com)
-- [LinkedIn]( https://www.linkedin.com/in/utkarsh-yadav-37242b17b/)
-- [Twitter]( https://twitter.com/UTKARSH40528132/)
+- [LinkedIn](https://www.linkedin.com/in/utkarsh-yadav-37242b17b/)
+- [Twitter](https://twitter.com/UTKARSH40528132/)
 
 ### projects
 My projects:
