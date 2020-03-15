@@ -13,7 +13,7 @@ Hi! I am a Rahul Srivastava, let me walk you through my intro, projects and blog
 
 ### introduction
 
-Hi! I'm Rahul, Working in Wipro Technologies.
+Hi! I'm Rahul, working in Wipro Technologies.
 
 Welcome to my world.
 
