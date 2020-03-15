@@ -30,8 +30,8 @@ I want support for my career from which i can follow a good path for my future.
 
 ### how to contact me?
 
-- [Twitter] (https://twitter.com/SaumyaMani1)
-- [LinkedIn] (https://linkedin.com/in/saumya-mani-787503148)
+- [Twitter](https://twitter.com/SaumyaMani1)
+- [LinkedIn](https://linkedin.com/in/saumya-mani-787503148)
 
 ### projects
 
