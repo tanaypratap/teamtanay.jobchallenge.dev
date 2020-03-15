@@ -6,7 +6,7 @@ portfolio: "Coming soon"
 github-link: "https://github.com/dhruvSHA256"
 linkedin-link: "https://www.linkedin.com/in/dhruv-sharma-632702195/"
 looking-for: "internship"
-description: "C/C++ | Android"
+description: "C/C++ | HTML | CSS | Android" 
 ---
 
 Hi, I am Dhruv Sharma let me walk you through my intro, projects and blogs.
@@ -15,7 +15,7 @@ Hi, I am Dhruv Sharma let me walk you through my intro, projects and blogs.
 
 I am a first year Computer Science Engineering student, studying at Krishna Engineering College,GZB.
 
-I am really passionate about programming and technology related stuff. I use to maintain open source android custom roms and I am also a linux distro hopper
+I am really passionate about programming and technology related stuff and I am also a linux distro hopper
 
 ## Why are you taking this challenge?
 
