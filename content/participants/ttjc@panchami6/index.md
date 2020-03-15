@@ -26,7 +26,7 @@ I sing and dance.
 
 ### help I need?
 
-I am practcing HTML, CSS and Learning JavaScript. I would like to have some project ideas where i can implement them.
+I am practicing HTML, CSS and Learning JavaScript. I would like to have some project ideas where i can implement them.
 
 ### how to contact me?
 
