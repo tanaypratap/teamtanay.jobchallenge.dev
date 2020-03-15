@@ -39,10 +39,6 @@ not a lot of projects are done. I will keep updating it with real links when don
 
 My projects:
 
-
-
-
-
 #### another project
 
 _description_
