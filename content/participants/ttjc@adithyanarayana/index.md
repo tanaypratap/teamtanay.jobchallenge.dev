@@ -10,7 +10,7 @@ description: "Microsoft Student Partner | Technology
 enthusiast | Computer Engineering Sophomore"
 ---
 
-Hi! I am a Aditya Narayana and i am looking forward to learn a lot from this challenge
+Hi! I am Aditya Narayana and i am looking forward to learn a lot from this challenge
 
 ### introduction
 
