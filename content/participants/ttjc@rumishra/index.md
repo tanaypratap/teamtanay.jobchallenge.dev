@@ -1,5 +1,5 @@
 ---
-title: Your best participant
+title: rumishra
 type: "participant"
 name: "Rumi Mishra"
 portfolio: "https://notyetthere.com"
