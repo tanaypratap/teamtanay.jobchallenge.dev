@@ -30,7 +30,6 @@ Nothing for now
 
 ### how to contact me?
 
-- Twitter
 - [LinkedIn](https://linkedin.com/in/manish-venugopal-762230127)
 
 ### projects
