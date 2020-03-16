@@ -30,9 +30,9 @@ It would be good if someone guides me to figure out what should be learnt since 
 
 ### how to contact me?
 
--[LinkedIn](https://www.linkedin.com/in/piyush-mahapatra-b28221195/)
--[Twitter](https://twitter.com/Siachenkasher)
--[Email](mailto:piyushmahapatra001@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/piyush-mahapatra-b28221195/)
+- [Twitter](https://twitter.com/Siachenkasher)
+- [Email](mailto:piyushmahapatra001@gmail.com)
 
 ### projects
 
