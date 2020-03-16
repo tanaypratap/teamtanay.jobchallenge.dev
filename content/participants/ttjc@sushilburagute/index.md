@@ -5,7 +5,7 @@ name: "Sushil Buragute"
 portfolio: "https://sushilburagute.github.io"
 github-link: "https://github.com/sushilburagute"
 linkedin-link: "https://in.linkedin.com/in/sushil-buragute"
-looking-for: ""
+looking-for: "Job/Internship"
 description: " // React // Python // UI/UX //"
 ---
 
