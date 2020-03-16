@@ -30,7 +30,7 @@ I am practicing HTML, CSS and Learning JavaScript. I would like to have some pro
 
 ### how to contact me?
 
-- LinkedIn
+- [LinkedIn] (https://www.linkedin.com/in/panchami-thulupule-889583170/)
 
 ### projects
 
