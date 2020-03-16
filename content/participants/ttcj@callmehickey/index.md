@@ -1,62 +1,42 @@
 ---
-title: Vivek Sonar
+title: Prayas Lashkari
 type: "participant"
-name: "Vivek Sonar"
+name: "Prayas Lashkari"
 portfolio: "null"
-github-link: "https://github.com/viveksonar/"
-linkedin-link: "https://www.linkedin.com/in/vivek-sonar-266b2417b/"
-looking-for: "Internship"
-description: "AWS | Kubernetes | GCP | Azure | Javascript | Docker"
+github-link: "https://github.com/callmehickey"
+linkedin-link: "https://www.linkedin.com/in/prayaslashkari/"
+looking-for: "job"
+description: "Very good in HTML and CSS. I have good foundational understanding of React and Node.js. I have developed small projects using these stacks."
 ---
 
-Hi! I am Vivek Sonar Currently pursuing Bachelors of Technology in Computer Science at Modern Education Society's Colleg Of Engineering,Pune.Im a Cloud Computing Enthusiast
+Hi! I am Prayas Lashkari Currently pursuing Bachelors of Technology in Computer Science at Jaypee Institute of Information Technology.
 
-### Introduction
+### introduction
 
-I am a second year computer engineering student passionate about Cloud Computing, Docker, Kubernetes. I have experience working with Public cloud like Aws,Google cloud, and Digital Ocean
+I am a final year computer engineering student passionate about JavaScript and its ecosystems. I have developed few projects in MERN stack.
 
-## Why are you taking this challenge?
+## why are you taking this challenge?
 
-1: Love to make Project because i get to learn more stuff
+I need to learn and make good projects, write blogs and get recommendations from industrial experts, getting feedbacks and improve more with an wonderfull opportunity to get a job. This is a win win situation.
 
-2: Will get a chance to show my projects and if lucky get an internship in devops domain.
+## something interesting about you?
 
-## Something interesting about you?
+I am 21 and I don't know how to ride a bike although have a strict 'reel world' gaming driving experience.
 
-I am 19 and I love to learn constantly about new growing technologies currently im learning Cloud Computing and technologies mainly involved in Devops.
+### help I need?
 
-### Help I need?
+Usage and best practices of using GraphQl in the project. 
 
-Usage of frontend technologies in my upcomming projects.
+### how to contact me?
 
-### How to contact me?
-
-- [LinkedIn](https://www.linkedin.com/in/vivek-sonar-266b2417b/)
-- [Twitter](https://twitter.com/vivkesonar)
+- [Twitter](https://twitter.com/prayas_er)
+- [LinkedIn](https://www.linkedin.com/in/prayaslashkari/)
 
 ### projects
 
-Project 1: **Dice Game** URL: https://dice100.netlify.com/
+I will start sharing my projects with live links and source code links after I finish implementing them.
 
- Github repo: https://github.com/viveksonar/PigGame
+### blogs
 
-It’s an interactive game that runs on one browser window. Two players can play at one time. When you click the roll dice button, you'll roll a random dice number, and you can roll it as many times you want. Still, if the dice rolls to 1 your score resets to zero and next player gets the chance to toll the dice you can hold your score when you want but after holding you lose your chance to roll the dice and you would have to wait for the next player to go 1 or hold his score and the first player to get 100 score wins.
-
-Technology used: HTML5.0, CSS3.0, and Javascript.
-
-Project 2: **Sentiment Analysis**
-
-Github Repo:https://github.com/viveksonar/sentimentanalyzer
-
-Its a microservice based webapp which has three micro services i used Html,Css for frontend ,Spring as a backend, and Python for logic of the analyzer then i wrote docker files to containerize this microservices and also deployed them on kubernetes cluster.Yaml files for kubernetes deployment are on my github repo.
-This apps shows the sentiment of the sentence you write in the text-segment and to analize this it uses Python.
-
-
-Technology used: HTML5.0, CSS3.0, Docker, Spring , Python ,Kubernetes.
-
-### Blogs
-
-I Love to wirte blog on latest technologies that I have learned or im learning you can view my blogs at 
-
-https://medium.com/@vivekksonar2000
+I will start sharing my blogs with live links after I finish writing them.
 
