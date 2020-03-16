@@ -4,7 +4,7 @@ type: "Participant"
 name: "Viral Sangani"
 portfolio: ""
 github-link: "https://github.com/viral-sangani"
-linkedin-link: "https://linkedin.com/in/tanaypratap"
+linkedin-link: "https://linkedin.com/in/viral-sangani"
 looking-for: "internship"
 description: "Django | Backend | learning MERN"
 ---
