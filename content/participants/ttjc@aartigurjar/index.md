@@ -32,7 +32,7 @@ I need guidance in building my skill set and also with respect to landing a job.
 
 ### how to contact me?
 
-- [LinkedIn] (https://www.linkedin.com/in/aarti-gurjar-prajapati-6624a787/)
+- [LinkedIn](https://www.linkedin.com/in/aarti-gurjar-prajapati-6624a787/)
 
 ### projects
 
