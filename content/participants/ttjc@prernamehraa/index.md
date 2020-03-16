@@ -30,7 +30,6 @@ It would be good if someone tells me more about react state, still confused in i
 
 ### how to contact me?
 
-- [Twitter](#)
 - [LinkedIn](https://linkedin.com/in/prerna-mehra)
 
 ### projects
