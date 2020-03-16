@@ -9,11 +9,11 @@ looking-for: "Internship"
 description: " REACT | NODE |EXPRESSJS | DJANGO "
 ---
 
-Hi! I am a Aditya Pratap Singh Hada studying at shri vaishnav vidyapeeth vishwavidyalaya, Indore. Let me walk you through my journey so far.
+Hi! I am Aditya Pratap Singh Hada studying at shri vaishnav vidyapeeth vishwavidyalaya, Indore. Let me walk you through my journey so far.
 
 ### introduction
 
-I am a third year computer engineering student and Tech enthusiastic skilled in Javascript and C++, experienced in Python,
+I am a third year computer engineering student and Tech enthusiastic skilled in Javascript and C++, experienced in Python.
 
 ## why are you taking this challenge?
 
