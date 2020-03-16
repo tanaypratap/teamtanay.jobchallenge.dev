@@ -32,10 +32,10 @@ It would be good if someone tells me how to do auth for apps.
 
 ### how to contact me?
 
-- Twitter (https://mobile.twitter.com/Asmitshrivasta5)
-- LinkedIn (https://www.linkedin.com/in/asmit-shrivastava-3b94a3189)
--Instagram (https://www.instagram.com/smit_asmit008/)
--portfolio (https://asmitshrivastava.netlify.com/)
+- [Twitter](https://mobile.twitter.com/Asmitshrivasta5)
+- [LinkedIn](https://www.linkedin.com/in/asmit-shrivastava-3b94a3189)
+- [Instagram](https://www.instagram.com/smit_asmit008/)
+- [portfolio](https://asmitshrivastava.netlify.com/)
 ### projects
 
 not a lot of projects are done. I will keep updating it with real links when done.
