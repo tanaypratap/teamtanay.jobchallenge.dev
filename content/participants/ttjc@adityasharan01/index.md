@@ -32,8 +32,8 @@ It would be good if i could get some help at css part of the website and want to
 
 ### how to contact me?
 
-- [Twitter] (https://twitter.com/adityasharan13)
-- LinkedIn  (https://www.linkedin.com/in/aditya-sharan-86904112a/)
+- [Twitter](https://twitter.com/adityasharan13)
+- [LinkedIn](https://www.linkedin.com/in/aditya-sharan-86904112a/)
 
 ### projects
 
