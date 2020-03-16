@@ -9,30 +9,29 @@ looking-for: "internship"
 description: "A complete beginner willing to put in whatever it takes!"
 ---
 
-Hi! I am pursuing 3rd year of computer science engineering and would like to take up this challenge for expanding my knowledge and career.
+Hi! I am an aspiring web developer pursuing 3rd year of computer science engineering from UCEK ,Tamil Nadu.
 
 ### introduction
 
-I am studious but I need guidance. With proper guidance I can do anything as there'd never be any hesitation of any sort from my side in terms of putting in the work.
+I would like to enhance my knowledge in web development by learning MERN stack.I can learn things easily and carry out well.I am passionate and will work hard till I reach my destination.
 
 ## why are you taking this challenge?
-
-I am willing to work as an intern to observe the work environment and learn how to work in a firm.
-I want to be strong in my domain.
+I would like to work in MERN stack.Though I am a beginner I believe that I could take part in this challenge and complete it successfully that will definitely boost my confidence level.And,I am willing to work as an intern to observe the work environment and learn how to work in a firm.
 
 ## something interesting about you?
 
-I can draw well.
+I can draw well .I love to dance and hear music.
 
 ### help I need?
 
-I would need someone to give me correct ideas when I'm in trouble with my project.
+I would appreciate if I get someone to clear my doubts and explain me exact technical stack that is neede to implement for an application.
 
 ### how to contact me?
 
 - [Twitter](https://twitter.com/sarulat80587902)
-- [LinkedIn] (https://www.linkedin.com/in/sarulatha-annadurai-060226180/)
-- [gmail] (sarulathaannadurai@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/sarulatha-annadurai-060226180/)
+
+
 
 ### projects
 
