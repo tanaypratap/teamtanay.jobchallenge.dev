@@ -5,39 +5,65 @@ name: "Prayas Lashkari"
 portfolio: "null"
 github-link: "https://github.com/callmehickey"
 linkedin-link: "https://www.linkedin.com/in/prayaslashkari/"
+<<<<<<< HEAD
 looking-for: "Job"
+=======
+looking-for: "job"
+>>>>>>> fbffd6eac9f3b0cfc901b435a8f7aa8f5b6867f2
 description: "Very good in HTML and CSS. I have good foundational understanding of React and Node.js. I have developed small projects using these stacks."
 ---
 
 Hi! I am Prayas Lashkari Currently pursuing Bachelors of Technology in Computer Science at Jaypee Institute of Information Technology.
 
-### Introduction
+### introduction
 
 I am a final year computer engineering student passionate about JavaScript and its ecosystems. I have developed few projects in MERN stack.
 
-## Why are you taking this challenge?
+## why are you taking this challenge?
 
 I need to learn and make good projects, write blogs and get recommendations from industrial experts, getting feedbacks and improve more with an wonderfull opportunity to get a job. This is a win win situation.
+<<<<<<< HEAD
+=======
 
-## Something interesting about you?
+## something interesting about you?
+>>>>>>> fbffd6eac9f3b0cfc901b435a8f7aa8f5b6867f2
 
 I am 21 and I don't know how to ride a bike although have a strict 'reel world' gaming driving experience.
 
-### Help I need?
+<<<<<<< HEAD
+I am 21 and I don't know how to ride a bike although have a strict 'reel world' gaming driving experience.
+=======
+### help I need?
+>>>>>>> fbffd6eac9f3b0cfc901b435a8f7aa8f5b6867f2
 
+Usage and best practices of using GraphQl in the project. 
+
+<<<<<<< HEAD
 Usage and best practices of using GraphQl in the project.
 
 ### How to contact me?
 
 - [LinkedIn](https://www.linkedin.com/in/prayaslashkari/)
 - [Twitter](https://twitter.com/prayas_er)
+=======
+### how to contact me?
+
+- [Twitter](https://twitter.com/prayas_er)
+- [LinkedIn](https://www.linkedin.com/in/prayaslashkari/)
+>>>>>>> fbffd6eac9f3b0cfc901b435a8f7aa8f5b6867f2
 
 ### projects
 
 I will start sharing my projects with live links and source code links after I finish implementing them.
+<<<<<<< HEAD
 
 
 ### Blogs
 
+=======
+
+### blogs
+
+>>>>>>> fbffd6eac9f3b0cfc901b435a8f7aa8f5b6867f2
 I will start sharing my blogs with live links after I finish writing them.
 
