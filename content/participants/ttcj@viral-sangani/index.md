@@ -37,7 +37,7 @@ It would be good if someone tells me latest trends for UI UX and help me with fr
 ### how to contact me?
 
 - [Twitter](https://twitter.com/ViralSangani8)
-- [LinkedIn](https://linkedin.com/in/tanaypratap)
+- [LinkedIn](https://linkedin.com/in/viral-sangani)
 
 ### projects
 
