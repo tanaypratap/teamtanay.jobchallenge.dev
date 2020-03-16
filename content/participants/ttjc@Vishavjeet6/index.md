@@ -38,6 +38,14 @@ _stack_ Made in Python used Keras, opencv, pandas, numpy and other libraries
 
 _github link_ https://github.com/Vishavjeet6/self-driving-car
 
+#### Website Crawler
+
+_description_ It traverse and stores all the links present in a site and stores it in a file.
+
+_stack_ Made in Python used libraries like urllib, threading
+
+_github link_ https://github.com/Vishavjeet6/website-crawler
+
 #### WhatsApp ChatBot
 
 _description_ sandbox details - join drop-series number = +1 415 523 8886 How to use: This chatbot can give you movies info, news, wikipedia, and general query for movie name use movie_name.txt file avengers movie for any wiki information you can write- keyword(from info.txt) than anything modi wiki info on tajmahal summary india for news search anything like: sports news in hindi tech news in marathi for other query use keyword wolfram than your query like: wolfram calories in one egg wolfram london weather today
@@ -53,14 +61,6 @@ _description_  Ever wondered how we can get search result of flights from source
 _stack_ Made in Java, used MySql as dataBase, Spring MVC, JPA, Hibernate, Maven, servlets
 
 _github link_ https://github.com/Vishavjeet6/Flight-Search-Spring
-
-#### Website Crawler
-
-_description_ It traverse and stores all the links present in a site and stores it in a file.
-
-_stack_ Made in Python used libraries like urllib, threading
-
-_github link_ https://github.com/Vishavjeet6/website-crawler
 
 ### blogs
 
