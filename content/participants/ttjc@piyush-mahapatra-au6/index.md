@@ -5,7 +5,7 @@ name: "Piyush Mahapatra"
 portfolio: ""
 github-link: "https://github.com/piyush-mahapatra-au6"
 linkedin-link: "https://www.linkedin.com/in/piyush-mahapatra-b28221195/"
-looking-for: ""
+looking-for: "Job/Internship"
 description: "HTML5/CSS/Bootstrap | NodeJS-Express | MongoDB | Content-Writer"
 ---
 
