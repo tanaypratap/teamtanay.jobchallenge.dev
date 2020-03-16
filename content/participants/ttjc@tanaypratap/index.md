@@ -64,7 +64,3 @@ same as projects, I will keep updating my blogs as and when done.
 _description_ I will write something really nice here so that you feel like reading my blog.
 
 _link_ https://dev.to/some-imaginary-link
-
-
-
-
