@@ -58,4 +58,4 @@ _github link_ https://github.com/singularityDev/El-Nino-La-Nina-Prediction
 
 #### Internship at T Works
 
-_description_ I will write this blog on 20th March 2020 when I complete two months of the internship.
+_description_ I will write this blog on 20th March 2020, when I complete two months of the internship.
