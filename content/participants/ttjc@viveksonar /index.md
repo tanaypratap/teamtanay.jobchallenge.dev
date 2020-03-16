@@ -1,67 +1,62 @@
 ---
-title: vivek0330
+title: Vivek Sonar
 type: "participant"
-name: "vivek0330"
-portfolio: "(empty)"
-github-link: "https://github.com/vivek0330"
-linkedin-link: "https://www.linkedin.com/in/vivek-kumar-a856b7194/"
-looking-for: "job"
-description: "A complete beginner willing to put in whatever it takes!"
+name: "Vivek Sonar"
+portfolio: "null"
+github-link: "https://github.com/viveksonar/"
+linkedin-link: "https://www.linkedin.com/in/vivek-sonar-266b2417b/"
+looking-for: "Internship"
+description: "AWS | Kubernetes | GCP | Azure | Javascript | Docker"
 ---
 
-Hi! I am pursuing my mca from Bharati vidya peeth univercity pune. let me walk you through my intro, projects and blogs.
+Hi! I am Vivek Sonar Currently pursuing Bachelors of Technology in Computer Science at Modern Education Society's Colleg Of Engineering,Pune.Im a Cloud Computing Enthusiast
 
-### introduction
+### Introduction
 
-I am currently pursuing an internship from Tentackles strategic design pvt ltd as Associate UI Developer from Dec 10, 2018. My core work here to build a good user friendly, visually appealing and mobile responsive interface for the different media. My knowledge here started with HTML 5.0, CSS 3,Bootstrap framework,Word Press. Later I started learning Code Ignitor, JavaScript and Jquery. My main aim to expand myself to become a full stack developer.
-During the time, I have worked on multiple websites and various clients around the globe. Till now, I have finished 3 projects and got the case studies done for the same.
+I am a second year computer engineering student passionate about Cloud Computing, Docker, Kubernetes. I have experience working with Public cloud like Aws,Google cloud, and Digital Ocean
 
-## why are you taking this challenge?
+## Why are you taking this challenge?
 
-I'm in dire need of a job.
-I want to learn.
+1: Love to make Project because I get to learn more stuff
 
-## something interesting about you?
+2: Will get a chance to show my projects and if lucky get an internship in devops domain.
 
-I like being on top of things and keeping myself updated.
+## Something interesting about you?
 
-### help I need?
+I am 19 and I love to learn constantly about new growing technologies currently im learning Cloud Computing and technologies mainly involved in Devops.
 
-I'd really appreciate someone guiding me in shaping my career at such a crucial junture.
+### Help I need?
 
-### how to contact me?
+Usage of frontend technologies in my upcomming projects.
 
-- [Twitter](https://twitter.com/home?lang=en)
-- [LinkedIn](https://www.linkedin.com/in/vivek-kumar-a856b7194/)
+### How to contact me?
+
+- [LinkedIn](https://www.linkedin.com/in/vivek-sonar-266b2417b/)
+- [Twitter](https://twitter.com/vivkesonar)
 
 ### projects
 
-Project 1: Anitha Website
-URL: https://anithaaswath.com/
+Project 1: **Dice Game** URL: https://dice100.netlify.com/
 
-It’s an consulting website, where user wants to interact with different clients. Anitha is US based start up, where she is committed to empowering leaders, professionals, and teams to maximize their potential through top-notch coaching and consulting. It is to deliver excellence with deep care and love. Whether you choose Coaching, Consulting, Facilitation or my premium, offering called Communicate to Influence and Engage.
+ Github repo: https://github.com/viveksonar/PigGame
 
-Technology used: HTML5.0, CSS3.0, Bootstrap, Javascript and Jquery
+It’s an interactive game that runs on one browser window. Two players can play at one time. When you click the roll dice button, you'll roll a random dice number, and you can roll it as many times you want. Still, if the dice rolls to 1 your score resets to zero and next player gets the chance to toll the dice you can hold your score when you want but after holding you lose your chance to roll the dice and you would have to wait for the next player to go 1 or hold his score and the first player to get 100 score wins.
 
-Project 2: Tentackles Website
-URL: https://www.tentackles.com/
+Technology used: HTML5.0, CSS3.0, and Javascript.
 
-They help brands connect with the world through digital experiences that engage, entertain and inspire. They create animations to make our designs interactive and appealing. The process of designing any great product-app, website, or other- mainly incorporates the best use of colours and design in a proper way.
+Project 2: **Sentiment Analysis**
 
-Technology used: HTML5.0, CSS3.0, Bootstrap, Javascript and Jquery
+Github Repo:https://github.com/viveksonar/sentimentanalyzer
 
-#### another project
+Its a microservice based webapp which has three micro services i used Html,Css for frontend ,Spring as a backend, and Python for logic of the analyzer then i wrote docker files to containerize this microservices and also deployed them on kubernetes cluster.Yaml files for kubernetes deployment are on my github repo.
+This apps shows the sentiment of the sentence you write in the text-segment and to analize this it uses Python.
 
-_description_
 
-_stack_
+Technology used: HTML5.0, CSS3.0, Docker, Spring , Python ,Kubernetes.
 
-### blogs
+### Blogs
 
-same as projects, I will keep updating my blogs as and when done.
+I Love to wirte blog on latest technologies that I have learned or im learning you can view my blogs at 
 
-#### why I liked GraphQL over REST?
+https://medium.com/@vivekksonar2000
 
-<!_description_ I will write something really nice here so that you feel like reading my blog.>
-
-<!_link_ https://dev.to/some-imaginary-link>
