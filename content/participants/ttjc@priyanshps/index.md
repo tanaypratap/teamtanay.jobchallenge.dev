@@ -2,7 +2,7 @@
 title: Priyansh shukla
 type: "participant"
 name: "Priyansh Shukla"
-portfolio: "coming_soon..."
+portfolio: "https://priyanshshukla.netlify.com/"
 github-link: "https://github.com/priyanshps"
 linkedin-link: "www.linkedin.com/in/priyanshps"
 looking-for: "Job"
