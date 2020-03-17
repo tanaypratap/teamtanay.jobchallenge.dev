@@ -29,7 +29,7 @@ To be mentored so that I can take right decisions once I step into this industry
 
 ### how to contact me?
 
-- [Gmail](bhavanishankarbst@gmail.com)
+- [Gmail](mailto:bhavanishankarbst@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/bhavani-shankar-849360128/)
 
 ### projects
