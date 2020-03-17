@@ -39,7 +39,10 @@
     "prettier": "^1.19.1"
   },
   "homepage": "https://github.com/tanaypratap/teamtanay.jobchallenge.dev/blob/master/README.md",
-  "keywords": ["jobChallenge", "teamtanay"],
+  "keywords": [
+    "jobChallenge",
+    "teamtanay"
+  ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
