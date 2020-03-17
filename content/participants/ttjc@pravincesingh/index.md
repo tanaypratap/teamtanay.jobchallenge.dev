@@ -9,7 +9,7 @@ looking-for: "Job"
 description: "Python | Machine Learning | HTML5/CSS/Bootstrap | Flask | SQL | Data structures | Algorithms "
 ---
 
-Hey! I am a Pravince from Jaipur, "To chaliye suru karte hai...                                                                                   "
+Hey! I am a Pravince from Jaipur, "To chaliye suru karte hai..."
 
 ### introduction
 
