@@ -2,6 +2,7 @@
 title: Akash Kumar
 type: "participant"
 name: "Akash Kumar"
+portfolio: "https://kmrakash.github.io/kmrakash/"
 github-link: "https://github.com/kmrakash"
 linkedin-link: "https://www.linkedin.com/in/akash-kumar-741291169/"
 looking-for: "internship"
@@ -12,7 +13,7 @@ Hi! My name is Akash Kumar , currently studying at Institute of Engineering and 
 
 ### introduction
 
-I am a sophomore computer engineering student. I love to build web apps, mobile apps. I am currently contributing to open source projects.
+I am a sophomore computer science and  engineering student. I love to build web apps, mobile apps. I am currently contributing to open source projects.
 
 ## why are you taking this challenge?
 
