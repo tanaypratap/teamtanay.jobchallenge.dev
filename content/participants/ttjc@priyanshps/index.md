@@ -22,7 +22,7 @@ Looking for an organization where I can use the skills I have learnt .
 
 ## something interesting about you?
 
-- I can convert thoughts into project will drinking Tea.
+- I can convert thoughts into project while drinking Tea.
 - On personal front I love trance music and netflix.  
 
 ### help I need?
