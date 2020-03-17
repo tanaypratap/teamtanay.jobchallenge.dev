@@ -2,7 +2,6 @@
 title: Kevin A Mathew
 type: "participant"
 name: "Kevin A Mathew"
-portfolio: "https://github.com/kevinam99"
 github-link: "https://github.com/kevinam99"
 linkedin-link: "https://linkedin.com/in/kevin-a-mathew/"
 looking-for: "job"
