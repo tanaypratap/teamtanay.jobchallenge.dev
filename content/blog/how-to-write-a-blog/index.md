@@ -1,6 +1,6 @@
 ---
 title: How to write a Blog?
-date: "2019-03-17T22:30:03.284Z"
+date: "2020-03-17T22:30:03.284Z"
 type: "blog"
 description: "How to write a Blog?"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Learning resources for building CLI apps
-date: "2019-03-13T11:30:03.284Z"
+date: "2020-03-13T11:30:03.284Z"
 type: "blog"
 description: "Helpful learning resources for building CLI apps"
 ---
