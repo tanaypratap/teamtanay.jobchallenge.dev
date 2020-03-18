@@ -2,7 +2,7 @@
 title: Megha Pathak
 type: "participant"
 name: "Megha Pathak"
-portfolio: "https://megha-pathak.github.io"
+portfolio: "https://meghapathak.netlify.com/"
 github-link: "https://github.com/megha-pathak"
 linkedin-link: "https://linkedin.com/in/megha--pathak"
 looking-for: "job"
@@ -22,7 +22,7 @@ Along with, I want to contribute more to Open source and expand my learnings man
 
 ## something interesting about you?
 
-I am creative person who is fond of art. I see myself as an artistic engineer who is always keen to do experiment with novel stuff. 
+I am creative person who is fond of art. I see myself as an artistic engineer who is always keen to do experiment with novel stuff. I aspire toward a career that will allow me to channel my creativity through crafting amazing products while working on intersection of my interest in tech and marketing. When I'm not on the computer, I enjoy painting, creative writing, and reading. 
 
 ### help I need?
 
