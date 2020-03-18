@@ -6,7 +6,7 @@ portfolio: "https://www.sandeepmahapatra.me/"
 github-link: "https://github.com/sndpoffcl"
 linkedin-link: "https://www.linkedin.com/in/sandeepsmahapatra/"
 looking-for: "job"
-description: "good at Java/Spring | Learning and improving on front end tech( JS , React) | Also practicing one Data Structures and Algorithms  |"
+description: "good at Java/Spring | Learning and improving on front end tech( JS , React) | Also practicing on Data Structures and Algorithms  |"
 ---
 
 Hi! I am Sandeep , Currently working as a Software Engineer at Capgemini . I love learning new technologies, sharpening my skills and solving DS/Algo problems while listening to Spotify.
