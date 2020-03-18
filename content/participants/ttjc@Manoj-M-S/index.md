@@ -12,7 +12,7 @@ Hi! I am Manoj M S, 2019 B.E Passout self-learning web development. Let me walk 
 
 ### introduction
 
-I come from a different background, I did my B.E in Mechatronics Engineering, I started developing interest in Web desinging and started learning. Thanks to Tanay and few others, today I have some basic understanding of how web works and have built some projects.
+I come from a different background, I did my B.E in Mechatronics Engineering, I started developing interest in web development and started learning it. Thanks to Tanay and few others, today I have some basic understanding of how web works and have built some projects.
   
 
 ## why are you taking this challenge?
