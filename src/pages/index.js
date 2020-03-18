@@ -3,7 +3,6 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Section from "../components/section"
 import {
-  backgroundGreen,
   backgroundGrey,
   backgroundOrange,
 } from "../utils/typography"

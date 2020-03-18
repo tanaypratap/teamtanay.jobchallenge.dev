@@ -41,3 +41,17 @@ Similar approach can be taken for any language
 If you know react and if you wish to reuse it to build some crazy cool CLI apps checkout the below link
 
 https://github.com/vadimdemedes/ink
+
+## Who the hell are you?
+
+![who-are-you](https://media1.giphy.com/media/xUySTIOsf7QxHx1gk0/giphy.gif?cid=790b7611137ad3a1b0843baf1cf3e71ad019e37b7e24c319&rid=giphy.gif)
+
+Hey there! I'm Ameer working as a Software Engineer at Quantium in the day and at the night I maintain open source projects like [react-lazyload](github.com/twobin/react-lazyload) and build other cool open source projects. I'm an universal JavaScript ambassador and almost got into a fist fight when someone told me "This can't be done in JavaScript". I'm also an auther at freecodecamp. If you have anything to ask feel free to hit me with a DM in telegram.
+
+My Social footprints are
+
+- [Twitter](https://twitter.com/ameerthehacker) - I tweet about JavaScript and everything I build and write
+- [Instagram](http://instagram.com/ameerthehacker/) - Please don't get scared by the pics
+- [Linkedin](https://www.linkedin.com/in/ameerthehacker/) - Ahem ahem, I'm very professional here
+- [GitHub](https://github.com/ameerthehacker) - I have infinite love for OSS
+- [Dev.to](https://dev.to/ameerthehacker) - Find my pens here
