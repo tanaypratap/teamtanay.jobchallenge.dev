@@ -1,8 +1,8 @@
 ---
-title: what do i do if i get error while coding?
+title: what do I do if I get an error in a public library which I am using?
 type: "faq"
 priority: "31"
-tags: ["beginner"]
+tags: ["beginner", "error"]
 ---
 
 1. If you have errors go to stackoverflow.
