@@ -1,7 +1,7 @@
 ---
 title: Vishnu Kalyan
 type: "participant"
-name: "Chinni VIshnu Kalyan"
+name: "Chinni Vishnu Kalyan"
 portfolio: "https://vishnukalyan.netlify.com"
 github-link: "https://github.com/vishnukalyan"
 linkedin-link: "https://www.linkedin.com/in/vishnu-kalyan-6a4903162/"
