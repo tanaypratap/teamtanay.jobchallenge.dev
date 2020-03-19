@@ -30,6 +30,14 @@ Can run an application even if I don't know much about the technology with inter
 
 My projects:
 
+#### HR-Employee-Manager
+
+_description_  HR manager can login to application and manage employees. However the details of the Employees are maintained on a separate server i.e in this project rest api is exposed and consumed
+
+_stack_ Made in Java, RESTful webservices, SPRING MVC, JSP, Jersey, Maven, Hibernate
+
+_github link_ https://github.com/Vishavjeet6/HREmployeeManager
+
 #### self-driving-car
 
 _description_ A simple model which can tell the steering angle for the car to ride on track
