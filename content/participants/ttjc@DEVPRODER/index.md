@@ -2,7 +2,7 @@
 title: Palash Udhwani   
 type: "participant"
 name: "Palash Udhwani"
-portfolio: "https://4nmolchaudhary.github.io/"
+portfolio: "https://github.com/DEVPRODER"
 github-link: "https://github.com/DEVPRODER"
 linkedin-link: "https://www.linkedin.com/in/devproder/"
 looking-for: "Internship"
