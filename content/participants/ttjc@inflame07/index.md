@@ -45,9 +45,9 @@ _description_ : Do you travel often? Are there times when you want to go to some
 
 _stack_ Frontend is just plain HTML/CSS along with some Bootstrap. Backend is powered by Node.js and database used is MongoDB. So to simplify, the stack is MEN.
 
-_hosted link_ [Link to app](https://yelpcampsite.herokuapp.com/)
+_hosted link_ https://yelpcampsite.herokuapp.com/
 
-_github link_ [GitHub Link](https://github.com/inflame07/webdevbootcamp/tree/master/YelpCamp)
+_github link_ https://github.com/inflame07/webdevbootcamp/tree/master/YelpCamp
 
 #### Simple URL Shortner
 
@@ -55,16 +55,16 @@ _description_ A simple url shortner made using MERN stack.
 
 _stack_ Front End is served by React.js, Backend by Node.js. And database used is MongoDB.
 
-_hosted link_ [Link to app](https://sheltered-shore-02498.herokuapp.com/)
+_hosted link_ https://sheltered-shore-02498.herokuapp.com/
 
-_github link_ [GitHub Link](https://github.com/inflame07/url-shrinker)
+_github link_ https://github.com/inflame07/url-shrinker
 
 ### blogs
 
 Below you can find the some blogs that I've written. I'll keep updating them as I write new blogs.
 
-#### Title of the post will up here
+#### How i created a simple URL Shortner
 
-_description_ I will write something really nice here so that you feel like reading my blog.
+_description_ A simple URL shortner that is created using MERN stack and deployed on heroku.
 
-_link_ [Link to Blog](https://inflamesite.wordpress.com/)
+_link_ https://inflamesite.wordpress.com/2020/03/17/url-shortner/
