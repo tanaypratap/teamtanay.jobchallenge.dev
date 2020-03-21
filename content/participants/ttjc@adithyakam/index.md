@@ -9,7 +9,7 @@ looking-for: "job"
 description: "Java | Html | CSS | JavaScript | React | Node "
 ---
 
-Hi! I am a Adithya let me walk you through my intro, projects and blogs.
+Hi! I am Adithya let me walk you through my intro, projects and blogs.
 
 ### introduction
 
