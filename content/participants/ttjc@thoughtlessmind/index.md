@@ -40,7 +40,7 @@ I'm implementing some of my ideas, but facing issues in designing the architectu
 
 - [Twitter](https://twitter.com/d_rajivkumar)
 - [LinkedIn](https://www.linkedin.com/in/thoughtlessmind/)
-- [Gmail](1998irajeev@gmail.com)
+- [Gmail](mailto:1998irajeev@gmail.com)
 
 ### projects
 
