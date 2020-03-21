@@ -2,7 +2,7 @@
 title: how do I get reviews/recommendations?
 type: "faq"
 priority: "6"
-tags: ["reviews", "recommendations", "3R"]
+tags: ["reviews", "recommendations", "2R"]
 ---
 
 LinkedIn is a good place to start. It’ll help you in building a network.

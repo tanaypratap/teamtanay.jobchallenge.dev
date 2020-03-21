@@ -24,7 +24,7 @@ Fourth, Corona Virus is at rage right now, My college is closed.So, no more exam
 
 ## something interesting about you?
 
-
+I am 21 and I don't know how to ride a bike although have a strict 'reel world' gaming driving experience.
 
 ### help I need?
 
