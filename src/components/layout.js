@@ -9,7 +9,6 @@ const Layout = ({ location, title, children, subtitle, siteTitle }) => {
 
   if (location.pathname === rootPath) {
     header = (
-      <>
         <h1
           style={{
             ...scale(0.8),
