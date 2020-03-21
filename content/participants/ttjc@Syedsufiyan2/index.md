@@ -9,7 +9,7 @@ looking-for: "job"
 description: "Javascript | React | Html | Css"
 ---
 
-Hi! I am a Syed sufiyan let me walk you through my intro, projects and blogs.
+Hi! I am Syed sufiyan let me walk you through my intro, projects and blogs.
 
 ### introduction
 
