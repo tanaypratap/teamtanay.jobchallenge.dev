@@ -29,6 +29,8 @@ Solving security issues / threats of API's
 
 ### how to contact me?
 
+- [Twitter](https://twitter.com/vikrams56118640)
+- [Instagram](https://www.instagram.com/vykrram/)
 
 ### projects
 
