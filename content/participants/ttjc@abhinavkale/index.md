@@ -13,7 +13,7 @@ Hi! I am Abhinav. Let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-I'm a second year Engineering student from Pune Institute Of Computer Technology (PICT), javascript lover and want to become Web Developer. 
+I'm a second year Engineering student from Pune Institute Of Computer Technology (PICT) javascript lover and want to become Web Developer. 
 
 ## why are you taking this challenge?
 
