@@ -1,52 +1,66 @@
 ---
-title: Shikhar Joshi
+title: dummy student
 type: "participant"
-name: "Shikhar Joshi"
-portfolio: ""
-github-link: "https://github.com/Shikhar-Joshi"
-linkedin-link: "https://linkedin.com/in/shikhar-joshi-8117ba161/"
-looking-for: "internship"
-description: "CSS/HTML | JavaScript | Django"
+name: "dummy student"
+portfolio: "https://tanaypratap.com"
+github-link: "https://github.com/tanaypratap"
+linkedin-link: "https://linkedin.com/in/tanaypratap"
+looking-for: "job"
+description: "expert at CSS/HTML learning React"
 ---
 
-Hi! I am Shikhar Joshi pursuing Engineering in Computer Science. 
+Hi! I am a dummy student let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-My name is Shikhar. I'm conscious about my fitness and I've 3+ year experience in Calisthenics(body weight training). Till now I've worked in Django and developed a project. I've also participated in Crido.Do competition and there I get Relentless Bee badge.
+I am studios but shy. But what to say I am just a dummy.
 
 ## why are you taking this challenge?
 
-I've lived in an environment where I just learn and never applied it to something bigger. It's not that I don't want to work the thing is I never get a big opportunity. But this challenge is huge. Taking this challenge help me to push my limit to an extent where I can create something amazing.
+I need an internship in December 2020.
+I want to learn.
 
 ## something interesting about you?
 
-I have learned Hanuman Chalisa in a single night. 
+I know lyrics to almost all Bollywood songs.
 
 ### help I need?
 
-If someone ask a question and I gave the answer then I want mentors to give some extra points about the issue(if possible) even if the answer is completely correct. In this way I can learn different approach to solve the problem. Apart from that if I need help in React and React native.
+It would be good if someone tells me how to do auth for apps.
 
 ### how to contact me?
 
-- [Twitter](https://twitter.com/shikharjoshi03)
-- [LinkedIn](https://linkedin.com/in/shikhar-joshi-8117ba161/)
+- Twitter
+- LinkedIn
 
 ### projects
 
-Not a lot of projects are done. I will keep updating it with real links when done.
+not a lot of projects are done. I will keep updating it with real links when done.
 
 My projects:
 
-#### Entry Management System
+#### binder: tinder for books
 
-_description_ It is made to keep record of all the visitors who came to visit in a company. It will take information of both the visitor and the host.
+_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.
 
-_stack_ Made in simple HTML/CSS/JS. Backend is powered by Django.
+_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
 
-_github link_ https://github.com/Shikhar-Joshi/Entry-Management-System-Django
+_hosted link_ https://binder.netlify.com
 
+_github link_ https://github.com/tanaypratap/binder
+
+#### another project
+
+_description_
+
+_stack_
 
 ### blogs
 
-Same as projects, I will keep updating my blogs as and when done.
+same as projects, I will keep updating my blogs as and when done.
+
+#### why I liked GraphQL over REST?
+
+_description_ I will write something really nice here so that you feel like reading my blog.
+
+_link_ https://dev.to/some-imaginary-link
