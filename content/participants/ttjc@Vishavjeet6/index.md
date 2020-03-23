@@ -24,8 +24,11 @@ Can run an application even if I don't know much about the technology with inter
 
 ### how to contact me?
 
-- [Portfolio](https://vishavjeetsingh.netlify.com/)
 - [LinkedIn](https://www.linkedin.com/in/vishavjeets/)
+
+### Portfolio
+
+https://vishavjeetsingh.netlify.com
 
 ### projects
 
