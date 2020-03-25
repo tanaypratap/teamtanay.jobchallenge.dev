@@ -33,7 +33,7 @@ I want to reviews my ideas and advice for a better idea and optimise the code la
 ### how to contact me?
 
 - [Twitter](https://twitter.com/MannJai87408763)
-- [LinkedIn] (https://www.linkedin.com/in/mann-jain-602bb9163)
+- [LinkedIn](https://www.linkedin.com/in/mann-jain-602bb9163)
 
 ### projects
 
