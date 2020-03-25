@@ -18,7 +18,8 @@ To Ehance my skill and contribute by providing some open source project to help 
 
 ## something interesting about you?
 
-I am little bit selfish , like to play video game ,sci-fiction and horror movies.
+Exploring new things apart from daily routine like explore new place.
+I am little bit selfish ,i like to watch sci-fiction and horror movies and play video game.
 
 ### help I need?
 
