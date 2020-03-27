@@ -29,8 +29,8 @@ It would be great if you help me which technologies should i learn, And what are
 
 ### how to contact me?
 
-- [Twitter] (https://twitter.com/Vishalk01234)
-- [LinkedIn] (https://www.linkedin.com/in/vishal-kumar-41b927188/)
+- [Twitter](https://twitter.com/Vishalk01234)
+- [LinkedIn](https://www.linkedin.com/in/vishal-kumar-41b927188/)
 
 ### projects
 
