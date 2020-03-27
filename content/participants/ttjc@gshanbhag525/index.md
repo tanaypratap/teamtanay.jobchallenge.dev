@@ -9,7 +9,7 @@ looking-for: "internship"
 description: "OpenSource Enthusiast | Python | Learning React"
 ---
 
-Hi! I am a Gunesh Shanbhag let me walk you through my intro, projects and blogs.
+Hi! I am Gunesh Shanbhag let me walk you through my intro, projects and blogs.
 
 ### introduction
 
