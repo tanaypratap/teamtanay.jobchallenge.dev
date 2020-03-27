@@ -3,7 +3,7 @@ title: Atul Bhatt
 type: "participant"
 name: "Atul Bhatt"
 portfolio: ""
-github-link: "https://github.com/tanaypratap"
+github-link: "https://github.com/atulbhatt-system32"
 linkedin-link: "https://linkedin.com/in/atulbhatt98"
 looking-for: "internship"
 description: "Python || Flask || HTML/CSS || JavaScript || MySQL || Getting my hands on React"
@@ -30,7 +30,6 @@ At the moment, I'm learning React and other related stuffs. I just need help in 
 
 ### how to contact me?
 
-- Twitter
 - [LinkedIn](https://linkedin.com/in/atulbhatt98)
 
 ### projects
