@@ -9,7 +9,7 @@ looking-for: "internship"
 description: "JS | JAVA | HTML | CSS | learning React and Electron"
 ---
 
-Hi! I am a Shivam Bhanushali, trying to learn new technologies using the learn by doing approach.
+Hi! I am Shivam Bhanushali, trying to learn new technologies using the learn by doing approach.
 
 ### introduction
 
