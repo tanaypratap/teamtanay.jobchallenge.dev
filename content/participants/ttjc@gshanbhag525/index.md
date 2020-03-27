@@ -5,7 +5,7 @@ name: "Gunesh Shanbhag"
 portfolio: ""
 github-link: "https://github.com/gshanbhag525"
 linkedin-link: "https://www.linkedin.com/in/gunesh-shanbhag525"
-looking-for: "job"
+looking-for: "internship"
 description: "OpenSource Enthusiast | Python | Learning React"
 ---
 
