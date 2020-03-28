@@ -44,10 +44,14 @@
   ],
   "license": "MIT",
   "main": "n/a",
+<<<<<<< Updated upstream
   "repository":  {
     "type": "git",
     "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
   },
+=======
+  "repository": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git",
+>>>>>>> Stashed changes
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
