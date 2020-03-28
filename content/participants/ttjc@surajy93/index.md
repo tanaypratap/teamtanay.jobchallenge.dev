@@ -27,7 +27,7 @@ Thank you for asking,Once i stuck in anything definitely let you know.
 
 ### how to contact me?
 
-- LinkedIn[https://www.linkedin.com/in/surajy93/]
+- [LinkedIn](https://www.linkedin.com/in/surajy93/)
 
 ### projects
  I will keep updating it with real links when done.
