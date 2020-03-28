@@ -43,4 +43,3 @@ not a lot of projects are done. I will keep updating it with real links when don
 _link_ https://evolvingperceptions98.blogspot.com/
 
 I will keep updating my project-related blogs with real links when done.
-
