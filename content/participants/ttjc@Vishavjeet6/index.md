@@ -30,6 +30,14 @@ Can run an application even if I don't know much about the technology with inter
 
 My projects:
 
+#### HR-Employee-Manager
+
+_description_  HR manager can login to application and manage employees. However the details of the Employees are maintained on a separate server i.e in this project rest api is exposed and consumed
+
+_stack_ Made in Java, RESTful webservices, SPRING MVC, JSP, Jersey, Maven, Hibernate
+
+_github link_ https://github.com/Vishavjeet6/HREmployeeManager
+
 #### self-driving-car
 
 _description_ A simple model which can tell the steering angle for the car to ride on track
@@ -53,6 +61,14 @@ _description_  Ever wondered how we can get search result of flights from source
 _stack_ Made in Java, used MySql as dataBase, Spring MVC, JPA, Hibernate, Maven, servlets
 
 _github link_ https://github.com/Vishavjeet6/Flight-Search-Spring
+
+#### Website Crawler
+
+_description_  It travserse all the links in a site and stores in a file
+
+_stack_ Made in Python used Multithreading and libraries like urllib
+
+_github link_ https://github.com/Vishavjeet6/website-crawler
 
 ### blogs
 
