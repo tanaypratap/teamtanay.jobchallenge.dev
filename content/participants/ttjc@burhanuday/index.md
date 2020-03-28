@@ -1,12 +1,12 @@
 ---
 title: Burhanuddin Udaipurwala
 type: "participant"
-name: "dummy student"
+name: "Burhanuddin Udaipurwala"
 portfolio: "https://burhanuday.github.io/"
 github-link: "https://github.com/burhanuday"
 linkedin-link: "https://www.linkedin.com/in/burhanuddin-udaipurwala/"
 looking-for: "job"
-description: "React | React Native | Node | Firebase | 3rd year Computer Engineering student"
+description: "React | React Native | Node | Firebase"
 ---
 
 Hi! I am Burhanuddin :)
