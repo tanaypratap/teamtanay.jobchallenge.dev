@@ -41,7 +41,11 @@ My projects:
 **Portfolio Website (New)**
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 _description_ Everyone in the creative field must have a portfolio website to showcase their work and experience, I'm not a very experienced one but I do believe that it is necessary no matter the experience. I have played with the flex box and learned ways to make a website responsive within a limited time now.
+=======
+_description_ Everyone in the designing field must have a portfolio website to showcase their work and experience, I'm not a very experienced one but I do believe that it is necessary no matter the experience.
+>>>>>>> Stashed changes
 =======
 _description_ Everyone in the designing field must have a portfolio website to showcase their work and experience, I'm not a very experienced one but I do believe that it is necessary no matter the experience.
 >>>>>>> Stashed changes
