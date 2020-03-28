@@ -44,8 +44,7 @@
   ],
   "license": "MIT",
   "main": "n/a",
-
-  "repository":  {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
   },
