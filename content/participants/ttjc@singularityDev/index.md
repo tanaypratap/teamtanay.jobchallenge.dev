@@ -7,7 +7,9 @@ github-link: "https://github.com/singularityDev"
 linkedin-link: "https://www.linkedin.com/in/abhinav-reddy-6397b9156/"
 looking-for: "job"
 description: "Bootstrap | Materialize | Javascript | AngularJs | node js | Express Js| REST APIs | Python | Flask"
----Hey!, Let's see how I am learning to be creative, innovative and passionate by taking a walkthrough of my profile.
+---
+
+Hey!, Let's see how I am learning to be creative, innovative and passionate by taking a walkthrough of my profile.
 
 ### introduction
 
