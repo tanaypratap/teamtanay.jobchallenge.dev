@@ -2,7 +2,7 @@
 title: tapan chudasama
 type: "participant"
 name: "Tapan Chudasama"
-portfolio: ""
+portfolio: "https://tapanchudasama.netlify.com/"
 github-link: "https://github.com/inflame07"
 linkedin-link: "https://linkedin.com/in/inflame"
 looking-for: "job"
@@ -55,7 +55,7 @@ _description_ A simple url shortner made using MERN stack.
 
 _stack_ Front End is served by React.js, Backend by Node.js. And database used is MongoDB.
 
-_hosted link_ https://sheltered-shore-02498.herokuapp.com/
+_hosted link_ https://shrinkerr.herokuapp.com/
 
 _github link_ https://github.com/inflame07/url-shrinker
 
@@ -67,4 +67,4 @@ Below you can find the some blogs that I've written. I'll keep updating them as 
 
 _description_ A simple URL shortner that is created using MERN stack and deployed on heroku.
 
-_link_ https://inflamesite.wordpress.com/2020/03/17/url-shortner/
+_link_ https://tapanchudasama.netlify.com/how-i-created-a-simple-url-shortener-using-react-and-node
