@@ -2,11 +2,11 @@
 title: Abhinav Reddy
 type: "participant"
 name: "Abhinav Reddy"
-portfolio: ""
+portfolio: "https://github.com/singularityDev/portfolio"
 github-link: "https://github.com/singularityDev"
 linkedin-link: "https://www.linkedin.com/in/abhinav-reddy-6397b9156/"
 looking-for: "job"
-description: "Javascript | AngularJs | Express.Js| REST APIs |Python | Flask"
+description: "Bootstrap | Materialize | Javascript | AngularJs | node js | Express Js| REST APIs | Python | Flask"
 ---
 
 Hey!, Let's see how I am learning to be creative, innovative and passionate by taking a walkthrough of my profile.
@@ -38,7 +38,15 @@ I have already explored AngularJs and Flask, now I need help with understanding 
 
 My projects:
 
-**Collegium**
+**Portfolio Website (New)**
+
+_description_ Everyone in the creative field must have a portfolio website to showcase their work and experience, I'm not a very experienced one but I do believe that it is necessary no matter the experience. I have played with the flex box and learned ways to make a website responsive within a limited time now.
+
+_stack_ I wanted to keep it simple, so, no framework. It is made responsive through hard code using Flex-Box.
+
+_github link_ https://github.com/singularityDev/portfolio
+
+**Collegium (Old)**
 
 _description_ Every student in a college should be aware of events inside & outside the college, updated with technology. & advancements in their fields, personality development and develop a habit of reading articles of their interests. Collegium is going to be a student targeted website that promises to provide the information on areas mentioned above (unlike other websites), user-friendly & as every department in a college has its own block, so does the website.
 
@@ -46,7 +54,7 @@ _stack_ This is written in Python and framework used is Flask, database is MySql
 
 _github link_ https://github.com/singularityDev/collegium
 
-**Predicting El Niño/ La Niña**
+**Predicting El Niño/ La Niña (Old)**
 
 _description_ El Niño/La Niña are the Global weather conditions that lasts for at least 6-8 months or a year to over a series of years. These are either extreme drought conditions or extreme rainfall over the tropical Pacific Ocean. These are basically caused by the warming up of ocean surface which is now being effected by human activity (Global Warming). Deal is to predict the years that might be effected with El Niño/La Niña using the available dataset and time-series forecasting algorithm. Use of extensive libraries available for Python-Machine Learning will help us to attain a good result. This prediction will play a vital role in managing the resources through the countries that face this global phenomenal consequences.
 
