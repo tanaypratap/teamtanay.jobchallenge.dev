@@ -16,7 +16,7 @@ Hi,I am Rabiya Basri 21 years old currently working at cognizant technology solu
 
 ## why are you taking this challenge?
 
-My dream is to became a Software Developer.
+My dream is to become a Software Developer.
 And This is the best platform where i can show my coding skills.
 
 ## something interesting about you?
@@ -25,12 +25,12 @@ I love to spend my time in reading books and drawing and coding.
 
 ### help I need?
 
-It would be good if someone help me clearing my doubts when i get earrors in my code!.
+It would be good if someone help me clearing my doubts when i get errors in my code,and I want to learn opensource.
 
 ### how to contact me?
 
-- Instagram
-- LinkedIn
+- Instagram[https://www.instagram.com/_rabiya_basri_/]
+- LinkedIn[https://www.linkedin.com/in/rabiya-basri-55b368186/]
 
 ### projects
 
