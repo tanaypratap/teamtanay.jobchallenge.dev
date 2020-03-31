@@ -9,7 +9,7 @@ looking-for: "job"
 description: "Full Stack Web, Android and DevOps Enthusiast."
 ---
 
-Hi! I am a Goutam B Seervi let me walk you through my intro, projects and blogs.
+Hi! I am Goutam B Seervi let me walk you through my intro, projects and blogs.
 
 ### introduction
 
