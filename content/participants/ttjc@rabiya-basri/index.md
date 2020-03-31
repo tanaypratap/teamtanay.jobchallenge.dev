@@ -29,8 +29,8 @@ It would be good if someone help me clearing my doubts when i get errors in my c
 
 ### how to contact me?
 
-- Instagram[https://www.instagram.com/_rabiya_basri_/]
-- LinkedIn[https://www.linkedin.com/in/rabiya-basri-55b368186/]
+- [Instagram](https://www.instagram.com/_rabiya_basri_/)
+- [LinkedIn](https://www.linkedin.com/in/rabiya-basri-55b368186/)
 
 ### projects
 
