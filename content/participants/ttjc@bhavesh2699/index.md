@@ -9,7 +9,7 @@ looking-for: "Internship"
 description: "Growth Hacker|Tech Evangelist|Pythonist|FullStack Developer|OpenSource Contributor|Passionate learner|Enthusiast coder"
 ---
 
-Hi! I am a Bhavesh Solanki let me walk you through my intro, projects and blogs.
+Hi! I am Bhavesh Solanki let me walk you through my intro, projects and blogs.
 
 ### introduction
 
