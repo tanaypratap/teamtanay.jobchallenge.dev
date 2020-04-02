@@ -9,4 +9,4 @@ tags: ["registration"]
 
 This challenge is officially live now. The sooner you start, the better your chances are to win and get an interview.
 
-The formal registrations will commence this weekend. Join the telegram group i.e. https://t.me/teamtanay for more details.
+If you are facing any problem with the challenge create an issue [here](https://github.com/tanaypratap/teamtanay.jobchallenge.dev/issues).

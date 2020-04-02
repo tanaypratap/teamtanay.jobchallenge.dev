@@ -45,6 +45,7 @@ _stack_ Made in Python used Flask framework, Opencv & DNN, Html, Css, Js, Bootst
 
 _github link_ https://github.com/SudhanshuMishra8826/Genart
 
+
 ### Blogs
 
 I will keep updating my blogs as and when done.
