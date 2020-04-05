@@ -41,10 +41,8 @@ Not sure about it now, but from time to time I may need some minor helps, Thanks
 
 Not a lot of projects are done. I will keep updating it with real links when done.
 
-My projects:
-
 ### blogs
 
 same as projects, I will keep updating my blogs as and when done.
 
-
+=======

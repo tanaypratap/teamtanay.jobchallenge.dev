@@ -17,10 +17,10 @@ class PostsIndex extends React.Component {
         siteTitle={siteTitle}
       >
         <SEO
-          title="faqs"
+          title="participants"
           keywords={[
             `listing all participants`,
-            `full-stack`,
+            `teamtanayjobchallenge`,
             `javascript`,
             `react`,
           ]}
