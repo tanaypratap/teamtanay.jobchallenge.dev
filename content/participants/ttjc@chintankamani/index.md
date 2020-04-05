@@ -2,7 +2,7 @@
 title: Chintan Kamani
 type: "participant"
 name: "Chintan Kamani"
-portfolio: "https://chintankamani.github.io"
+portfolio: "https://chintankamani.github.io/portfolio/"
 github-link: "https://github.com/chintankamani/"
 linkedin-link: "https://www.linkedin.com/in/chintan-kamani-a37281146/"
 looking-for: "Internship"
