@@ -29,7 +29,7 @@ It would be good if someone tells me about graphql.
 
 ### how to contact me?
 
-- Twitter](https://twitter.com/Shvmsrma)
+- [Twitter](https://twitter.com/Shvmsrma)
 - [GitHub](https://github.com/shvmsrma)
 - [LinkedIn](https://www.linkedin.com/in/shivam-sharma-2a312612b/)
 
