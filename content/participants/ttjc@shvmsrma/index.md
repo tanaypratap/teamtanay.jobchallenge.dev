@@ -9,7 +9,7 @@ looking-for: "job"
 description: "Learning React and Node"
 ---
 
-Hi! I am a Shivam Sharma let me walk you through my intro, projects and blogs.
+Hi! I am Shivam Sharma let me walk you through my intro, projects and blogs.
 
 ### introduction
 
