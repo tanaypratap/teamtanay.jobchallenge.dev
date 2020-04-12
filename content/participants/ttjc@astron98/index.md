@@ -3,8 +3,8 @@ title: Devendra Patra
 type: "participant"
 name: "Devendra Patra"
 portfolio: "https://devendrapatra.netlify.com/"
-github-link: "https://github.com/tanaypratap"
-linkedin-link: "https://linkedin.com/in/tanaypratap"
+github-link: "https://github.com/astron98"
+linkedin-link: "https://linkedin.com/in/devendra-patra-j-b30525173"
 looking-for: "job"
 description: "Good at backend-development using Node.js,Expressjs and MySQL and have basic skills in the frontend."
 ---
@@ -37,30 +37,10 @@ It would be good to have someone to give me tips while working on CSS in the fro
 
 Not a lot of projects are done. I will keep updating it with the links when done.
 
-<!-- My projects:
 
-#### binder: tinder for books
-
-_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.
-
-_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
-
-_hosted link_ https://binder.netlify.com
-
-_github link_ https://github.com/tanaypratap/binder
-
-#### another project
-
-_description_
-
-_stack_ -->
 
 ### blogs
 
 Same as projects, I will keep updating my blogs as and when done.
 
-<!-- #### why I liked GraphQL over REST?
 
-_description_ I will write something really nice here so that you feel like reading my blog.
-
-_link_ https://dev.to/some-imaginary-link -->
