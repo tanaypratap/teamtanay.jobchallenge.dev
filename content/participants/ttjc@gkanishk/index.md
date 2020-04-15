@@ -40,8 +40,32 @@ It would be good if someone tells me how to do backend using Node.js.
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+#### Recent Projects:
+
+- **Personal Blog using Gatsby.js and Sanity.io**  
+    Sanity.io is an opensource platform used to develop React.js based apps online using its own environment. 
+    So made a personal blog using Gatsby.js and Sanity.io  
+     Find the project [here](https://gkanishk-blog.netlify.com/)
+- **Social App Using `React.js` and `Firebase` (Under development)**  
+    Making a social networking site using React.js, firebase, MaterialUI and Redux  
+    Project is still under development 
+    However updates can be checked [here](https://clever-roentgen-9c2cae.netlify.com/)
+
+
+> Can check my **previous projects** [here](https://gkanishk.github.io/#projects) at Projects section.
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+#### Some of the blogs I have writen:
+
+- **Innovate and invent the idea!!** `October 19th, 2019`  
+    This article is about idea generation! Confused on how to work on the idea and innovate them? this might help you if you are       aiming for any Hackathon or in a project.  
+    Find the blog [here](https://gkanishk-blog.netlify.com/blog/2019/10/innovate-and-invent-the-idea/)
+
+- **Internships in a smarter way!** `July 11th, 2019`  
+    Many people asked me how can they get internships during there academics, as Internships are hard to get when you are in the       first or second year of academics so here is an article how can you get one by a simple method. Hope it's helpful.  
+    Find the blog [here](https://gkanishk-blog.netlify.com/blog/2019/07/internships-in-a-smarter-way/)
+
+- **React-ify Summer** `June 29th, 2019`  
+    This blog is about what I learned during my summer break,the resources I used and the work I did during my summer break.  
+    Find the blog [here](https://gkanishk-blog.netlify.com/blog/2019/06/react-ify-summer/)
