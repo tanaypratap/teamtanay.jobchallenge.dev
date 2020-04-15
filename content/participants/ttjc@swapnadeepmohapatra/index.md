@@ -50,19 +50,47 @@ _hosted link_ https://www.npmjs.com/package/image-auto-scroll
 
 _github link_ https://github.com/swapnadeepmohapatra/image-auto-scroll
 
-<!--
-#### another project
+#### Planet Weight
 
-_description_
+_description_ A fun react native app to get your weight to on differnt planets.
 
-_stack_
+_stack_ Made in React Native, Written in JavaScript
+
+_hosted link_ https://play.google.com/store/apps/details?id=com.swapnadeep.planet.weight
+
+_github link_ https://github.com/swapnadeepmohapatra/planet-weight
+
+#### Live Corona Tracker
+
+_description_ A react.js web app to keet an eye on the cases of COVID-19.
+
+_stack_ Made in React, Written in JavaScript
+
+_hosted link_ https://corona.swapnadeep.com/
+
+_github link_ https://github.com/swapnadeepmohapatra/corona-staus-site
+
+#### Field Scan
+
+_description_ A set of 3 apps that helps in finding the travel history of people. One app is with the businesses that will scan the QR code present in the second app which is with the visitors. With the help of the website the official can monitor the history of the citizens as well as of the places.
+
+_stack_ Two apps made with React Native. The website is made with React.js. And firebase is used as the backend database.
+
+_hosted link_ https://fieldscan.netlify.com/
+
+_github link_ https://github.com/swapnadeepmohapatra/
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+#### What is Redux?
 
-#### why I liked GraphQL over REST?
+_description_ Everyone on this planet refers Redux to be a state management JavaScript Library but what it is exactly.
 
-_description_ I will write something really nice here so that you feel like reading my blog.
+_link_ https://medium.com/@swapnadeep456/what-is-redux-d8a131bc0402
 
-_link_ https://dev.to/some-imaginary-link -->
+#### 19 App Ideas for the Job Challenge
+
+_description_ Here are some APIs and some app ideas that you can try for making projects and those can help you get a job or an internship.
+
+_link_ https://medium.com/@swapnadeep456/19-app-ideas-for-the-job-challenge-5aa0c4af51d1
+_link_ https://2020.teamtanay.jobchallenge.dev/app-ideas/
