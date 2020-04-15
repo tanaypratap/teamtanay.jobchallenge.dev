@@ -2,7 +2,7 @@
 title: Kirti Vernekar
 type: "participant"
 name: "Kirti Vernekar"
-portfolio: "https://tanaypratap.com"
+portfolio: "Will update soon"
 github-link: "https://github.com/KirtiVernekar"
 linkedin-link: "https://www.linkedin.com/in/kirtivernekar"
 looking-for: "job"
