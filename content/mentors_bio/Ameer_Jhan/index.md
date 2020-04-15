@@ -1,3 +1,9 @@
+---
+title: Ameer Jhan
+type: "mentor"
+name: "Ameer Jhan"
+---
+
 # Ameer Jhan
 ## SDE II, OLX People
 
