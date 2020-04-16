@@ -39,20 +39,25 @@ I have little bit knowledge about API but I wanna learn more about it.
 not a lot of projects are done. I will keep updating it with real links when done.
 
 My projects:
-#### TODO App in Flask  
+#### News headlines App in React  
 _description_ It is a normal news app by using API.
 
 _stack_ React
 
 _hosted link_ https://corona-news.netlify.com
 
+_github link_ https://github.com/kausHal789/corona-news
+
+#### Corona dashboard App in Python/Django
+
+_description_ Shows graphical view of Covid-19
+
+_stack_ React
+
+_hosted link_ https://coronadashboard.netlify.com
+
 _github link_ https://github.com/kausHal789/covid-19
 
-#### Blog App in Python/Django
-
-_description_ 
-
-_stack_
 
 ### blogs
 
