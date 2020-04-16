@@ -48,7 +48,7 @@ _hosted link_ https://corona-news.netlify.com
 
 _github link_ https://github.com/kausHal789/corona-news
 
-#### Corona dashboard App in Python/Django
+#### Corona dashboard App in React
 
 _description_ Shows graphical view of Covid-19
 
