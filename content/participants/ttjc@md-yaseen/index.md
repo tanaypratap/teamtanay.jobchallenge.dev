@@ -29,8 +29,8 @@ Designing skills
 
 ### how to contact me?
 
-- Twitter - "https://twitter.com/_yaseen96"
-- Instagram - "https://instagram.com/yaseen.96"
+- [Twitter](https://twitter.com/_yaseen96)
+- [Instagram](https://instagram.com/yaseen.96)
 
 ### projects
 
