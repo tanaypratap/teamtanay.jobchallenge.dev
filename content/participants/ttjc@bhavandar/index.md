@@ -9,7 +9,7 @@ looking-for: "job"
 description: "Good at HTML/Css. Learning python for automation."
 ---
 
-Hi! I am a Gajendra, a final year engineering student from GHRCEM, Pune. Let me walk you through my intro, projects and blogs.
+Hi! I am Gajendra, a final year engineering student from GHRCEM, Pune. Let me walk you through my intro, projects and blogs.
 
 ### introduction
 
