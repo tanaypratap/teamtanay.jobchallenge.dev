@@ -9,7 +9,7 @@ looking-for: "Internship    "
 description: "Beginner level HTML/CSS/JavaScript developer"
 ---
 
-Hi! I am a Parimal Najan, Here is a short introduction to my work.
+Hi! I am Parimal Najan, Here is a short introduction to my work.
 
 ### introduction    
 
