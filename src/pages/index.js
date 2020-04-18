@@ -27,25 +27,10 @@ class Index extends React.Component {
             `react`,
           ]}
         />
-        <Section
-          header="what's TeamTanay?"
-          textNode={
-            <p>
-              An open community of over 20K students and developers spanning
-              across the globe...
-            </p>
-          }
-          more={[
-            {
-              link: "/about-team-tanay",
-              text: "more about our community...",
-            },
-          ]}
-        />
 
         <Section
           header="what's the challenge?"
-          needsBackground={backgroundGrey}
+          
           textNode={
             <p>
               #TeamTanayJobChallenge requires you to finish a minimum of{" "}
@@ -57,6 +42,27 @@ class Index extends React.Component {
             {
               link: "/challenge-details",
               text: "challenge details here...",
+            },
+            {
+              link:"/02_is-registration-required/",
+              text:'register here'
+            }
+          ]}
+        />
+
+        <Section
+          header="what's TeamTanay?"
+          needsBackground={backgroundGrey}
+          textNode={
+            <p>
+              An open community of over 20K students and developers spanning
+              across the globe...
+            </p>
+          }
+          more={[
+            {
+              link: "/about-team-tanay",
+              text: "more about our community...",
             },
           ]}
         />
