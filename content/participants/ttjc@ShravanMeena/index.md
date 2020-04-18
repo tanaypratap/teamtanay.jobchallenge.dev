@@ -1,5 +1,5 @@
 ---
-title: "Frontend Developer"
+title: "Shravan Meena"
 type: "participant"
 name: "Shravan Meena"
 portfolio: "http://shravanmeena.me/"
