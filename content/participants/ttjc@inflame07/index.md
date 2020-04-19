@@ -2,7 +2,7 @@
 title: tapan chudasama
 type: "participant"
 name: "Tapan Chudasama"
-portfolio: "https://tapanchudasama.netlify.com/"
+portfolio: "https://tapanchudasama.netlify.app"
 github-link: "https://github.com/inflame07"
 linkedin-link: "https://linkedin.com/in/inflame"
 looking-for: "job"
@@ -59,6 +59,16 @@ _hosted link_ https://shrinkerr.herokuapp.com/
 
 _github link_ https://github.com/inflame07/url-shrinker
 
+#### Sudoku Solver
+
+_description_ Sudoku Solver made using backtracking and PyGame in Python
+
+_stack_ Front End is done using PyGame. Back end is done using Python.
+
+_hosted link_ https://github.com/inflame07/sudoku-solver
+
+_github link_ https://github.com/inflame07/sudoku-solver
+
 ### blogs
 
 Below you can find the some blogs that I've written. I'll keep updating them as I write new blogs.
@@ -67,4 +77,10 @@ Below you can find the some blogs that I've written. I'll keep updating them as 
 
 _description_ A simple URL shortner that is created using MERN stack and deployed on heroku.
 
-_link_ https://tapanchudasama.netlify.com/how-i-created-a-simple-url-shortener-using-react-and-node
+_link_ https://tapanchudasama.netlify.app/how-i-created-a-simple-url-shortener-using-react-and-node
+
+#### How i created a Sudoku Solver
+
+_description_ How i created a sudoku solver using backtracking in python using pygame
+
+_link_ https://tapanchudasama.netlify.app/backtracking-creating-a-sudoku-solver
