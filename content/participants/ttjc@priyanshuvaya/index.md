@@ -9,7 +9,7 @@ looking-for: "Job"
 description: "Good at React | Express | Javascript | Java | Csharp. Working as Software Developer"
 ---
 
-Software Developer
+Software Developer, but wait let me take you through the profile bit by bit.
 
 ### introduction
 
@@ -30,8 +30,8 @@ I am learning to expand my knowledge more on whole MERN stack.
 
 ### how to contact me?
 
-- LinkedIn
-- Instagram
+- [LinkedIn](https://www.linkedin.com/in/priyanshuvaya/)
+- [Instagram] (https://www.instagram.com/priyanshu_vaya/)
 
 ### projects
 
