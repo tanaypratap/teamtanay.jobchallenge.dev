@@ -1,5 +1,5 @@
 ---
-title: Manoj TYagi
+title: Manoj Tyagi
 type: "participant"
 name: "Manoj Tyagi"
 portfolio: "" # I am working on my portfolio
