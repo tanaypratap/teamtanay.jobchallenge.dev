@@ -16,7 +16,7 @@ Hi! I am Digvijay Singh, Let's walk through my intro
 I am Sophomore at KIET GROUP OF INSTITUTIONS GHAZIABAD majoring in 
 Electronics and Communication branch(expected 2022)
 I am a quick learner and enthusiastic about problem-solving.
-I am currently learning Android development a
+I am currently learning Android development
 I also love Data Structure and Algorithm
 
 ## why are you taking this challenge?
