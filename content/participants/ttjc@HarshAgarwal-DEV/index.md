@@ -1,7 +1,7 @@
 ---
 title: Harsh Agarwal
 type: "participant"
-name: "Harsh Agarawl"
+name: "Harsh Agarwal"
 portfolio: 
 github-link: "https://github.com/HarshAgarwal-DEV"
 linkedin-link: "
@@ -10,11 +10,11 @@ looking-for: "internship"
 description: "intermediate at CSS/HTML learning React"
 ---
 
-Hi! I am a Harsh Agarwal,currently i am a B.tech(C.S.E) undergraduate at first year student.I am trying to get internship and gain some more knowledge through this challenge.
+Hi! I am a Harsh Agarwal,currently i am a B.tech(C.S.E) undergraduate  first year student.I am trying to get internship and gain some more knowledge through this challenge.
 
 ### introduction
 
-I love seeing  stars and planets at night.i try to study about aerospace in free time.
+I love seeing and doing research on stars and planets at night.I try to study about aerospace in free time.
 
 ## why are you taking this challenge?
 
@@ -23,11 +23,12 @@ I want to learn.
 
 ## something interesting about you?
 
-I am gold medalist at district level on takewondow.
+I am 2 times gold medalist at district level in takewondow.
+
 
 ### help I need?
 
-As i am a begineer in this field and belonging to a tier -3 college,i havent teach untill lnow that what to do in these cases i myself lear all the courses so, it will be great if i would be guided by a someone in making of projects.
+As i am a begineer in this field and belonging to a tier -3 college,i haven't teach untill know that what to do in these cases i myself learn all the courses so, it will be great if i would be guided by  someone in making of projects.
 
 ### how to contact me?
 
@@ -36,7 +37,7 @@ As i am a begineer in this field and belonging to a tier -3 college,i havent tea
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+ I will keep updating it with real links when done.
 
 My projects:
 # working
