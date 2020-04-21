@@ -27,7 +27,7 @@ I am gold medalist at district level on takewondow.
 
 ### help I need?
 
-As i am a begineer in this field i will be great if i would be guided by a someone in making of projects.
+As i am a begineer in this field and belonging to a tier -3 college,i havent teach untill lnow that what to do in these cases i myself lear all the courses so, it will be great if i would be guided by a someone in making of projects.
 
 ### how to contact me?
 
