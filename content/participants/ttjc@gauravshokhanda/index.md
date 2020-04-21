@@ -23,7 +23,7 @@ I want to learn.
 ## something interesting about you?
 
 I've participated in various dance competitions.
-I have a good sense of Photography.
+I have a good sense of Photography .
 
 ### help I need?
 
