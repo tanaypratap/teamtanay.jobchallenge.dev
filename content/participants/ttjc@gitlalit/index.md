@@ -9,7 +9,7 @@ looking-for: "job"
 description: "Expert at Python learning Javascript"
 ---
 
-Hi! I am a Lalit Kumawat. Let me walk you through my intro, projects and blogs.
+Hi! I am Lalit Kumawat. Let me walk you through my intro, projects and blogs.
 
 ### introduction
 
