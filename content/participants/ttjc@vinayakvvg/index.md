@@ -9,7 +9,7 @@ looking-for: "job"
 description: "Good at Angular, Typescript, Javascript learning React"
 ---
 
-Hi! I am a Vinayak let me walk you through my intro, projects and blogs.
+Hi! I am Vinayak let me walk you through my intro, projects and blogs.
 
 ### introduction
 
