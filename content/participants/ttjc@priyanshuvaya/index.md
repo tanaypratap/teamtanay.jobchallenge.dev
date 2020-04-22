@@ -31,7 +31,7 @@ I am learning to expand my knowledge more on whole MERN stack.
 ### how to contact me?
 
 - [LinkedIn](https://www.linkedin.com/in/priyanshuvaya/)
-- [Instagram] (https://www.instagram.com/priyanshu_vaya/)
+- [Instagram](https://www.instagram.com/priyanshu_vaya/)
 
 ### projects
 
