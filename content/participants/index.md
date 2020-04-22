@@ -9,7 +9,7 @@ looking-for: "job"
 description: "I am good at python and now I am learning django"
 ---
 
-Hi! I am a Diresh let me walk you through my intro, projects and blogs.
+Hi! I am Diresh let me walk you through my intro, projects and blogs.
 
 ### introduction
 
@@ -30,8 +30,8 @@ I want guidance on how to start my career in programming and a mentor can help m
 
 ### how to contact me?
 
-- [Twitter]{https://twitter.com/DireshPradhan}
-- [LinkedIn]{https://www.linkedin.com/in/diresh-kumar-pradhan-8a4a8b171/}
+- [Twitter](https://twitter.com/DireshPradhan)
+- [LinkedIn](https://www.linkedin.com/in/diresh-kumar-pradhan-8a4a8b171/)
 
 ### projects
 
