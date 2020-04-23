@@ -31,7 +31,6 @@ It would be good if someone could provide some help on how I can use various API
 
 ### how to contact me?
 
-- [Twitter]()
 - [LinkedIn](https://www.linkedin.com/in/divyanshi-agrawal-7278a61a7/)
 
 ### projects
