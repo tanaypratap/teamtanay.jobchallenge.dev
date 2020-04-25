@@ -29,8 +29,8 @@ I need feedback which puts me in correct path.
 
 ### how to contact me?
 
-- twitter(https://twitter.com/Kanikantiharsh2)
-- LinkedIn(https://www.linkedin.com/in/kanikanti-harshitha-0944b6185/)
+- [twitter](https://twitter.com/Kanikantiharsh2)
+- [LinkedIn](https://www.linkedin.com/in/kanikanti-harshitha-0944b6185/)
 
 ### projects
 
