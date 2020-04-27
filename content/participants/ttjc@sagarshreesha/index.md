@@ -45,4 +45,4 @@ My projects:
 
 ### Blogs
 
-Experimenting with Blogs. I'll update soon.
+Experimenting with Blogs. I'll update here soon.
