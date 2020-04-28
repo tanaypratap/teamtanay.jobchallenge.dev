@@ -9,7 +9,7 @@ looking-for: "job/ internship"
 description: "JavaScript | React | Node | Express | MongoDB | PostgreSQL | HTML | CSS | Dart"
 ---
 
-Hi! I am a Rajaneesh, let me walk you through my intro, projects and blogs.
+Hi! I am Rajaneesh, let me walk you through my intro, projects and blogs.
 
 ### introduction
 
