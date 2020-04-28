@@ -27,7 +27,7 @@ I like to learn new technologies and use it in small projects.
 ### how to contact me?
 
 - [LinkedIn](https://www.linkedin.com/in/shraddha-bajaj-2a0523125)
-- [Email] : shraddhabajaj1997@gmail.com
+- [Email](mailto:shraddhabajaj1997@gmail.com)
 
 ### projects
 
