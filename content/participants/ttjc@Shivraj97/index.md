@@ -58,5 +58,5 @@ _github link_ https://github.com/Shivraj97/real_estate_django_project
 
 ### blogs
 
-I will update as soon as i starts publishing
+I will update as soon as i starts publishing the blogs
 
