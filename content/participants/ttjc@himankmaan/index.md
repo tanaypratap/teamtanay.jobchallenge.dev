@@ -6,7 +6,7 @@ portfolio: "not yet"
 github-link: "https://github.com/himankmaan"
 linkedin-link: "https://linkedin.com/in/himankmaan"
 looking-for: "job"
-description: "expert at CSS/HTML learning React"
+description: "Power BI | oracle ICS PCS visual builder cloud | RPA(Automation Anywhere) | Supply chain | Barcoding implementation"
 ---
 
 MIT CCE 2018. Power BI | oracle ICS PCS visual builder cloud | RPA(Automation Anywhere) | Supply chain | Barcoding implementation |SAP for HANA | Economics and Finance |  NSE BSE
