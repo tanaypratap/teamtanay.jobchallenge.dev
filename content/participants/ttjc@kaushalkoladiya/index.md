@@ -2,14 +2,14 @@
 title: Kaushal Koladiya
 type: "participant"
 name: "Kaushal Koladiya"
-portfolio: ""
-github-link: "https://github.com/kausHal789"
+portfolio: "https://kaushalkoladiya.netlify.app/"
+github-link: "https://github.com/kaushalkoladiya"
 linkedin-link: "https://www.linkedin.com/in/kaushal-koladiya-a65676179/"
 looking-for: "job"
-description: "Laravel | Learning React, Node"
+description: "React, Node"
 ---
 
-Hi! I am Kaushal Koladiya, I'm final year BCA student and self learner.
+Hii! I am Kaushal Koladiya, I'm final year BCA student and self learner.
 
 ### introduction
 
@@ -35,35 +35,37 @@ I have little bit knowledge about API but I wanna learn more about it.
 - [LinkedIn](https://www.linkedin.com/in/kaushal-koladiya-a65676179/)
 
 ### projects
-
-not a lot of projects are done. I will keep updating it with real links when done.
-
-My projects:
-#### News headlines App in React  
+#### News App with React  
 _description_ It is a normal news app by using API.
 
 _stack_ React
 
-_hosted link_ https://corona-news.netlify.com
+_hosted link_ https://newsglobe.netlify.app
 
-_github link_ https://github.com/kausHal789/corona-news
+_github link_ https://github.com/kaushalkoladiya/newsglobe
 
-#### Corona dashboard App in React
+#### BlogNode App
 
-_description_ Shows graphical view of Covid-19
+_description_ A app which allow create blog to user after signup/login. I use MongoDB, Express, React.js, Node.js, GraphQL, JWT.
 
-_stack_ React
+_stack_ MERN
 
-_hosted link_ https://coronadashboard.netlify.com
+___React.js___
+_hosted link_ https://blognode.netlify.app
+_github link_ https://github.com/kaushalkoladiya/blog-react
 
-_github link_ https://github.com/kausHal789/covid-19
+___Node.js___
+_hosted link_ https://bloggraph.herokuapp.com/
+_github link_ https://github.com/kaushalkoladiya/blog
 
 
 ### blogs
 
-I will add more once I'm done with my blog 
+JavaScript Arrow function
+_link_ https://dev.to/kaushalkoladiya/javascript-arrow-function-2513
 
-_link_ 
+JavaScript Destructuring
+_link_ https://dev.to/kaushal/javascript-destructuring-1b4d
 
 #### why I like Javascript over other languages
 
