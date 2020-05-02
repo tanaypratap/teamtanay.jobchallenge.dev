@@ -3,7 +3,7 @@ title: Masood Ahmed
 type: "participant"
 name: "Masood Ahmed"
 github-link: "https://github.com/masoodahme/"
-linkedin-link: "https://www.linkedin.com/in/masood-ahmed-3202b3158/
+linkedin-link: "https://www.linkedin.com/in/masood-ahmed-3202b3158/"
 looking-for: "internship"
 description: "HTML| BootStrap | CSS | JavaScript | Node.js | Express "
 ---
