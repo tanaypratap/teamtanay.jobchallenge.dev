@@ -1,3 +1,4 @@
+---
 title: Chandan B Reddy
 type: "participant"
 name: "Chandan B Reddy"
