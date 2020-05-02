@@ -25,7 +25,6 @@
     "gatsby-source-filesystem": "^2.1.46",
     "gatsby-transformer-remark": "^2.6.48",
     "gatsby-transformer-sharp": "^2.3.13",
-    "node": "^13.13.0",
     "prismjs": "^1.19.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -35,16 +34,11 @@
     "typeface-montserrat": "0.0.75",
     "typography": "^0.16.19",
     "typography-theme-wordpress-2016": "^0.16.19",
-    "yarn": "^1.22.4"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
   },
   "homepage": "https://github.com/tanaypratap/teamtanay.jobchallenge.dev/blob/master/README.md",
-  "keywords": [
-    "jobChallenge",
-    "teamtanay"
-  ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
