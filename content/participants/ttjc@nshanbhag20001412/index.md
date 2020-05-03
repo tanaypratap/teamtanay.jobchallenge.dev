@@ -30,7 +30,6 @@ I get confused and tensed while going through things and fail to concentrate on 
 
 ### how to contact me?
 
-- Twitter
 - [LinkedIn](https://linkedin.com/in/neha-shanbhag-866649175)
 
 ### projects
