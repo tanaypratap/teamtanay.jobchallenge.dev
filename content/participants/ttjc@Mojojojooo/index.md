@@ -3,8 +3,8 @@ title: Yashwanth Vernekar
 type: "participant"
 name: Yashwanth Vernekar
 portfolio: ""
-github-link: https://github.com/Mojojojooo
-linkedin-link: https://www.linkedin.com/in/yashwanth-vernekar-491512146/
+github-link: "https://github.com/Mojojojooo"
+linkedin-link: "https://www.linkedin.com/in/yashwanth-vernekar-491512146/"
 looking-for: "job"
 description: "Job as a UI/UX and a front end developer"
 ---
