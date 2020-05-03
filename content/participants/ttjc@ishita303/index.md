@@ -29,8 +29,7 @@ I would love to learn more about APi's and deploying applications.
 
 ### how to contact me?
 
-- Telegram
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/ishita-jain-459075175/)
 
 ### projects
 
