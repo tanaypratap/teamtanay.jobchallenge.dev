@@ -9,7 +9,7 @@ looking-for: "Internship"
 description: "HTML/CSS | Javascript | Python | React | Node | MongoDB | Django"
 ---
 
-Hi! I am a Pavan Gandhi Undergrad CS Student of DU let me walk you through my intro, projects and blogs.
+Hi! I am Pavan Gandhi an undergrad CS student of DU let me walk you through my intro, projects and blogs.
 
 ### introduction
 
@@ -37,18 +37,6 @@ It would be helpful if I get a good mentor and a referral for a great opportunit
 ### projects
 
 not a lot of projects are done. I will keep updating it with real links when done.
-
-My projects:
-
-#### Gitwar - Compete with Git
-
-_description_ Do you wish to compare your github profile with other peoples or calculate your github score or want to see trending github repos of your favorite language? Try this.
-
-_stack_ Made using NodeJs. This is written in Javascript. Frontend in Ejs and Backend is powered by Express and Github Api.
-
-_hosted link_ https://gitwar.herokuapp.com
-
-_github link_ https://github.com/iampavangandhi/Gitwar
 
 ### blogs
 
