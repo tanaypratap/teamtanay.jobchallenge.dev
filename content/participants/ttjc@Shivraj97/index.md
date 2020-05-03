@@ -36,10 +36,27 @@ It would be great if someone help me and guide me throughtout this journey when 
 
 ### projects
 
-I have done a lot of projects but since old projects will not be considered so i will try to create new projects and update them as I go.
+My projects:
+#### Comfy_House - JS Shopping Cart App  
+_description_ It is a simple e-commerce website with no backend. The app was built using only vanilla.js and no other frontend frameworks were used. 
 
+_stack_ HTML5 | CSS3 | JavaScript
+
+_hosted link_ https://shivraj97.github.io/comfy_house
+
+_github link_ https://github.com/Shivraj97/comfy_house
+
+#### Real Estate App - Python/Django
+
+_description_ It is fully functional property listing website with admin panel. The admin can add property and realtors. The app supports user authentication(register and login) and also have a storage feature.
+
+_stack_ Python | Django  | PostgreSQL | Bootstrap 4 | HTML5 | CSS3
+
+_hosted link_ https://realestatedjangoproject.herokuapp.com
+
+_github link_ https://github.com/Shivraj97/real_estate_django_project
 
 ### blogs
 
-I will update as soon as i starts publishing
+I will update as soon as i starts publishing the blogs
 
