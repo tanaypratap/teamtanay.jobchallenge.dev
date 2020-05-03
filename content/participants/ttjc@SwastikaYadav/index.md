@@ -1,5 +1,5 @@
 ---
-title: dummy student
+title: Swastika Yadav
 type: "participant"
 name: "Swastika Yadav"
 portfolio: ""
