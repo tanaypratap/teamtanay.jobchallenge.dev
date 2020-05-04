@@ -6,7 +6,7 @@ portfolio: "I will update this soon"
 github-link: "https://github.com/Neel630"
 linkedin-link: "https://www.linkedin.com/in/neel-shah-907a7b14b"
 looking-for: "job"
-description: "I have experience in ReactJs, now learning Node and Express"
+description: "React || Node || Express || MongoDB || Spring Boot || GraphQL "
 ---
 
 Hi! I am a Neel Shah, a web developer.
