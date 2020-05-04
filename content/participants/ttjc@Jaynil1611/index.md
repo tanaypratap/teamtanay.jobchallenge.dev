@@ -35,9 +35,10 @@ I need a mentor who could guide me towards the direction which is best for me.
 
 ### projects
 
-I have done quite a few projects but I haven't really hosted them all. I will update with the hosting as soon as possible.
+I have done some projects in the past but I haven't really hosted them all. I will update with the hosting as soon as possible.
+I will also update with current projects done during the challenge.
 
-My projects:
+My past projects:
 
 #### BFS vs A*: Which is better? 
 
@@ -51,10 +52,4 @@ _github link_ https://github.com/Jaynil1611/ADS-PRO
 
 ### blogs
 
-I have written one blog on medium. I will keep updating my blogs as and when done.
-
-#### Association Rule Mining in R 
-
-_description_ This blog includes the association rule mining algorithm which is used for market basket analysis. It provides a beginner's guide to association mining in R.
-
-_link_ https://medium.com/@g.jaynil2401/association-rule-mining-in-r-8c31909bf881
+I have written one blog on medium in the past. I will keep updating my blogs as and when done.
