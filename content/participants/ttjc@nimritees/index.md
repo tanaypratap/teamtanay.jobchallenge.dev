@@ -35,4 +35,3 @@ It would be good if someone helps me learn the frontend part of the application.
 ### projects
 
 not a lot of projects are done. I will keep updating it with real links when done.
-
