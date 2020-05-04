@@ -17,7 +17,7 @@ I am passionate about web development. Exploring MERN Stack. I have experience d
 
 ## why are you taking this challenge?
 
-I have completed my internship on React Js.
+I have completed my internship on React Js and Spring Boot.
 Now I am looking for job.
 
 ## something interesting about you?
