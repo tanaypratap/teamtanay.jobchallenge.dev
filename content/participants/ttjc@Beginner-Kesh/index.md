@@ -2,7 +2,11 @@
 title: Beginner-Kesh
 type: "participant"
 name: "Keshav Naganathan"
-portfolio: "https://keshav-site.netlify.app/"
+<<<<<<< Updated upstream
+portfolio: ""
+=======
+portfolio:
+>>>>>>> Stashed changes
 github-link: "https://github.com/Beginner-Kesh"
 linkedin-link: "https://www.linkedin.com/in/keshav-naganathan-10082a18a/"
 looking-for: "Internship"
