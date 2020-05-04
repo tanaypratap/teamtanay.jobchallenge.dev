@@ -54,59 +54,6 @@ Prefer watching videos? [Watch Google I/O 2020 got cancelled. So I made a Google
 
 **Link** : https://arvrjourney.com/deconstructing-the-design-thinking-process-behind-googles-arcore-elements-app-b9ebece8ddd2
 
-
-### Past Projects
-
-Projects in my internships were confidential and the codebase cannot be shared but those were the most valuable projects that I worked on and I can talk about them in detail only with a recruiter.
-
-I made a compilation of all the AR Prototypes that I developed in 2019 👇
-
-- [Compilation Video of all my Augmented Reality projects](https://bit.ly/knightcube-prototypes-2019)
-
-#### Augmented Gardens
-
-**Description**: In luxurious hotels and residential housing complexes, the creative minds that go behind designing the garden and lawns often face trouble when communicating their thoughts to clients through their 2D designs. We developed a mobile application, with Augmented Reality capabilities, using which the designer can show the client exactly what the garden looks like and customize it quickly with the feedback he or she gets.
-
-The application has a separate segment(AR mode) that provides a bunch of 3D virtual models of various plants, flowers and decor stuff that can be placed in the real world with real-time scaling, rotating and moving around the models around in the user's real environment.
-
-The application hence prevents communication gaps between the client and the garden designer (or design agencies). 
-Running more design iterations on this product should fetch the designing agency happy clients, which are of course important for running any business and developing useful products. 
-
-**Stack**: Unity, Augmented Reality, UX Design  
-
-**Demo Video** : https://www.youtube.com/watch?v=70XoDOfnrIc
-
-**GitHub link** : https://github.com/knightcube/LithoARGardens
-
-**NOTE** : This was a project for a hackathon. My teammate worked with Flutter to develop the Mobile Application. I developed the AR Experience.
-
-#### Augmented Reality Newspaper
-
-**Description** : Developed an app to experience reading Newspapers in Augmented Reality. It puts trailers of a few selected movies when you point the phone towards the movie's poster.
-
-**Stack** : Unity, Augmented Reality
-
-**Demo Video** : https://youtu.be/Z5eOqU0m4cI
-
-**GitHub Link** : https://github.com/knightcube/ARNewspaper/tree/master
-
-#### Table Tennis Game
-
-**Description** : Two bots playing table tennis. Ready to be viewed in Augmented Reality.
-
-**Stack** : Unity, Game Development  
-
-**Demo Video** : https://www.youtube.com/watch?v=lqUcLbSprxQ
-
-View more projects on [GitHub](https://github.com/knightcube) or watch the demos [in this YouTube playlist](https://www.youtube.com/watch?v=D2J0sbU-6og&list=PLzISNGu_hA6PAXcCOdqS7Ggp1b7qbB20W)
-
-
-
-### Past Blogs
-
-#### Google I/O 2019 Experience
-**Link** : https://medium.com/@knightcube/google-i-o-2019-experience-cf0692aacb9d
-
 ### More Links
 Personal website - http://rajatkumargupta.com
 
