@@ -39,9 +39,6 @@ I can whistle many songs from many languages.
 <li>
 I can speak 5 languages excluding my mother tongue and one of them is German.
 </li>
-<li>
-Within a day, I can make a complete stranger my closest friend.
-</li>
 </ul>
 
 ### help I need?
@@ -68,5 +65,4 @@ I will keep updating it with real links when done.
  I will keep updating my blogs as and when done.
 
 #### why I like Web Designing and Developing ??
-
 <p> Gives you a chance to really use your head and gets the best out of you.</p>
