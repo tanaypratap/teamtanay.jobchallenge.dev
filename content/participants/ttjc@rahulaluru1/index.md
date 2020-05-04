@@ -42,7 +42,7 @@ My projects:
 
 
 #### Keeper App: A replica of Google Keep
-_description_ This project is a basic UI replica of Google Keep. 
+_description_ This is a note-taking service. 
 This is still a work in progress and will be working on back-end as I am learning MErN in the stack 
 
 _stack_ Made with React JS. 
