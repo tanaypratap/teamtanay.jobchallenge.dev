@@ -38,18 +38,6 @@ I need a mentor who could guide me towards the direction which is best for me.
 I have done some projects in the past but I haven't really hosted them all. I will update with the hosting as soon as possible.
 I will also update with current projects done during the challenge.
 
-My past projects:
-
-#### BFS vs A*: Which is better? 
-
-_description_ When you talk about the comparison between various algorithms in terms of programming, it also essential to actually visualize and see the actual difference between those algorithms. I have made a project which makes a comparison between Breadth First Search (BFS) and A* star algorithm to compute the shortest path between given source and destination with obstacles in their way.
-
-_stack_ The project involved a major component of Java and Canvas library in Java for the graphical user interface(GUI). 
-
-_hosted link_ hosting in progress
-
-_github link_ https://github.com/Jaynil1611/ADS-PRO
-
 ### blogs
 
 I have written one blog on medium in the past. I will keep updating my blogs as and when done.
