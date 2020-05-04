@@ -38,6 +38,16 @@ I need a mentor who could guide me towards the direction which is best for me.
 I have done some projects in the past but I haven't really hosted them all. I will update with the hosting as soon as possible.
 I will also update with current projects done during the challenge.
 
+### Google Play Store : An App Launch Study
+
+_description_ This project analyzes the insights provided by the client using data visualization using Python and Tkinter for the graphical user Interface. In all it includes 20 different features analyzed from the study.
+
+_stack_ Python and Tkinter, Canvas. 
+
+_hosted link_ hosting in progress
+
+_github link_ https://github.com/Jaynil1611/Google-Play-Store-App-Launch-Study
+
 ### blogs
 
 I have written one blog on medium in the past. I will keep updating my blogs as and when done.
