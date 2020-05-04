@@ -34,26 +34,8 @@ Currently I'm looking for an internship and I want to build few projects to show
 
 ### projects
 
-I have made a few projects! you can check them out
+No Projects Currently
 
-My projects:
-#### WayApplied(Under Development)
-_description_ This is a website showcase application which showcase beautiful websites build by brands and developers
-
-_stack_ React/Python/Flask/
-
-_hosted link_ 
-
-_github link_ https://github.com/itstaranarora/project_wayapplied
-
-#### Covid-19 Tracker
-_description_ This is a react based covid-19 impact tracker. 
-
-_stack_ React/Material UI
-
-_hosted link_ https://itstaranarora.github.io/covid19-tracker/
-
-_github link_ https://github.com/itstaranarora/covid19-tracker
 
 ### blogs
 
