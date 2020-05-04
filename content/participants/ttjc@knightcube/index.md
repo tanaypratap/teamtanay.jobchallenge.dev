@@ -38,6 +38,25 @@ It would be good if someone tells me which role will be suitable for me and also
 - [LinkedIn](https://linkedin.com/knightcube)
 
 ### Projects
+I will start sharing my projects with live links and source code links after I finsih implementing them.
+
+### Blogs
+
+Read all my blogs on [Medium](https://medium.com/@knightcube)
+
+Prefer watching videos? [Watch Google I/O 2020 got cancelled. So I made a Google I/O 2019 video](https://youtu.be/qDVdfcx-5k0)
+
+#### 6 steps to write Test Scripts and run them in Unity for your games and XR applications.
+
+**Link** : https://arvrjourney.com/6-steps-to-write-unit-tests-and-run-them-using-unity-test-runner-for-your-games-and-xr-9713fcc12257
+
+#### Deconstructing the Design Thinking Process behind Google’s ARCore Elements app
+
+**Link** : https://arvrjourney.com/deconstructing-the-design-thinking-process-behind-googles-arcore-elements-app-b9ebece8ddd2
+
+
+### Past Projects
+
 Projects in my internships were confidential and the codebase cannot be shared but those were the most valuable projects that I worked on and I can talk about them in detail only with a recruiter.
 
 I made a compilation of all the AR Prototypes that I developed in 2019 👇
@@ -81,19 +100,9 @@ Running more design iterations on this product should fetch the designing agency
 
 View more projects on [GitHub](https://github.com/knightcube) or watch the demos [in this YouTube playlist](https://www.youtube.com/watch?v=D2J0sbU-6og&list=PLzISNGu_hA6PAXcCOdqS7Ggp1b7qbB20W)
 
-### Blogs
 
-Read all my blogs on [Medium](https://medium.com/@knightcube)
 
-Prefer watching videos? [Watch Google I/O 2020 got cancelled. So I made a Google I/O 2019 video](https://youtu.be/qDVdfcx-5k0)
-
-#### 6 steps to write Test Scripts and run them in Unity for your games and XR applications.
-
-**Link** : https://arvrjourney.com/6-steps-to-write-unit-tests-and-run-them-using-unity-test-runner-for-your-games-and-xr-9713fcc12257
-
-#### Deconstructing the Design Thinking Process behind Google’s ARCore Elements app
-
-**Link** : https://arvrjourney.com/deconstructing-the-design-thinking-process-behind-googles-arcore-elements-app-b9ebece8ddd2
+### Past Blogs
 
 #### Google I/O 2019 Experience
 **Link** : https://medium.com/@knightcube/google-i-o-2019-experience-cf0692aacb9d
