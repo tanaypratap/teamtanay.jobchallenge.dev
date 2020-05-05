@@ -16,6 +16,6 @@ This is how he expresses his love for JavaScript:
 
 #### We Welcome you as a mentor to #TeamTanayJobChallenge, Ameer The Hacker!
 
-- Visit his [website](ameerthehacker.me) to know more about him.
+- Visit his [website](https://ameerthehacker.me) to know more about him.
 - Connect with him on [LinkedIn](https://www.linkedin.com/in/ameerthehacker/).
 - Follow him on [Twitter](https://twitter.com/ameerthehacker).
