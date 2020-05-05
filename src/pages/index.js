@@ -35,8 +35,12 @@ class Index extends React.Component {
             <p>
               #TeamTanayJobChallenge requires you to finish a minimum of{" "}
               <em>5 projects</em>, <em>3 blogs</em> and <em>2 reviews</em> on
-              your projects.<br/><p align="center">Registrations open till <b>1st June,2020</b></p>
-            </p>
+              your projects.
+              <br/>
+                <p align="center">
+                  Registrations open till<b>1st June,2020</b>
+                </p>
+              </p>
           }
           more={[
             {
