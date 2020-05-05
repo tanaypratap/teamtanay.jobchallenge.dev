@@ -70,7 +70,6 @@ class Index extends React.Component {
             },
           ]}
         />
-
         <Section
           header="are we really getting a job?"
           needsBackground={backgroundOrange}
