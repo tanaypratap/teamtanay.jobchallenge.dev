@@ -13,13 +13,13 @@ class PostsIndex extends React.Component {
     return (
       <Layout
         location={this.props.location}
-        title={"listing all mentors"}
+        title={"mentors for the challenge"}
         siteTitle={siteTitle}
       >
         <SEO
           title="mentors"
           keywords={[
-            `listing all mentors`,
+            `mentors for the challenge`,
             `teamtanayjobchallenge`,
             `javascript`,
             `react`,
@@ -46,6 +46,29 @@ class PostsIndex extends React.Component {
                 <Link to={node.fields.slug}>{title}</Link>
               </h3>
               <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              {<hr 
+              style={{
+                arginBottom: rhythm(1),
+              }}
+              />}
+              {
+              <nav>
+                <ul
+                  style={{
+                    listStyle: `none`,
+                  }}
+                >
+                <li>
+                  <a
+                    style={{ cursor: "pointer" }}
+                    onClick={() => window.history.back()}
+                  >
+                    &lt; back
+                  </a>
+                </li>
+                </ul>
+              </nav>
+      }
             </div>
           )
         })}

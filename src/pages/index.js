@@ -48,9 +48,9 @@ class Index extends React.Component {
               text: "challenge details here...",
             },
             {
-              link:"/02_is-registration-required/",
-              text:'register here'
-            }
+              link: "/02_is-registration-required/",
+              text: "register here",
+            },
           ]}
         />
 
@@ -70,7 +70,6 @@ class Index extends React.Component {
             },
           ]}
         />
-
         <Section
           header="are we really getting a job?"
           needsBackground={backgroundOrange}
@@ -102,11 +101,7 @@ class Index extends React.Component {
           more={[
             {
               link: "/mentors",
-              text: "about our mentors",
-            },
-            {
-              link: "/mentorsBio",
-              text: "see our mentors",
+              text: "checkout our mentors",
             },
           ]}
         />
