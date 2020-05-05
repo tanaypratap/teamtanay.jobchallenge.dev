@@ -38,7 +38,7 @@ class Index extends React.Component {
               your projects.
               <br/>
                 <p align="center">
-                  Registrations open till<b>1st June,2020</b>
+                  Registrations open till{" "}<b>1st June,2020</b>
                 </p>
               </p>
           }
