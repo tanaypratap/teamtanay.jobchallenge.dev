@@ -50,7 +50,7 @@ class Index extends React.Component {
             {
               link:"/02_is-registration-required/",
               text:'register here'
-            }
+            },
           ]}
         />
 
