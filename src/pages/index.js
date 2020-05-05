@@ -102,7 +102,11 @@ class Index extends React.Component {
           more={[
             {
               link: "/mentors",
-              text: "checkout our mentors",
+              text: "about our mentors",
+            },
+            {
+              link: "/mentorsBio",
+              text: "see our mentors",
             },
           ]}
         />
