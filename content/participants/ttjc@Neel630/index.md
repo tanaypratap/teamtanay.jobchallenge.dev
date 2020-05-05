@@ -9,7 +9,7 @@ looking-for: "job"
 description: "React || Node || Express || MongoDB || Spring Boot || GraphQL "
 ---
 
-Hi! I am a Neel Shah, a web developer.
+Hi! I am Neel Shah, a web developer.
 
 ### introduction
 
@@ -30,9 +30,9 @@ I need someone to guide for NodeJs.
 
 ### how to contact me?
 
-- [LinkedIn] (https://www.linkedin.com/in/neel-shah-907a7b14b)
-- [Telegram] (https://t.me/Gaara_9)
-- [Email]    (neelshah19989@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/neel-shah-907a7b14b)
+- [Telegram](https://t.me/Gaara_9)
+- [Email](neelshah19989@gmail.com)
 
 ### projects
 
