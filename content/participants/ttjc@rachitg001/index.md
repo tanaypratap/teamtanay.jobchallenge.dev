@@ -63,14 +63,6 @@ _stack_ Used nodejs, passport, sequelize and sql database.
 
 _github link_ https://github.com/RachitG001/Fbackend
 
-#### Webboard: Blogging app
-
-_description_ Created a blogging plateform with users to add topics along with subtopics and also comment feature.
-
-_stack_ Django,html,css and sql
-
-_github link_ https://github.com/RachitG001/webboard
-
 ### blogs
 
 No blogs as of now.
