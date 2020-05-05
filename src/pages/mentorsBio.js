@@ -8,7 +8,7 @@ class PostsIndex extends React.Component {
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
-    const faqs = data.allMarkdownRemark.edges
+    const mentors = data.allMarkdownRemark.edges
 
     return (
       <Layout
@@ -25,7 +25,7 @@ class PostsIndex extends React.Component {
             `react`,
           ]}
         />
-        {faqs.map(({ node }) => {
+        {mentors.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
             <div
