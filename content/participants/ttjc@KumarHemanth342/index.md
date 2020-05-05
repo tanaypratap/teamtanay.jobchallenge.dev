@@ -2,7 +2,7 @@
 title: "Hemanth Kumar"
 type: "participant"
 name: "Hemanth Kumar"
-github-link: "https://github.com/tanaypratap"
+github-link: "https://github.com/kumar342"
 linkedin-link: "https://www.linkedin.com/in/hemanth-kumar-83759015a/"
 looking-for: "job"
 description: "Mongodb | Express | React | Node"
