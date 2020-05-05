@@ -30,7 +30,6 @@ I need help only during frontend styling.
 
 ### how to contact me?
 
-- Twitter
 - [LinkedIn](https://www.linkedin.com/in/rrachit-garg/)
 
 ### projects
@@ -62,7 +61,3 @@ _description_ Created multiple rest apis along with authentication for a tech st
 _stack_ Used nodejs, passport, sequelize and sql database.
 
 _github link_ https://github.com/RachitG001/Fbackend
-
-### blogs
-
-No blogs as of now.
