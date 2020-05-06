@@ -8,11 +8,11 @@ looking-for: "Job"
 description: "I am good at HTML/CSS, currently learning JS. Interested in learning React and Django"
 ---
 
-Hi, I am Abhijeet Nandvikar. I am a prefinal year student studying Electrical & Electronics Engineering
+Hi, I am Tanmayi Patibandla. I am a prefinal year student studying Electrical & Electronics Engineering
 
 ### introduction
 
-I am interested in web development
+I am an electrical undergraduate passionate about establishing my career in software industry. I am currently learning web development
 
 ## why are you taking this challenge?
 
