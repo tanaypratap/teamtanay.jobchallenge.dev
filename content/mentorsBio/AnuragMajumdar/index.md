@@ -6,7 +6,7 @@ type: "mentor"
 
 Anurag Majumdar is a Google Certified Mobile Web Specialist, working as a Frontend Developer at Deloitte. He has 4.5+ years of experience. He builds mobile-first, responsive, accessible, offline-first Progressive Web Applications (PWA), background sync capable web applications with 60fps support powered by microservices and RESTful APIs with a SQL or NoSQL back-end.
 
-![Anurag Majumdar](/content/mentors_images/anurag_majumdar.jpeg)
+![Anurag Majumdar](https://raw.githubusercontent.com/tanaypratap/teamtanay.jobchallenge.dev/master/content/mentors_images/anurag_majumdar.jpeg)
 
 He has a Bachelor's degree in Electronics and Communication Engineering but found his love for coding. Apart from work, he loves playing guitar and creating music. He is also into cricket and swimming. He can cover a pool of 10m length by underwater swimming! Did we mention that he is a hardcore foodie as well? 
 

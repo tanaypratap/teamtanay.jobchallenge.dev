@@ -6,7 +6,7 @@ type: "mentor"
 
 Vilva Athiban is working as a JavaScript developer at Omio in _Berlin Area, Germany_. He is an Engineering Graduate with more than 5 years of Experience. He fell in love with JavaScript and never broke up with it.
 
-![Vilva Athiban](/content/mentors_images/vilva_athiban.jpg)
+![Vilva Athiban](https://raw.githubusercontent.com/tanaypratap/teamtanay.jobchallenge.dev/master/content/mentors_images/vilva_athiban.jpg)
 
 
 Vilva works with React / React Native, JavaScript, NodeJs (express/hapi), GraphQL (Apollo, Prisma), Babel technologies/tools. He writes about JavaScript and its frameworks on [Medium](https://medium.com/@vilvaathiban). He creates videos on JS and GraphQL on [YouTube](https://www.youtube.com/channel/UCFSQ3m4-hJ0izfsMUrAk7mw).
