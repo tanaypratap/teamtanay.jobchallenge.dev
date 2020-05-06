@@ -9,7 +9,7 @@ looking-for: "job"
 description: "Curious CS Student who is in love with every area of CS, and building quick prototypes!"
 ---
 
-Hi! I am a Tarang Ranpara, let me walk you through my intro, projects and blogs.
+Hi! I am Tarang Ranpara, let me walk you through my intro, projects and blogs.
 
 ### introduction
 
