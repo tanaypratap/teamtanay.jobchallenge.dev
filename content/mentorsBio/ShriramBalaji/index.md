@@ -6,7 +6,7 @@ type: "mentor"
 
 Shriram Balaji is a Software Engineer at NetApp. He is a Tech Enthusiast and is into Open Source. He is working in NetApp where he builds scalable microservices and products for the web. Shriram's Tech stack is: Node, React, React Native and a sprinkle of Golang, Firebase / Mongo for NoSQL, Postgres for SQL.
 
-![Shriram Balaji](/content/mentors_images/shriram_balaji.jpeg)
+![Shriram Balaji](https://raw.githubusercontent.com/tanaypratap/teamtanay.jobchallenge.dev/master/content/mentors_images/shriram_balaji.jpeg)
 
 
 Shriram loves Astrophysics. In his childhood days, Shriram aspired to be an astrophysicist but he chose the next best thing - Writing Code 💖
