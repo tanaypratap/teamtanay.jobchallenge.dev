@@ -2,7 +2,7 @@
 title: Ritbik Bharti
 type: "participant"
 name: "Ritbik Bharti"
-portfolio: "https://tanaypratap.com"
+portfolio: "http://ritbikbharti.me/"
 github-link: "https://github.com/ritbikbharti"
 linkedin-link: "https://linkedin.com/in/ritbikbharti"
 looking-for: "job"
