@@ -60,4 +60,6 @@ _stack_
 -->
 ### blogs
 
-🚧 I am currently creating my blog. I will update links here once it's done.
+The blog is up! You can find it at my [Portfolio](https://skadewdle.netlify.app)
+
+I will soon start posting on it! 🙌
