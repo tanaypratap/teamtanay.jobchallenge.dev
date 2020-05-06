@@ -21,10 +21,10 @@ I need a job as i will be graduating July 2020.
 
 I want to learn and be part of the dev community find mentors who could help me in my journey to becoming a great developer.
 
-I also want to know more about Open Source development and would like to conntribute in future as most of the things i have learnt has been with the help of Open source software.
+I also want to know more about Open Source development and would like to contribute in future as most of the things i have learnt has been with the help of Open source software.
 
 ## something interesting about you?
-If I am not coding ,Iam reading books on economics and finance,reading about dispruptive technologies like blockhain,love playing chess and discussing football.
+If I am not coding ,I am reading books on economics and finance,reading about dispruptive technologies like blockhain,love playing chess and discussing football.
 
 ### help I need?
 I am looking to explore alternative to REST APIS like GraphQL,so guidance in that would be appreciated.
@@ -68,16 +68,16 @@ _Github link_:https://github.com/jeringeorge98/Bug-tracking-software-with-vanill
 #### Simple React-Native application and Authentication with firebase  
 
 _Description_:
-Mobile application built with React Native ,which demonstrates simple authentication ,Users are authetcated with firebase api.
+Mobile application built with React Native ,which demonstrates simple authentication ,Users are authenticated with firebase api.
 _Stack_:
 React-Native ,Firebase
 
-_Github link_:https://github.com/jeringeorge98/Bug-tracking-software-with-vanilla-Js-
+_Github link_:https://github.com/jeringeorge98/firebase-react-native-app
 
 ### Internship
 Worked at a startup for 7 months were I worked on a co-working mobile application.The application was built with REACT NATIVE ,I was involved throughout the process from production to development.
 
-_Roles ad Responsibilties_: Included buidling frontend User interfaces on react native ,leveraging 3 party APIS, and building RESTful APIS to connect to the backend.
+_Roles and Responsibilties_: Included building frontend User interfaces on react native ,leveraging 3 party APIS, and building RESTful APIS to connect to the backend.
 
 _Playstore link_:https://play.google.com/store/apps/details?id=com.locuspartner
 ### blogs
