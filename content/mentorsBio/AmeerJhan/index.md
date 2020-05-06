@@ -1,6 +1,6 @@
 ---
 title: Ameer Jhan
-description: "SDE II, OLX People"
+description: "SDE II @ OLX People"
 type: "mentor"
 ---
 
