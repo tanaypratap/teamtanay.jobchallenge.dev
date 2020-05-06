@@ -6,7 +6,7 @@ type: "mentor"
 
 Akanksha Choudhary is a Software Development Engineer at Viacom18 Media Private Limited. She is a part of popular OTT Platform _Voot_ team. She is a self-taught *Full Stack Web Developer*. She primarily works with the *MERN stack*. She is an electronics engineer and shifted her career into coding after 1.5 years.
 
-![Akanksha Choudhary](https://github.com/tanaypratap/teamtanay.jobchallenge.dev/content/mentors_images/akanksha_choudhary.jpeg)
+![Akanksha Choudhary](https://raw.githubusercontent.com/tanaypratap/teamtanay.jobchallenge.dev/master/content/mentors_images/akanksha_choudhary.jpeg)
 
 After graduating from college, she started her career as a Programme Analyst at Cognizant Technology Solutions. She worked primarily on testing softwares. In 2015, she started learning web development and worked as a freelance web developer. That is where it all began  - her journey in the world of web!
 
