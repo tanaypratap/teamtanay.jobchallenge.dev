@@ -44,7 +44,7 @@ _stack_ React
 
 _hosted link_ https://listingappp.web.app/
 
--github link_ https://github.com/abhishek-031/ListingAppp
+_github link_ https://github.com/abhishek-031/ListingAppp
 
 <!--
 My projects:
