@@ -2,9 +2,9 @@
 title: Ishu Khanchi
 type: "participant"
 name: "Ishu Khanchi"
-portfolio: "https://tanayp.com"
+portfolio: "https://ishukhanchi.netlify.app/"
 github-link: "https://github.com/ishukhanchi"
-linkedin-link: "https://linkedin.com/in/tanaypratap"
+linkedin-link: "https://www.linkedin.com/in/ishu-khanchi-66577313b/"
 looking-for: "job"
 description: "Javascript | React | Node"
 ---
