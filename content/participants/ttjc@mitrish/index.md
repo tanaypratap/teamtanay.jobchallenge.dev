@@ -17,7 +17,7 @@ I have solid fundamentals (HTML,CSS,JS,SQL, MongoDB, Node) and have worked with 
 
 ## why are you taking this challenge?
 
-I need an way where i can continue to sharpen my skills, through this challenge i can keep track of my progress.
+I need a way where i can continue to sharpen my skills, through this challenge i can keep track of my progress.
 
 ## something interesting about you?
 
@@ -40,9 +40,6 @@ Starting from scratch, please observe this space for updates.
 ### blogs
 
 These are some of the blogs that i have already written in the past.
-
-- [Contributing Guide for GitHub](https://medium.com/@rishabhmittal200/contributing-guide-when-you-fork-a-repository-3b97657b01fb)
-- [What a Computer Science Student Know ?](https://medium.com/@rishabhmittal200/what-are-the-things-a-computer-science-and-engineering-student-must-know-2e6a8c5d2926)
 
 As a part of the challenge i will be writing new blogs, again as for projects, please keep an eye at this space for updates.
 
