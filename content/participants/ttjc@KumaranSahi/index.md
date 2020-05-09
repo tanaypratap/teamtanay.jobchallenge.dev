@@ -2,7 +2,7 @@
 title: Muthu Kumaran
 type: "participant"
 name: "Muthu Kumaran"
-portfolio: "https://tanaypratap.com"
+portfolio:
 github-link: "https://github.com/KumaranSahi"
 linkedin-link: "https://www.linkedin.com/in/muthu-kumaran-760735184"
 looking-for: "job"
@@ -36,37 +36,7 @@ Designing a good UX is something that I don't have much experience in
 
 My projects:
 
-**TO-DO LIST**
-
-_description_ An interactive app to keep track of activities
-
-_stack_ Frontend is done with HTML+CSS. Backend is powered by Express and MongoDB.
-
-_github link_ https://github.com/KumaranSahi/ToDo-list
-
-**BURGER BUILDER**
-
-_description_ An interactive and fun app to build your own burger.
-
-_stack_ React for Frontend. Firebase database is used to store burger data.
-
-_github link_ https://github.com/KumaranSahi/Burger-Builder
-
-**NASA CURIOSITY ROVER API PROJECT**
-
-_description_ A webapp to fetch and display images taken by NASA's curiosity rover
-
-_stack_ HTML ,CSS ,Javascript and Jquery
-
-_github link_ https://github.com/KumaranSahi/Playing-with-NASA-API
-
-**MUSIC PLAYER(Frontend)**
-
-_description_ Designed a front end for a music player with only HTML and CSS to see how much can be done with just knowledge on HTML and CSS
-
-_stack_ HTML and CSS
-
-_github link_ https://github.com/KumaranSahi/music_player
+Started working on my projects, and I will keep updating them as and when they are done
 
 
 ### blogs
