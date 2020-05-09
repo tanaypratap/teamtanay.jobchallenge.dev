@@ -9,7 +9,7 @@ looking-for: "internship"
 description: "Experienced at AI/ML and now  learning web development"
 ---
 
-Hi! I am a Piyush Verma let me walk you through my intro, projects and blogs.
+Hi! I am Piyush Verma let me walk you through my intro, projects and blogs.
 
 ### introduction
 
