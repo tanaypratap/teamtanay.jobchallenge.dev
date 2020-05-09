@@ -43,7 +43,7 @@ There are not much but still there are three that I made for Hackathons and Comp
 
 My projects:
 
-#### Dectro : Swachh Bin
+#### Waste Buy  : Swachh Bin
 
 _description_ In this application there are two modules :- 1) Users : Through this app the Shepherds and Farmers can order vegetable waste , organic waste and animal waste , OTP verification . 2) Admin : The admin can see the total number of orders , complains which are stored in database. When the admin accepts the order the customer will receive the message regarding the arrival date of the order .
 
@@ -53,7 +53,7 @@ _hosted link_ Not Hosted
 
 _github link_ https://github.com/yashmantri20/Swachh-Bin
 
-#### Dholpur : Covid19 Traker 
+#### Tracker : Covid19 Traker 
 
 _description_ The tracker gives the information regarding total positive cases , total active cases , total recovered , total deaths , it also includes a self assessment test to check whether you are safe or not and gives information regarding symptoms , testing and state wise data .
 
@@ -62,16 +62,6 @@ _stack_ ReactJs , NodeJs , HTML and CSS.
 _hosted Link_ https://covid19-india-app.netlify.com
 
 _github link_ https://github.com/yashmantri20/covid-19
-
-#### Musicee : Motion Detection
-
-_description_ It will detect the motion in a video frame.
-
-_stack_ Python , OpenCV.
-
-_hosted Link_ Not Hosted
-
-_github link_ https://github.com/yashmantri20/Motion-Detection
 
 #### Other Projects
 
