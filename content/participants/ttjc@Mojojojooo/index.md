@@ -38,3 +38,4 @@ It would be helpful if I understood front end and backend development.
 not a lot of projects are done. I will keep updating it with real links when done.
 
 My projects:
+Non as of now will be working on it. As I am leaning HTML,CSS and JS now.
