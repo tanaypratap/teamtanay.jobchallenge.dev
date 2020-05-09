@@ -39,7 +39,5 @@ Starting from scratch, please observe this space for updates.
 
 ### blogs
 
-These are some of the blogs that i have already written in the past.
-
 As a part of the challenge i will be writing new blogs, again as for projects, please keep an eye at this space for updates.
 
