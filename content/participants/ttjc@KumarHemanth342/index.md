@@ -29,7 +29,7 @@ It would be good if someone tells me how to do auth for apps.
 
 ### how to contact me?
 
-- [LinkedIn] https://www.linkedin.com/in/hemanth-kumar-83759015a/
+- [LinkedIn](https://www.linkedin.com/in/hemanth-kumar-83759015a/)
 
 ### projects
 
