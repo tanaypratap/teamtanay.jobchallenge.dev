@@ -5,7 +5,7 @@ name: "Shashank Gaur"
 portfolio: "Updating this soon"
 github-link: "https://github.com/Its-Shashank"
 linkedin-link: "https://www.linkedin.com/in/shashank-gaur-046b9b167/"
-looking-for: "intership"
+looking-for: "internship"
 description: "ardent learner nodejs developer ,learning React"
 ---
 
