@@ -44,6 +44,15 @@ _hosted link_ https://newsglobe.netlify.app
 
 _github link_ https://github.com/kaushalkoladiya/newsglobe
 
+#### News App with React  
+_description_ Social media app.
+
+_stack_ React/Firebase
+
+_hosted link_ https://chevronapp.netlify.app/
+
+_github link_ https://github.com/kaushalkoladiya/intagram-clone-frontend
+
 #### BlogNode App
 
 _description_ A app which allow create blog to user after signup/login. I use MongoDB, Express, React.js, Node.js, GraphQL, JWT.
