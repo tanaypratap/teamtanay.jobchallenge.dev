@@ -32,12 +32,15 @@ I can do it, just not very good at it.
 
 ### How to contact me?
 
-- [Instagram](https://instagram.com/s.k.a.d.e.w.d.l.e/)
-- [LinkedIn](https://www.linkedin.com/in/soham-karandikar-b994301a8/)
+- <a href="https://instagram.com/s.k.a.d.e.w.d.l.e/" target="_blank">Instagram</a>
+- <a href="https://www.linkedin.com/in/soham-karandikar-b994301a8/" target="_blank">Linkedin</a>
 
 ### Projects
 
-🚧 Not a lot of projects are done. I am working on them and will keep updating it with real links when done.
+🚧 I have started making projects! I'll keep the list updated.
+
+&nbsp;1. <a href="https://furryworld.netlify.app" target="_blank">Furry World</a> \
+=> This is a site that I made for my fathers business. It uses HTML, CSS (Stylus) and JavaScript. For the gallery section, I have use Firebase Storage. You can find the code on <a href="https://github.com/skadewdle/dog-app" target="_blank">Github</a>
 
 <!---
 My projects:
@@ -60,6 +63,6 @@ _stack_
 -->
 ### blogs
 
-The blog is up! You can find it at my [Portfolio](https://skadewdle.netlify.app)
+The blog is up! You can find it at my <a href="https://skadewdle.netlify.app" target="_blank">Portfolio</a>.
 
 I will soon start posting on it! 🙌
