@@ -5,7 +5,7 @@ name: "Ashish Kumar Jagrawal"
 portfolio: ""
 github-link: "https://github.com/Ashishjagrawal"
 linkedin-link: "https://linkedin.com/in/ashishkjagrawal"
-looking-for: "job"
+looking-for: "Job"
 description: "MERN Stack Developer"
 ---
 
@@ -32,7 +32,7 @@ It would be great if someone make vaccine for this Corona Virus shit.
 
 [LinkedIn](https://www.linkedin.com/in/ashishkjagrawal/)
 [Twitter](https://twitter.com/jagrawalashish)
-- LinkedIn
+
 
 ### projects
 
