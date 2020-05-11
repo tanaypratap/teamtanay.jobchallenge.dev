@@ -9,7 +9,7 @@ looking-for: "job"
 description: "React | Redux | JavaScript | HTML | CSS | SAAS | Figma"
 ---
 
-Hi! I am Shoaib Sayyed, a Front-End Developer who loves to create beautiful design and experinces.
+Hi! I am Shoaib Sayyed, a MERN Stack Developer(Learning) who loves to create beautiful design and experinces.
 
 ### introduction
 
