@@ -26,7 +26,7 @@ I can talk about absolutely anything to anyone. I can  hack things to get my wor
 
 ### help I need?
 
-It would be great if someone make vaccine for this Corona Virus shit. 
+It would be good if someone tells me how to make and deploy complex web applications smoothly.
 
 ### how to contact me?
 
