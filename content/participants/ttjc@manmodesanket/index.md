@@ -9,7 +9,7 @@ looking-for: "Job"
 description: "React | Node"
 ---
 
-"Hello World!!" this is Sanket Manmode, a amteur Web Developer.
+"Hello World!!" this is Sanket Manmode, a amateur Web Developer.
 
 ## Introduction
 
@@ -39,16 +39,16 @@ I have done following projects
 
 ## Sorting Visualizer
 
-- [Website](https://sortingvisualizer1.netlify.app/)
-- [Github](https://github.com/manmodesanket/sorting-visualizer)
+- Built VannillaJS application for sorting visualization.
 
-* Built VannillaJS application for sorting visualization.
+- Implemented Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
 
-* Implemented Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
+- Stack : Vanilla JS, HTML, CSS
+
+* [Website](https://sortingvisualizer1.netlify.app/)
+* [Github](https://github.com/manmodesanket/sorting-visualizer)
 
 ## Pathfinder Visualizer
-
-- [Github](https://github.com/manmodesanket/pathfinder-visualizer)
 
 - Built a React application for pathfinding visualization.
 
@@ -56,17 +56,9 @@ I have done following projects
 
 - Still working on the project. I want to add more algorithms like breadth first and depth first search algorithms.
 
-## Qbox
+- ReactJS, CSS
 
-- Installed a secure file sharing service
-
-- Used linux, OS and Networking Concepts.
-
-- This project was project was part of the my Student Developer experince at [Crio.do](https://crio.do/). So that is why the repository of this project is private.
-
-## Twitter Sentiment Analysis
-
-- Built a flask server to run machine learning model and render result of the model.
+- [Github](https://github.com/manmodesanket/pathfinder-visualizer)
 
 ### blogs
 
