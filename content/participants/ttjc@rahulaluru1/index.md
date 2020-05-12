@@ -43,13 +43,13 @@ My projects:
 
 #### Keeper App: A replica of Google Keep
 _description_ This is a note-taking service. 
-This is still a work in progress and will be working on back-end as I am learning MErN in the stack 
 
-_stack_ Made with React JS. 
+
+_stack_ Made with MERN Stack. 
 
 _hosted link_ 
 
-_github link_ https://github.com/rahulaluru1/keeperapp
+_github link_ https://github.com/rahulaluru1/keepapp
 
 
 
