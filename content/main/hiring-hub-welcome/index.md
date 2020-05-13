@@ -6,29 +6,29 @@ description: "Hiring Hub"
 
 ## Welcome to the Hiring Hub
 
-Namaste Industry Leader!
+Namaste Industry Leader!🙏  
 Here you will find the information and steps to become a hiring partner at jobChallenge.
 
-### about jobChallenge
+### about jobChallenge💭
 
 jobChallenge is a free and open program started by Tanay Pratap to help students and early professionals raise up and meet the demands of the industry. Tanay has been teaching students programming for free for about a year now and this initiative will be a logical extension of how he wants to add more value to the hiring ecosystem. About 20k students actively learn from Tanay through a variety of social media platforms and his website.
 
-### what's this challenge?
+### what's this challenge?🤷‍♂️
 
 Participants need to complete the following minimum tasks for the challenge:
 
-5 Projects
+5 Projects👨‍💻
 
 - Mostly around React, React Native, NodeJS ecosystem.
 - Will be full-stack projects
-- As a hiring partner, you can sponsor and mentor some of your own projects as well. 
+- As a hiring partner, you can sponsor and mentor some of your own projects as well.
 
-3 Blogs
+3 Blogs📰
 
 - This is so there to showcase their communication acumen.
 - Blogs will be around the technical challenges they faced and the journey to overcome them.
 
-2 Reviews on their projects and blogs.
+2 Reviews📜 on their projects and blogs.
 
 - Reviews/recommendations will be done by our mentors. 
 - Mentors are working professionals who are active members of the programming community. 
@@ -39,7 +39,7 @@ Participants need to complete the following minimum tasks for the challenge:
 
 We expect your organization to:
 
-- Interview top 5 participants
+- Interview top 5 participants🙈
 - If they fail, give them feedback on where they can improve
 - Overall, help participants succeed to get them ready for jobs
 
@@ -59,7 +59,7 @@ _The challenge is completely free you don't need to spend a dime on this, all we
 
 ### how we accept the invitation?
 
-To accept the invitation, please complete the sign-up process [here](shorturl.at/fhuz5)
+To accept the invitation, please complete the sign-up process 👉[here](http://shorturl.at/fhuz5)
 
 Please don't miss any detail. We need everything to get you on the website and give social media shoutouts.
 
@@ -69,7 +69,7 @@ Another note: If you feel like someone you know could be a hiring partner for th
 
 ### about #TeamTanay
 
-TeamTanay is an open community of 20,000+ students from 50+ countries who all mainly focus on learning to become a full-stack developer led by me. The community is open to every learning enthusiast who wants to learn and share with the community.
+TeamTanay 💯 is an open community of 20,000+ students from 50+ countries who all mainly focus on learning to become a full-stack developer led by me. The community is open to every learning enthusiast who wants to learn and share with the community.
 
 
 
