@@ -6,14 +6,14 @@ portfolio: "https://sachinsingh.netlify.com/"
 github-link: "https://github.com/knowsach"
 linkedin-link: "https://www.linkedin.com/in/sachin-singh-6a2867189/"
 looking-for: "job"
-description: "javascript | typescript | Angular | c++ | HTML | CSS | jquery "
+description: "javascript | typescript | Angular | c++ | HTML | CSS | jquery | Git"
 ---
 
 I am sachin singh, registering for jobChallenge.
 
 ### introduction
 
-currently I am interning as a front end developer for past 8 months.
+Hi , I am working as a front end developer for past 11 months , I have worked on group of three people to create a customer facing web app , mechatronrobotics.
 
 ## why are you taking this challenge?
 
@@ -33,26 +33,25 @@ currently I am learning back end , so I would be needing help in there.
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+#### Served
 
-My projects:
+_description_: Are you hungry? let's find some place to eat or order food .
 
-#### Project-manager
+_stack_ :Angular 9 
 
-_description_ it helps in assigning task to employees and also description.
+_hosted link_ https://served.netlify.app/
 
-_stack_ Angular
+_github link_ https://github.com/knowsach/served
 
-_hosted link_ https://projectmanage.netlify.com/
+#### Movie Mania
 
-_github link_ https://github.com/knowsach/project-manager
+_description_ : Find movies Genre wise.
 
-#### Program to make time table for schools
+_stack_ : Angular 9
 
-_description_ it helps in creating a time table for schools
+_hosted link_ https://the-movie-mania.netlify.app/
 
-_stack_ c++
-_github link_ https://github.com/knowsach/time-table
+_github link_ https://github.com/knowsach/movie-mania
 
 ### blogs
 
