@@ -20,7 +20,7 @@ One exciting news which we do want to share with you is that collectively these 
 
 ### you want to be a hiring partner?
 
-Want to become our hiring partner,We have created a whatsapp group for our hiring partners with the name:  
+Want to become our hiring partner, We have created a whatsapp group for our hiring partners with the name:  
 
 **#hiringHub #jobChallenge** join [here](http://shorturl.at/buIOP)
 
