@@ -13,7 +13,7 @@ Hi! I am Aaquib Ahmed , pursuing my b-tech from Bangalore Institute of Technolog
 
 ### introduction
 
-I am currently working as FrontEnd Developer in Skimbox [link](http://skimbox.co/), from my freshman year I started working as part time blogger and content writer through which I also oppurtunity to work in different domains like SEO and Social Media Marketing, but I always had love for coding, I used to code simultaneously on HACKERANK [link](https://www.hackerrank.com/diazzaaquib), then finaly in my third year I started working on small web projects and started doing my Frelancing job.
+I am currently working as FrontEnd Developer in [Skimbox](http://skimbox.co/), from my freshman year I started working as part time blogger and content writer through which I also oppurtunity to work in different domains like SEO and Social Media Marketing, but I always had love for coding, I used to code simultaneously on [HACKERANK](https://www.hackerrank.com/diazzaaquib), then finaly in my third year I started working on small web projects and started doing my Frelancing job.
 
 ## why are you taking this challenge?
 
@@ -45,15 +45,15 @@ _stack_ HTML, CSS and Vanila JS
 
 _hosted link_ https://dgoals.netlify.app
 
-_github link_ 
+_github link_ https://github.com/killcodeX/to-do-list
 
-#### Pig game
+#### ChatCord App
 
-_description_ Its a small dice game of two player where they roll a dice, they have option either to retain or keep on dicing but if anyone gets '1', his scores fall down to 0 and whoever reached his score to 20, wins the game!!.
+_description_ Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI!!.
 
-_stack_ HTML, CSS and Vanila JS
+_stack_ HTML, CSS, Node Js and Socket.io
 
-_hosted link_ https://ludo-swap.netlify.app
+_github link_ https://github.com/killcodeX/mychat
 
 #### My Own Portfolio
 
@@ -62,6 +62,8 @@ _description_ I have made my own portfolio so that any company or person can dir
 _stack_ HTML, CSS, Vanila JS and Bulma(CSS Framework)
 
 _hosted link_ https://aaquib.netlify.app
+
+_github link_ https://github.com/killcodeX/portfolio-2.0
 
 #### Convid-weather App
 
@@ -79,7 +81,7 @@ I have been blogging for last 3 years, I am ghost writer who writes for other pe
 
 _description_ As a Front-end developer its is very important to understand the structure of your webpage, I have tried to explain the layout system including Why CSS Grid is so popular layout system, I hope you like it 😊 !!!
 
-_link_ https://www.linkedin.com/pulseunderstanding-web-layout-your-introduction-css-grid-aaquib-ahmed/
+_link_ https://www.linkedin.com/pulse/understanding-web-layout-your-introduction-css-grid-aaquib-ahmed/
 
 
 #### Understanding and Getting comfortable with Git
@@ -87,17 +89,3 @@ _link_ https://www.linkedin.com/pulseunderstanding-web-layout-your-introduction-
 _description_ When it comes to development, stack changes but there is one thing which remains constants that is GIT, it has revolutionized the development field, I tried to give a small introduction of git and included small cheat sheet. I hope you like the article.
 
 _link_ https://www.linkedin.com/pulse/understanding-getting-comfortable-git-aaquib-ahmed/
-
-
-#### Hacks to make Wordpress sites responsive!
-
-_description_ Simple tips and tricks to make WordPress sites responsive.
-
-_link_ https://www.linkedin.com/pulse/hacks-make-wordpress-sites-responsive-aaquib-ahmed/
-
-
-#### Understanding CSS Position Property 101
-
-_description_ CSS Positioning can be confusing, I tried to simplify it easy as possible!!
-
-_link_ https://www.linkedin.com/pulse/understanding-css-position-property-101-aaquib-ahmed/
