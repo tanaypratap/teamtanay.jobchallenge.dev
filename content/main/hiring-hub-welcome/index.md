@@ -49,7 +49,7 @@ Want to become our hiring partner, We have created a WhatsApp group for our hiri
 
 ### why should one be a hiring partner?
 
-"_It's always important to invest in young talents and the talent of tomorrow_" by Delphine Arnault
+> __It's always important to invest in young talents and the talent of tomorrow__ by Delphine Arnault
 
 Being a hiring partner gives an out of the box recruitment option to the organization and would get an option for hiring young emerging engineers. India is a country in which almost 15 lakhs engineers graduate every year, and the recruiters have to go through all those applicants the good one and the bad one.
 
