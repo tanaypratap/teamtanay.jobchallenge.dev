@@ -35,8 +35,8 @@ I spend my weekends teaching kids and helping communities by taking teaching dri
 ### help I need?
 
 It would be good if someone helps and suggest me the best practices while working on projects.
-Maybe just pointing me out that a particular link in youtube would help us more on particular tech stack would definately make some one's day better :)
-Tanay , you have helped me a lot in this, While I will definately would follow your suggestions but I am open for more.
+Maybe just pointing me out that a particular link in youtube would help us more on particular tech stack would definitely make some one's day better :)
+Tanay , you have helped me a lot in this, While I will definitely would follow your suggestions but I am open for more.
 
 ### how to contact me?
 
