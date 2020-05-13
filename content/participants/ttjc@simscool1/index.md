@@ -39,7 +39,9 @@ I have just started as I mentioned earlier. So, I will need help at every step. 
 
 not a lot of projects are done. I will keep updating it with real links when done.
 
-My projects:
+Stay tuned. 
 
+### Blogs
 
+Same as that of projects.
 
