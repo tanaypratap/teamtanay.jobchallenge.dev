@@ -8485,6 +8485,11 @@ node-abi@^2.7.0:
   dependencies:
     semver "^5.4.1"
 
+node-bin-setup@^1.0.0:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/node-bin-setup/-/node-bin-setup-1.0.6.tgz#4b5c9bb937ece702d7069b36ca78af4684677528"
+  integrity sha512-uPIxXNis1CRbv1DwqAxkgBk5NFV3s7cMN/Gf556jSw6jBvV7ca4F9lRL/8cALcZecRibeqU+5dFYqFFmzv5a0Q==
+
 node-emoji@^1.10.0:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/node-emoji/-/node-emoji-1.10.0.tgz#8886abd25d9c7bb61802a658523d1f8d2a89b2da"
@@ -8560,6 +8565,13 @@ node-releases@^1.1.46:
   integrity sha512-k4xjVPx5FpwBUj0Gw7uvFOTF4Ep8Hok1I6qjwL3pLfwe7Y0REQSAqOwwv9TWBCUtMHxcXfY4PgRLRozcChvTcA==
   dependencies:
     semver "^6.3.0"
+
+node@^13.13.0:
+  version "13.13.0"
+  resolved "https://registry.yarnpkg.com/node/-/node-13.13.0.tgz#5138b94de149b7ddfddb18f8691d4a00f5761f2f"
+  integrity sha512-Ptccrn5A3D3EEZ4xTC9HNhCro2KzCF1j6rCgeczFFe1A6Y0HclzbRHw0OxsEjAZcgvmgzN3OIxZpAIkkNe8LTw==
+  dependencies:
+    node-bin-setup "^1.0.0"
 
 noms@0.0.0:
   version "0.0.0"
@@ -13302,6 +13314,11 @@ yargs@^13.2.4:
     which-module "^2.0.0"
     y18n "^4.0.0"
     yargs-parser "^13.1.1"
+
+yarn@^1.22.4:
+  version "1.22.4"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.22.4.tgz#01c1197ca5b27f21edc8bc472cd4c8ce0e5a470e"
+  integrity sha512-oYM7hi/lIWm9bCoDMEWgffW8aiNZXCWeZ1/tGy0DWrN6vmzjCXIKu2Y21o8DYVBUtiktwKcNoxyGl/2iKLUNGA==
 
 yauzl@^2.4.2:
   version "2.10.0"

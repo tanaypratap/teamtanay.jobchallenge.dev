@@ -27,8 +27,36 @@ class Index extends React.Component {
             `react`,
           ]}
         />
+
+        <Section
+          header="what's the challenge?"
+          
+          textNode={
+            <p>
+              #TeamTanayJobChallenge requires you to finish a minimum of{" "}
+              <em>5 projects</em>, <em>3 blogs</em> and <em>2 reviews</em> on
+              your projects.
+              <br/>
+                <p align="center">
+                  Registrations open till{" "}<b>1st June,2020</b>
+                </p>
+              </p>
+          }
+          more={[
+            {
+              link: "/challenge-details",
+              text: "challenge details here...",
+            },
+            {
+              link: "/02_is-registration-required/",
+              text: "register here",
+            },
+          ]}
+        />
+
         <Section
           header="what's TeamTanay?"
+          needsBackground={backgroundGrey}
           textNode={
             <p>
               An open community of over 20K students and developers spanning
@@ -42,25 +70,6 @@ class Index extends React.Component {
             },
           ]}
         />
-
-        <Section
-          header="what's the challenge?"
-          needsBackground={backgroundGrey}
-          textNode={
-            <p>
-              #TeamTanayJobChallenge requires you to finish a minimum of{" "}
-              <em>5 projects</em>, <em>3 blogs</em> and <em>2 reviews</em> on
-              your projects.
-            </p>
-          }
-          more={[
-            {
-              link: "/challenge-details",
-              text: "challenge details here...",
-            },
-          ]}
-        />
-
         <Section
           header="are we really getting a job?"
           needsBackground={backgroundOrange}

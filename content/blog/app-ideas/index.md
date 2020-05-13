@@ -1,6 +1,6 @@
 ---
 title: 19 App Ideas for the Job Challenge
-date: "2019-03-20T22:12:03.284Z"
+date: "2020-03-20T22:12:03.284Z"
 type: "blog"
 description: "Here are some APIs and some app ideas that you can try for making projects and those can help you get a job or an internship."
 ---

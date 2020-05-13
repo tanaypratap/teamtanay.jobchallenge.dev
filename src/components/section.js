@@ -10,7 +10,6 @@ function Section({ header, textNode, more, needsBackground }) {
       <div
         style={{
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-
           marginLeft: `auto`,
           marginRight: `auto`,
           maxWidth: rhythm(24),

@@ -9,6 +9,7 @@ function createIndividualPages(actions, graphql) {
     graphqlForSecondaryPages(graphql, createPage, "faq"),
     graphqlForSecondaryPages(graphql, createPage, "main"),
     graphqlForSecondaryPages(graphql, createPage, "participant"),
+    graphqlForSecondaryPages(graphql, createPage, "mentor"),
   ])
 }
 
