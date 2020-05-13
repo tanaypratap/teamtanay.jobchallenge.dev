@@ -58,5 +58,20 @@ _github link_ https://github.com/Shivraj97/real_estate_django_project
 
 ### blogs
 
-I will update as soon as i starts publishing the blogs
+_link_ https://medium.com/@shivrajnag/simple-js-projects-d933be2bb802?source=friends_link&sk=ab3801eba11078f45c7f6576ba34d6fa
 
+#### Simple JS Projects: Project 1: Finddit — A Reddit Search App
+
+_description_ Here we learn to create a simple reddit search app using Reddit API, ES6, Fetch and Parcel.User can search subreddit by typing in the input field and all the reddit/subreddit will be fetched from the reddit server.
+
+_link_ https://medium.com/@shivrajnag/simple-js-projects-project-2-movieinfo-search-app-aae688204fc2?source=friends_link&sk=e54694c43441e4bbecd79cac6c347a61
+
+#### Simple JS Projects: Project 2: MovieInfo Search App
+
+_description_ Here we learn to create a simple responsive movie info search app built using vanilla.js, Bootswatch and jQuery. It uses session storage.The project is using OMDB API to get movie details and axios(Promise based HTTP client for the browser and node.js) to make an API calls.
+
+_link_ https://medium.com/@shivrajnag/simple-js-projects-project-3-mybooklist-app-da0aa2014f8a?sk=fc0528cbdbceed54bb3038d4fa3b1a8d
+
+#### Simple JS Projects: Project 3: MyBookList App
+
+_description_ Here we learn to create a simple responsive BookList app using vanilla.js and Bootswatch. It uses persistent local storage to store book details. The project doesn't use any frameworks. It uses ES6 Classes and Objects.
