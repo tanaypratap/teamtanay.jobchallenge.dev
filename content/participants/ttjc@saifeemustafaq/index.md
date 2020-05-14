@@ -55,21 +55,9 @@ I have mentored 1500+ students to get started with *Cloud Computing*. I am just 
 
 My projects:
 
-#### Engine Efficiency
-
-_description_ : A project for mechanical engineering students to simplify their calculations for finding the efficiency of their engine by just putting in some values.
-
-_stack_ Made in Java with NetBeans
-
-_hosted link_ : Unable to locate the project files. Also I never imagined that it would be useful to show as a project in future as I was not aware of its importance. Recently learned GitHub so that I can record my future projects on Git.
-
-#### Authentication for Female specific apps
-
-_description_ : A project for apps that are supposed to be used only by women. Before any screen or any activity, the app will first prompt for a face scan. And if the app determines that its a female, only then it will let the user register for the app. Second layer of authentication included data fetching from Aadhar
-
-_stack_ : Made on Android Platform using Java. Use of Computer Vision API key for gender detection.
-
-_hosted link_ : Unable to locate the project files. Also I never imagined that it would be useful to show as a project in future as I was not aware of its importance. Recently learned GitHub so that I can record my future projects on Git.
+*Work in Progress*
+*Work in Progress*
+*Work in Progress*
 
 
 ### blogs
