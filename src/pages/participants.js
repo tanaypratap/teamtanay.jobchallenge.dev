@@ -15,6 +15,7 @@ class PostsIndex extends React.Component {
         location={this.props.location}
         title={"listing all participants"}
         siteTitle={siteTitle}
+        numberOfParticipants = {faqs.length}
       >
         <SEO
           title="participants"
@@ -25,6 +26,7 @@ class PostsIndex extends React.Component {
             `react`,
           ]}
         />
+        {/* TODO: Add a search bar if one wants to find a particular participant */}
         {faqs.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
