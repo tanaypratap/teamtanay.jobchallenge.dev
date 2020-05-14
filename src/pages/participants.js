@@ -15,7 +15,7 @@ class PostsIndex extends React.Component {
         location={this.props.location}
         title={"listing all participants"}
         siteTitle={siteTitle}
-        numberOfParticipants = {faqs.length}
+        numberOfParticipants={faqs.length}
       >
         <SEO
           title="participants"
