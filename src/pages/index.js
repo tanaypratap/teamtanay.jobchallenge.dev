@@ -89,14 +89,14 @@ class Index extends React.Component {
                   know more about hiring partners
                   </a>
                 </p>
+              <br/>
+                <p style={{textAlign:'center'}}>
+                  <a href="/hiring-hub-welcome">
+                  wanna hire through the challenge?🤔
+                  </a>
+                </p>
             </p>
           }
-          more={[
-            {
-              link: "/hiring-hub-welcome",
-              text: "wanna hire through the challenge?🤔",
-            },
-          ]}
         />
 
         <Section
