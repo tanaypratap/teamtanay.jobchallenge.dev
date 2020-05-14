@@ -83,3 +83,5 @@ _hosted link_ : Unable to locate the project files. Also I never imagined that i
 _description_ I haven't yet tried the platform. But I will surely update this once I get used to the platform
 
 _link_ https://dev.to/some-imaginary-link
+
+# [Download Resume](https://www.saifeemustafa.com/resume)
