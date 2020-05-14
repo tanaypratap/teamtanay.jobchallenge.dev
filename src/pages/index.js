@@ -33,11 +33,9 @@ class Index extends React.Component {
           
           textNode={
             <p>
-              <p>
               #TeamTanayJobChallenge requires you to finish a minimum of{" "}
               <em>5 projects</em>, <em>3 blogs</em> and <em>2 reviews</em> on
               your projects.
-              </p>
               <br/>
                 <p align="center">
                   Registrations open till{" "}<b>1st June,2020</b>
