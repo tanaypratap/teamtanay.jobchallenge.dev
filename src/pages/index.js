@@ -81,12 +81,18 @@ class Index extends React.Component {
               and creating projects + profile it has transformed. Now, we have
               hiring partners who are ready to help, interview and hire
               successful participants from the challenge.
+              <br/>
+                <p style={{textAlign:'center'}}>
+                  <a href="/hiring-partners">
+                  know more about hiring partners
+                  </a>
+                </p>
             </p>
           }
           more={[
             {
-              link: "/hiring-partners",
-              text: "know more about hiring partners",
+              link: "/hiring-hub-welcome",
+              text: "wanna hire through the challenge?🤔",
             },
           ]}
         />
