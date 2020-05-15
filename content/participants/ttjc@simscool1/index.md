@@ -13,7 +13,7 @@ Hi I am Simran Anand. Let me tell you a bit about myself.
 
 ### introduction
 
-I am a third year,IT engineering student. Though I am apert of this field from some years, my interest in it was really less. But still I told myself to look for various things in field. So, that I can see if something interests me at this point. Thus started looking for various tutorials. Found Tanay Sir's tutorial and liked it. And then sir mentioned about learcodingfree.org in one of his AMAs. So, i decided to check it. That is where I found this challenge.
+I am a third year,IT engineering student. Though I am a part of this field from some years, my interest in it was really less. But still I told myself to look for various things in field. So, that I can see if something interests me at this point. Thus started looking for various tutorials. Found Tanay Sir's tutorial and liked it. And then sir mentioned about learcodingfree.org in one of his AMAs. So, I decided to check it. That is where I found this challenge.
 
 ## why are you taking this challenge?
 
@@ -22,7 +22,7 @@ I want to learn more and contribute to the community.
 
 ## something interesting about you?
 
-I can actually remember lyrics of some Hindi songs. I love to read books. I can't remeber all conversations that I have had with someone, but I remember most of it.
+I can actually remember lyrics of some Hindi songs. I love to read books. I can't remember all conversations that I had with someone, but I remember most of it.
 
 ### help I need?
 As I said earlier, I am a complete beginner. I will need help at every step. I will first try to resolve it by myself by using Google Search, if I still can't find it, I will surely seek for it on either Github or Telegram Channel.
