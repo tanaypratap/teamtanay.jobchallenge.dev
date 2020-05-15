@@ -9,7 +9,7 @@ looking-for: "internship"
 description: "ardent learner nodejs developer ,learning React"
 ---
 
-Hi! I am a Shashank Gaur let me walk you through my intro, projects and blogs.
+Hi! I am Shashank Gaur let me walk you through my intro, projects and blogs.
 
 ### introduction
 
