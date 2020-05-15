@@ -59,4 +59,4 @@ _github link_ https://github.com/4k45hv3rm4/Todo-List -->
 
 ### blogs
 
-No new blogs written as part of the job challenge. Check my [Blog](https://harshithvenkatesh.blogspot.com) for previous blogs.
+No new blogs written as part of the job challenge. Check my [Blog](https://harshith-venkatesh-blog.netlify.app/) for previous blogs.
