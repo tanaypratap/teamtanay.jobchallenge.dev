@@ -84,3 +84,9 @@ _link_ https://tapanchudasama.netlify.app/how-i-created-a-simple-url-shortener-u
 _description_ How i created a sudoku solver using backtracking in python using pygame
 
 _link_ https://tapanchudasama.netlify.app/backtracking-creating-a-sudoku-solver
+
+#### SQL and NoSQL databases
+
+_description_ What are SQL and NoSQL databases and when to use which one
+
+_link_ https://tapanchudasama.netlify.app/sql-or-no-sql
