@@ -9,9 +9,8 @@ looking-for: "internship"
 description: "Microsoft Azure | Python | DevOps"
 ---
 
-> # Hi! I am **[Mustafa Saifee](https://www.saifeemustafa.com/)**, let me walk you through my intro, projects and blogs.
+Hi! I am **[Mustafa Saifee](https://www.saifeemustafa.com/)**, let me walk you through my intro, projects and blogs.
 
----
 
 ### introduction
 
