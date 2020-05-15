@@ -13,8 +13,10 @@ Hi! I am Bhavik Chavda let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-Currently, a sudent pursuing Master degree in IT at Veer Narmad South Gujarat University, Surat.
-Passionate about learning Javascript and other languages and building stuff from them. Likes to participate in Hackathons and analysing how startups are working, operating and growing.
+Currently, a student pursuing a Master's degree in IT at Veer Narmad South Gujarat University, Surat.
+Build websites in MERN stack and Codeigniter.
+Passionate about learning Javascript and other languages and building stuff from them. 
+Likes to participate in Hackathons and analyzing how startups are working, operating, and growing.
 Curious about IoT and Embedded Programming. Build projects in IoT and hold some intermediate knowledge in depth.
 A tech enthusiast and Competitive Programmer.
 
