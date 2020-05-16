@@ -6,14 +6,14 @@ portfolio: ""
 github-link: "https://github.com/simscool1"
 linkedin-link: "https://www.linkedin.com/in/simran-anand-833aa3153/"
 looking-for: "job|insternship"
-description: "expert at CSS/HTML learning React"
+description: "learning html,css, started with javascript"
 ---
 
 
 
 ### introduction
 
-I am an IT engineering student studying in Sixth semester. I never had much interest in coding. But now I have started to have some. Thus I am learning develpment now, with my interest in it. 
+I am an IT engineering student studying in Sixth semester. I never had much interest in coding. But now I have started to have some. Thus I am learning development now, with my interest in it. 
 
 ## why are you taking this challenge?
 
