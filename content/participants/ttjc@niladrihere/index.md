@@ -53,4 +53,4 @@ _github link_ https://github.com/niladrihere/Boston-AirBnB
 
 ### blogs
 
-Blogs will be updated as soon as I get started with the projects.
+Blogs will be updated as soon as I get started with the projects. So stay tuned.
