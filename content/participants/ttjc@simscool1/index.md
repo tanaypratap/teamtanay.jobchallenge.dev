@@ -27,19 +27,15 @@ I write poetry in Hindi.
 I can walk really long distances. I remember, last time I walked continuously(with tiny breaks) was around 12 km. (This one is weird, I know. :))
 
 ### help I need?
-<<<<<<< HEAD
-As I said earlier, I am a complete beginner. I will need help at every step. I will first try to resolve it by myself by using Google Search, if I still can't find it, I will surely seek for help on either Github Issues or Telegram Channel.
-||||||| 908a7da... registering simscool1 #1
-As I said earlier, I am a complete beginner. I will need help at every step. I will first try to resolve it by myself by using Google Search, if I still can't find it, I will surely seek for it on either Github or Telegram Channel.
-=======
 
-I have just started as I mentioned earlier. So, I will need help at every step. I will first try to look for resources by myself. If I am unable to find some, I will seek for guidance. 
->>>>>>> parent of 908a7da... registering simscool1 #1
+As I said earlier, I am a complete beginner. I will need help at every step. I will first try to resolve it by myself by using Google Search, if I still can't find it, I will surely seek for help on either Github Issues or Telegram Channel.
+
 
 ### how to contact me?
 
 - Twitter: https://twitter.com/simscool1
 - LinkedIn: https://www.linkedin.com/in/simran-anand-833aa3153/
+-Gmail: simrananand119@gmail.com
 
 ### projects
 
