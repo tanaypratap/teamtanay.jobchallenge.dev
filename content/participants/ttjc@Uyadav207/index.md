@@ -2,7 +2,7 @@
 title: Uyadav207
 type: "participant"
 name: "Utkarsh Yadav"
-portfolio: "https://profitableutkarsh.netlify.app/"
+portfolio: "https://utkarshdeveloper.netlify.app/"
 github-link: "https://github.com/Uyadav207"
 linkedin-link: "https://www.linkedin.com/in/utkarsh-yadav-37242b17b/"
 looking-for: "internship"
@@ -31,7 +31,7 @@ I love talking to people, with different opinions and share some knowledge.
 
 ### help I need?
 
-It would be good if someone tells me how to prepare for the job interview and project management and also for open source contributions.
+It would be good if someone tells me how to prepare for the job interview and project management.
 
 ### how to contact me?
 
@@ -42,15 +42,15 @@ It would be good if someone tells me how to prepare for the job interview and pr
 ### projects
 My projects:
 
-#### **Devhub**: Study and Practice Material for Beginners (It's a Google Chrome Extension).
+#### **TubeStore**: A YouTube Clone Application.
 
-_description_ : Do you feel sick of where to go for best guidance and resources for Software developer and do not know where to learn and practice coding ? Try Devhub!.
+_description_ : User can search for over 10 Billion Videos, can play and Enjoy, Learn, Entertain themselves.
 
-_stack_: HTML | CSS | Responsive designing | Javascript | Chrome-Manifestation | Json | git | version-control.
+_stack_: React-Native | Redux | Google API | Expo-CLI.
 
-_hosted link_: https://chrome.google.com/webstore/detail/devhub/cloppmnkdcaciffmfejhjighlgggbfak?hl
+_hosted link_: Will Post Soon
 
-_github link_: https://github.com/Uyadav207/Chrome-Extension-Devhub_V.1.0.0.0
+_github link_: https://github.com/Uyadav207/TubeStore
 
 #### **Pimo** (A chrome Extension for Pink Mode to all Google Products and also to Linkedin & StackOverflow)
 
@@ -74,12 +74,22 @@ _github link_: https://github.com/Uyadav207/weatherly
 
 #### **Amigos**: A Friend in Need is a Friend indeed (REACT-NATIVE application for both Android and IOS platforms).
 
-_description_: Amigos is React-Native Mobile-Application with a Server code made with NodeJS and Redux to be added Soon... and The application stores the email | Name | Profile | Contact | Salary | websites | of your friends and colleagues...  
+_description_: Amigos is React-Native Mobile-Application with a Server code made with NodeJS and Redux is also used... and The application stores the email | Name | Profile | Contact | Salary | websites | of your friends and colleagues...  
 
-_stack_: REACT-NATIVE | SAAS | NODE.js | Express | Herokuapp | Git |version-control | UI-designing | UX-designing | MongoDB | Clouds | Ngrok.
+_stack_: REACT-NATIVE | SAAS | NODE.js | Express | Redux | Git |version-control | UI-designing | UX-designing | MongoDB | Clouds | Ngrok.
 
 _github link_: https://github.com/Uyadav207/Amigos
 
+#### **Covid-19 Dashboard**: A React Web Application with chart.js Implementation.
+
+_description_: A React Web Application used to count-statistically the daily patients Update for Covis-19 Pandemic.  
+
+_stack_: React | Chart.js | API's | version-control
+
+_hosted link_: https://covid19-counts.netlify.app/
+
+_github link_: https://github.com/Uyadav207/Covid-19-Stats
+
 ### blogs
 
-same as the Projects, I will keep Updating my blogs as and when done.
+[The Front-End I Know](https://medium.com/@yadavutkarsh207/front-end-as-i-know-8da2d140b6e8)
