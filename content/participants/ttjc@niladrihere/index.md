@@ -9,20 +9,19 @@ looking-for: "job"
 description: "Python - Numpy | Panads | Matplotlib | Scikit-learn"
 ---
 
-Hi! I am  Niladri let me walk you through my intro, projects and blogs.
+Hi! I am  Niladri. I am a Python developer with analytic skills. Let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-A guy with skills who fails due tot lack of motivation. Hard worker, I would rather not count myself as one. Took wrongs decisions in life there took this challenge to turn the tables down! 
+A guy with skills and able to work under pressure. Hard worker, I would rather not count myself as one therefor I look for the optimal way to complete a project as soon as possible. Took this challenge to enhance my skills over other domains.
 
 ## why are you taking this challenge?
 
 I need job.
-Took life too leniently, now I need a real change !
 
 ## something interesting about you?
 
-I can tear down each and every computer mend it and assemble it perfectly in one piece. I changed theremal paste for my 5 friends laptops. I successfully booted up mac on my acer nitro 5 . The last one is a great success. 
+I can tear down each and every computer, mend it and assemble it perfectly in one piece. I reapplied thermal paste on 5 laptops. I successfully booted up mac os catalina on my acer nitro 5 .
 
 ### help I need?
 
