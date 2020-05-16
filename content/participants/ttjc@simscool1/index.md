@@ -35,7 +35,7 @@ As I said earlier, I am a complete beginner. I will need help at every step. I w
 
 - Twitter: https://twitter.com/simscool1
 - LinkedIn: https://www.linkedin.com/in/simran-anand-833aa3153/
--Gmail: simrananand119@gmail.com
+- Gmail: simrananand119@gmail.com
 
 ### projects
 
