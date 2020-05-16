@@ -14,7 +14,7 @@ We treat every member of the organization as an entrepreneur and expect them to 
 #### We Welcome Hackstrap as our hiring partner for #TeamTanayJobChallenge!!!
 - Visit company [website](http://hackstrap.com/) to know more
 - Follow them on [twitter](http://twitter.com/hackstrap)
-- Connect them on [LinkedIn](https://www.linkedin.com/company/hackstrap/)
+- Connect with them on [LinkedIn](https://www.linkedin.com/company/hackstrap/)
 
 ### Contact info
 [contact@hackstrap.com](mailto:contact@hackstrap.com)
