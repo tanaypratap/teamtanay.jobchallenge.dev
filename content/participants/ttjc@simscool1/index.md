@@ -5,44 +5,50 @@ name: "Simran Anand"
 portfolio: ""
 github-link: "https://github.com/simscool1"
 linkedin-link: "https://www.linkedin.com/in/simran-anand-833aa3153/"
-looking-for: "internship"
-description: "I am a beginner. I have started learning alot of things just now. Right now learning frontend."
+looking-for: "job|insternship"
+description: "expert at CSS/HTML learning React"
 ---
 
-Hi I am Simran Anand. Let me tell you a bit about myself.
+
 
 ### introduction
 
-I am a third year,IT engineering student. Though I am a part of this field from some years, my interest in it was really less. But still I told myself to look for various things in field. So, that I can see if something interests me at this point. Thus started looking for various tutorials. Found Tanay Sir's tutorial and liked it. And then sir mentioned about learcodingfree.org in one of his AMAs. So, I decided to check it. That is where I found this challenge.
+I am an IT engineering student studying in Sixth semester. I never had much interest in coding. But now I have started to have some. Thus I am learning develpment now, with my interest in it. 
 
 ## why are you taking this challenge?
 
-I need an internship for December 2020.
-I want to learn more and contribute to the community.
+I need an internship|job in December 2020.
+I want to learn.
 
 ## something interesting about you?
 
-I can actually remember lyrics of some Hindi songs. I love to read books. I can't remember all conversations that I had with someone, but I remember most of it.
+I know lyrics to almost all Bollywood songs,yes I do. 
+I write poetry in Hindi. 
+I can walk really long distances. I remember, last time I walked continuously(with tiny breaks) was around 12 km. (This one is weird, I know. :))
 
 ### help I need?
+<<<<<<< HEAD
+As I said earlier, I am a complete beginner. I will need help at every step. I will first try to resolve it by myself by using Google Search, if I still can't find it, I will surely seek for help on either Github Issues or Telegram Channel.
+||||||| 908a7da... registering simscool1 #1
 As I said earlier, I am a complete beginner. I will need help at every step. I will first try to resolve it by myself by using Google Search, if I still can't find it, I will surely seek for it on either Github or Telegram Channel.
+=======
+
+I have just started as I mentioned earlier. So, I will need help at every step. I will first try to look for resources by myself. If I am unable to find some, I will seek for guidance. 
+>>>>>>> parent of 908a7da... registering simscool1 #1
 
 ### how to contact me?
 
-- [Twitter](https://twitter.com/simscool1)
-- [LinkedIn](https://www.linkedin.com/in/simran-anand-833aa3153/)
-- [e-mail me](simrananand119@gmail.com)
+- Twitter: https://twitter.com/simscool1
+- LinkedIn: https://www.linkedin.com/in/simran-anand-833aa3153/
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done very soon.
+not a lot of projects are done. I will keep updating it with real links when done.
 
-stay Tuned.
+Stay tuned.
+ 
 
+### Blogs 
 
-
-
-### blogs
-
-same as projects, I will keep updating my blogs as and when done.
+Same as that of projects.
 
