@@ -12,6 +12,10 @@ A product and service based company with an energetic team of passionate, self-d
 ## About the Company Culture
 A team of like minded people translating requirements into code and delivering it as a high quality product. We believe in Open, Remote and Agile work culture apart from Technology, People, Process and Strategy.
 
+We prefer documentation over talks and over communicating things to make them clear to everyone. ScaleReal believes in small teams as they are fast and nimble, which means less management and getting more things done.
+
+Instant feedback and healthy discussions are a part of ScaleReal’s culture.
+
 > We build applications that scale beyond reality
 
 #### We Welcome Hackstrap as our hiring partner for #TeamTanayJobChallenge!!!
