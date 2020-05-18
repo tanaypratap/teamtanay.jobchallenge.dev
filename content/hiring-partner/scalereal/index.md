@@ -18,7 +18,7 @@ A team of like minded people translating requirements into code and delivering i
 - Visit company [website](https://scalereal.com/) to know more
 - Follow them on [twitter](https://twitter.com/ScaleReal)
 - Connect with them on [LinkedIn](https://www.linkedin.com/company/scalereal-technologies-pvt-ltd/)
-- Find then on [Instagram](https://www.instagram.com/scalerealhq/)
+- Find them on [Instagram](https://www.instagram.com/scalerealhq/)
 - Follow them on [facebook](https://www.facebook.com/ScaleReal/)
 
 ### Contact info
