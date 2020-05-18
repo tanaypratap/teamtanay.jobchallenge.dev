@@ -27,7 +27,6 @@ class PostsIndex extends React.Component {
         />
         {hiring.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
-          const image = node.frontmatter.image || node.fields.slug
           return (
             <div
               key={node.fields.slug}
