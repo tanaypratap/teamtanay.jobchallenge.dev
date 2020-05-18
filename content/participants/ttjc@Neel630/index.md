@@ -41,8 +41,8 @@ I need someone to guide for NodeJs.
 _description_
 
 - Developer's social media where developers can sign-up or login,
-  and can post anything, also they can like or unlike posts from
-  other developers.
+  and can post anything, also they can like or unlike and comment
+  posts from other developers.
 
 - User can also build his/her profile including education, experience
 
@@ -56,8 +56,9 @@ _hosted link_ (https://nextdev9.herokuapp.com)
 
 _description_
 
-- Used Rick and Morty API for fetching episode details of the series like date, episode number, name, id.
-  Implemented pagination based on page count received, and call API when user clicks on page number.
+- Used Rick and Morty API for fetching episode details of the series like
+  date, episode number, name, id. Implemented pagination based on page count
+  received, and call API when user clicks on page number.
 
 - User can search episode by name
 
