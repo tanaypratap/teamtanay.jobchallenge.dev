@@ -18,7 +18,7 @@ Instant feedback and healthy discussions are a part of ScaleReal’s culture.
 
 > We build applications that scale beyond reality
 
-#### We Welcome Hackstrap as our hiring partner for #TeamTanayJobChallenge!!!
+#### We Welcome Scalereal as our hiring partner for #TeamTanayJobChallenge!!!
 - Visit company [website](https://scalereal.com/) to know more
 - Follow them on [twitter](https://twitter.com/ScaleReal)
 - Connect with them on [LinkedIn](https://www.linkedin.com/company/scalereal-technologies-pvt-ltd/)
