@@ -46,12 +46,25 @@ class PostsIndex extends React.Component {
                 <Link to={node.fields.slug}>{title}</Link>
               </h3>
               <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
-              {<hr 
-              style={{
-                arginBottom: rhythm(1),
+            </div>
+          )
+        })}
+        {
+          <div style=
+        {
+          {
+            paddingRight: `${rhythm(3 / 4)}`,
+            paddingLeft: `${rhythm(3 / 4)}`,
+            marginLeft: `auto`,
+            marginRight: `auto`,
+            maxWidth: rhythm(24),
+          }
+          }>
+            <hr
+            style={{
+              marginBottom: rhythm(1),
               }}
-              />}
-              {
+              />
               <nav>
                 <ul
                   style={{
@@ -61,17 +74,15 @@ class PostsIndex extends React.Component {
                 <li>
                   <a
                     style={{ cursor: "pointer" }}
-                    onClick={() => window.history.back()}
+                    onClick={() => window.location="/"}
                   >
-                    &lt; back
+                    &lt; home
                   </a>
                 </li>
                 </ul>
               </nav>
+      </div>
       }
-            </div>
-          )
-        })}
       </Layout>
     )
   }
