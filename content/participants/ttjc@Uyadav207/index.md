@@ -93,3 +93,5 @@ _github link_: https://github.com/Uyadav207/Covid-19-Stats
 ### blogs
 
 [The Front-End I Know](https://medium.com/@yadavutkarsh207/front-end-as-i-know-8da2d140b6e8)
+
+In here, I have given a brief description about what Front-End is..? How you can start your career as a Front-End Developer and what all programming stuffs you need to know. and that's not enough, the reader is provided with the the link to the platform which has proper Documentation for the each and every Topics related to Front-End and Web Programming.
