@@ -58,7 +58,7 @@ _description_
 
 - Used Rick and Morty API for fetching episode details of the series like
   date, episode number, name, id. Implemented pagination based on page count
-  received, and call API when user clicks on page number.
+  received, and it will call API when user clicks on page number.
 
 - User can search episode by name
 
