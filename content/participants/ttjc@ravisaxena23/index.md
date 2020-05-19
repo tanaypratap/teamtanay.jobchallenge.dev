@@ -2,14 +2,14 @@
 title: Ravi Nandan Saxena
 type: "participant"
 name: "Ravi Nandan Saxena"
-portfolio: "http://bit.ly/ravisresume"
+portfolio: ""
 github-link: "https://github.com/ravisaxena23"
 linkedin-link: "https://www.linkedin.com/in/ravisaxena23/"
 looking-for: "job"
 description: "expert at CSS/HTML intermediate in React/Node learning flutter/ReactNative"
 ---
 
-Hi! I am a Ravi Nandan Saxena a Web developer let me walk you through my intro, projects and blogs.
+Hi! I am Ravi Nandan Saxena a Web developer let me walk you through my intro, projects and blogs.
 
 ### Introduction
 
@@ -30,17 +30,13 @@ It would be good if someone tells me how to do auth for apps.
 
 ### How to contact me?
 
-- Twitter
-- LinkedIn
-- E-mail
-- Call
+- LinkedIn https://www.linkedin.com/in/ravisaxena23/
+- E-mail ravisaxena230599@gmail.com
+- Call 9643019798
 
 ### Projects
 
 not a lot of projects are done. I will keep updating it with real links when done.
-
-My projects: _github link_ https://github.com/ravisaxena23/technojam-frontend
-             _github link_ https://github.com/ravisaxena23/crypto-ciphers
 
 
 #### Binder: tinder for books
