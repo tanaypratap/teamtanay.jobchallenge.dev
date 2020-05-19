@@ -6,10 +6,10 @@ portfolio:
 github-link: "https://github.com/sidrakshe28"
 linkedin-link: " https://www.linkedin.com/in/siddhika28/"
 looking-for: "internship"
-description: " well-versed with HTML|CSS|UI-UX|Android app development|learning React"
+description: " well-versed with HTML|CSS|UI/UX|Android app development|learning React"
 ---
 
-Hi! I am a Siddhika Rakshe, let me walk you through my intro, projects and blogs.
+Hi! I am Siddhika Rakshe, let me walk you through my intro, projects and blogs.
 
 ### introduction
 
@@ -27,7 +27,7 @@ Outside labs,I love painting and have a good hand at baking cookies and cakes.
 
 ### help I need?
 
-It would be good if someone tells me how to start with nodejs .
+It would be good if someone tells me how to start with Nodejs .
 
 ### how to contact me?
 
@@ -36,7 +36,7 @@ It would be good if someone tells me how to start with nodejs .
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+not lot of projects are done. I will keep updating it with real links when done.
 
 
 
