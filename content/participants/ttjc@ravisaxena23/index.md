@@ -30,37 +30,9 @@ It would be good if someone tells me how to do auth for apps.
 
 ### How to contact me?
 
-- LinkedIn https://www.linkedin.com/in/ravisaxena23/
-- E-mail ravisaxena230599@gmail.com
-- Call 9643019798
+- [LinkedIn](https://www.linkedin.com/in/ravisaxena23/)
+- [E-mail](ravisaxena230599@gmail.com)
 
 ### Projects
 
 not a lot of projects are done. I will keep updating it with real links when done.
-
-
-#### Binder: tinder for books
-
-_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.
-
-_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
-
-_hosted link_ https://binder.netlify.com
-
-_github link_ https://github.com/tanaypratap/binder
-
-#### Another project
-
-_description_
-
-_stack_
-
-### Blogs
-
-same as projects, I will keep updating my blogs as and when done.
-
-#### Why I liked GraphQL over REST?
-
-_description_ I will write something really nice here so that you feel like reading my blog.
-
-_link_ https://dev.to/some-imaginary-link
