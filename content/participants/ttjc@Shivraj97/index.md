@@ -58,7 +58,7 @@ _github link_ https://github.com/Shivraj97/real_estate_django_project
 
 #### Crwn Clothing - React/Redux
 
-_description_ It is a fashion e-commerce store 
+_description_ It is a fashion e-commerce store. The user can shop for fashionable clothes and add them to cart and can checkout using Stripe. I have added Firebase authentication for SignIn and also added SignIn/SignUp option using custom email/password. I have used Redux for state management.
 
 _stack_ React | Redux | Javascript | Firebase | Stripe | Heroku | HTML5 | SASS 
 
