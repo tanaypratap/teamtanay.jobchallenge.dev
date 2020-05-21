@@ -56,6 +56,16 @@ _hosted link_ https://realestatedjangoproject.herokuapp.com
 
 _github link_ https://github.com/Shivraj97/real_estate_django_project
 
+#### Crwn Clothing - React/Redux
+
+_description_ It is a fashion e-commerce store 
+
+_stack_ React | Redux | Javascript | Firebase | Stripe | Heroku | HTML5 | SASS 
+
+_hosted link_ https://crwn-fashionstore-live.herokuapp.com
+
+_github link_ https://github.com/Shivraj97/react-clothing-store
+
 ### blogs
 
 #### Simple JS Projects: Project 1: Finddit — A Reddit Search App
