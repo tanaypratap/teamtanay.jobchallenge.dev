@@ -5,8 +5,8 @@ name: "Aniruddh Mukherjee"
 portfolio: ""
 github-link: "https://github.com/aniruddh-mukherjee"
 linkedin-link: "https://www.linkedin.com/in/aniruddha-mukherjee-64a5b1195"
-looking-for: "job, internship"
-description: "React Developer learning React Native"
+looking-for: "internship"
+description: "React Developer | React Native"
 ---
 
 Hello, I am Aniruddh. Aniruddh Mukherjee. I am fluent in React and I am currrently learning  React Native. 
@@ -17,11 +17,11 @@ I am a high school student from Kolkata, currently in 12th. Computers have fasci
 
 ## why are you taking this challenge?
 
-I want to learn. I want to learn more, and if I get paid a bit at the same time, it would be great. 
+I want to learn. I want to learn more, and if I get paid a bit at the same time, it would be great. Job or internship - any one of them would work.  
 
 ## something interesting about you?
 
-My mind is always full of weird startup ideas. I listen to country music from the 60s. 
+My mind is always full of weird startup ideas. I listen to country music from the 60s. I love playing horror games at 3 AM. 
 
 ### help I need?
 
@@ -30,6 +30,7 @@ It would be really great if anyone could tell me how to handle serverless paymen
 ### how to contact me?
 
 - [Twitter](https://twitter.com/CoderMukherjee) 
+- [Instagram](https://www.instagram.com/aniruddh.mukherji/)
 - [LinkedIn](https://www.linkedin.com/in/aniruddha-mukherjee-64a5b1195)
 
 ### projects
