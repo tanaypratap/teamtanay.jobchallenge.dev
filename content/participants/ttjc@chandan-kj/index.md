@@ -30,7 +30,7 @@ It would be good if someone guide me in backend and database sections.
 ### how to contact me?
 
 - [Twitter](https://twitter.com/chandankj98)
-- [LinkedIn](https://linkedin.com/in/chandan-k-j)
+- [LinkedIn] (https://linkedin.com/in/chandan-k-j)
 ]
 ### projects
 My Projects
