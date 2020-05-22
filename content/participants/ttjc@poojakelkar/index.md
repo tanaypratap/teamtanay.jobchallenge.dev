@@ -2,6 +2,7 @@
 title: Pooja Kelker
 type: "participant"
 name: Pooja Kelkar"
+portfolio: ""
 
 github-link: "https://github.com/poojakelkar"
 linkedin-link: "https://linkedin.com/in/poojakelkar"
@@ -21,7 +22,7 @@ I like contributing to the community and share my knowledge.
 
 I need a job in December 2020.
 I want to learn.
-I want get mentorship from industry expert and develop skills
+I want to get mentorship from industry expert and develop skills
 
 ## something interesting about you?
 
