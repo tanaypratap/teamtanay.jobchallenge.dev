@@ -3,7 +3,6 @@ title: Pooja Kelker
 type: "participant"
 name: Pooja Kelkar"
 portfolio: ""
-
 github-link: "https://github.com/poojakelkar"
 linkedin-link: "https://linkedin.com/in/poojakelkar"
 looking-for: "job"
