@@ -36,16 +36,16 @@ I need a mentor to create connections in the tech industry.
 
 #### **FIRST PROJECT**
 
-    A Movie Library App made with ReactJS using The Movie Database API.
-    ![project image](https://i.ibb.co/cJQvg9S/smartmockups-kadjctvn.png)
+A Movie Library App made with ReactJS using The Movie Database API.
+![project image](https://i.ibb.co/cJQvg9S/smartmockups-kadjctvn.png)
 
-    Check it Live :  https://movielib.netlify.app/
+Check it Live : https://movielib.netlify.app/
 
-    Github link: https://github.com/tarunyadav1/Movie-Library-App-using-Reactjs-and-The-MovieDB-API
+Github link: https://github.com/tarunyadav1/Movie-Library-App-using-Reactjs-and-The-MovieDB-API
 
 ### blogs
 
 #### **FIRST BLOG**
 
-    The Birth of React and Reason to learn
-    Link : https://medium.com/@tarunyadav9761/the-birth-of-react-and-reason-to-learn-1a4709e5352c
+The Birth of React and Reason to learn
+Link : https://medium.com/@tarunyadav9761/the-birth-of-react-and-reason-to-learn-1a4709e5352c
