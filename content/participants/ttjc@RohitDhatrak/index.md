@@ -9,7 +9,7 @@ looking-for: "internship"
 description: "Learning web development"
 ---
 
-Hi! I am a Rohit Dhatrak let me walk you through my intro, projects and blogs.
+Hi! I am Rohit Dhatrak let me walk you through my intro, projects and blogs.
 
 ### introduction
 
