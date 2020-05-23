@@ -19,11 +19,11 @@ Introvert. INFJ. Don't get me started on anything or else I won't shut up.
 
 I am looking for jobs as a software developer.
 I want to learn more and am looking for a learning circle.
-I am trying to become a good developer and rcritical problem solver.
+I am trying to become a good developer and critical problem solver.
 
 ## something interesting about you?
 
-I like art and story telling - be it photography, movies, songs, short series, books, insta poertry, or anything else.
+I like art and story telling - be it photography, movies, songs, short series, books, insta poetry, or anything else.
 
 ### help I need?
 
