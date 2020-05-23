@@ -30,7 +30,7 @@ It would be good if someone tells me how to schedule my preparation for on campu
 
 ### how to contact me?
 
-- LinkedIn
+-[LinkedIn](https://www.linkedin.com/in/mohan-tummala-76191a171/)
 
 ### projects
 
