@@ -56,6 +56,8 @@ _stack_ Made with JavaScript.
 
 _hosted link_ https://hacket.netlify.com/
 
+_github link_ https://github.com/Megha-Pathak/Hacket
+
 #### Tracc - Personal Expense Tracker
 
 _description_ Tracc is a expense tracker build with React. It uses functional components with hooks and the context API.
@@ -64,11 +66,13 @@ _stack_ Made with React.
 
 _hosted link_ https://tracc.netlify.com/
 
+_github link_ https://github.com/Megha-Pathak/tracc
+
 ### blogs
 
 I contribute my blogs to different websites. Some of them can be found at - https://www.csestack.org/author/pathak/
 
-## Blog 1
-_description_ Why Product thinking is essential for Developers and how to apply it? 
+## Why Product thinking is essential for Developers and how to apply it? 
+_description_ In this blog I have described the difference between Project thinking and Product thinking. ALong, with the structure of Product thinking that developers can adept while working on softwares. 
 
 _hosted link_ https://dev.to/megha_pathak_/why-product-thinking-is-essential-for-developers-and-how-to-apply-it-51la
