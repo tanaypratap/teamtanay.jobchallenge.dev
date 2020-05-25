@@ -15,8 +15,7 @@ Hi! I am Yashwanth let me walk you through my intro, projects and blogs.
 
 I am an Electronic and Communication engineer currently learning web development as I am interested in it.
 I am good at photography and videography. 
-I also do graphic designing, can use most of the adobe softwares like illustrator,photoshop.
-I also know UI/UX development using AdobeXD.
+I also do graphic designing, can use most of the adobe softwares like illustrator,photoshop and also know UI/UX development using AdobeXD.
 
 ## why are you taking this challenge?
 
