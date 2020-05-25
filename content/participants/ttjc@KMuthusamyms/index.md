@@ -52,6 +52,9 @@ information like marks, attendance. It have both Mobile app and Web App
 
 _stack_ Made with the Bootstrap and Ionic Framework. Backend is powered by PHP and MySQL.
 
+_github link_ : ~~Private Project~~
+
+_hosted link_ : http://220.225.196.137
 
 #### Lead Manager
 
@@ -61,12 +64,43 @@ company.
 
 _stack_ Made with the AngularJS. Backend is powered by PHP and MySQL.
 
+_github link_ : ~~Private Project~~
+
+_hosted link_ : ~~Not Hosted Yet~~
+
 #### Smart plastic collection bin
 
 _description_ Created smart bin for collect plastics and
 improve recycling by giving rewards to users. It is a hardware project
 
-_stack_ Made with the AngularJS, Python, Rasperry PI. Backend is powered by ExpressJS and MySQL.
+_stack_ Made with the AngularJS, Rasperry PI. Backend is powered by ExpressJS and MySQL.
+
+_github link_ : https://github.com/KMuthusamyms/expressbin/
+
+_hosted link_ : ~~Not Hosted Yet~~
+
+
+#### Application for Covid Pandemic Management
+
+_description_ Developing Fullstack application for COVID - 19 NATIONAL BIO INFORMATICS ONLINE HACKATHON FOR FULL STACKERS. Have to integrate the given modules and have to develop more innovative modules for allocated states in India. 
+
+_stack_ Making with the AngularJS. Backend is powered by PHP and MySQL.
+
+_github link_ : ~~Live Contest~~
+
+_hosted link_ : https://msdata.educationhost.cloud/
+
+
+#### Advertise Management
+
+_description_ Developing Fullstack application for a startup. They providing service like displaying ads at public places. Have to develop a Application for interact with customers.
+
+_stack_ Making with the AngularJS. Backend is powered by NodeJS, ExpressJS and MySQL.
+
+_github link_ : ~~Private Project~~
+
+_hosted link_ : ~~Not Hosted Yet~~
+
 
 ### blogs
 
