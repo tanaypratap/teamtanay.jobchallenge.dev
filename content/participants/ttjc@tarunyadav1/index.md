@@ -1,15 +1,21 @@
 ---
-title: Tarun Yadav
-type: "participant"
-name: "Tarun Yadav"
-portfolio: ""
-github-link: "https://github.com/tarunyadav1"
-linkedin-link: "https://www.linkedin.com/in/tarunyadav9761/"
-looking-for: "job"
-description: " Reactjs | HTML | CSS | Nodejs | mongoDB | Bootstrap | JavaScript | Python3 "
----
 
-Bonjour! I am Tarun Yadav an engineering student studying Electronics engineering. I am a self-taught learner and learn computer science online.
+title: Tarun Yadav
+
+type: "participant"
+
+name: "Tarun Yadav"
+
+portfolio: ""
+
+github-link: "https://github.com/tarunyadav1"
+
+linkedin-link: "https://www.linkedin.com/in/tarunyadav9761/"
+
+looking-for: "job"
+
+description: " Reactjs | HTML | CSS | Nodejs | mongoDB | Bootstrap | JavaScript | Python3 "
+---Bonjour! I am Tarun Yadav an engineering student studying Electronics engineering. I am a self-taught learner and learn computer science online.
 
 ### introduction
 
@@ -30,6 +36,7 @@ I need a mentor to create connections in the tech industry.
 ### how to contact me?
 
 - [Twitter](https://twitter.com/tarunyadav9761)
+
 - [LinkedIn](https://www.linkedin.com/in/tarunyadav9761/)
 
 ### projects
@@ -37,6 +44,7 @@ I need a mentor to create connections in the tech industry.
 #### **FIRST PROJECT**
 
 A Movie Library App made with ReactJS using The Movie Database API.
+
 ![project image](https://i.ibb.co/cJQvg9S/smartmockups-kadjctvn.png)
 
 Check it Live : https://movielib.netlify.app/
@@ -48,4 +56,20 @@ Github link: https://github.com/tarunyadav1/Movie-Library-App-using-Reactjs-and-
 #### **FIRST BLOG**
 
 The Birth of React and Reason to learn
+
+#### Description
+
+In this blog, I try to explain how traditional web page works and why we need SPA. Also discuss the pros and cons of the SPA.
+
 Link : https://medium.com/@tarunyadav9761/the-birth-of-react-and-reason-to-learn-1a4709e5352c
+
+#### **SECOND BLOG**
+
+Beginners Guide To React Hooks : Getting Started With React Hooks
+
+#### Description
+
+In this blog, I explain about React hooks. First I begin with what are hooks, then I explain
+`useState` and `useEffect`.
+
+Link: https://dev.to/tarunyadav1/beginners-guide-to-react-hooks-getting-started-with-react-hooks-4lnd
