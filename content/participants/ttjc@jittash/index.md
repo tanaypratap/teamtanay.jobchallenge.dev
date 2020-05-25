@@ -30,31 +30,13 @@ Being guided by mentors so as to use my skills in the best possible way.
 
 ### how to contact me?
 
-- LinkedIn - "https://www.linkedin.com/in/jittash-r-mandhyannee-21b93915b
+- LinkedIn - "https://www.linkedin.com/in/jittash-r-mandhyannee-21b93915b"
 
 ### projects
 
 not a lot of projects are done. I will keep updating it with real links when done.
 
 My projects:
-
-1.Blogging Website
-
-A blog platform where Users can register,login,Add any number of blogs(with title,description,image),Update profile,Change password as well as Delete their existing blogs.On home page of website,the blogging posts appear through pagination in the most recent post first fashion.
-Technologies used - HTML, CSS , JQuery , AJAX ,PHP
-Database - MySQL
-
-2.Dance Website
-
-A Website for a hypothetical dance academy with a Main page and Contact page through which a user can enquire the academy through contact form.The website is built using "Node.js" and "Express js" with template engine "Pug".
-Database - MongoDB
-Github link - https://github.com/jittash/Dance-Website
-
-3.Realtime Chatroom
-
-A Realtime Chatroom using WebSockets where a user can join a room and chat with the existing users in the same room.Each time a new user joins ,others get notified.
-Technologies used - Node.js and Socket.io with static files.
-
 
 ### blogs
 
