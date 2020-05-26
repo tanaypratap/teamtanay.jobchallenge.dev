@@ -14,7 +14,7 @@ Hi! I am a Anmol Dhiman let me walk you through my intro, projects and blogs.
 ### introduction
 
 - I am Anmol Dhiman, I am a 4th year CS student at College of engineering roorkee, Roorkee. 
-- I like to play around with the code and likes to solve coding problems 
+- I like to play around with the code and likes to solve coding problems.
 
 ## why are you taking this challenge?
 
