@@ -21,7 +21,7 @@ I want to learn.
 
 ## something interesting about you?
 
-Well I like to watch movies and vibe with the punjabi music.
+Well I like to watch movies and vibe with punjabi/bollywood music.
 
 ### help I need?
 
