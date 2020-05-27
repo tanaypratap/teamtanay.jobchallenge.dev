@@ -11,7 +11,7 @@ description: "expert at CSS/HTML learning React"
 
 ### introduction
 
-Hey I'm Karan, a 2nd year student at VIT pursuing his B.tech in IT. I'm a tech enthusiast.A student web-developemer by day and a competitive coder by night.
+Hey I'm Karan, a 2nd year student at VIT pursuing his B.tech in IT. I'm a tech enthusiast.A student web-developer by day and a competitive coder by night.
 
 ## why are you taking this challenge?
 
@@ -21,20 +21,20 @@ I want to learn.
 
 ## something interesting about you?
 
-Well I like like to watch movies and vibe with the punjabi music.
+Well I like to watch movies and vibe with the punjabi music.
 
 ### help I need?
 
-I would be needing a lot of help because I literslly will be learning js formthe scratch in this 1 month.
+I would be needing a lot of help because I literally will be learning js form the scratch in this 1 month.
 
 ### how to contact me?
 
-- Twitter:'https://twitter.com/nanokoder'
-- LinkedIn:'https://www.linkedin.com/in/karan-mittal-94559717b/'
-- Mail:'karanmittal20@gmail.com'
+- [Twitter](https://twitter.com/nanokoder)
+- [LinkedIn](https://www.linkedin.com/in/karan-mittal-94559717b/)
+- [Mail](karanmittal20@gmail.com)
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+Not a lot of projects are done. I will keep updating it with real links when done.
 
 My projects:
