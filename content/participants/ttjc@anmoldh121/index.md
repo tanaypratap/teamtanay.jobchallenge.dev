@@ -9,7 +9,7 @@ looking-for: "internship"
 description: "Angular | React | learning Express and MongoDB"
 ---
 
-Hi! I am a Anmol Dhiman let me walk you through my intro, projects and blogs.
+Hi! I am Anmol Dhiman let me walk you through my intro, projects and blogs.
 
 ### introduction
 
