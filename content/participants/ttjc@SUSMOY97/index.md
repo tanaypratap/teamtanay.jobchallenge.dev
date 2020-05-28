@@ -2,7 +2,7 @@
 title: "SUSMOYOP"
 type: "participant"
 name: "SUSMOY MUKHERJEE"
-portfolio: "https://tanaypratap.com"
+portfolio: ""
 github-link: "https://github.com/SUSMOY97"
 linkedin-link: "www.linkedin.com/in/susmoymukherjee"
 looking-for: "job"
@@ -29,7 +29,7 @@ I am making various projects for this challenge on react as well as learning rea
 
 ### how to contact me?
 
-- Twitter
+- Linkedin
   -www.linkedin.com/in/susmoymukherjee
 
 ### projects
