@@ -9,11 +9,11 @@ looking-for: "job"
 description: "Done work on Angular,Python,Java and familiar with git"
 ---
 
-Hi! I am a learner at heart, a software engineer by profession and an amateuer singer and a tech enthusiast nonetheless.
+Hi! I am a learner by heart, a software engineer by profession and an amateuer singer and a tech enthusiast nonetheless.
 
 ### introduction
 
-I am Software Engineer and 2019 BTECH passout with specialisation in Information Technology.
+I am a Software Engineer and 2019 BTECH passout with specialisation in Information Technology.
 
 ## why are you taking this challenge?
 
