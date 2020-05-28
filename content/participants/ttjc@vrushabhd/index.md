@@ -39,23 +39,15 @@ not a lot of projects are done. I will keep updating it with real links when don
 
 My projects:
 
-#### Android Application: Delta Aura
-_description_ - Delta Aura is  an Android Application which is build using Firebase authentication and using firebase database and technology used is Glide Library,Sign in with Google,Email and Phone Verification and  it is used to connect people and socialize them and we also provide event related information  necessary updates to  our users.
+#### Telegram Bot using Node JS
 
-_stack_ - Android Studio,Firebase for Authentication and Otp Services.
+_description_ -Telegram Bot uses Telegraf API  to provide  Bot functionalities  and uses 
+News Api  to fetch  readable information for the user.
+also provides covid-19 related stats and updates.
 
-_hosted link_ - https://play.google.com/store/apps/details?id=com.deltaaura.app
+_stack_ - Nodejs,Javascript.
 
-_github link_ - https://github.com/vrushabhd/DeltaAura
-
-#### FaceDetection Using MLkit
-
-_description_ - Face Detection Android App ,a facial recognition system is a technology capable of identifying or verifying a person from a digital image or a video frame from a video source.There are multiple methods in which facial recognition systems work, but in general, they work by comparing selected facial features from given image with faces within a database.It is also described as a Biometric Artificial Intelligence based application that can uniquely identify a person by analysing patterns based on the person's facial textures and shape.
-
-_stack_ - Android Studio ,Java 
-
-_github link_ - https://github.com/vrushabhd/FaceDetection
-
+_github link_ -https://github.com/vrushabhd/Custom-Telegram-Bot
 ### blogs
 
  -same as projects, I will keep updating my blogs as and when done.
