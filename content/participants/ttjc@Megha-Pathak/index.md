@@ -39,14 +39,16 @@ I have done projects along side with learning technologies some of them are:
 
 My projects:
 
-#### LadeBug: Meet your online digital Ladybug for companionship & debugging -- LadeBug!
+#### Dodo: Meet your online digital duck for companionship & debugging
 
 
-_description_ A chrome extension to overlay a tiny ladybug, as a digital companion during debugging and general development work. Follow the Set-Up Instructions present on the repository.  
+_description_ A chrome extension to overlay a tiny duck, as a digital companion during debugging and general development work. 
+
+_hosted link_ https://dododebugging.netlify.com/
 
 _stack_ Made with JavaScript.
 
-_github link_ https://github.com/Megha-Pathak/LadeBug
+_github link_ https://github.com/Megha-Pathak/Dodo
 
 #### Hacket - Privacy card game
 
