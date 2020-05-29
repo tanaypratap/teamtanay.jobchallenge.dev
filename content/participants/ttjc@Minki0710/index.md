@@ -3,7 +3,7 @@ title: Ankita Upadhyay
 type: "participant"
 name: "Ankita Upadhyay"
 portfolio: "null"
-github-link: "https://github.com/Minki0710.github.io"
+github-link: "https://github.com/Minki0710"
 linkedin-link: "https://www.linkedin.com/in/ankita-u-03029a13a"
 looking-for: "hands-on practice"
 description: "Lead QA/ Frontend Web Developer"
@@ -18,9 +18,7 @@ I am self motivated keen to learn things!
 
 I want to learn
 
-
 ### help I need?
-
 
 ATo successfully create various projects end to end
 
