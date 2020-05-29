@@ -53,5 +53,10 @@ _description_ Ensuring security while transmitting data through the Raspberry Pi
 
 _link_ https://medium.com/@ishukhanchi/ensuring-security-while-transmitting-data-through-the-raspberry-pis-f1f33b87333b
 
+#### Diving deep into ‘Git Hosting on our own server’
+
+_description_ Covering the advantages and steps to host git on our server
+
+_link_ https://blog.usejournal.com/diving-deep-into-git-hosting-on-our-own-server-681a5c3a0cff
 
 
