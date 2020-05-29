@@ -1,55 +1,53 @@
 ---
-title: Frontend Developer
+title: Saksham Kapur
 type: "participant"
 name: "Saksham Kapur"
 portfolio: ""
 github-link: "https://github.com/Sakshamkapur"
 linkedin-link: "https://www.linkedin.com/in/sakshamkapur/"
 looking-for: "job"
-description: "A Confident ReactJS Developer"
+description: "A Confident JavaScript Developer"
 ---
 
-Hi! I am professional Frontend Developer with about an year of experience in reactjs and node.
+Hi! I am a professional Frontend Developer with about 1.5 years of experience in reactjs and node.
 
-### introduction
+### Introduction
 
-I am confident with JavaScript , experienced with ReactJS,ReactNative,NodeJS
-Always ready to develop something great. :)
+I am confident with my skills in JavaScript and love to write js code and read blog about intresting features in frameworks. I have about 1.5 yr of professional experience in product based startup mainly in reactjs and reactnative.
 
-## why are you taking this challenge?
+## Why are you taking this challenge?
 
-I found this challenge intresting.
-Plus I want to learn from some the best in the Industry.
+I am Looking for a Good Frontend Opportunity.
 
-## something interesting about you?
+## Something interesting about you?
 
 I am a gamer, love this game called Rainbow Six Seige
 
-### help I need?
+### Help I need?
 
 Can't really tell without knowing the task , but most probably I
 won't be needing any help.
 
-### how to contact me?
+### How to contact me?
 
 - [Twitter](https://twitter.com/Sk04_98)
 - [LinkedIn](https://www.linkedin.com/in/sakshamkapur/)
 
-### projects
+### Projects
 
 I worked on many projects some of them are listed below:
 
 My projects:
 
-#### Blogit: A Bloging Platform
+#### Croppie: A Image Cropper
 
-_description_ Blogit is a blogging platform containing keyword specific blogs with seamless security features and proper control over content and its modification.
+_description_ Croppie is a Image cropping platform where in a user can upload,store and download an cropped image.
 
-_stack_ built in html,css,jquery,nodejs and mongodb
+_stack_ built in reactjs using hooks and firebase.
 
-_hosted link_ https://blog-all.herokuapp.com/ 
+_hosted link_  https://sakshamkapur.github.io/cropie/
 
-_github link_ https://github.com/Sakshamkapur/blog
+_github link_ https://github.com/Sakshamkapur/cropie
 
 #### Searchyie: A Seraching Platform
 
@@ -70,3 +68,15 @@ _stack_ built in html,css,javascript.
 _hosted link_  https://sakshamkapur.github.io/2048/2048.html
 
 _github link_ https://github.com/Sakshamkapur/2048
+
+#### Blogit: A Bloging Platform
+
+_description_ Blogit is a blogging platform containing keyword specific blogs with seamless security features and proper control over content and its modification.
+
+_stack_ built in html,css,jquery,nodejs and mongodb
+
+_hosted link_ https://blog-all.herokuapp.com/ 
+
+_github link_ https://github.com/Sakshamkapur/blog
+
+
