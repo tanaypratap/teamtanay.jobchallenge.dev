@@ -13,7 +13,7 @@ Hello, I am Harshita Kanal, I am passionate about building things that impact pe
 
 ### introduction
 
-I am a Computer Science and Engineering undergraduate at Viviekanand Education society's Institute of Techology. Currently, I am in my second year.I have participated in various hackathons, and coding competitions. I am a passionate and hardworking individual. I can assure you that the work assigned to me would be delivered to your due satisfaction. 
+I am a Computer Science and Engineering undergraduate at Vivekanand Education society's Institute of Technology. Currently, I am in my second year.I have participated in various hackathons, and coding competitions. I am a passionate and hardworking individual. I can assure you that the work assigned to me would be delivered to your due satisfaction. 
 
 ## why are you taking this challenge?
 
