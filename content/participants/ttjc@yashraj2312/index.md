@@ -69,4 +69,4 @@ same as projects, I will keep updating my blogs as and when done.
 
 _description_ Hang on tight!.
 
-_link_ link will be updated soon.
+_link_ link will be updated soon
