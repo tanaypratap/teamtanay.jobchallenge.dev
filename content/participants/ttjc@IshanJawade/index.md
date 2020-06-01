@@ -2,7 +2,7 @@
 title: IshanJawade
 type: "participant"
 name: "Ishan  Jawade"
-
+portfolio: ""
 github-link: "https://github.com/IshanJawade"
 linkedin-link: "https://www.linkedin.com/in/ishanjawade/"
 looking-for: "Internship"
