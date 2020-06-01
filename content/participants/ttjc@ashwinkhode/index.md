@@ -38,15 +38,6 @@ It would be good if someone tells me how to make creative websites. I am totally
 
 not a lot of projects are done. I will keep updating it with real links when done.
 
-My projects:
-
-
-#### project
-
-_description_
-
-_stack_
-
 ### blogs
 
 I wrote my first blog on deno. But I will keep updating my blogs here
