@@ -38,14 +38,30 @@ I like Philosophy and practice it in daily life. I've read about Stoicism, and l
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+Not a lot of projects are done. I will keep updating it with real links when done.
 
 My projects:
+All of these projects are available on Github.
+#### Object Detection using Transferred Learning 
+[Link](https://github.com/srbhr/Object-Detection)
 
-#### Object Detection using Transferred Learning
 #### Fruit Detection
+[Link](https://github.com/srbhr/Fruits_360)
+
 #### Working on a Naive Resume Matcher
 The Aim of this project is to find the most relevant resumes that match the job description.
+I'm already working on this and this is my **Potential Project**.
+This is in a private Github Repository.
+
+#### Comparision of Two Sentences to test the accuracy of Machine Translation 
+This is a work in Progress and was supposed to be my GSOC Project for Apertium Organisation, but sadly due to lack of a potential mentor, I wasn't selected
+although I started working on it already and I will continue this project over time.
+This is my **Potential Project**. 
+[Link](https://github.com/srbhr/Test-Edits)
+
+#### Python-DS 
+This is a Python Data Structures and Algorithms Repo I worked with others while HacktoberFest to create. Now this repo contains most of the cases, and codes that are
+neeeded to study DSA.
 
 ### blogs
 
