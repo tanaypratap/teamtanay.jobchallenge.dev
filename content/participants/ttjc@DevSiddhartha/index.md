@@ -30,8 +30,7 @@ It would be good if someone tells me how to do auth for apps.
 
 ### how to contact me?
 
-- Twitter
-- LinkedIn[https://www.linkedin.com/in/siddhartha-kumar-singh-0a81a5148/]
+- [LinkedIn](https://www.linkedin.com/in/siddhartha-kumar-singh-0a81a5148/)
 
 ### projects
 
