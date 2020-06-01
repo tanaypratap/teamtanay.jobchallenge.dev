@@ -33,8 +33,8 @@ I have a MEN Stack  (MongoDB Express Node). Currently working on react.js.
 
 ### how to contact me?
 
-- [Outlook]   (shah.saddam@outlook.com)
-- [LinkedIn]  (https://www.linkedin.com/in/saddam-shah/)
+- [Outlook](mailto:shah.saddam@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/saddam-shah/)
 
 ### projects
 
