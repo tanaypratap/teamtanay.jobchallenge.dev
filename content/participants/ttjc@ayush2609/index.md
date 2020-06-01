@@ -17,7 +17,8 @@ I am working as a Full Stack Developer with experience in ReactJs and NodeJS.
 
 ## why are you taking this challenge?
 
-I want to learn more about React, React Native and GraphQL especially (Since I have not worked with it.).
+I want to learn more about React, React Native and GraphQL especially (Since I have not worked with it).
+
 I would also like to have a job switch.
 
 ## something interesting about you?
@@ -35,7 +36,6 @@ It would be good if someone could tell me the latest and standard practices in R
 ### projects
 
 Not a lot of projects are done. I will keep updating it with real links when done.
-
 
 ### blogs
 
