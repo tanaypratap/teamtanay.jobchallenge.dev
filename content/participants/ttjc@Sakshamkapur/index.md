@@ -13,7 +13,7 @@ Hi! I am a professional Frontend Developer with about 1.5 years of experience in
 
 ### Introduction
 
-I am confident with my skills in JavaScript and love to write js code and read blog about intresting features in frameworks. I have about 1.5 yr of professional experience in product based startup mainly in reactjs and reactnative.
+I am confident with my skills in JavaScript and love to write js code and read blog about interesting features in frameworks. I have about 1.5 yr of professional experience in product based startup mainly in reactjs and reactnative.
 
 ## Why are you taking this challenge?
 
@@ -58,25 +58,5 @@ _stack_ built in reactjs using hooks and localstorage.
 _hosted link_ https://searchie.herokuapp.com/ 
 
 _github link_ https://github.com/Sakshamkapur/searchyie
-
-#### 2048: A Math Game
-
-_description_ 2048 is a old school game in which a player has to create a 2048 block and not just make the whole grid layout fill with number blocks.
-
-_stack_ built in html,css,javascript.
-
-_hosted link_  https://sakshamkapur.github.io/2048/2048.html
-
-_github link_ https://github.com/Sakshamkapur/2048
-
-#### Blogit: A Bloging Platform
-
-_description_ Blogit is a blogging platform containing keyword specific blogs with seamless security features and proper control over content and its modification.
-
-_stack_ built in html,css,jquery,nodejs and mongodb
-
-_hosted link_ https://blog-all.herokuapp.com/ 
-
-_github link_ https://github.com/Sakshamkapur/blog
 
 
