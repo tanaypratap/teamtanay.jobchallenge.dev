@@ -31,7 +31,7 @@ It would be great if you could guide me around ElasticSearch and Deeplinking.
 
 ### how to contact me?
 
-- [LinkedIn] https://linkedin.com/in/yashraj2312
+- [LinkedIn](https://linkedin.com/in/yashraj2312)
 
 ### projects
 
