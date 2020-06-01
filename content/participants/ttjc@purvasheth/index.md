@@ -22,7 +22,7 @@ Mostly to build my profile. This challenge will keep me motivated. I know I am s
 ## something interesting about you?
 
 My surname is different on different platforms. Its "shet" for my gmail (ppl love to pronounce it in different ways xD). We had it changed later to "sheth". 
-Also, people may find this annoying rather than iteresting but I love doing homework (especialy, when I understand or want to understand what was taught in detail). I belive it helps in retaining the concept. Plus if its coding, its fun :). I guess you could call me thorough.
+Also, people may find this annoying rather than interesting but I love doing homework (especialy, when I understand or want to understand what was taught in detail). I believe it helps in retaining the concept. Plus if its coding, its fun :). I guess you could call me thorough.
 
 ### help I need?
 
