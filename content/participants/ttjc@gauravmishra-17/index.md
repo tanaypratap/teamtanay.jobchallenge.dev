@@ -29,7 +29,7 @@ I just want someone to help me understand the flowchart of building a project. I
 
 ### How to contact me?
 
-- Twitter
+- [Twitter](https://twitter.com/gaurav_mishra__)
 - [LinkedIn](https://www.linkedin.com/in/gauravmishra17/)
 
 ### Projects
