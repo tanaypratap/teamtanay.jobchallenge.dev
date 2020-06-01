@@ -6,7 +6,7 @@ portfolio: "https://rohankokane.netlify.app/"
 github-link: "https://github.com/rohankokane"
 linkedin-link: "https://www.linkedin.com/in/rohankokane/"
 looking-for: "internship"
-description: "Intermediate in HTML CSS JS PHP and SQL | earning advance JS  | Python | C | git"
+description: "Intermediate in HTML CSS JS PHP and SQL | Learning advance JS  | Python | C | git"
 ---
 
 Hi! I am Rohan Kokane, a tech enthusiast really loves building web projets where I can instantly see things building up.
