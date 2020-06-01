@@ -2,7 +2,6 @@
 title: pandykad
 type: "participant"
 name: "Pratik Nandkishor Kakade"
-portfolio: "https://2kabhishek.github.io"
 github-link: "https://github.com/pandykad"
 linkedin-link: "https://www.linkedin.com/in/pratik-kakade-profile/"
 looking-for: "internship"
