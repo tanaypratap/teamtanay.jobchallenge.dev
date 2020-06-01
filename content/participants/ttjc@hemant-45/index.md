@@ -42,8 +42,6 @@ It would be great if i learn something from this job challenge and maybe able to
 
 I will start sharing my projects with live links and source code links after i finish implementing them.
 
-
-
 ### blogs
 
 I have written a blog on some of the most interesting movies i have watched 
