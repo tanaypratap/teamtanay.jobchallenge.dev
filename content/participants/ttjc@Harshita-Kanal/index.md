@@ -2,7 +2,7 @@
 title: Harshita-Kanal
 type: "participant"
 name: "Harshita Kanal"
-portfolio: "https://github.com/Harshita-Kanal"
+portfolio: 
 github-link: "https://github.com/Harshita-Kanal"
 linkedin-link: "https://www.linkedin.com/in/harshita-kanal-400563166/"
 looking-for: "Internship"
