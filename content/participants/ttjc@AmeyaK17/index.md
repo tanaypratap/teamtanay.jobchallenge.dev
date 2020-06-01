@@ -1,8 +1,7 @@
 ---
-title: Ameya Kale
+title: AmeyaK17
 type: "participant"
 name: "Ameya Kale"
-portfolio: ""
 github-link: "https://github.com/AmeyaK17"
 linkedin-link: "https://linkedin.com/in/ameyakale"
 looking-for: "internship"
