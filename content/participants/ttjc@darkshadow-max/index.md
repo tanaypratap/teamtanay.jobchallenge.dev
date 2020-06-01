@@ -1,3 +1,4 @@
+---
 title: Kunal Gupta
 type: "participant"
 name: "Kunal Gupta"
