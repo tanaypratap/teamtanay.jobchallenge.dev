@@ -9,7 +9,7 @@ looking-for: "job"
 description: "learning : HTML|CSS|javacript|react|node|python|java learned : c|data structures and algorithms"
 ---
 
-Hi! I am a Hemant Agrawal.I am 3rd year Electronics and Communication Engineering student.I am studying at Madhav Institute of Technology and Science, Gwalior
+Hi! I am Hemant Agrawal.I am 3rd year Electronics and Communication Engineering student.I am studying at Madhav Institute of Technology and Science, Gwalior
 GWALIOR, Madhya Pradesh. let me walk you through my intro, projects and blogs.
 
 ### introduction
