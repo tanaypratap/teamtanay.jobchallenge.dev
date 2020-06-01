@@ -9,11 +9,11 @@ looking-for: "job"
 description: "React | Javascript | Node"
 ---
 
-Hi! I'm Gauresh .Allow me walk you through all the things i create.
+Hi! I'm Gauresh . Allow me walk you through all the things i create.
 
 ### introduction
 
-I'm working for an MNC as an Analyst. I Like tgit o code and brew coffee.
+I'm working for an MNC as an Analyst. I Like to code and brew coffee.
 
 ## why are you taking this challenge?
 
