@@ -23,7 +23,7 @@ I would also like to have a job switch.
 
 ## something interesting about you?
 
-NA.
+I like to Netflix and chill. I usually binge watch series if I like it's first episode (Left many series after 1st episode)
 
 ### help I need?
 
