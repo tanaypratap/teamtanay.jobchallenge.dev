@@ -13,7 +13,7 @@ Hello, I'm Ashish Bhogesara let me walk you through my intro.
 
 ### introduction
 
-I am self taugh software developer, passed out in 2018 as mechanical engineer. 
+I am self taught software developer, passed out in 2018 as mechanical engineer. 
 I have had the opportunity to build more than 15 websites, 4 mobile apps & 2 sass products till now. Hungry for more ;) 
 
 ## why are you taking this challenge?
