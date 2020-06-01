@@ -2,7 +2,7 @@
 title: Ameya Kale
 type: "participant"
 name: "Ameya Kale"
-portfolio: "https://tanaypratap.com"
+portfolio: ""
 github-link: "https://github.com/AmeyaK17"
 linkedin-link: "https://linkedin.com/in/ameyakale"
 looking-for: "internship"
@@ -25,7 +25,7 @@ I really love taking photos of people, animals and landscapes. Everytime while c
 
 ### help I need?
 
-It would be good if someone tells me how to do auth for apps.
+I am still learning the MERN stack, and would like to know some things will building the backend.
 
 ### how to contact me?
 
