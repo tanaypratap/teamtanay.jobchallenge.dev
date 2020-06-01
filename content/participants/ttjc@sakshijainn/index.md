@@ -30,7 +30,7 @@ It would be good if someone tells me the how react is , as right now I am beginn
 
 ### how to contact me?
 
-- LinkedIn:   [LinkedIn](https://www.linkedin.com/in/sakshi-jain-0ba96317a/)
+- LinkedIn:   [Sakshi Jain](https://www.linkedin.com/in/sakshi-jain-0ba96317a/)
 
 ### projects
 
