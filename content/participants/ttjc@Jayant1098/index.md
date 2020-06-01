@@ -32,8 +32,8 @@ And acing a technical interview.
 
 ### how to contact me?
 
-- LinkedIn : https://www.linkedin.com/in/jayant-pahuja/
-- Email :  mailto:jayantpahuja9@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jayant-pahuja/)
+- [Email](mailto:jayantpahuja9@gmail.com)
 
 ### projects
 
