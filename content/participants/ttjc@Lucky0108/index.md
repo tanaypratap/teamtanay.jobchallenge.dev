@@ -6,7 +6,7 @@ portfolio: "https://lakshayyadav.netlify.app/"
 github-link: "https://github.com/Lucky0108"
 linkedin-link: "https://www.linkedin.com/in/lakshay-yadav/"
 looking-for: "internship"
-description: "Know Basics Of HTML And CSS, Learning JS"
+description: "HTML | CSS | JS"
 ---
 
 Hi! I am Lakshay Yadav, Doing My B.Tech From Anand International College Of Engineering,Jaipur
@@ -53,6 +53,31 @@ _stack_ Made with HTML, CSS AND JS using Api.
 _hosted link_ https://covid-19counter.herokuapp.com/
 
 _github link_ https://github.com/Lucky0108/Corona-Counter
+
+#### Lyrical : Get Lyrics Of Your Favourite Song
+
+_description_ Do You Want To Check The Lyrics of your favourite song for so long? Go ahead Check Out Lyrical Now!!
+                Visit Here...
+
+
+_stack_ Made with HTML, CSS AND JS Api.
+
+_hosted link_ https://getlyrical.netlify.app/
+
+_github link_ https://github.com/Lucky0108/Lyrical
+
+
+#### Xpenser : Calculate Your Daily Expenses In One Place
+
+_description_ Do You Want To Calculate Your Monthly Expense? Or Your Daily Expenses? Checkout Xpenser. It will keep track of All
+                Your Expense. Visit Here....
+
+
+_stack_ Made with HTML, CSS AND JS.
+
+_hosted link_ https://xpenser.netlify.app/
+
+_github link_ https://github.com/Lucky0108/Expense-Calculator
 
 ### blogs
 
