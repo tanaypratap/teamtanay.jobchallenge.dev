@@ -37,27 +37,8 @@ It would be great if someone tells me how to do backend using Java.
 
 ### projects
 
-My projects:
+not a lot of projects are done. I will keep updating it with real links when done.
 
-#### Productivity tracker
-
-_description_ A web application bundled with a desktop client that leverages the power of web technologies to calculate the productivity of employees by analysing the time spent on different applications, mouse movement and key strokes. It can also be deployed to a workspace to measure employee productivity for effective analysis of their competitiveness and suggest courses, if required.
-
-_stack_ Made in venial HTML/CSS. This is written in JavaScript. Backend is powered by Express and MongoDB.
-
-_hosted link_ https://github.com/devbihari/Productivitytracker
-
-_github link_ https://github.com/devbihari/Productivitytracker
-
-#### Sign Language Recognition
-
-_description_ An LSTM based deep learning model that can recognize indian sign language from video footage. In order to build this project I collected my own dataset. (this project is under rapid development)
-
-_stack_ Made with Keras. This is written in python together with it's several inbuilt modules.
-
-_hosted link_ https://github.com/devbihari/Sign-Language-Translation/
-
-_github link_ https://github.com/devbihari/Sign-Language-Translation/
 
 ### blogs
 
