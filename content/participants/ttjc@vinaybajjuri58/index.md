@@ -13,7 +13,7 @@ Hi! I am Bajjuri Vinay Kumar let me walk you through my intro, projects and blog
 
 ### introduction
 
-I am studios but shy. But what to say I am just a dummy.
+I'm a third year B.Tech student who loves coding and exploring different Technologies.Currently most of my time is spent on getting my hands dirty in react. And along with that I do Data Analytics using Python. 
 
 ## why are you taking this challenge?
 
