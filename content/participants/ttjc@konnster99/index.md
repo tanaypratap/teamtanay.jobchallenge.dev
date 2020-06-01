@@ -25,7 +25,7 @@ Well I like to watch movies and vibe with punjabi/bollywood music.
 
 ### help I need?
 
-I would be needing a lot of help because I literally will be learning js form scratch in this 1 month. So I'll just ping in the tanay pratap group if I have any issues.
+I would be needing a lot of help because I literally will be learning js from scratch in this 1 month. So I'll just ping in the tanay pratap group if I have any issues.
 
 ### how to contact me?
 
