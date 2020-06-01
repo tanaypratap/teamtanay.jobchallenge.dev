@@ -46,4 +46,4 @@ I will start sharing my projects with live links and source code links after i f
 
 ### blogs
 
-I will start sharing my blogs with live links after i finish writing them.
+I have written a blog on some of the most interesting movies i have watched 
