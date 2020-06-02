@@ -13,7 +13,7 @@ Hi! I am Hardik,let me walk through my intro,projects and blogs .
 
 ### introduction
 
-I am studios but shy. But what to say I am just a dummy.
+I am studious,determined and persistent.
 
 ## why are you taking this challenge?
 
