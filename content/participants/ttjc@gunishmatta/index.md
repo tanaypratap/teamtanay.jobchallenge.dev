@@ -28,9 +28,9 @@ It would be good if someone tells me how to do build complex projects with React
 
 ### how to contact me?
 
-- Twitter
-- LinkedIn
-- Email
+
+- LinkedIn https://www.linkedin.com/in/gunishmatta2/
+- Email    gunishmatta@gmail.com
 
 ### projects
 
@@ -49,7 +49,7 @@ _hosted link_ https://gkvr5.csb.app/
 
 _github link_ https://github.com/gunishmatta/Food-Recipe-App
 
-#### Bicoin Tracker
+#### Bitcoin Tracker
 
 _description_ A Realtime Bitcoin Tracker using Socket.io,React,Charts.js and Coinbase API.
 
@@ -57,6 +57,7 @@ _stack_ React,Charts.js,Socket.io
 
 _hosted link_ https://csb-stqql-ek5t0ywfv.now.sh/
 
+_github link_ https://github.com/gunishmatta/CryptoEasy
 
 ### blogs
 
