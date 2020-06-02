@@ -43,6 +43,13 @@ Made using ReactJS
 Hosted Link- [BlogVlog](https://blogvlog.netlify.app/)  
 Github link - https://github.com/Ayush909/BlogVlog-project
 
+## 2) MerchantLog
+
+MerchantLog is a webapp which allows Merchants/Shop Owners to register their business on the platform through which they can reach more customers.
+
+Hosted Link- [MerchantLog](https://mern-stack-merchant.herokuapp.com/)  
+Github link - https://github.com/Ayush909/MerchantLog
+
 
 ### blogs
 
