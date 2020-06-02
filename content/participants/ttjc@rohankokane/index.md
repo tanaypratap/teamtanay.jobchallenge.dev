@@ -17,11 +17,7 @@ Now I am in Third Year of bachelors in Computer Engineering.
 
 ## why are you taking this challenge?
 
-Actually I tried to register for Tanay Jobchallenge 2-3 months ago but couldn't register due to some technical difficulties and then I got busy into my college things and some projects.
-Today from Tanay's instagram I got to know its the last day to register and I thought lets give it another shot.
-
-So here I am, I want to get a real industrial intership where I can push myself everyday to build new real word projects and learn new tech.
-I have been working on college projects since few months but there are lot of restrictions to work on like using old stack and methods.
+I want to get a real industrial internship where I can push myself everyday to build new projects and learn new tech. I really love coding and wants to build projects that can have a positive impact on the society. 
 
 ## something interesting about you?
 
@@ -29,7 +25,7 @@ I like to watch old classic movies. Sometimes like to write a litte bit and I ha
 
 ### help I need?
 
-I need a mentor, someone who would just show me the right path and I am ready work hard and go up ladder of success.
+I need a mentor, someone who would show me the right path to learn new tech and frameworks.
 
 ### how to contact me?
 - [Telegram](https://t.me/rohankokane)
@@ -43,7 +39,7 @@ My projects:
 
 ### Covid-19 Awareness Portal
 
-_description_ In this global pandemic situation Let's be aware and not scared! A complete responsive web application where our college could conduct various activities for students in this quarantine. Now there is pictorial awareness quiz upon which can also earn certificates and it will be mailed by PHP mailer. A Wall of Unsung Heores, the people who are helping the needy ones through their small acts of kindness can share there stories and ideas by uploading on this wall. A small effort to spread positivity amid this lockdown.
+_description_ In this global pandemic situation Let's be aware and not scared! A complete responsive web application where our college could conduct various activities for students in this quarantine. As of now there is pictorial awareness quiz upon submitting one can also earn certificate and it will be mailed by PHP mailer. A Wall of Unsung Heores, the people who are helping the needy ones through their small acts of kindness can share there stories and ideas by uploading posts on this wall. A small effort to spread positivity amid this lockdown.
 
 _stack_ Frontend with HTML, CSS and Javascript and PHP for backend with mySQL for Database.
 
@@ -53,13 +49,13 @@ _github link_ https://github.com/rohankokane/covid19portal
 
 ### To do list
 
-_description_   ): A to-do application helps in organizing work better, where we can add list of tasks to do and upon completion can mark it as completed and also we can clear a particular task as well as the entire list. Built this one to learn Javascript 
+_description_ A to-do application helps in organizing work better, where we can add list of tasks to do and upon completion can mark it as completed and also we can clear a particular task as well as the entire list. Built this one to learn Javascript 
 
 _stack_ HTML, CSS and Javascript
 
 _hosted link_ https://todolistbyrohan.netlify.app/
 
-_github link_ 
+_github link_ https://github.com/rohankokane/todolist
 
 ### Pyhton Covid-19 cases notification system
 
@@ -70,7 +66,6 @@ _stack_ Python, BeautifulSoup4
 _hosted link_ Not hosted
 
 _github link_ Will update soon
-
 
 
 ### blogs
