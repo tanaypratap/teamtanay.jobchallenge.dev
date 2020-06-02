@@ -50,7 +50,6 @@ MerchantLog is a webapp which allows Merchants/Shop Owners to register their bus
 Hosted Link- [MerchantLog](https://mern-stack-merchant.herokuapp.com/)  
 Github link - https://github.com/Ayush909/MerchantLog
 
-
 ### blogs
 
 not a lot of blogs written. I wil keep updating with the links below.
