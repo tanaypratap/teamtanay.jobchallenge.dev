@@ -53,6 +53,24 @@ _stack_ Made using React Native and Firebase.
 
 _github link_ https://github.com/Hostel-Bucket
 
+#### Perfect Plan
+
+_description_ A social media web app, that allows users to formulate the perfect plan. This enables users to to post a plan, and have others suggest modifications to refine it.  
+
+_stack_ Made using ReactJs, Express and Firebase.
+
+_github link_ https://github.com/harshasalim/perfect-plan
+
+_hosted link_ https://perfect-plan-a0e83.web.app/
+
+#### Game of Life
+
+_description_ A web application providing users a platform to implement Conway's Game of Life. 
+
+_stack_ Made in ReactJs using hooks and context.
+
+_github link_ https://github.com/harshasalim/Game-of-Life
+
 ### blogs
 
 same as projects, I will keep updating my blogs as and when done.
