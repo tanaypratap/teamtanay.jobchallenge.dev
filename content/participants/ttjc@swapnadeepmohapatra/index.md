@@ -42,7 +42,7 @@ It would be good if someone tells me how to do scale web apps and optimize my co
 I have not done a lot of projects. I will keep updating it with more links when done.
 
 > You can check all of my projects [here](https://projects.swapnadeep.com).
-> You can check all of my projects [here](https://blogs.swapnadeep.com).
+> You can check all of my blogs [here](https://blogs.swapnadeep.com).
 
 My projects:
 
