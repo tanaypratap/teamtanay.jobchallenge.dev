@@ -63,14 +63,6 @@ _github link_ https://github.com/harshasalim/perfect-plan
 
 _hosted link_ https://perfect-plan-a0e83.web.app/
 
-#### Game of Life
-
-_description_ A web application providing users a platform to implement Conway's Game of Life. 
-
-_stack_ Made in ReactJs using hooks and context.
-
-_github link_ https://github.com/harshasalim/Game-of-Life
-
 ### blogs
 
 same as projects, I will keep updating my blogs as and when done.
