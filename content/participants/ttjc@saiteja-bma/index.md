@@ -39,8 +39,8 @@ It would be good if someone can guide me in frontend and database sections.
 I had built a small website, where in user can view current weather and top destinations of all the cities in the world. 
 
 Technologies used:
- *HTML | CSS | JavaScript
- *API's : OpenWeatherMap, FourSquareAPI 
+ * HTML | CSS | JavaScript
+ * API's : OpenWeatherMap, FourSquareAPI 
  
 
 [Github](https://github.com/saiteja-bma/Voyage-WebApp)
