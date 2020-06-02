@@ -42,7 +42,20 @@ Technologies used:
  *Database: Mongodb
 
 [Github](https://github.com/Manoj-M-S/Food-Recipe-Website-Frontend)
-[Netlify](https://relaxed-johnson-359cce.netlify.com/)
+[Github](https://github.com/Manoj-M-S/Food-Recipe-Website-BackEnd)
+[Netlify](https://manoj-recipe-website.netlify.app/)
+
+2. Art Ecommerce website :
+I have built a Art Ecommerce website, where in user can signup, login and add products to cart and buy the products in the cart. Admin can add/Edit/Delete Products and Categories.
+Login as Admin to see complete functionalities, Email: msm@gmail.com , Password: MSMaa
+Technolgies used:
+ *Frontend : React JS
+ *Backend : Node JS, Express 
+ *Database: Mongodb
+
+[Github](https://github.com/Manoj-M-S/Art-client)
+[Github](https://github.com/Manoj-M-S/Art-server)
+[Netlify](https://art-website.netlify.app/)
 
 ### blogs
 

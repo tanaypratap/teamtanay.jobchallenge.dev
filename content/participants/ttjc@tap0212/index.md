@@ -40,7 +40,34 @@ not a lot of projects are done. I will keep updating it with real links when don
 
 My projects:
 
-I have done some small projects while learning. Currently I am working on some good projects and will update when done.
+
+#### Connect - A Neigbourhood connecting PWS
+_description_ Shows you all the notifications in a radius of 5/10 km from your current location
+Filter out the events on the basis of multiple categories
+Let's you create private Notification for any geographical area only
+Shows all the events real time on the map
+Notifications can be created by any individual/government/non-governmental groups or societies
+Since each Notification is bound to a geographical area hence can only be seen by a person in a specific radius
+
+_stack_ MERN stack
+
+_hosted link _ https://no-tify.netlify.app
+
+_github backend_ https://github.com/tap0212/connectAPI
+
+_github frontend_ https://github.com/tap0212/connect
+
+
+#### Wooof - A Dog adoption PWA
+_description_ A Dog Adoption web app where you can find dogs categorised into breeds and there location and can be adopted just filling a quick form.
+
+_stack_ MERN stack
+
+_hosted link _ https://wooof.netlify.app
+
+_github backend_ https://github.com/tap0212/wooofAPI
+
+_github frontend_ https://github.com/tap0212/wooof
 
 ### blogs
 

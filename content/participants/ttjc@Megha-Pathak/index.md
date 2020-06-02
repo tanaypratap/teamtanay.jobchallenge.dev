@@ -39,20 +39,42 @@ I have done projects along side with learning technologies some of them are:
 
 My projects:
 
-#### Not Hacked: Card Game to educate kids about Cyber Security
+#### Dodo: Meet your online digital duck for companionship & debugging
 
-_description_ This is a card game that takes the player through different privacy situations and ask for the response they will choose. The points given to them specifies how good their choice is. 
 
-_stack_ Made with HTML, CSS and JavaScript.
+_description_ A chrome extension to overlay a tiny duck, as a digital companion during debugging and general development work. 
 
-_github link_ https://github.com/Megha-Pathak/Not-Hacked
+_hosted link_ https://dododebugging.netlify.com/
 
-#### Know More: A Twitter Bot
+_stack_ Made with JavaScript.
 
-_description_ A twitter bot to analyze the sentiments of the tweets and compare the information present in the with reliable sources. This bot aims to segregate fake information from the real one to save fake information from being spreaded. The developement of this project is currently on going so it is not hosted yet. 
+_github link_ https://github.com/Megha-Pathak/Dodo
 
-_stack_ Django, Vanila JS, News Api, Word cloud.
+#### Hacket - Privacy card game
+
+_description_ This is a Privacy card game to educate internet newbies about CyberSecurity in an interactive way. This is a card game that takes the player through different privacy situations and ask for the response they will choose. The points given to them specifies how good their choice is.
+
+_stack_ Made with JavaScript. 
+
+_hosted link_ https://hacket.netlify.com/
+
+_github link_ https://github.com/Megha-Pathak/Hacket
+
+#### Tracc - Personal Expense Tracker
+
+_description_ Tracc is a expense tracker build with React. It uses functional components with hooks and the context API.
+
+_stack_ Made with React. 
+
+_hosted link_ https://tracc.netlify.com/
+
+_github link_ https://github.com/Megha-Pathak/tracc
 
 ### blogs
 
 I contribute my blogs to different websites. Some of them can be found at - https://www.csestack.org/author/pathak/
+
+## Why Product thinking is essential for Developers and how to apply it? 
+_description_ In this blog I have described the difference between Project thinking and Product thinking. ALong, with the structure of Product thinking that developers can adept while working on softwares. 
+
+_hosted link_ https://dev.to/megha_pathak_/why-product-thinking-is-essential-for-developers-and-how-to-apply-it-51la
