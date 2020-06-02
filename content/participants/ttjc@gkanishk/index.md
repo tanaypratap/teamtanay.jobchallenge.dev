@@ -42,30 +42,42 @@ It would be good if someone tells me how to do backend using Node.js.
 
 #### Recent Projects:
 
-- **Personal Blog using Gatsby.js and Sanity.io**  
-    Sanity.io is an opensource platform used to develop React.js based apps online using its own environment. 
-    So made a personal blog using Gatsby.js and Sanity.io  
-     Find the project [here](https://gkanishk-blog.netlify.com/)
-- **Social App Using `React.js` and `Firebase` (Under development)**  
-    Making a social networking site using React.js, firebase, MaterialUI and Redux  
-    Project is still under development 
-    However updates can be checked [here](https://clever-roentgen-9c2cae.netlify.com/)
+- **1. Social App Using `React.js` and `Firebase`**    
+    Made a social app using React as major frontend and Node.js, Express as backend. Database used: firebase. Users can create account and add details to communicate between each other. 
+
+    _hosted link_ http://gkanishk-social.netlify.app/  
+    _github link_ https://github.com/gkanishk/socialapp-client/  
+
+- **2. Chuck Norris (SPA made using React)**  
+Used Chuck Norris joke’s API for rendering jokes data on site. This site is made using `React.js`, `Material-UI` as major stacks and hosted using git and Netlify.
+
+_hosted link_ http://gkanishk-joke.netlify.app/  
+_github link_ https://github.com/gkanishk/chuckjoke/  
+
+- **3. Gradiot.club**  
+Gradiot is an initiative by Tanay Pratap working at Microsoft, India.Gradiot focus on the awareness among students about the career opportunities available without any college degree. I build the site for this initiative._Stacks used_ `Gatsby`, `React`, `Material-UI`  
+
+_hosted link_ https://gradiot.club/  
+_github link_ https://github.com/gkanishk/gradiot/  
 
 
-> Can check my **previous projects** [here](https://gkanishk.github.io/#projects) at Projects section.
+
+
+- **4. Personal Blog using Gatsby.js and Sanity.io**  
+    Sanity.io is an opensource platform used to develop React.js based apps online using its own environment.So made a personal blog using `Gatsby.js` and `Sanity.io` 
+
+    _hosted link_ https://gkanishk-blog.netlify.com/   
+    _github link_ https://github.com/gkanishk/sanity-gatsby-blog  
+
+> Can check my **previous projects** [here](https://gkanishk.github.io/#projects) under Projects section.
 
 ### blogs
 
 #### Some of the blogs I have writen:
 
-- **Innovate and invent the idea!!** `October 19th, 2019`  
-    This article is about idea generation! Confused on how to work on the idea and innovate them? this might help you if you are       aiming for any Hackathon or in a project.  
-    Find the blog [here](https://gkanishk-blog.netlify.com/blog/2019/10/innovate-and-invent-the-idea/)
+- **The Power of Version Control** `June 2nd, 2020`  
+    Version control is commonly used in software industries for development purpose and management of code, so here is an article on version control, git, tools used, basics of git including branches.
 
-- **Internships in a smarter way!** `July 11th, 2019`  
-    Many people asked me how can they get internships during there academics, as Internships are hard to get when you are in the       first or second year of academics so here is an article how can you get one by a simple method. Hope it's helpful.  
-    Find the blog [here](https://gkanishk-blog.netlify.com/blog/2019/07/internships-in-a-smarter-way/)
+    Find the blog [here](https://gkanishk-blog.netlify.com/blog/2020/06/version-control/)
 
-- **React-ify Summer** `June 29th, 2019`  
-    This blog is about what I learned during my summer break,the resources I used and the work I did during my summer break.  
-    Find the blog [here](https://gkanishk-blog.netlify.com/blog/2019/06/react-ify-summer/)
+> Can check my **previous written blogs** [here](https://gkanishk-blog.netlify.com)
