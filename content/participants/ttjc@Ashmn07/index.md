@@ -36,18 +36,6 @@ It would be helpful if somebody helps me in increasing my knowledge about the fr
 
 Not a lot of projects are done. I will keep updating it with real links when done.
 
-My projects:
-
-### An Advertisement for a Scientific Caclculator App
-
-_description_ A Hyopthetical ad for a scientific calculator app
-
-_stack_ Made in Html/css/js and Bootstrap
-
-_hosted link_ https://ashmn07.github.io/csau/
-
-_github link_ https://github.com/Ashmn07/csau
-
 ### blogs
 
 same as projects, I will keep updating my blogs as and when done.
