@@ -42,6 +42,7 @@ It would be good if someone tells me how to do scale web apps and optimize my co
 I have not done a lot of projects. I will keep updating it with more links when done.
 
 > You can check all of my projects [here](https://projects.swapnadeep.com).
+> You can check all of my projects [here](https://blogs.swapnadeep.com).
 
 My projects:
 
@@ -53,7 +54,9 @@ _stack_ `MongoDB` is used for the database, `Node.js` and `Express.js` for the B
 
 _hosted link_ http://ecom.swapnadeep.com/
 
-_github link_ https://github.com/swapnadeepmohapatra
+_github backend link_ https://github.com/swapnadeepmohapatra/mern-ecom-backend
+
+_github frontend link_ https://github.com/swapnadeepmohapatra/mern-ecom-web-frontend
 
 - #### 2. DevTube: A MERN stack webapp.
 
@@ -63,7 +66,9 @@ _stack_ `MongoDB` is used for the database, `Firebase` is used to store the vide
 
 _hosted link_ http://devtube.swapnadeep.com/
 
-_github link_ https://github.com/swapnadeepmohapatra
+_github backend link_ https://github.com/swapnadeepmohapatra/devtube-backend
+
+_github frontend link_ https://github.com/swapnadeepmohapatra/devtube-frontend
 
 - #### 3. Tindev: A MERN stack PWA.
 
@@ -73,7 +78,9 @@ _stack_ `MongoDB` is used for the database, `Node.js` and `Express.js` for the B
 
 _hosted link_ http://tindev.swapnadeep.com/
 
-_github link_ https://github.com/swapnadeepmohapatra
+_github backend link_ https://github.com/swapnadeepmohapatra/tindev-backend
+
+_github frontend link_ https://github.com/swapnadeepmohapatra/tindev-frontend
 
 - #### 4. image-auto-scroll: a React Native npm package
 
@@ -103,7 +110,7 @@ _stack_ Two apps made with `React Native`. The website is made with `React.js`. 
 
 _hosted link_ https://fieldscan.netlify.com/
 
-_github link_ https://github.com/swapnadeepmohapatra/
+_github link_ https://github.com/swapnadeepmohapatra/fieldscan-frontend-citizen
 
 - #### 7. Live Corona Tracker
 
@@ -123,7 +130,7 @@ _stack_ `React.js` is used for the frontend. `Firebase` is used for the backend 
 
 _hosted link_ http://abhinav-photo.netlify.com/
 
-_github link_ https://github.com/swapnadeepmohapatra/
+_github link_ https://github.com/swapnadeepmohapatra/abhinav-photography-portfolio
 
 - #### 9. MEME Maker
 
@@ -132,8 +139,6 @@ _description_ A HTML5 Website. This is used to make memes.
 _stack_ `HTML5`, `Vanila.js`, `Bootstrap`
 
 _hosted link_ https://meme.swapnadeep.com/
-
-_github link_ https://github.com/swapnadeepmohapatra/
 
 ### blogs
 
