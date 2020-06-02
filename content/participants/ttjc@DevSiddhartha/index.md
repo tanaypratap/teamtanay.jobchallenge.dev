@@ -2,7 +2,7 @@
 title: Siddhartha Kumar Singh
 type: "participant"
 name: "Siddhartha Kumar Singh"
-portfolio: "https://tanaypratap.com"
+portfolio: ""
 github-link: "https://github.com/DevSiddhartha"
 linkedin-link: "https://www.linkedin.com/in/siddhartha-kumar-singh-0a81a5148/"
 looking-for: "job"
