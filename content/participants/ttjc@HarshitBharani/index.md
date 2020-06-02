@@ -4,7 +4,7 @@ type: "participant"
 name: "Harshit Bharani"
 portfolio: ""
 github-link: "https://github.com/HarshitBharani"
-linkedin-link: ""
+linkedin-link: "https://www.linkedin.com/in/harshit-bharani-96b430190/"
 looking-for: "job/internship"
 description: "I am a student from govt engineering college . learning react and javascript"
 ---
@@ -16,8 +16,6 @@ I am currently pursuing pursuing Btech in  IT from GECA ajmer
 also i am a tech enthuastic who likes to learn new things 
 
 ## why are you taking this challenge?
-
-
 I want to learn.
 and also want a job 
 
@@ -31,8 +29,8 @@ need help in responsive design and react
 
 ### how to contact me?
 
-- instagram(https://www.instagram.com/harshit_bharani)
-- LinkedIn(https://www.linkedin.com/in/harshit-bharani-96b430190/)
+- [Instagram](https://www.instagram.com/harshit_bharani)
+- [LinkedIn](https://www.linkedin.com/in/harshit-bharani-96b430190/)
 
 ### projects
 
