@@ -48,6 +48,23 @@ also provides covid-19 related stats and updates.
 _stack_ - Nodejs,Javascript.
 
 _github link_ -https://github.com/vrushabhd/Custom-Telegram-Bot
+
+#### TalkChat
+
+_description_ -Talkchat is real time chat application in which you can talk to multiple users at the same time on the server.
+
+_stack_ - Nodejs,Javascript,Socket.io for websockets.
+
+_github link_ -https://github.com/vrushabhd/TalkChat
+
+
+
+
+
+
+
+
+
 ### blogs
 
  -same as projects, I will keep updating my blogs as and when done.
