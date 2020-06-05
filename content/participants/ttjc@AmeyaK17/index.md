@@ -28,9 +28,9 @@ I am still learning the MERN stack, and would like to know some things will buil
 
 ### how to contact me?
 
-- [Twitter] (https://twitter.com/AmeyaK17)
-- [LinkedIn] (https://linkedin.com/in/ameyakale)
-- [Instagram] (https://www.instagram.com/ameya.k17/)
+- [Twitter](https://twitter.com/AmeyaK17)
+- [LinkedIn](https://linkedin.com/in/ameyakale)
+- [Instagram](https://www.instagram.com/ameya.k17/)
 
 ### projects
 
