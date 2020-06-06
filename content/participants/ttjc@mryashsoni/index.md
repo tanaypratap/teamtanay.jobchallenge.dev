@@ -2,11 +2,11 @@
 title: Yash Soni
 type: "participant"
 name: "Yash Soni"
-portfolio: "https://tanaypratap.com"
+portfolio: "https://mryashsoni.netlify.app"
 github-link: "https://github.com/mryashsoni"
 linkedin-link: "https://linkedin.com/in/mryashsoni"
 looking-for: "job"
-description: "A Go-Giver | Self Development Enthusiast | Life Long Learner | Full Stack Web Developer | CS Grad"
+description: "React | Node | WordPress | CS Grad"
 ---
 
 Hello everyone! My name is Yash. Welcome to my profile!
@@ -17,25 +17,25 @@ I'm a peaceful person who are open to connect new people and respect individual.
 
 ### introduction
 
-I am studios but shy. But what to say I am just a dummy.
+My name is Yash. I'm CS graduate from Bhopal.
 
 ## why are you taking this challenge?
 
-I need an internship in December 2020.
+I need a job.
 I want to learn.
 
 ## something interesting about you?
 
-I know lyrics to almost all Bollywood songs.
+I am Left Hander.
+I love swimming and chess.
 
 ### help I need?
 
-It would be good if someone tells me how to do auth for apps.
+I don't know about back-end and api.
 
 ### how to contact me?
 
-- Twitter
-- LinkedIn- (https://www.linkedin.com/in/mryashsoni/)
+- [LinkedIn](https://www.linkedin.com/in/mryashsoni/)
 
 ### projects
 
@@ -47,7 +47,7 @@ I will keep updating it with real links when done.
 
 _description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.
 
-_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
+_stack_ Made in yarnReact with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
 
 _hosted link_ https://binder.netlify.com
 
