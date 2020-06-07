@@ -5,7 +5,6 @@ name: "Gourishankar Bansode"
 portfolio: "https://gourishankar27.pythonanywhere.com"
 github-link: "https://github.com/gourishankar27"
 linkedin-link: "https://www.linkedin.com/in/gourishankarb/"
-
 looking-for: "job"
 description: "Python | Django | JavaScript | Node | React | Firebase"
 ---
