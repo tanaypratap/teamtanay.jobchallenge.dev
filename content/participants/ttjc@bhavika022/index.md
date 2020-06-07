@@ -2,7 +2,7 @@
 title: bhavika022
 type: "participant"
 name: "Bhavika Kulkarni"
-
+portfolio: ""
 github-link: "https://github.com/bhavika022"
 linkedin-link: "https://www.linkedin.com/in/bhavika-kulkarni-566846171/"
 looking-for: "internship"
