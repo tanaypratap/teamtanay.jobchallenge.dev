@@ -37,7 +37,7 @@ I can do it, just not very good at it.
 
 ### Projects
 
-&nbsp;1. <a href="https://mulyankan.netlify.app" target="_blank">Furry World</a> \
+&nbsp;1. <a href="https://furryworld.netlify.app/" target="_blank">Furry World</a> \
 => This is a site that I made for my fathers business. It uses HTML, CSS (Stylus) and JavaScript. For the gallery section, I have use Firebase Storage. You can find the code on <a href="https://github.com/skadewdle/dog-app" target="_blank">Github</a>
 
 &nbsp;2. <a href="https://mulyankan.netlify.app" target="_blank">Mulyankan - Check Exam Papers Online</a> \
