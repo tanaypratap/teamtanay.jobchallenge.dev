@@ -39,7 +39,7 @@ My projects:
 
 #### ShopList
 
-_description_ An App for making shopping lists.
+_description_ An App for making shopping lists and items are added one by one. After the items are bought, they can be deleted.
 
 _stack_ : React
 
