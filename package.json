@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "teamTanayJobChallenge",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "The official website for teamtanayjobChallenge",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Tanay Pratap <twitter.com/@tanaypratap>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/tanaypratap/teamtanay.jobchallenge.dev/issues"
   },
   "dependencies": {
     "gatsby": "^2.19.7",
@@ -25,6 +25,7 @@
     "gatsby-source-filesystem": "^2.1.46",
     "gatsby-transformer-remark": "^2.6.48",
     "gatsby-transformer-sharp": "^2.3.13",
+    "node": "^13.13.0",
     "prismjs": "^1.19.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -33,20 +34,22 @@
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75",
     "typography": "^0.16.19",
-    "typography-theme-wordpress-2016": "^0.16.19"
+    "typography-theme-wordpress-2016": "^0.16.19",
+    "yarn": "^1.22.4"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/tanaypratap/teamtanay.jobchallenge.dev/blob/master/README.md",
   "keywords": [
-    "gatsby"
+    "jobChallenge",
+    "teamtanay"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git@github.com:tanaypratap/teamtanay.jobchallenge.dev.git"
   },
   "scripts": {
     "build": "gatsby build",

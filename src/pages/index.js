@@ -3,7 +3,6 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Section from "../components/section"
 import {
-  backgroundGreen,
   backgroundGrey,
   backgroundOrange,
 } from "../utils/typography"
@@ -28,8 +27,36 @@ class Index extends React.Component {
             `react`,
           ]}
         />
+
+        <Section
+          header="what's the challenge?"
+          
+          textNode={
+            <p>
+              #TeamTanayJobChallenge requires you to finish a minimum of{" "}
+              <em>5 projects</em>, <em>3 blogs</em> and <em>2 reviews</em> on
+              your projects.
+              <br/>
+                <p align="center">
+                  Registrations closed on&nbsp;&nbsp;<b>1st June,2020</b>
+                </p>
+                <br/>
+                <p align="center">
+                  All the best to the participants!
+                </p> 
+              </p>
+          }
+          more={[
+            {
+              link: "/challenge-details",
+              text: "challenge details here...",
+            },
+          ]}
+        />
+
         <Section
           header="what's TeamTanay?"
+          needsBackground={backgroundGrey}
           textNode={
             <p>
               An open community of over 20K students and developers spanning
@@ -43,42 +70,31 @@ class Index extends React.Component {
             },
           ]}
         />
-
-        <Section
-          header="what's the challenge?"
-          needsBackground={backgroundGrey}
-          textNode={
-            <p>
-              #TeamTanayJobChallenge requires you to finish a minimum of{" "}
-              <em>5 projects</em>, <em>3 blogs</em> and <em>2 reviews</em> on
-              your projects.
-            </p>
-          }
-          more={[
-            {
-              link: "/challenge-details",
-              text: "challenge details here...",
-            },
-          ]}
-        />
-
         <Section
           header="are we really getting a job?"
           needsBackground={backgroundOrange}
           textNode={
             <p>
+              <p>
               Yes, though the challenge initially was about getting visibility
               and creating projects + profile it has transformed. Now, we have
               hiring partners who are ready to help, interview and hire
               successful participants from the challenge.
+              </p>
+              <br/>
+                <p style={{textAlign:'center'}}>
+                  <a href="/hiring-partners">
+                  know more about hiring partners
+                  </a>
+                </p>
+              <br/>
+                <p style={{textAlign:'center'}}>
+                  <a href="/hiring-hub-welcome">
+                  wanna hire through the challenge?🤔
+                  </a>
+                </p>
             </p>
           }
-          more={[
-            {
-              link: "/hiring-partners",
-              text: "know more about hiring partners",
-            },
-          ]}
         />
 
         <Section
