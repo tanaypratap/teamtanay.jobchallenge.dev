@@ -47,15 +47,17 @@ Tanay , you have helped me a lot in this, While I will definitely would follow y
 
 No new projects done as part of the job challenge yet.However Check my [GitHub](https://github.com/Harshi7016) for previous projects.
 
-<!-- My projects:
-#### TODO App in Flask
-_description_ It is a ToDo  app that let's you perform CRUD operation while having note of your daily task .
+My projects:
 
-_stack_ Python/Flask/Bootstap
+#### Weather App
 
-_hosted link_
+_description_ Project was mainly focussed on exploring react and PWA, A simple weather app with autocomplete place work in progress. All the criteria has met for PWA and is mobile friendly
 
-_github link_ https://github.com/4k45hv3rm4/Todo-List -->
+_stack_ React
+
+_hosted link_ https://progressiveweatherapp.netlify.app/
+
+_github link_ https://github.com/Harshi7016/WeatherAppPWA
 
 ### blogs
 
