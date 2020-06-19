@@ -13,7 +13,7 @@ Hi! I am Aaquib Ahmed , pursuing my b-tech from Bangalore Institute of Technolog
 
 ### introduction
 
-I am currently working as FrontEnd Developer in [Skimbox](http://skimbox.co/), from my freshman year I started working as part time blogger and content writer through which I also oppurtunity to work in different domains like SEO and Social Media Marketing, but I always had love for coding, I used to code simultaneously on [HACKERANK](https://www.hackerrank.com/diazzaaquib), then finaly in my third year I started working on small web projects and started doing my Frelancing job.
+I am currently working as FrontEnd Developer in [Skimbox](http://skimbox.co/), from my freshman year I started working as part time blogger and content writer through which I also oppurtunity to work in different domains like SEO and Social Media Marketing, but I always had love for coding, I used to code simultaneously on [HACKERANK](https://www.hackerrank.com/diazzaaquib), then finaly in my third year I started working on small web projects and started doing my Freelancing job.
 
 ## why are you taking this challenge?
 
@@ -69,7 +69,7 @@ _github link_ https://github.com/killcodeX/portfolio-2.0
 
 _description_ I have made a small Convid and Weather app through which one can find weather of different cities and i have also inculded database of number of cases in india in .csv file and when a usewr search a state, he gets the data of that state (this projects is till in process as i am also trying to include login authentication using redux).
 
-_stack_ React js, CSS and Bulma(CSS Framework)
+_stack_ React js, CSS, Bulma(CSS Framework) and firebase
 
 _github link_  https://github.com/killcodeX/weather-convid
 
