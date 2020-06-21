@@ -47,6 +47,16 @@ _hosted link_ https://rohits-calculator.netlify.app/
 
 _github link_ https://github.com/RohitDhatrak/calculator
 
+### A portal for my classmates
+
+_description_ I have made this wesite for my classmates to keep track of all the notes, important dates, exam syllabus, etc.
+
+_stack_ This project is written in HTML, CSS and Vanilla JavaScript.
+
+_hosted link_ https://btechextc.netlify.app/
+
+_github link_ https://github.com/RohitDhatrak/collegewebsite
+
 ### blogs
 
 I will keep updating my blogs as and when done.
