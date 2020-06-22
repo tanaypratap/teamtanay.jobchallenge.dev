@@ -61,4 +61,8 @@ _github link_ https://github.com/Harshi7016/WeatherAppPWA
 
 ### blogs
 
+#### **My Experience on First Progressive Web Application | PWA**
+
+My Experience on First Progressive Web Application | PWA.. This blog for all the beginnners like me who wants to explore more on PWA. I have shared my ups and downs dealing with PWA and how lighthouse has helped me in turning my web application to PWA **Visit**--[My Experience on First Progressive Web Application | PWA](https://medium.com/@harshithece7016/my-experience-on-first-progressive-web-application-cb5600556fa7)
+
 No new blogs written as part of the job challenge. Check my [Blog](https://harshith-venkatesh-blog.netlify.app/) for previous blogs.
