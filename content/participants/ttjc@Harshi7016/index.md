@@ -42,6 +42,8 @@ Tanay , you have helped me a lot in this, While I will definitely would follow y
 
 - [Twitter](https://twitter.com/HarshithVenkat9)
 - [LinkedIn](https://www.linkedin.com/in/harshith-v-7016ece/)
+- [instagram](http://instagram.com/harshith_bing/)
+- [Medium](https://medium.com/@harshithece7016)
 
 ### projects
 
