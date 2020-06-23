@@ -6,7 +6,7 @@ portfolio: "https://Harshi7016.github.io"
 github-link: "https://github.com/Harshi7016"
 linkedin-link: "https://www.linkedin.com/in/harshith-v-7016ece/"
 looking-for: "job"
-description: "TypeScript | Angular | React | 2 years experiance | Exploring Opportunities"
+description: "TypeScript | Angular | React | 2 years experiance | Python | Java | NodeJS | Exploring Opportunities"
 ---
 
 Namaste, I am Harshith Venkatesh , let me walk you through my intro, projects and blogs.
@@ -45,9 +45,17 @@ Tanay , you have helped me a lot in this, While I will definitely would follow y
 
 ### projects
 
-No new projects done as part of the job challenge yet.However Check my [GitHub](https://github.com/Harshi7016) for previous projects.
-
 My projects:
+
+#### Analog Clock
+
+_description_ Simple Analog Clock design with focus to learn basics after going through Tanay Pratap's course on Vanilla JS. It has dark and light mode which can be toggled
+
+_stack_ Vanilla JS
+
+_hosted link_ darklightmodeanalogclock.netlify.app
+
+_github link_ https://github.com/Harshi7016/AnalogClockDarkLightMode
 
 #### Weather App
 
