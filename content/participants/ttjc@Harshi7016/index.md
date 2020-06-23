@@ -59,6 +59,16 @@ _hosted link_ darklightmodeanalogclock.netlify.app
 
 _github link_ https://github.com/Harshi7016/AnalogClockDarkLightMode
 
+#### Covid-19 Tracker
+
+_description_ Covid-19 Tracker web application which gets the response from the API: https://covid19.mathdro.id/api and using responsive cards and charts , recovered,infected and death cases details are displayed
+
+_stack_ React JS
+
+_hosted link_ https://covid19trackerdemo.netlify.app
+
+_github link_ https://github.com/Harshi7016/CoronaTracker
+
 #### Weather App
 
 _description_ Project was mainly focussed on exploring react and PWA, A simple weather app with autocomplete place work in progress. All the criteria has met for PWA and is mobile friendly
