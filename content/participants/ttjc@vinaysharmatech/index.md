@@ -41,7 +41,11 @@ Required learning is almost over. Will be making awesome projects soon.
 
 ### blogs
 
- I will keep updating my blogs when done.
+### The Castle of Javascript
+
+ _description_ Ever heard a story made using coding concepts. Well here it is, a short story of a bad JS programmer. The story will revolve around basic concepts and how they are used in a sarcastic yet useful way. You are going to read it, aren't you ?
+
+ _link_ https://medium.com/@vinay02856/the-castle-of-javascript-96287fb15f10
 
  ### Certifications
 
