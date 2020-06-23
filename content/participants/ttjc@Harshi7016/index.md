@@ -83,6 +83,14 @@ _github link_ https://github.com/Harshi7016/WeatherAppPWA
 
 #### **My Experience on First Progressive Web Application | PWA**
 
-My Experience on First Progressive Web Application | PWA.. This blog for all the beginnners like me who wants to explore more on PWA. I have shared my ups and downs dealing with PWA and how lighthouse has helped me in turning my web application to PWA **Visit**--[My Experience on First Progressive Web Application | PWA](https://medium.com/@harshithece7016/my-experience-on-first-progressive-web-application-cb5600556fa7)
+My Experience on First Progressive Web Application | PWA.. This blog for all the beginnners like me who wants to explore more on PWA. I have shared my ups and downs dealing with PWA and how lighthouse has helped me in turning my web application to PWA.
+
+**Visit**--[My Experience on First Progressive Web Application | PWA](https://medium.com/@harshithece7016/my-experience-on-first-progressive-web-application-cb5600556fa7)
+
+#### \*Chrome Extensions for Front-end Devs\*\*
+
+The blog was mainly focussed on my daily usage of chrome extensions and how it helps front end developer in general. The empasis is mainly on few important extensions such as ColorPick Eyedropper,JSON Viewer, WhatFont, Wappalyzer, LightHouse etc.,
+
+**Visit**--[Chrome Extensions for Front-end Devs](https://medium.com/@harshithece7016/chrome-extensions-for-front-end-devs-63f8a1b7a8a9)
 
 No new blogs written as part of the job challenge. Check my [Blog](https://harshith-venkatesh-blog.netlify.app/) for previous blogs.
