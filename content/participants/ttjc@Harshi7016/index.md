@@ -89,7 +89,7 @@ My Experience on First Progressive Web Application | PWA.. This blog for all the
 
 #### \*Chrome Extensions for Front-end Devs\*\*
 
-The blog was mainly focussed on my daily usage of chrome extensions and how it helps front end developer in general. The empasis is mainly on few important extensions such as ColorPick Eyedropper,JSON Viewer, WhatFont, Wappalyzer, LightHouse etc.,
+The blog was mainly focussed on a few chrome extensions which I like the most and how it helps front end developer in general. The empasis is mainly on few important extensions such as ColorPick Eyedropper,JSON Viewer, WhatFont, Wappalyzer, LightHouse etc.,
 
 **Visit**--[Chrome Extensions for Front-end Devs](https://medium.com/@harshithece7016/chrome-extensions-for-front-end-devs-63f8a1b7a8a9)
 
