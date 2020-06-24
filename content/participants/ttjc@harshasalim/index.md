@@ -35,7 +35,7 @@ It would be good if someone tells me how to do auth for apps. Testing apps is a 
 
 ### projects
 
-#### Lottery system
+#### Lottery system(Not as part of the competition)
 
 _description_ A basic lottery system for Ether cryptocurrency.
 
@@ -45,7 +45,7 @@ _github link(application)_ https://github.com/harshasalim/Lottery-solidity-proje
 
 _github link(front-end)_ https://github.com/harshasalim/Lottery-React-Frontend
 
-#### Hostel Bucket
+#### Hostel Bucket(Not as part of the competition)
 
 _description_ An app done for an internship, which was to connect college students to hostels, and other living facilities available in their vicinity.
 
@@ -62,6 +62,14 @@ _stack_ Made using ReactJs, Express and Firebase.
 _github link_ https://github.com/harshasalim/perfect-plan
 
 _hosted link_ https://perfect-plan-a0e83.web.app/
+
+#### Reminder
+
+_description_ A reminder mobile app that accepts user's input and sorts them to different categories, like today's reminders, daily reminders, etc. The user can specify the date, time, description and type(remind once/daily/weekly etc) of the reminder. Only the front-end is created and was done using React Native.
+
+_stack_ Made using React Native
+
+_github link_ https://github.com/harshasalim/Reminder
 
 ### blogs
 
