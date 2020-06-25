@@ -1,5 +1,5 @@
 ---
-title: Rickey student
+title: Rickey Upadhyay
 type: "participant"
 name: "Rickey Upadhyay"
 github-link: "https://github.com/Rickey07"
