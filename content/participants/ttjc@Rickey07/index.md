@@ -44,6 +44,14 @@ _Stack_ Made in Html , CSS and Vanilla Js.
 
 _Github link_ (https://github.com/Rickey07/MyallProjects/blob/master/Changehex.html)
 
+#### React_weather_app
+
+_description_ My First and simple web app for checking weather with dynamic background changing 
+
+_Stack_ Made in ReactJs 
+
+_Github link_ (https://github.com/Rickey07/React_weather_app)
+
 ### blogs
 
 I had did blogging in my past , but left it because I had my exams . Now i will start it again .
