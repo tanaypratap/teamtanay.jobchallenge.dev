@@ -6,7 +6,7 @@ portfolio: "https://tapanchudasama.netlify.app"
 github-link: "https://github.com/inflame07"
 linkedin-link: "https://linkedin.com/in/inflame"
 looking-for: "job"
-description: "does competitive coding C++|HTML|CSS learning Node.js|MongoDB|Angular"
+description: "does competitive coding C++|HTML|CSS learning Node.js|MongoDB|React"
 ---
 
 Hi! My name is Tapan Chudasama. Below you'll get to know more about me and my skills. Also you'll find some projects that I've done.
@@ -69,6 +69,16 @@ _hosted link_ https://github.com/inflame07/sudoku-solver
 
 _github link_ https://github.com/inflame07/sudoku-solver
 
+#### Corona Tracker
+
+_description_ A Web App to visualize the situation of Coronavirus in countries all over the world
+
+_stack_ React.js
+
+_hosted link_ https://statometercovid19.netlify.app/
+
+_github link_ https://github.com/inflame07/COVID-19-tracker
+
 ### blogs
 
 Below you can find the some blogs that I've written. I'll keep updating them as I write new blogs.
@@ -90,3 +100,9 @@ _link_ https://tapanchudasama.netlify.app/backtracking-creating-a-sudoku-solver
 _description_ What are SQL and NoSQL databases and when to use which one
 
 _link_ https://tapanchudasama.netlify.app/sql-or-no-sql
+
+#### How web works
+
+_description_ A detailed note on what happens when you search something in browser
+
+_link_ https://tapanchudasama.netlify.app/what-happens-when-you-search-something-in-your-browser
