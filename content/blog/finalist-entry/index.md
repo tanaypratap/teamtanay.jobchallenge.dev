@@ -23,4 +23,4 @@ Now how can one update his/her data if he has completed the challenge, so let me
   - ![image](https://user-images.githubusercontent.com/33570551/84848730-5a3d9600-b071-11ea-965e-d0c6c7943e69.png)
 
 Best,  
-teamTanay
+TeamTanay
