@@ -6,7 +6,7 @@ portfolio: "https://Harshi7016.github.io"
 github-link: "https://github.com/Harshi7016"
 linkedin-link: "https://www.linkedin.com/in/harshith-v-7016ece/"
 looking-for: "job"
-description: "TypeScript | Angular | React | 2 years experiance | Exploring Opportunities"
+description: "TypeScript | Angular | React | 2 years experiance | Python | Java | NodeJS | Exploring Opportunities"
 ---
 
 Namaste, I am Harshith Venkatesh , let me walk you through my intro, projects and blogs.
@@ -42,12 +42,32 @@ Tanay , you have helped me a lot in this, While I will definitely would follow y
 
 - [Twitter](https://twitter.com/HarshithVenkat9)
 - [LinkedIn](https://www.linkedin.com/in/harshith-v-7016ece/)
+- [instagram](http://instagram.com/harshith_bing/)
+- [Medium](https://medium.com/@harshithece7016)
 
 ### projects
 
-No new projects done as part of the job challenge yet.However Check my [GitHub](https://github.com/Harshi7016) for previous projects.
-
 My projects:
+
+#### Analog Clock
+
+_description_ Simple Analog Clock design with focus to learn basics after going through Tanay Pratap's course on Vanilla JS. It has dark and light mode which can be toggled
+
+_stack_ Vanilla JS
+
+_hosted link_ darklightmodeanalogclock.netlify.app
+
+_github link_ https://github.com/Harshi7016/AnalogClockDarkLightMode
+
+#### Covid-19 Tracker
+
+_description_ Covid-19 Tracker web application which gets the response from the API: https://covid19.mathdro.id/api and using responsive cards and charts , recovered,infected and death cases details are displayed
+
+_stack_ React JS
+
+_hosted link_ https://covid19trackerdemo.netlify.app
+
+_github link_ https://github.com/Harshi7016/CoronaTracker
 
 #### Weather App
 
@@ -59,6 +79,29 @@ _hosted link_ https://progressiveweatherapp.netlify.app/
 
 _github link_ https://github.com/Harshi7016/WeatherAppPWA
 
+#### Farm 2 Home
+
+_description_ An eCommerce website for vegetables, the focus was mainly on creating E2E application and I was really happy looking at the end project. The project has signing, register, listing, cart, payment process steps. Through this project, I got the opportunity to explore more on backend NodeJS, ExpressJS, and MongoDB. The hosting of the project is done in the Heroku Platform.
+
+_stack_ React,NodeJS,ExpressJS and MongoDB
+_platform_ Heroku
+
+_hosted link_ https://farm2wohome.herokuapp.com/
+
+_github link_ https://github.com/Harshi7016/Farm2Homev1
+
 ### blogs
+
+#### **My Experience on First Progressive Web Application | PWA**
+
+My Experience on First Progressive Web Application | PWA.. This blog for all the beginnners like me who wants to explore more on PWA. I have shared my ups and downs dealing with PWA and how lighthouse has helped me in turning my web application to PWA.
+
+**Visit**--[My Experience on First Progressive Web Application | PWA](https://medium.com/@harshithece7016/my-experience-on-first-progressive-web-application-cb5600556fa7)
+
+#### \*Chrome Extensions for Front-end Devs\*\*
+
+The blog was mainly focussed on a few chrome extensions which I like the most and how it helps front end developers in general. The emphasis is mainly on a few important extensions such as ColorPick Eyedropper, JSON Viewer, WhatFont, Wappalyzer, LightHouse, etc.,
+
+**Visit**--[Chrome Extensions for Front-end Devs](https://medium.com/@harshithece7016/chrome-extensions-for-front-end-devs-63f8a1b7a8a9)
 
 No new blogs written as part of the job challenge. Check my [Blog](https://harshith-venkatesh-blog.netlify.app/) for previous blogs.
