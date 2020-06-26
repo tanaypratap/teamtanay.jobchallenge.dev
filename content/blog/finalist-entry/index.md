@@ -19,6 +19,7 @@ Now how can one update his/her data if he has completed the challenge, so let me
   - ![image](https://user-images.githubusercontent.com/33570551/84847716-59a40000-b06f-11ea-84de-793dc102e21e.png)
 - After that you are good to go!
 - Create a **PR** as you did before, boom you are done.  
+- **Note** data inside `index.md` of _finalist_ should be same as before if you have to make changes do inside `participant` index.md file first.
 - Once your **PR** gets accepted that should reflect [here](https://2020.teamtanay.jobchallenge.dev/finalist/) like:
   - ![image](https://user-images.githubusercontent.com/33570551/84848730-5a3d9600-b071-11ea-965e-d0c6c7943e69.png)
 
