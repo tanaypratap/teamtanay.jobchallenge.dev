@@ -2,7 +2,7 @@
 title: finalist data updation
 date: "2020-06-25T22:30:03.284Z"
 type: "blog"
-description: "finalist data updation"
+description: "Process for finalist data updation"
 ---
 
 This feels like just happened yesterday or few days before but we have crossed almost three months and the challenge ends on 30th June, 2020.
