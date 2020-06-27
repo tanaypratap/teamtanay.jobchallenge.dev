@@ -2,11 +2,11 @@
 title: Burhanuddin Udaipurwala
 type: "participant"
 name: "Burhanuddin Udaipurwala"
-portfolio: "https://burhanuday.github.io/"
+portfolio: "https://burhanuday.tech/"
 github-link: "https://github.com/burhanuday"
 linkedin-link: "https://www.linkedin.com/in/burhanuddin-udaipurwala/"
 looking-for: "job"
-description: "React | React Native | Node | Firebase"
+description: "React | React Native | Node | Firebase | A Computer Engineering student passionate about building stuff!"
 ---
 
 Hi! I am Burhanuddin :)
@@ -14,7 +14,7 @@ A Computer Engineering student passionate about building stuff!
 
 ### introduction
 
-I am dedicated and committed developer, passionate about facing challenges and always willing to learn new technologies and move forward. Concerned about deadlines, love programming, enjoy work and always motivated when it comes to accomplishing goals.
+I am a student at the University of Mumbai. I have always tried solving all my problems with programming whether it be making a tool to help me with my homework or making a keyboard app so I could easily type scientific symbols on my phone. 
 
 ## why are you taking this challenge?
 
@@ -36,29 +36,44 @@ It would be great to have someone to tell me when my code is not production read
 
 ### projects
 
-#### Foodie - A platform for food bloggers
+#### Topical - Chat App
 
-_description_ 
-A food blogging platform for people who love food. Food bloggers post reviews about restaurants and food lovers can view and like their posts.
-
-_stack_
-Made with React, Express and MongoDB
-
-_hosted link_ https://foodie-website.herokuapp.com/auth
-
-_github link_ https://gitlab.com/idaedalus/foodie/foodie-website
-
-#### PotholeGO!
-
-_description_ 
-Pothole GO is a project aimed at reducing the potholes on our roads by tracking their location and parameters. The project uses image recognition and machine learning to estimate the severity of potholes and tags them on maps for users 
+_description_
+Topical is a topic based chat application where users participate in conversations in large numbers. Each chat revolves around a central topic which users can discuss
 
 _stack_
-Made with Android, Express and MongoDB
+Made with React Native and Firebase
 
-_hosted link_ https://github.com/burhanuday/Pothole-GO
+_hosted link_ https://github.com/burhanuday/topical/releases
 
-_github link_ https://github.com/burhanuday/Pothole-GO
+_github link_ https://github.com/burhanuday/topical
+
+
+#### Invoice Scanner
+
+_description_ 
+A cross platform open source alternative to apps like Cam Scanner and Microsoft Lens. It has the ability to remove watermarks and extract text from images after cleaning them 
+
+_stack_
+Made with React Native, OpenCV
+
+_hosted link_ https://github.com/burhanuday/invoice-scanner-react-native
+
+_github link_ https://github.com/burhanuday/invoice-scanner-react-native
+
+
+#### Wordy
+
+_description_ 
+Wordy is a medium themed app for your WordPress blog. It adapts to any WordPress blog and does not require a setup. Simply change the url in the constants file to your own blog url and that's it 
+
+_stack_
+Made with Android, WordPress API
+
+_hosted link_ https://github.com/burhanuday/WordPress-Blog-App-Using-RxJava-Retrofit-Butterknife
+
+_github link_ https://github.com/burhanuday/WordPress-Blog-App-Using-RxJava-Retrofit-Butterknife
+
 
 #### Cemently
 
@@ -74,9 +89,23 @@ _github link_ https://github.com/burhanuday/Cemently-Cement-Reminder-App
 
 ### blogs
 
-#### Using React with Electron - For Beginners!
+#### React Context API + useReducer() = Redux
 
 _description_
-Using React with Electron using a boilerplate
+Using the React Context API to build something Redux-like!
 
-_link_ https://dev.to/burhanuday/using-react-with-electron-for-beginners-3436
+_link_ https://dev.to/burhanuday/react-context-api-usereducer-redux-ogo
+
+#### Using Ant Design with NextJS
+
+_description_
+Create a project with NextJS and Ant Design with Server Side Rendering (SSR)
+
+_link_ https://dev.to/burhanuday/using-ant-design-with-nextjs-custom-variables-for-ant-design-57m5
+
+#### How my spammer for WhatsApp works!
+
+_description_
+Explanation on how I exploited WhatsApp to build a spammer
+
+_link_ https://dev.to/burhanuday/how-my-spammer-for-whatsapp-works-26o7
