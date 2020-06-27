@@ -36,10 +36,10 @@ I am still learning to develop more and more skills. But sometimes some things a
 - [LinkedIn](https://www.linkedin.com/in/shivam-bhatia-a83ab4185/)
 
 ### projects
-It is a simple Google Keep clone- https://notes-keeper-app-shivam.netlify.app
-It is a simple weather website that updates background with city images- https://weather-app-shivam.netlify.app
-It is a simple recipe app- https://recipe-app-shivam.netlify.app
-These 3 projects are only based on react and are quite basic because I am new to React but I have many other projects based on HTML/CSS,Javascript,Jquery,MongoDB,SQL,Express,Node.js and EJS that you can see on my Github.
+It is a simple Google Keep clone- https://notes-keeper-app-shivam.netlify.app <br />
+It is a simple weather website that updates background with city images- https://weather-app-shivam.netlify.app <br />
+It is a simple recipe app- https://recipe-app-shivam.netlify.app <br />
+These 3 projects are based on React only and are quite basic because I am new to React but I have many other projects based on HTML/CSS,Javascript,Jquery,MongoDB,SQL,Express,Node.js and EJS that you can see on my Github.
 
 ### blogs
 
