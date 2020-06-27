@@ -37,7 +37,9 @@ I am still learning to develop more and more skills. But sometimes some things a
 
 ### projects
 
-I will be updating it with real links when I complete my new projects.
+https://notes-keeper-app-shivam.netlify.app
+https://weather-app-shivam.netlify.app
+https://recipe-app-shivam.netlify.app
 
 ### blogs
 
