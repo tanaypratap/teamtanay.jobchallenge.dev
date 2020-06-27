@@ -13,7 +13,7 @@ Hi! Looking for a MERN web developer? I am a pre final year CSE student and a ME
 
 ### introduction
 
-I am a person who looks around every perspective of a work and its result before doing it. I am passionate about my work and highly organised. I always keep the end goal in my mind and work always in favour of it. I search for new and effective ways which can lead me to my goal. I am career a oriented and hardworking guy.
+I am a person who looks around every perspective of a work and its result before doing it. I am passionate about my work and highly organized. I always keep the end goal in my mind and work always in favour of it. I search for new and effective ways which can lead me to my goal. I am career oriented and hardworking guy.
 
 ## why are you taking this challenge?
 
@@ -119,3 +119,17 @@ _description_ Few days back one guy in the telegram group(team tanay) was facing
 Though it is a simple topic but yet many of the new developers face issue with this which insisted me to write this blog.
 
 _link_ https://batralakshay.netlify.app/blog1-htmlfilepath
+
+#### Fork a repo - GitHub.
+
+_description_ Forking is the main concept which everyone should know who is diving into open source.
+So I thought of writing a blog over it, and explain the process with examples.
+
+_link_ https://batralakshay.netlify.app/blog2-forking
+
+#### Color theory & Typography.
+
+_description_ For a UI UX designer it is important to understand color theory and typography.
+It is Color theory & Typography which can let you present your thoughts in an exact manner thus I thought of writing a blog over it and clearing all the concepts behind colors & typography.
+
+_link_ https://batralakshay.netlify.app/blog3-color-theory-and-typography
