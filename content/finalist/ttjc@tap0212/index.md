@@ -1,6 +1,6 @@
 ---
 title: Tapan Awasthi
-type: "participant"
+type: "finalist"
 name: "Tapan Awasthi"
 portfolio: "https://tapanawasthi.dev"
 github-link: "https://github.com/tap0212"
