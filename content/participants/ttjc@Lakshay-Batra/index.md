@@ -22,7 +22,7 @@ I want to learn and grow fast which this challenge can help me with.
 
 ## something interesting about you?
 
-I am good with cooking.
+I am good at cooking.
 
 ### help I need?
 
@@ -34,8 +34,6 @@ It would be good if someone tells me what all other things i should learn after 
 - [LinkedIn](https://www.linkedin.com/in/lakshay-batra-888726189/)
 
 ### projects
-
-not a lot of projects are done. I will keep updating it with real links when done.
 
 My projects:
 
