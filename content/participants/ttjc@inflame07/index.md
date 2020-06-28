@@ -59,15 +59,15 @@ _hosted link_ https://shrinkerr.herokuapp.com/
 
 _github link_ https://github.com/inflame07/url-shrinker
 
-#### Sudoku Solver
+#### RGB Color Guessing Game
 
-_description_ Sudoku Solver made using backtracking and PyGame in Python
+_description_ A color guessing game with different difficulty modes that gives a random RGB color to guess.
 
-_stack_ Front End is done using PyGame. Back end is done using Python.
+_stack_ React.js
 
-_hosted link_ https://github.com/inflame07/sudoku-solver
+_hosted link_ https://identifycolor.netlify.app/
 
-_github link_ https://github.com/inflame07/sudoku-solver
+_github link_ https://github.com/inflame07/RGB-Color_Guessing_Game
 
 #### Corona Tracker
 
