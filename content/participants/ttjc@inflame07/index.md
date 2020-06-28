@@ -34,7 +34,7 @@ I want to learn the current trending JS frameworks and it'd be great if someone 
 
 ### projects
 
-Here are all the projects that I have done as a part of Tanay Pratap's Job Challenge.
+Here are all the projects that I have done as a part of TeamTanay Job Challenge.
 
 My projects:
 
