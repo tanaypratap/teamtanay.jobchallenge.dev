@@ -20,17 +20,17 @@ I have pursued B.Tech - Electronics and Communication branch in Manipal Institut
 
 ## why are you taking this challenge?
 
-Honestly, I really liked the challenge and this will definitely motivate me to explore different frameworks,libraries of JS.
+Honestly, I really liked the challenge and this will definitely motivate me to explore different frameworks, libraries of JS.
 
-I would really want to be part of Open Source community.
+I would really want to be part of the Open Source community.
 
 I believe working on typescript for 1.5 years has built enough confidence in me to create a project in Angular Framework from Scratch. I would like to build my portfolio in a way to attract companies to look into my portfolio and thus leading to Switching for better opportunities.
 
 #Update 06/29/2020
-In a month, I have gained a lot of knowledge by being a part of community and the opportunity I have got to meet talented front end devs and their ideas were mesmerizing. I even got the opportunity to help few college grads with the gyan that I have got on placements and in my journey.
+In a month, I have gained a lot of knowledge by being a part of the community and the opportunity I have got to meet talented front end devs, and their ideas were mesmerizing. I even got the opportunity to help a few college grads with the Gyan that I have got on placements and in my journey.
 
-Whether this helps me in job opportunities here or not, but I have indeed got confidence boost to prepare JS in depth and has given me clarity to feel confident enough to give Front End Developer Interview in much more confidently.
-I do have a great path ahead and joining this challenge, It has eased my complex path ahead with lot of tips, ideas, reviews etc.,
+Whether this helps me in job opportunities here or not, but I have indeed got a confidence boost to prepare JS in-depth and has given me the clarity to feel confident enough to give Front End Developer Interview in much more confidently.
+I do have a great path ahead and joining this challenge, It has eased my complex path ahead with a lot of tips, ideas, reviews, etc.,
 
 Keep continuing Tanay ##Team Tanay Zindabad
 
