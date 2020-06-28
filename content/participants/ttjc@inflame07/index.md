@@ -1,6 +1,6 @@
 ---
 title: tapan chudasama
-type: "finalist"
+type: "participant"
 name: "Tapan Chudasama"
 portfolio: "https://tapanchudasama.netlify.app"
 github-link: "https://github.com/inflame07"
