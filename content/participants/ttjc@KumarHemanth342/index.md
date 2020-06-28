@@ -100,7 +100,11 @@ http://18.188.18.78/
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+1.Performing CRUD operations using Node js
+
+2.How to deploy Node application by using AWS,
+
+3.How to add storage or volume to remote server in aws
 
 #### why I liked GraphQL over REST?
 
