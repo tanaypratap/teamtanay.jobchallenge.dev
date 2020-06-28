@@ -1,6 +1,5 @@
 ---
 title: about teamtanay
-date: "2015-05-01T22:12:03.284Z"
 type: "main"
 description: "About Team Tanay"
 ---

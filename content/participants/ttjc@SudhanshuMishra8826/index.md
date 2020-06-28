@@ -37,7 +37,13 @@ I need help in writing blogs.
 
 ### Projects
 
-I will keep updating it with real links when done.
+#### GenArt
+
+_description_ Application for Performing “Style Transfer on Images” which is developed utilizing the comparative study of different algorithms and and the application is available and compatible with all the platforms, since it is a Web App.
+
+_stack_ Made in Python used Flask framework, Opencv & DNN, Html, Css, Js, Bootstrap
+
+_github link_ https://github.com/SudhanshuMishra8826/Genart
 
 
 ### Blogs

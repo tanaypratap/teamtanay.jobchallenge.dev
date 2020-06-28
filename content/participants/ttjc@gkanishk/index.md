@@ -40,8 +40,44 @@ It would be good if someone tells me how to do backend using Node.js.
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+#### Recent Projects:
+
+- **1. Social App Using `React.js` and `Firebase`**    
+    Made a social app using React as major frontend and Node.js, Express as backend. Database used: firebase. Users can create account and add details to communicate between each other. 
+
+    _hosted link_ http://gkanishk-social.netlify.app/  
+    _github link_ https://github.com/gkanishk/socialapp-client/  
+
+- **2. Chuck Norris (SPA made using React)**  
+Used Chuck Norris joke’s API for rendering jokes data on site. This site is made using `React.js`, `Material-UI` as major stacks and hosted using git and Netlify.
+
+_hosted link_ http://gkanishk-joke.netlify.app/  
+_github link_ https://github.com/gkanishk/chuckjoke/  
+
+- **3. Gradiot.club**  
+Gradiot is an initiative by Tanay Pratap working at Microsoft, India.Gradiot focus on the awareness among students about the career opportunities available without any college degree. I build the site for this initiative._Stacks used_ `Gatsby`, `React`, `Material-UI`  
+
+_hosted link_ https://gradiot.club/  
+_github link_ https://github.com/gkanishk/gradiot/  
+
+
+
+
+- **4. Personal Blog using Gatsby.js and Sanity.io**  
+    Sanity.io is an opensource platform used to develop React.js based apps online using its own environment.So made a personal blog using `Gatsby.js` and `Sanity.io` 
+
+    _hosted link_ https://gkanishk-blog.netlify.com/   
+    _github link_ https://github.com/gkanishk/sanity-gatsby-blog  
+
+> Can check my **previous projects** [here](https://gkanishk.github.io/#projects) under Projects section.
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+#### Some of the blogs I have writen:
+
+- **The Power of Version Control** `June 2nd, 2020`  
+    Version control is commonly used in software industries for development purpose and management of code, so here is an article on version control, git, tools used, basics of git including branches.
+
+    Find the blog [here](https://gkanishk-blog.netlify.com/blog/2020/06/version-control/)
+
+> Can check my **previous written blogs** [here](https://gkanishk-blog.netlify.com)

@@ -31,7 +31,7 @@ I'd really appreciate somene guiding me in shaping my career at such a crucial j
 ### how to contact me?
 
 - [Twitter](https://twitter.com/SumitSa96183962)
-- [LinkedIn] (https://www.linkedin.com/in/sumit-saurabh-5a8b191a4/)
+- [LinkedIn](https://www.linkedin.com/in/sumit-saurabh-5a8b191a4/)
 
 ### projects
 

@@ -20,4 +20,8 @@ One exciting news which we do want to share with you is that collectively these 
 
 ### you want to be a hiring partner?
 
-This space is coming up. Initial partnerships were forged from my (Tanay's) personal connections but soon it will be open to all.
+Want to become our hiring partner, We have created a whatsapp group for our hiring partners with the name:  
+
+**#hiringHub #jobChallenge** join [here](http://shorturl.at/buIOP)
+
+[Hackstrap](hackstrap.com) is part of the jobChallenge team as the coordinator for the hiring partners and will be available to answer any questions hiring partners have and to give them the necessary clarifications.

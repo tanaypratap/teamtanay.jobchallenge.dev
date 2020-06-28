@@ -8,13 +8,19 @@ class PostsIndex extends React.Component {
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
-    const faqs = data.allMarkdownRemark.edges
+    const faqs = data.allMarkdownRemark.edges.sort((item1, item2) => {
+      // sort the data according to the names 
+      const name1 = item1.node.frontmatter.title;
+      const name2 = item2.node.frontmatter.title;
+      return name1 > name2 ? 1 : -1;
+    });
 
     return (
       <Layout
         location={this.props.location}
         title={"listing all participants"}
         siteTitle={siteTitle}
+        numberOfParticipants={faqs.length}
       >
         <SEO
           title="participants"
@@ -25,6 +31,7 @@ class PostsIndex extends React.Component {
             `react`,
           ]}
         />
+        {/* TODO: Add a search bar if one wants to find a particular participant */}
         {faqs.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
