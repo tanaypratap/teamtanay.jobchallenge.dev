@@ -38,6 +38,7 @@ I need a mentor to create connections in the tech industry.
 #### FIRST PROJECT :- Movie Library App
 
 ![project image](https://i.ibb.co/cJQvg9S/smartmockups-kadjctvn.png)
+
 _Description_ A Movie Library App made with ReactJS using The Movie Database API.
 
 _Tech stack_ React | TheMovieDB API | Style Component | Reach Router | JavaScript
@@ -49,6 +50,7 @@ _github link_ https://github.com/tarunyadav1/Movie-Library-App-using-Reactjs-and
 #### SECOND PROJECT :- Doist App Task Manager App with React Firebase
 
 ![project image](https://i.ibb.co/F8ZYD2d/smartmockups-kawbi5mr.png)
+
 _Description_ This is task manager app which is build using React and firebase. In this app you can create project and assign the task to the projects. This app also have dark Mode.
 
 _Tech stack_ React | Firebase | Node-SaSS | JavaScript
@@ -60,6 +62,7 @@ _github link_ https://github.com/tarunyadav1/Doist-React-App-Using-firebase-
 #### THIRD PROJECT :- Slack clone with React Firebase Redux 
 
 <img src="https://i.ibb.co/KqY0fZZ/smartmockups-kbycowi0.png" alt="smartmockups-kbycowi0" border="0">
+
 _Description_ This is Slack like chat app for Developers with **Auth**. User can chat in **Real time and share images**. Users can see other's user **online and offline status**.
 
 _Tech stack_ React | Firebase Auth and Database | Semantic UI | Redux | JavaScript
