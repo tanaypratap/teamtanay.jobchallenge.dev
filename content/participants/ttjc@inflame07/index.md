@@ -1,6 +1,6 @@
 ---
 title: tapan chudasama
-type: "participant"
+type: "finalist"
 name: "Tapan Chudasama"
 portfolio: "https://tapanchudasama.netlify.app"
 github-link: "https://github.com/inflame07"
@@ -34,7 +34,7 @@ I want to learn the current trending JS frameworks and it'd be great if someone 
 
 ### projects
 
-Here are all the projects that I have done as a part of Tanay Pratap Job Challenge.
+Here are all the projects that I have done as a part of Tanay Pratap's Job Challenge.
 
 My projects:
 
