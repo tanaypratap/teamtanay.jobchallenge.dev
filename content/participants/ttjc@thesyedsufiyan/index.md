@@ -91,14 +91,14 @@ _github link_ https://github.com/thesyedsufiyan/node-chat-app
 
 [Understanding Asynchronous programming in JavaScript](https://medium.com/@syedsufi1066/understanding-asynchronous-programming-in-javascript-c2553d7d07f2)
 
+_description_ In this blog we'll run through a number of important concepts relating to asynchronous programming, and how this looks in web browsers and JavaScript.
+
 [Destructuring in javascript](https://medium.com/@syedsufi1066/destructuring-in-javascript-8481c3b56ddc)
+
+_description_ Blog about how destructuring work in javascript
 
 [JavaScript Array Methods (forEach, map, some, find, filter & more)](https://medium.com/@syedsufi1066/javascript-array-methods-foreach-map-some-find-filter-more-ff1e50ec3c50)
 
+_description_ understanding JavaScript array methods and its types.
 
 
-<!-- #### why I liked GraphQL over REST?
-
-_description_ I will write something really nice here so that you feel like reading my blog.
-
-_link_ https://dev.to/some-imaginary-link -->
