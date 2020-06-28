@@ -1,6 +1,6 @@
 ---
 title: Lakshay Batra
-type: "participant"
+type: "finalist"
 name: "Lakshay"
 portfolio: "https://batralakshay.netlify.app/"
 github-link: "https://github.com/Lakshay-Batra"
