@@ -6,7 +6,8 @@ portfolio: "https://syed-portfolio.netlify.app/"
 github-link: "https://github.com/theSyedsufiyan"
 linkedin-link: "https://www.linkedin.com/in/syed-sufiyans/"
 looking-for: "job"
-description: "Javascript | React | node.js | Html | Css"
+description: "Javascript | React | node.js | 
+ MongoDB | Html | Css"
 ---
 
 Hi! I am a Syed sufiyan let me walk you through my intro, projects and blogs.
