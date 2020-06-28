@@ -2,9 +2,9 @@
 title: Syed sufiyan
 type: "participant"
 name: "syed sufiyan"
-portfolio: ""
+portfolio: "https://syed-portfolio.netlify.app/"
 github-link: "https://github.com/theSyedsufiyan"
-linkedin-link: "https://www.linkedin.com/in/syed-sufiyan-a50564151"
+linkedin-link: "https://www.linkedin.com/in/syed-sufiyans/"
 looking-for: "job"
 description: "Javascript | React | node.js | Html | Css"
 ---
@@ -13,7 +13,7 @@ Hi! I am a Syed sufiyan let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-i love to build things and showcase by building web applications.
+i love to build things and showcase by building apps.
 
 ## why are you taking this challenge?
 
@@ -25,11 +25,11 @@ i can visualize and predict future.
 
 ### help I need?
 
-It would be good if someone tells me how to do backend for apps.
+learn new technologies.
 
 ### how to contact me?
 
-<!-- - Twitter -->
+- [twitter](https://twitter.com/thesyedsufiyan)
 - [instagram](https://www.instagram.com/thesyedsufiyan/)
 - [LinkedIn](https://www.linkedin.com/in/syed-sufiyans/)
 
