@@ -38,7 +38,7 @@ My projects:
 
 #### Rentspace : E-commerce app
 
-_description_ Nomads now with the click of a button can easily buy their startup-spaces around the world. Although it is a small application, but taught me a lot of things as it's my first hands-on project.
+_description_ Nomads now with the click of a button can easily buy their startup-spaces around the world. Although it's a small application, but taught me a lot of things as it's my first hands-on project.
 
 _stack_ Front-end made with React, 8base is used for backend-as-a-service with GraphQl powered querying.
 
