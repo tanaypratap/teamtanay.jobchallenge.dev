@@ -102,9 +102,27 @@ http://18.188.18.78/
 
 1.Performing CRUD operations using Node js
 
+_description_
+In this blog, will be building a RESTful CRUD (Create, Retrieve, Update, Delete) API with Node.js, Express and MongoDB. And using Mongoose for interacting with the MongoDB instance.
+
+_hosted link_
+https://medium.com/@hemanth2gundala/performing-curd-operations-using-nodejs-90752aa959dc
+
 2.How to deploy Node application by using AWS,
 
+_description_
+In this bolg, how to deploy a NodeJS application on an AWS EC2 instance and access in browser
+
+_hosted link_
+https://medium.com/@hemanth2gundala/how-to-deploy-node-application-on-aws-be60b0e508e4
+
 3.How to add storage or volume to remote server in aws
+
+_description_
+In this, will add volume to remote server of a particualr AWS EC2 instance
+
+_hosted link_
+https://medium.com/@hemanth2gundala/how-to-add-storage-or-volume-to-remote-server-in-aws-112a10c06877
 
 #### why I liked GraphQL over REST?
 
