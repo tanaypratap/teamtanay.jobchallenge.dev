@@ -93,7 +93,7 @@ _github link_ https://github.com/thesyedsufiyan/node-chat-app
 
 [Destructuring in javascript](https://medium.com/@syedsufi1066/destructuring-in-javascript-8481c3b56ddc)
 
-[Understanding Asynchronous programming in JavaScript](https://medium.com/@syedsufi1066/understanding-asynchronous-programming-in-javascript-c2553d7d07f2)
+[JavaScript Array Methods (forEach, map, some, find, filter & more)](https://medium.com/@syedsufi1066/javascript-array-methods-foreach-map-some-find-filter-more-ff1e50ec3c50)
 
 
 
