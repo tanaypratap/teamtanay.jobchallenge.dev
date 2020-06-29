@@ -55,8 +55,8 @@ It would be good if someone tells me how to do backend using Node.js.
 
     **_Stacks_** `React`, `Node.js`, `FireBase`, `Material-UI`
 
-    _hosted link_ http://gkanishk-social.netlify.app/  
-    _github link_ https://github.com/gkanishk/socialapp-client/  
+    **_hosted link_** http://gkanishk-social.netlify.app/  
+    **_github link_** https://github.com/gkanishk/socialapp-client/  
 
 - **2. Chuck Norris** 
 
@@ -64,8 +64,8 @@ It would be good if someone tells me how to do backend using Node.js.
 
     **_Stacks_** `React`, `REST-API`, `Material-UI`
 
-    _hosted link_ http://gkanishk-joke.netlify.app/  
-    _github link_ https://github.com/gkanishk/chuckjoke/  
+    **_hosted link_** http://gkanishk-joke.netlify.app/  
+    **_github link_** https://github.com/gkanishk/chuckjoke/  
 
 - **3. Radar Dashboard**  
  
