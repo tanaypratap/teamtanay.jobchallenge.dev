@@ -50,8 +50,10 @@ It is a React Application that use digital contact tracing in response to the Co
 _stack_
 Using React
 
-_hosted link_
+_github Link_
 https://github.com/kumar342/Covid-19
+
+_hosted link_
 https://covid-19-tracking-hk.netlify.app/
 
 #### project: Google login
@@ -62,8 +64,10 @@ A web application where an user can login via Google. After the user login, user
 _stack_
 React
 
-_hosted link_
+_github link_
 https://github.com/kumar342/Google-login
+
+_hosted link_
 https://editable-table-using-react.netlify.app/
 
 #### project: A React-app-Random-Dog-image
@@ -74,8 +78,10 @@ A simple React app which shows the list of all breeds from the dog.ceo API and a
 _stack_
 React
 
-_hosted link_
+_gitnub link_
 https://github.com/kumar342/random-dogs-image-list-using-react
+
+_hosted link_
 https://random-dogs-image.netlify.app/
 
 #### project:Login system
@@ -86,6 +92,12 @@ An Application build a login/Authentication using MERN Stack
 _stack_
 MERN stack
 
+_github link_
+https://github.com/kumar342/login-system
+
+_hosted link_
+(no hosted link)
+
 #### project:Node Application
 
 _description_
@@ -94,8 +106,10 @@ An Application build with Node js and deployed by using AWS
 _stack_
 Node and Express
 
-_hosted link_
+_github link_
 https://github.com/kumar342/Node_project_0320
+
+_hosted link_
 http://18.188.18.78/
 
 ### blogs
@@ -123,9 +137,3 @@ In this, will add volume to remote server of a particualr AWS EC2 instance
 
 _hosted link_
 https://medium.com/@hemanth2gundala/how-to-add-storage-or-volume-to-remote-server-in-aws-112a10c06877
-
-#### why I liked GraphQL over REST?
-
-_description_ I will write something really nice here so that you feel like reading my blog.
-
-_link_
