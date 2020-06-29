@@ -2,7 +2,7 @@
 title: Shivraj97
 type: "participant"
 name: "Shivraj Nag"
-portfolio: "coming soon..."
+portfolio: "https://shivrajnag.netlify.app/"
 github-link: "https://github.com/Shivraj97"
 linkedin-link: "https://www.linkedin.com/in/shivraj-n-5150a1b2/"
 looking-for: "job"
