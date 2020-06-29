@@ -1,6 +1,6 @@
 ---
 title: Harshith7016
-type: "participant"
+type: "finalist"
 name: "Harshith Venkatesh"
 portfolio: "https://Harshi7016.github.io"
 github-link: "https://github.com/Harshi7016"
@@ -58,9 +58,9 @@ Tanay , you have helped me a lot in this, While I will definitely would follow y
 
 My projects:
 
-#### Analog Clock
+#### 0.Analog Clock
 
-_description_ Simple Analog Clock design with focus to learn basics after going through Tanay Pratap's course on Vanilla JS. It has dark and light mode which can be toggled
+_description_ Simple Analog Clock design with focus to learn basics after going through Tanay Pratap's course on Vanilla JS. It has dark and light mode which can be toggled.
 
 _stack_ Vanilla JS
 
@@ -68,7 +68,17 @@ _hosted link_ https://darklightmodeanalogclock.netlify.app
 
 _github link_ https://github.com/Harshi7016/AnalogClockDarkLightMode
 
-#### Covid-19 Tracker
+#### 1.Simple React To Do List
+
+_description_ Entry Level React Project with more emphasis on learning state ,display of data with simple animation. It gave me more perspective on data manipulation using props and state.
+
+_stack_ React JS
+
+_hosted link_ https://Harshi7016.github.io/ReactToDo
+
+_github link_ https://github.com/Harshi7016/ReactToDo
+
+#### 2.Covid-19 Tracker
 
 _description_ Covid-19 Tracker web application which gets the response from the API: https://covid19.mathdro.id/api and using responsive cards and charts , recovered,infected and death cases details are displayed
 
@@ -78,7 +88,7 @@ _hosted link_ https://covid19trackerdemo.netlify.app
 
 _github link_ https://github.com/Harshi7016/CoronaTracker
 
-#### Weather App
+#### 3.Weather App
 
 _description_ Project was mainly focussed on exploring react and PWA, A simple weather app with autocomplete place work in progress. All the criteria has met for PWA and is mobile friendly
 
@@ -88,7 +98,7 @@ _hosted link_ https://progressiveweatherapp.netlify.app/
 
 _github link_ https://github.com/Harshi7016/WeatherAppPWA
 
-#### Farm 2 Home
+#### 4.Farm 2 Home
 
 _description_ An eCommerce website for vegetables, the focus was mainly on creating E2E application and I was really happy looking at the end project. The project has signing, register, listing, cart, payment process steps. Through this project, I got the opportunity to explore more on backend NodeJS, ExpressJS, and MongoDB. The hosting of the project is done in the Heroku Platform.
 
@@ -99,7 +109,7 @@ _hosted link_ https://farm2wohome.herokuapp.com/
 
 _github link_ https://github.com/Harshi7016/Farm2Homev1
 
-#### KharchaPaani
+#### 5.KharchaPaani
 
 _description_ An ExpenseTracker Application which provides the budget details.
 I have built using youtube tutorial and have converted the desktop app to responsive app.
