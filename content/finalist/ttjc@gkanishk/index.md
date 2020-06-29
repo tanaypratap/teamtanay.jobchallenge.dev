@@ -1,6 +1,6 @@
 ---
 title: Kanishk Gupta
-type: "participant"
+type: "finalist"
 name: "Kanishk Gupta"
 portfolio: "https://gkanishk.github.io/"
 github-link: "https://github.com/gkanishk"
