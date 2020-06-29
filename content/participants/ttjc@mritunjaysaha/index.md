@@ -14,7 +14,7 @@ I am Mritunjay Saha, registering for jobChallenge
 ### introduction
 
 I am Mritunjay , 2nd year CSE from NERIST.
-I've looking to improve my web-development skills.
+I want to improve my web-development skills.
 
 ## why are you taking this challenge?
 
