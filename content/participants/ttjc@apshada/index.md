@@ -77,16 +77,6 @@ _hosted link_ https://stickies.netlify.app/
 _github link_ https://github.com/apshada/Sticky-Notes
 
 
-#### Sitcky Notes
-_description_ A Post-it Note writing application, using persistant state so that user don't require to login to save notes
-
-_stack_ React, Persistant State
-
-_hosted link_ https://stickies.netlify.app/
-
-_github link_ https://github.com/apshada/Sticky-Notes
-
-
 #### Github Battle
 _description_ React Application to compare Github profile of two person, which include number of repositories, number of followers, following ,etc
 
@@ -101,7 +91,7 @@ _github link_ https://github.com/apshada/Github-Battle
 
 _description_  A simple react Counter
 
-_stack_ made using reactj
+_stack_ made using reactjs
 
 _hosted link_ http://venomous-bait.surge.sh/
 
@@ -112,6 +102,7 @@ _github link_ https://github.com/apshada/React-Counter
 ### [Capacitor Tutorial] Convert react app into Android/ios app
 
 ._description_  Blog includes what is capacitor, how to convert your app into capacitor and other installation process to convert react application into Android/Ios
+
 _hosted link_ https://medium.com/@apshada1/capacitor-tutorial-convert-react-app-into-android-ios-app-aace8a96c50d
 
 ### Explanation of js prototype
