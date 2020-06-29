@@ -62,7 +62,7 @@ It would be good if someone tells me how to do backend using Node.js.
 
     Chuck Norris doesn't read books. He stares them down until he gets the information he wants. Used Chuck Norris joke’s API for rendering jokes data on site. This site is made using `React.js`, `Material-UI` as major stacks and hosted using git and Netlify.
 
-**_Stacks_** `React`, `REST-API`, `Material-UI`
+    **_Stacks_** `React`, `REST-API`, `Material-UI`
 
     _hosted link_ http://gkanishk-joke.netlify.app/  
     _github link_ https://github.com/gkanishk/chuckjoke/  
@@ -100,8 +100,8 @@ It would be good if someone tells me how to do backend using Node.js.
 
     **_Stacks_** `Gatsby.js`, `Sanity.io`
 
-    _hosted link_ https://gkanishk-blog.netlify.com/   
-    _github link_ https://github.com/gkanishk/sanity-gatsby-blog  
+    **_hosted link_** https://gkanishk-blog.netlify.com/   
+    **_github link_** https://github.com/gkanishk/sanity-gatsby-blog  
 
 
 ### blogs
@@ -113,13 +113,13 @@ It would be good if someone tells me how to do backend using Node.js.
 
     Find the blog [here](https://gkanishk-blog.netlify.com/blog/2020/06/version-control/)
 
-- **Alohomora! Open the Blog**
+- **Alohomora! Open the Blog** `June 23rd. 2020`
 
     Blogs are the best way to convey what we have learned and whatever we have experienced. So here's a blog on how and where to write a blog.
 
     Find the blog [here](https://gkanishk-blog.netlify.app/blog/2020/06/blog/)
 
-- **Kickstart to open-source**
+- **Kickstart to open-source** `June 29th, 2020`
 
     Basically this blog is all about open source how can one start with OSS if he is a beginner and wants to become an OSS contributor.
 
