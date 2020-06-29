@@ -1,6 +1,6 @@
 ---
 title: Harshith7016
-type: "participant"
+type: "finalist"
 name: "Harshith Venkatesh"
 portfolio: "https://Harshi7016.github.io"
 github-link: "https://github.com/Harshi7016"
