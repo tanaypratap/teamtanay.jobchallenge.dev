@@ -64,7 +64,7 @@ _description_ Simple Analog Clock design with focus to learn basics after going 
 
 _stack_ Vanilla JS
 
-_hosted link_ darklightmodeanalogclock.netlify.app
+_hosted link_ https://darklightmodeanalogclock.netlify.app
 
 _github link_ https://github.com/Harshi7016/AnalogClockDarkLightMode
 
