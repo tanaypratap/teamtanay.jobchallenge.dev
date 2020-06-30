@@ -9,8 +9,7 @@ looking-for: "job"
 description: "expert at Javascript | Node.js | MongoDB | Currently learning React"
 ---
 
-I am a Self-taught Web Developer currently working in a startup company. 
-I am  also doing freelancing.
+A Self-taught Web Developer was withholding more than one year of experience. Also worked for a startup company for nine months currently doing freelancing.
 
 ### introduction
 
@@ -38,36 +37,68 @@ I have a MEN Stack  (MongoDB Express Node). Currently working on react.js.
 
 ### projects
 
-Currently working on E-commerce Project I'll update it very soon.
+### E Commerce Store
+_description_ A full fledged E-commerce Web Application which has 13 unique pages including two dashboards and one payment gateway Where users can view all the products that are differentiated by their categories. 
+Backend is created on Node server and frontend is built on react.js
+Full Authentication system using JWT, where each signup data is stored on MongoDB database using mongo atlas.
 
-I have done a lot of project in past which you can find on  <a href="https://saddamshah.netlify.app/">here </a>
+_hosted link_ https://fashionstoreproject.netlify.app
+_github link_ https://github.com/Saddamshah/fashion-store
 
-Also, I have done a few live projects while working in the office one of them is a tourist and travels (Basically a CMS system).
+_API github link_ https://github.com/Saddamshah/fashionstoreapi
 
-<!-- My projects:
+_Frondend Technologies_
+html
+css
+bootstrap
+JavaScript
+Ajax
+React
 
-#### binder: tinder for books
+_Backend Technologies_
+Node
+Express
+MongoDB
+JWT
 
-_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.
+_Project Overview (Non-technical)_
+1. An online E-commerce store where users can view all the products that are differentiated by their categories.
+2. Users can add/remove multiple products in/from their carts.
+3. On the cart page, users will be able to see the list of the selected products and their details.
 
-_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
+4. Users will also be able to do swift transactions using any domestic or international cards. 
+Eg: VISA Master American Express.
+5. All the orders made by the users will be enlisted on their dashboards.
+6. Without login, he won't be able to initiate any transaction but can add/remove products in/from their carts.
 
-_hosted link_ https://binder.netlify.com
+_Project Overview (Technical)_
+1. API Web application where Backend is created on Node server and frontend is built on react.js
+Full Authentication system using JWT, where each signup data is stored on MongoDB database using mongo atlas.
+2. Once the user logins, we store their details in the local storage
+which includes user Id, email id, and name. Also, tomes get stored using cookie-parser.
 
-_github link_ https://github.com/tanaypratap/binder
+3. No password is strored in the browser. It will only be stored in the database after encryption, using crypto and UUID.
+4. The user Model has purchase array, where every product purchased by the user will be stored on the user model (user purchase array).
+5. Product Model stores every product data, and it also stores the reference id of categories the product belongs to.
+6. Every Image will be stored in a binary format (Buffer data) using formidable (npm package).
 
-#### another project
+7. For Payment, Braintree DropUI is used. Eery order detail is stored in the Order model. It has a productCartSchema, where the product id (reference Id) is stored in the order model.
+8. Every user has a role 0 by default whereas the role of the admin is one. Below is the list of the changes that the admin can do: 
 
-_description_
+view all the orders,
+create, update & delete all categories.
+create,update & delete all products.
 
-_stack_
+Backend is hosted on the Heroku server.
+The frontend is hosted on the netlify server.
 
-### blogs
+_Card Payment_ Dammy Card for make payment
+Card No : 378282246310005
+Card Type : American Express
+Expiration Date: 12 / 22
 
-same as projects, I will keep updating my blogs as and when done.
+_Admin Access_
+Email Id: admin@admin.com
+Password: 12345
 
-#### why I liked GraphQL over REST?
-
-_description_ I will write something really nice here so that you feel like reading my blog.
-
-_link_ https://dev.to/some-imaginary-link -->
+For more details, contact me on: shah.saddam@outlook.com.
