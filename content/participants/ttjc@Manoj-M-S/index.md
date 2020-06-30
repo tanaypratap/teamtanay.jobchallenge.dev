@@ -38,7 +38,7 @@ It would be good if someone can guide me in frontend, backend and database secti
    Technologies used:
    *Frontend : React JS
    *Backend : Node JS, Express
-   \*Database: Mongodb
+   *Database: Mongodb
 
 [Github](https://github.com/Manoj-M-S/Food-Recipe-Website-Frontend)
 [Github](https://github.com/Manoj-M-S/Food-Recipe-Website-BackEnd)
@@ -50,7 +50,7 @@ It would be good if someone can guide me in frontend, backend and database secti
    Technologies used:
    *Frontend : React JS
    *Backend : Node JS, Express
-   \*Database: Mongodb
+   *Database: Mongodb
 
 [Github](https://github.com/Manoj-M-S/Art-client)
 [Github](https://github.com/Manoj-M-S/Art-server)
@@ -61,7 +61,7 @@ It would be good if someone can guide me in frontend, backend and database secti
    Technologies used:
    *Frontend : React JS
    *Backend : Node JS, Express
-   \*Database: Mongodb
+   *Database: Mongodb
 
 [Github](https://github.com/Manoj-M-S/Clone-Client)
 [Github](https://github.com/Manoj-M-S/Clone-Server)
