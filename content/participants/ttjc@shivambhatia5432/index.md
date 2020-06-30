@@ -2,10 +2,9 @@
 title: Shivam Bhatia
 type: "Participant"
 name: "Shivam Bhatia"
-portfolio: "Will be updated shortly"
 github-link: "https://github.com/shivambhatia5432"
 linkedin-link: "https://www.linkedin.com/in/shivam-bhatia-a83ab4185/"
-looking-for: "Job"
+looking-for: "Internship"
 description: "Full stack developement | Javascript | Nodejs | React | MongoDB/SQL"
 ---
 
@@ -14,7 +13,7 @@ Hi! I am Shivam Bhatia, B.Tech CSE third year student at SRMIST, Delhi-NCR. Let 
 
 ### introduction
 
-I am Full Stack/MERN stack developer. I love to design my ideas into code. Still learning new technologies.
+I am Full Stack/MERN stack developer. I love to design my ideas into code. So I am still learning new technologies.
 
 ## why are you taking this challenge?
 
@@ -24,7 +23,7 @@ Want to learn more by working on big projects and want to learn from mentors.
 ## something interesting about you?
 
 - I love to try something new and creative so that I can use that in my project.
-- On my personal basis I like graphic designing and video editing.
+- On personal basis I like graphic designing and video editing.
 
 ### help I need?
 
@@ -43,4 +42,6 @@ These 3 projects are based on React only and are quite basic because I am new to
 
 ### blogs
 
-Like projects, I will keep updating my blogs when I complete.
+https://medium.com/@shivambhatia_64475/top-5-services-for-developers-to-show-their-web-projects-for-free-b51b1ad0c9e9 <br />
+https://medium.com/@shivambhatia_64475/why-new-developers-should-learn-full-stack-development-first-and-then-go-for-specialisation-e0b44a1c391f <br />
+https://medium.com/@shivambhatia_64475/top-free-apis-for-web-development-beginners-e0cb23883ce <br />
