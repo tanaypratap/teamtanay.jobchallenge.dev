@@ -49,7 +49,7 @@ _github link_ https://github.com/Sarthakux/quiz1
 
 ###  NEWS APP
 
- _description_ An application which fetches data from a news API. The news varies from matters like Covid19 to politics.
+ _description_ An application which fetches data from a news API. The news varies from matters like Covid19 to sports.
 
  _stack_ ReactJS,CSS
 
