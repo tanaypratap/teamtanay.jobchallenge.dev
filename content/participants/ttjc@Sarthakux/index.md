@@ -2,7 +2,7 @@
 title: Sarthakux
 type: "participant"
 name: "Sarthak Yadav"
-portfolio: ""
+portfolio: "https://sy-portfolio1.netlify.app"
 github-link: "https://github.com/Sarthakux"
 linkedin-link: "https://www.linkedin.com/in/sarthak-yadav-95a114184/"
 looking-for: "job"
@@ -92,7 +92,7 @@ _stack_ ReactJS,CSS
 
 
  _check the app running on (on Chrome Browser)_ https://Githubbox.com/Sarthakux/notes
- 
+ master
 
 
  _github link_ https://github.com/Sarthakux/notes/tree/master
@@ -106,7 +106,7 @@ _stack_ ReactJS,CSS
 _description_ A precise and to the point blog on how to improve productivity in programmers.
 
 
-_hosted link_https://dev.to/sarthakux/tips-to-improve-productivity-in-developers-4jca
+_hosted link_ https://dev.to/sarthakux/tips-to-improve-productivity-in-developers-4jca
 
 ### Javascript vs Python
 _description_ A precise and to the point blog on the comparison of the two most popular languages of today's era.
