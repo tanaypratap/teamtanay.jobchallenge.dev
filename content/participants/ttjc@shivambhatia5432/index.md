@@ -42,6 +42,6 @@ These 3 projects are based on React only and are quite basic because I am new to
 
 ### blogs
 
-https://medium.com/@shivambhatia_64475/top-5-services-for-developers-to-show-their-web-projects-for-free-b51b1ad0c9e9 <br />
-https://medium.com/@shivambhatia_64475/why-new-developers-should-learn-full-stack-development-first-and-then-go-for-specialisation-e0b44a1c391f <br />
-https://medium.com/@shivambhatia_64475/top-free-apis-for-web-development-beginners-e0cb23883ce <br />
+1) https://medium.com/@shivambhatia_64475/top-5-services-for-developers-to-show-their-web-projects-for-free-b51b1ad0c9e9 <br />
+2) https://medium.com/@shivambhatia_64475/top-free-apis-for-web-development-beginners-e0cb23883ce <br />
+3) https://medium.com/@shivambhatia_64475/why-new-developers-should-learn-full-stack-development-first-and-then-go-for-specialisation-e0b44a1c391f <br />
