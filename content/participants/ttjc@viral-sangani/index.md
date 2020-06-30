@@ -1,6 +1,6 @@
 ---
 title: Viral Sangani
-type: "Participant"
+type: "participant"
 name: "Viral Sangani"
 portfolio: "https://viralsangani.me/"
 github-link: "https://github.com/viral-sangani"
