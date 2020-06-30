@@ -80,4 +80,8 @@ Expense tracker is to keep track of ur daily Expenses
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+## 1. Dark art of centering elements in CSS
+
+This guide is about how to center elements with `flexbox`
+
+- [Hosted 🌐](https://dev.to/mannypanwar/dark-art-of-centering-elements-in-css-5dnp)
