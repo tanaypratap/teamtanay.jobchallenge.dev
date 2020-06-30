@@ -5,7 +5,7 @@ name: "Afraz Momin"
 portfolio: "http://afrazmomin.netlify.com"
 github-link: "https://github.com/afrazchelsea"
 linkedin-link: "https://linkedin.com/in/afrazm7"
-looking-for: "job/learning"
+looking-for: "learning"
 description: "Expert at CSS/HTML. Good at JavaScript. Learning React"
 ---
 
@@ -17,7 +17,7 @@ I'm a final year engineering student based in Pune. I'm a full stack web develop
 
 ## why are you taking this challenge?
 
-I initially started this challenge in the quest for a job and fortunately got one on the way! Alhamdulilah! Since then it has been all about learning new things and making myself better each day.
+Learning new things, making myself a little better each day.
 
 ## something interesting about you?
 
