@@ -1,6 +1,6 @@
 ---
 title: Afraz Momin
-type: "participant"
+type: "finalist"
 name: "Afraz Momin"
 portfolio: "http://afrazmomin.netlify.com"
 github-link: "https://github.com/afrazchelsea"
