@@ -68,14 +68,6 @@ _hosted link_ http://devtrkr.herokuapp.com/
 
 _github link_ https://github.com/mritunjaysaha/device-tracker
 
-#### Bluetooth Device Tracker
-
-_description_ Keeps track of the selected android devices within the bluetooth range
-
-_stack_ Java
-
-_github link_ https://github.com/mritunjaysaha/android-bt-v1
-
 #### TodoTimer PWA
 
 _description_ Create todos with a deadline.
