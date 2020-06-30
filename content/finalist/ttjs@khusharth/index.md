@@ -1,6 +1,6 @@
 ---
 title: Khusharth Patani
-type: "participant"
+type: "finalist"
 name: "Khusharth A. Patani"
 portfolio: "https://khusharth.netlify.app/"
 github-link: "https://github.com/khusharth/"
