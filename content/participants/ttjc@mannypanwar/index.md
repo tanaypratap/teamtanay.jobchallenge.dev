@@ -85,3 +85,15 @@ Expense tracker is to keep track of ur daily Expenses
 This guide is about how to center elements with `flexbox`
 
 - [Hosted 🌐](https://dev.to/mannypanwar/dark-art-of-centering-elements-in-css-5dnp)
+
+## 2. Difference in Asynchronous & Synchronous JavaScript Code
+
+This blog talks about difference in Asynchronous & Synchronous code
+
+- [Hosted 🌐](https://dev.to/mannypanwar/difference-in-asynchronous-synchronous-javascript-code-4gcb)
+
+## 3. 6 VScode Extensions to boost your Code
+
+This blog talks about 6 VScode extension to boost your code.
+
+- [Hosted 🌐](https://dev.to/mannypanwar/6-vscode-extensions-to-boost-your-code-349k)
