@@ -83,7 +83,7 @@ _stack_ ReactJS,CSS
 
 
 ### NOTES APP    
- _description_ An application that allows us to create new notes.
+ _description_ An application that allows the user to create new notes.
 
 
  _stack_ ReactJS,CSS,Firebase
