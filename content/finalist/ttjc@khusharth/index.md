@@ -1,6 +1,6 @@
 ---
 title: Khusharth Patani
-type: "participant"
+type: "finalist"
 name: "Khusharth A. Patani"
 portfolio: "https://khusharth.netlify.app/"
 github-link: "https://github.com/khusharth/"
@@ -101,7 +101,6 @@ _hosted link:_ https://douknow.netlify.app/
 
 #### DEMO
 ![DEMO](https://raw.githubusercontent.com/khusharth/doyouknow/master/src/assets/doyouknow.gif)
-
 
 ### blogs
 
