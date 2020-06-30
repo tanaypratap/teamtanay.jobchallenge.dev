@@ -1,6 +1,6 @@
 ---
 title: Yash Raj
-type: "participant"
+type: "finalist"
 name: "Yash Raj"
 portfolio: "https://bit.ly/yashrajportfolio"
 github-link: "https://github.com/yashraj2312"
