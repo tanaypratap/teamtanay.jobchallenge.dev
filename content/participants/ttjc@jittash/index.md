@@ -38,6 +38,13 @@ not a lot of projects are done. I will keep updating it with real links when don
 
 My projects:
 
+ #### Jitmagram: An Instagram Clone
+ 
+_stack_ Made in MERN Stack using hooks and Context API
+_hosted link_ http://jitmagram.herokuapp.com/signin
+_github link_ https://github.com/jittash/Instagram-Clone
+
+
 ### blogs
 
 I will keep updating my blogs as and when done.
