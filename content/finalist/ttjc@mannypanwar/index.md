@@ -1,6 +1,6 @@
 ---
 title: Mandeep Singh
-type: "participant"
+type: "finalist"
 name: "mandeep singh"
 portfolio: "https://mandeep.netlify.com/"
 github-link: "https://github.com/mannypanwar"
