@@ -2,10 +2,10 @@
 title: Harshith7016
 type: "participant"
 name: "Harshith Venkatesh"
-portfolio: "https://Harshi7016.github.io"
+portfolio: "https://harshith-venkatesh.netlify.app"
 github-link: "https://github.com/Harshi7016"
 linkedin-link: "https://www.linkedin.com/in/harshith-v-7016ece/"
-looking-for: "job"
+looking-for: "job/experiance/learning"
 description: "TypeScript | Angular | React | 2 years experiance | Python | Java | NodeJS | Exploring Opportunities"
 ---
 
