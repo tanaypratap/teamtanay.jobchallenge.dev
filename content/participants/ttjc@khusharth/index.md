@@ -52,6 +52,9 @@ _github link:_ https://github.com/khusharth/musology
 
 _hosted link:_ https://musology.netlify.app/
 
+#### DEMO
+![Demo](https://raw.githubusercontent.com/khusharth/musology/master/src/img/musology.gif)
+
 
 ### 2. gitpedia
 A web application to mag view a github's user profile in a more simple and beautiful way. Built using React, Chart JS  , styled components and more .
@@ -61,6 +64,8 @@ _github link:_ https://github.com/khusharth/girpedia
 
 _hosted link:_ https://gitpedia.netlify.app/
 
+#### DEMO
+![DEMO](https://raw.githubusercontent.com/khusharth/gitpedia/master/src/assets/demo.gif)
 
 ### 3. Memoire
 A simple memory card game built with React Js and Sass. 
@@ -71,6 +76,8 @@ _github link:_ https://github.com/khusharth/memoire
 
 _hosted link:_ https://memoiree.netlify.app/
 
+#### DEMO
+![DEMO](https://raw.githubusercontent.com/khusharth/Memoire/master/src/assets/memorie.gif)
 
 ### 4. geeksnews
 A web app that shows the top news newspaper related to computer science and entrepreneurship from the Hacker News API. computer.
@@ -81,6 +88,8 @@ _github link:_ https://github.com/khusharth/geeksnews
 
 _hosted link:_ https://geeksnews.netlify.app/
 
+#### DEMO
+![DEMO](https://raw.githubusercontent.com/khusharth/geeksNews/master/src/assets/geeksnews.gif)
 
 ### 5. doyouknow
 A Quiz web application based on questions related to core subjects in computer science. 
@@ -89,6 +98,9 @@ _tech stack:_ React, Sass
 _github link:_ https://github.com/khusharth/doyouknow
 
 _hosted link:_ https://douknow.netlify.app/
+
+#### DEMO
+![DEMO](https://raw.githubusercontent.com/khusharth/doyouknow/master/src/assets/doyouknow.gif)
 
 
 ### blogs
