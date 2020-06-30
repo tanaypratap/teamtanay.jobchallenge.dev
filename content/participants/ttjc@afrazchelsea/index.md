@@ -1,11 +1,11 @@
 ---
 title: Afraz Momin
-type: "participant"
+type: "finalist"
 name: "Afraz Momin"
 portfolio: "http://afrazmomin.netlify.com"
 github-link: "https://github.com/afrazchelsea"
 linkedin-link: "https://linkedin.com/in/afrazm7"
-looking-for: "job"
+looking-for: "job/learning"
 description: "Expert at CSS/HTML. Good at JavaScript. Learning React"
 ---
 
