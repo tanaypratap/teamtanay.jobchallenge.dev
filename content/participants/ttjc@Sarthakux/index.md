@@ -39,7 +39,11 @@ My projects:
 ### Quiz APP
 
  _description_ A simple quiz app made by HTML,CSS AND JS.
+
+
  _hosted link_ https://sy-quiz.netlify.app
+
+
 
 _github link_ https://github.com/Sarthakux/quiz1
 
@@ -51,28 +55,46 @@ _github link_ https://github.com/Sarthakux/quiz1
 
  _hosted link_ https://sarthakux.github.io/news/
 
+
  _github link_ https://github.com/Sarthakux/news/tree/master
+
 
 ### WEATHER APP
  _description_ An application which fetches data from a weather API.It shows the weather of all the cities in the world.
+
 _stack_ ReactJS,CSS
+
+
  _hosted link_ https://weather.sarthakux.vercel.app
+
 
  _github link_ https://github.com/Sarthakux/weather
 
  ### COVID_TRACKER   
  _description_ An application which fetches data from an API.It showcases information regarding covid19 and showcases important
     information like Active Cases,Total Cases, Recovered , Deaths .It also showcases the situation of covid in different countries.
+
  _stack_ ReactJS,CSS
+
  _hosted link_ https://sarthakux.github.io/covid-tracker/
+
 
   _github link_ https://github.com/Sarthakux/covid-tracker/tree/master
 
 
 ### NOTES APP    
  _description_ An application that allows us to create new notes.
+
+
  _stack_ ReactJS,CSS,Firebase
- _hosted link (on Chrome Browser)_ https://Githubbox.com/Sarthakux/notes
+
+
+
+
+ _check the app running on (on Chrome Browser)_ https://Githubbox.com/Sarthakux/notes
+ 
+
+
  _github link_ https://github.com/Sarthakux/notes/tree/master
 
 
@@ -82,13 +104,19 @@ _stack_ ReactJS,CSS
 
 ### Tips to improve productivity in developers
 _description_ A precise and to the point blog on how to improve productivity in programmers.
+
+
 _hosted link_https://dev.to/sarthakux/tips-to-improve-productivity-in-developers-4jca
 
 ### Javascript vs Python
 _description_ A precise and to the point blog on the comparison of the two most popular languages of today's era.
+
+
 _hosted link_https://dev.to/sarthakux/javascript-vs-python-3d4l
 
 ### ReactJS Pros n Cons
 
 _description_ A precise and to the point blog on the advantages and disadvantages of reactJs in today's era.
+
+
 _hosted link_https://dev.to/sarthakux/reactjs-pros-n-cons-ji0
