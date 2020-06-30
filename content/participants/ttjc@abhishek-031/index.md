@@ -6,7 +6,7 @@ portfolio: "https://abhishek-031.github.io/"
 github-link: "https://github.com/abhishek-031"
 linkedin-link: "https://linkedin.com/in/abhishek-25586b14b"
 looking-for: "job"
-description: "Competitive programming in C++ | Tried django | Learning spring boot | Spring mvc | UI/UX Design in Figma"
+description: "Competitive programming in C++ | Tried django | Learning MERN stack | UI/UX Design in Figma"
 ---
 
 Hi! I am Abhishek, allow me to introduce myself.
@@ -14,7 +14,7 @@ Hi! I am Abhishek, allow me to introduce myself.
 ### introduction
 
 I am a final year computer science student from Faridabad,Haryana. I am learning competitive programming, UI/UX design with Figma,
-WebApp development with Spring MVC.
+Web Development in MERN stack.
 
 ## why are you taking this challenge?
 
@@ -36,11 +36,32 @@ I need a driving force and a commmunity which helps and motivates me to code.
 
 ### projects
 
+### Teacher's Diary
+
+_description_ My first full stack project on MERN stack, It is an implementation to teacher's diary, to keep track of classes and students, their marks and attendance.
+
+_stack_ |NodeJS|MongoDB|GraphQL|React|Express|
+
+_hosted link_ http://teachersdiary.herokuapp.com/
+
+_github repository_ https://github.com/abhishek-031/teachersdiary
+
+### IntervTimer
+
+_description_ An Interval timer app for time based workouts.
+
+_stack_ |React|
+
+_hosted link_ https://intervtimer.web.app/
+
+_github repository_ https://github.com/abhishek-031/interval-timer
+
+
 ### Listing App
 
 _description_ A List app made to store list of items, a single page react app
 
-_stack_ React
+_stack_ |React|
 
 _hosted link_ https://listingappp.web.app/
 

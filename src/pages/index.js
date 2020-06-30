@@ -38,20 +38,18 @@ class Index extends React.Component {
               your projects.
               <br/>
                 <p align="center">
-                  Registrations open till{" "}<b>1st June,2020</b>
+                  Registrations closed on&nbsp;&nbsp;<b>1st June,2020</b>
                 </p>
                 <br/>
                 <p align="center">
-                  <a href="/challenge-details">
-                    challenge details here...
-                  </a>
+                  All the best to the <a href="/participants/">participants!</a>
                 </p> 
               </p>
           }
           more={[
             {
-              link: "/02_is-registration-required/",
-              text: "register here",
+              link: "/challenge-details",
+              text: "challenge details here...",
             },
           ]}
         />

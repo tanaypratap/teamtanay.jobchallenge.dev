@@ -2,7 +2,7 @@
 title: Shreesha Sagar
 type: "participant"
 name: "Shreesha Sagar"
-portfolio: "https://sagarshreesha.github.io"
+portfolio: "https://shreeshasagar.me"
 github-link: "https://github.com/sagarshreesha"
 linkedin-link: "https://linkedin.com/in/shreesha-sagar"
 looking-for: "job"
