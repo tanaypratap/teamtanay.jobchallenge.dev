@@ -1,6 +1,6 @@
 ---
 title: Harshith7016
-type: "participant"
+type: "finalist"
 name: "Harshith Venkatesh"
 portfolio: "https://Harshi7016.github.io"
 github-link: "https://github.com/Harshi7016"
@@ -143,4 +143,4 @@ The blog was mainly focussed on my journey to understand more on the state with 
 
 **Visit**--[Why So Much React for STATE](https://medium.com/@harshithece7016/why-so-much-react-for-state-90eb77be6730)
 
-Check my [Blog](https://harshith-venkatesh-blog.netlify.app/) for previous blogs.
+Check my [Blog](https://harshith-venkatesh-blog.netlify.app/) for the future blogs
