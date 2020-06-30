@@ -91,7 +91,7 @@ _stack_ ReactJS,CSS
 
 
 
- _check the app running on (on Chrome Browser)_ https://Githubbox.com/Sarthakux/notes
+ _check the app running on _ https://giybr.csb.app/
  master
 
 
