@@ -1,6 +1,6 @@
 ---
 title: dummy student
-type: "participant"
+type: "finalist"
 name: "dummy student"
 portfolio: "https://tanaypratap.com"
 github-link: "https://github.com/tanaypratap"
