@@ -84,13 +84,13 @@ It would be good if someone tells me how to do backend using Node.js.
     **_hosted link_** https://gkanishk.github.io/GuessKaro/  
     **_github link_** https://github.com/gkanishk/GuessKaro
 
-- **5. Hocus Focus**
+- **5. Hocus Pocus**
 
     I am weak in maths so I am unable to find the right coordinates for my square shape please help me find them. Hocus Focus is a game in which you need to find coordinates for the shape to match with the original value.
 
     **_Stacks_** `React`, `Hooks`, `Some brains`
 
-    **_hosted link_** https://gkanishk-math.netlify.app/
+    **_hosted link_** https://gkanishk-math.netlify.app/  
     **_github link_** https://github.com/gkanishk/HocusPocus/
 
 - **6. Script Generator**
