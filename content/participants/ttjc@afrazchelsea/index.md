@@ -140,6 +140,6 @@ _link_ https://afrazblogs.netlify.app/debouncing/
 - #### 4. Event Bubbling and Event Capturing in Javascript
   `June 22, 2020`
 
-_description_ A deep dive into how events are handled in Javascript
+_description_ A deep dive into two phases of event flow in Javascript
 
 _link_ https://afrazblogs.netlify.app/bubble-vs-capture/
