@@ -110,6 +110,8 @@ _description_ A realtime chat application with Users and Rooms.
 
 _stack_ `HTML`,`CSS` and `Vanilla JS` for the frontend. `NodeJS`, `Express` and `socket.io` for the backend.
 
+_hosted link_ https://notdiscord.herokuapp.com/
+
 _github link_ https://github.com/afrazchelsea/notDiscord
 
 ### blogs
@@ -138,6 +140,6 @@ _link_ https://afrazblogs.netlify.app/debouncing/
 - #### 4. Event Bubbling and Event Capturing in Javascript
   `June 22, 2020`
 
-_description_ A deep dive in how events are handled in Javascript
+_description_ A deep dive into how events are handled in Javascript
 
 _link_ https://afrazblogs.netlify.app/bubble-vs-capture/
