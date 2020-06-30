@@ -11,46 +11,56 @@ description: "Competitive programming in C++ | Tried django | Learning MERN stac
 
 Hi! I am Abhishek, allow me to introduce myself.
 
-### introduction
+## Introduction
 
 I am a final year computer science student from Faridabad,Haryana. I am learning competitive programming, UI/UX design with Figma,
 Web Development in MERN stack.
 
-## why are you taking this challenge?
+## Why are you taking this challenge?
 
 I want a community to guide me upskill myself and get a better job. I got internship from college placements but they are not working currently
 due to lockdown.
 
-## something interesting about you?
+## Something interesting about you?
 
 I am a pro badminton player and love fitness in and out.
 
-### help I need?
+### Help I need?
 
 I need a driving force and a commmunity which helps and motivates me to code.
 
-### how to contact me?
+### How to contact me?
 
 - [LinkedIn](https://www.linkedin.com/in/abhishek-25586b14b/)
 - Email - cabhishek712@gmail.com
 
-### projects
+## My Projects
 
 ### Teacher's Diary
 
 _description_ My first full stack project on MERN stack, It is an implementation to teacher's diary, to keep track of classes and students, their marks and attendance.
 
-_stack_ |NodeJS|MongoDB|GraphQL|React|Express|
+_stack_ | NodeJS | MongoDB | GraphQL | React | Express |
 
 _hosted link_ http://teachersdiary.herokuapp.com/
 
 _github repository_ https://github.com/abhishek-031/teachersdiary
 
+### FacCountry
+
+_description_ An app to get facts about all the countries, convert currency values, translate languages. Uses restcountries.eu's API.
+
+_stack_ | React |
+
+_hosted link_ https://faccountry-1.web.app/
+
+_github repository_ https://github.com/abhishek-031/faccountry
+
 ### IntervTimer
 
 _description_ An Interval timer app for time based workouts.
 
-_stack_ |React|
+_stack_ | React |
 
 _hosted link_ https://intervtimer.web.app/
 
@@ -61,42 +71,38 @@ _github repository_ https://github.com/abhishek-031/interval-timer
 
 _description_ A List app made to store list of items, a single page react app
 
-_stack_ |React|
+_stack_ | React |
 
 _hosted link_ https://listingappp.web.app/
 
 _github link_ https://github.com/abhishek-031/ListingAppp
 
-<!--
-My projects:
+### Portfolio
 
-#### binder: tinder for books
+_description_ Responsive portfolio developed using HTML and CSS.
 
-_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.
+_stack_ | HTML | CSS |
 
-_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
+_hosted link_ https://abhishek-031.github.io/
 
-_hosted link_ https://binder.netlify.com
+_github repository_ https://github.com/abhishek-031/abhishek-031.github.io
 
-_github link_ https://github.com/tanaypratap/binder
+## Blogs
 
-#### another project
+### Git and Github. What are they?
 
-_description_
+A quick guide about git and Github for beginners.
 
-_stack_
+https://medium.com/@cabhishek712/git-and-github-what-are-they-5e56dde88dd4
 
--->
+### How I implemented a loading spinner in a React Application
 
-### blogs
+Tutorial on implementing Loading spinner in a ReactJS application.
 
-same as projects, I will keep updating my blogs as and when done.
+https://medium.com/@cabhishek712/how-i-implemented-a-loading-spinner-in-a-react-application-d4cd46a3a2e0
 
-<!--
-#### why I liked GraphQL over REST?
+### The Lifecycle of a ReactJS Component
 
-_description_ I will write something really nice here so that you feel like reading my blog.
+A cheat sheet for ReactJS lifecycle and inbuilt life cycle methods.
 
-_link_ https://dev.to/some-imaginary-link
-
--->
+https://medium.com/@cabhishek712/the-lifecycle-of-a-reactjs-component-ce36edfbaa86
