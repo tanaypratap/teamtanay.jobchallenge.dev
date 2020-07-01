@@ -81,10 +81,16 @@ I never thought that blog-writing could be fun, but, it really was :)
 
 I really enjoyed documenting it... I've tried my best to make it interesting to read for beginner programmers.
 
-It can be found [here](https://backtwobasics.now.sh/call-apply-bind/)
+It can be found [here](https://backtwobasics.vercel.app/call-apply-bind/)
 
 #### Capturing and Bubbling ? No! Bungee Jumping
 
 Lame caption, I know, but the content is relatable. I've tried to relate concepts with real-life fundas.
 
-It can be found [here](https://backtwobasics.now.sh/event-capturing-bubbling/)
+It can be found [here](https://backtobasics.vercel.app/event-capturing-bubbling/)
+
+#### Parameters ? Arguments ? Were they ever different ?
+
+When I started learning to code, I struggled a lot in understanding the difference between the two. So, I thought, I shoud try explaining the difference my own way!
+
+It can be found [here](https://backtobasics.vercel.app/parameters-arguments/)
