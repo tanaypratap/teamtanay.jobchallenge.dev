@@ -39,27 +39,46 @@ I have done following projects
 
 ## Sorting Visualizer
 
-- Built VannillaJS application for sorting visualization.
+- Built VanillaJS application for sorting visualization.
 
 - Implemented Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
 
 - Stack : Vanilla JS, HTML, CSS
 
-* [Website](https://sortingvisualizer1.netlify.app/)
 * [Github](https://github.com/manmodesanket/sorting-visualizer)
+
+* [Website](https://sortingvisualizer1.netlify.app/)
 
 ## Pathfinder Visualizer
 
 - Built a React application for pathfinding visualization.
 
-- Implemented dijkstra algorithm and used react Hooks.
+- Implemented dijkstra algorithm, depth first search algorithm and used react hooks.
 
-- Still working on the project. I want to add more algorithms like breadth first and depth first search algorithms.
+- Will be adding more features over time.
 
-- ReactJS, CSS
+- Stack : ReactJS, CSS
+
+- Tools: Parcel, ESLint, Prettier.
 
 - [Github](https://github.com/manmodesanket/pathfinder-visualizer)
 
-### blogs
+- [Website](https://pathfinder-89d1e.web.app/)
+
+## Beautiful Places
+
+- Build a React application which shows the places I found beautiful.
+
+- Used Firebase for storage and hosting.
+
+- Stack: ReactJS, CSS, HTML
+
+- Tools: Parcel, ESLint, Prettier.
+
+- [Github](https://github.com/manmodesanket/beautiful-places)
+
+- [Website](https://beautiful-places-e7189.web.app/)
+
+# blogs
 
 Never wrote one. But I will definitely love to do this.

@@ -35,7 +35,17 @@ It would be good if someone helps me when i stuck somewhere related to frontend 
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+#### first project
+
+Github Finder :Github user and repos finder
+
+description :An app in which one can find the Github user from GitHub API and can find the repos and find the profile of that particular user.
+
+stack Made using Reactjs, bootstrap used github api for showing data.
+
+hosted link https://githubfinder-nawazish.netlify.app/
+
+github link  https://github.com/nawaz0002/githubfinder
 
 ### blogs
 

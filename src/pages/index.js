@@ -38,20 +38,18 @@ class Index extends React.Component {
               your projects.
               <br/>
                 <p align="center">
-                  Registrations open till{" "}<b>1st June,2020</b>
+                  Registrations closed on&nbsp;&nbsp;<b>1st June,2020</b>
                 </p>
                 <br/>
                 <p align="center">
-                  <a href="/challenge-details">
-                    challenge details here...
-                  </a>
+                  All the best to the <a href="/participants/">participants!</a> and the <a href="/finalist/">finalists!</a>
                 </p> 
               </p>
           }
           more={[
             {
-              link: "/02_is-registration-required/",
-              text: "register here",
+              link: "/challenge-details",
+              text: "challenge details here...",
             },
           ]}
         />
@@ -77,18 +75,26 @@ class Index extends React.Component {
           needsBackground={backgroundOrange}
           textNode={
             <p>
+              <p>
               Yes, though the challenge initially was about getting visibility
               and creating projects + profile it has transformed. Now, we have
               hiring partners who are ready to help, interview and hire
               successful participants from the challenge.
+              </p>
+              <br/>
+                <p style={{textAlign:'center'}}>
+                  <a href="/hiring-partners">
+                  know more about hiring partners
+                  </a>
+                </p>
+              <br/>
+                <p style={{textAlign:'center'}}>
+                  <a href="/hiring-hub-welcome">
+                  wanna hire through the challenge?🤔
+                  </a>
+                </p>
             </p>
           }
-          more={[
-            {
-              link: "/hiring-partners",
-              text: "know more about hiring partners",
-            },
-          ]}
         />
 
         <Section

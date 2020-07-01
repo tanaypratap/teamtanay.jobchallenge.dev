@@ -39,18 +39,25 @@ I have worked on quite a few projects as I learn new technology in college and s
 
 My projects:
  - Keeper App.
-
+ - Tackl
 
 #### Keeper App: A replica of Google Keep
 _description_ This is a note-taking service. 
-This is still a work in progress and will be working on back-end as I am learning MErN in the stack 
 
-_stack_ Made with React JS. 
 
-_hosted link_ 
+_stack_ Made with MERN Stack. 
 
-_github link_ https://github.com/rahulaluru1/keeperapp
+_hosted link_ coming up
 
+_github link_ https://github.com/rahulaluru1/keepapp
+
+#### Tackl: App that helps you tackle emergencies.
+_description_ This is an application which guides to safety incase of an emergency. The emergency can be anything from a day-to-day emergency as a health problem or a zombie apocalypse, the app safeguards people.
+
+_stack- React Native.
+
+_hosted link_ coming up soon
+_github link_ https://github.com/rahulaluru1/tackl_app
 
 
 ### blogs
