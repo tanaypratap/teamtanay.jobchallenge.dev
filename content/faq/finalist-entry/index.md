@@ -1,7 +1,7 @@
 ---
 title: finalist data updation
 date: "2020-06-25T22:30:03.284Z"
-type: "blog"
+type: "faq"
 description: "Process for finalist data updation"
 ---
 
