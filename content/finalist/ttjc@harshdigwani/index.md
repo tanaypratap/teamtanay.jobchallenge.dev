@@ -1,6 +1,6 @@
 ---
 title: Harsh Digwani
-type: "participant"
+type: "finalist"
 name: "Harsh Digwani"
 portfolio: "https://harshdigwani.github.io/"
 github-link: "https://github.com/harshdigwani"
@@ -10,7 +10,7 @@ looking-for: "job"
 description: "Competitive Programmer || Full Stack Developer || Problem Solver || Student || React || Angular || JavaScript || NodeJS || ExpressJS || Python. "
 ---
 
-Hi! I am Harsh Digwani let me walk you through my intro, projects and blogs.
+Hi! I am a Harsh Digwani let me walk you through my intro, projects and blogs.
 
 ### introduction
 
