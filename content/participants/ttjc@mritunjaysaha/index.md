@@ -9,7 +9,7 @@ looking-for: "Internship"
 description: "MongoDB | Express.JS | React.JS | Node.js "
 ---
 
-I am Mritunjay Saha, registering for jobChallenge
+Hi! I am Mritunjay Saha, allow me to introduce myself.
 
 ### introduction
 
