@@ -37,7 +37,7 @@ I am still learning to develop more and more skills. But sometimes some things a
 ### projects
 It is a simple Google Keep clone, I made this app using Reactjs- https://notes-keeper-app-shivam.netlify.app <br />
 It is a simple weather website that updates background with city images,I made this app using Reactjs and Unsplash API and Open weather API- https://weather-app-shivam.netlify.app <br />
-It is a simple recipe appI made this app using Reactjs and Edaman API- https://recipe-app-shivam.netlify.app <br />
+It is a simple recipe app I made this app using Reactjs and Edaman API- https://recipe-app-shivam.netlify.app <br />
 These 3 projects are based on React only and are quite basic because I am new to React but I have many other projects based on HTML/CSS,Javascript,Jquery,MongoDB,SQL,Express,Node.js and EJS that you can see on my Github.
 
 ### blogs
