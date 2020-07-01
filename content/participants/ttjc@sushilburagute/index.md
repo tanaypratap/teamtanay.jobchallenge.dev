@@ -1,6 +1,6 @@
 ---
 title: Sushil Buragute
-type: "finalist"
+type: "participant"
 name: "Sushil Buragute"
 portfolio: "https://sushilburagute.github.io"
 github-link: "https://github.com/sushilburagute"
