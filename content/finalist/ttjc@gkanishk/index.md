@@ -56,8 +56,9 @@ Apart from building testing is important so I want help in optimizing and testin
     **_Stacks_** `React`, `Node.js`, `FireBase`, `Material-UI`
 
     - [**_hosted link_**](http://gkanishk-social.netlify.app/)    
-    - [**_github link_**](https://github.com/gkanishk/socialapp-client/)  
-
+    - [**_github link_**](https://github.com/gkanishk/socialapp-client/) 
+    - ![DEMO](https://raw.githubusercontent.com/gkanishk/socialapp-client/master/public/social.gif)
+ 
 - ### 2. Chuck Norris
 
     Chuck Norris doesn't read books. He stares them down until he gets the information he wants. Used Chuck Norris joke’s API for rendering jokes data on-site. This site is made using `React.js`, `Material-UI` as major stacks, and hosted using git and Netlify.
@@ -65,7 +66,8 @@ Apart from building testing is important so I want help in optimizing and testin
     **_Stacks_** `React`, `REST-API`, `Material-UI`
 
     - [**_hosted link_**](http://gkanishk-joke.netlify.app/)  
-    - [**_github link_**](https://github.com/gkanishk/chuckjoke/)  
+    - [**_github link_**](https://github.com/gkanishk/chuckjoke/) 
+    - ![DEMO](https://raw.githubusercontent.com/gkanishk/chuckjoke/master/public/chuck.gif)
 
 - ### 3. Radar Dashboard 
  
@@ -74,7 +76,8 @@ Apart from building testing is important so I want help in optimizing and testin
     **_Stacks_** `React`, `React-Bootstrap`, `Hooks`, `React-Chart.js`
 
     - [**_hosted link_**](https://gkanishk-chart.netlify.app/)  
-    - [**_github link_**](https://github.com/gkanishk/Radar-Dashboard)  
+    - [**_github link_**](https://github.com/gkanishk/Radar-Dashboard)
+    - ![DEMO](https://raw.githubusercontent.com/gkanishk/Radar-Dashboard/master/public/radar.gif)  
 
 - ### 4. Guess Karo Test Karo
 
@@ -84,6 +87,7 @@ Apart from building testing is important so I want help in optimizing and testin
 
     - [**_hosted link_**](https://gkanishk.github.io/GuessKaro/)  
     - [**_github link_**](https://github.com/gkanishk/GuessKaro)
+    - ![DEMO](https://raw.githubusercontent.com/gkanishk/GuessKaro/master/assests/guess.gif)
 
 - ### 5. Hocus Pocus
 
@@ -93,6 +97,7 @@ Apart from building testing is important so I want help in optimizing and testin
 
     - [**_hosted link_**](https://gkanishk-math.netlify.app/)  
     - [**_github link_**](https://github.com/gkanishk/HocusPocus/)
+    - ![DEMO](https://raw.githubusercontent.com/gkanishk/HocusPocus/master/public/hocus.gif)
 
 - ### 6. Script Generator
 
@@ -102,6 +107,7 @@ Apart from building testing is important so I want help in optimizing and testin
 
     - [**_hosted link_**](https://gkanishk.github.io/js-plugin/)  
     - [**_github link_**](https://github.com/gkanishk/js-plugin)
+    - ![image](https://user-images.githubusercontent.com/33570551/86213925-1467ee00-bb98-11ea-952c-0c9e2d8d8547.png)
 
 - ### 7. Personal Blog using Gatsby.js and Sanity.io
 
@@ -110,7 +116,8 @@ Apart from building testing is important so I want help in optimizing and testin
     **_Stacks_** `Gatsby.js`, `Sanity.io`
 
     - [**_hosted link_**](https://gkanishk-blog.netlify.com/)   
-    - [**_github link_**](https://github.com/gkanishk/sanity-gatsby-blog)  
+    - [**_github link_**](https://github.com/gkanishk/sanity-gatsby-blog)
+    - ![image](https://user-images.githubusercontent.com/33570551/86214046-411c0580-bb98-11ea-94bf-a61c5ecf9732.png)  
 
 
 ### blogs ✍
@@ -150,5 +157,4 @@ Apart from building testing is important so I want help in optimizing and testin
     Find the blog [here](https://2020.teamtanay.jobchallenge.dev/origin_story/)
 
 
-
-> Can check my **previous written blogs** [here](https://gkanishk-blog.netlify.com)
+> Can check my **previous written blogs** [here](https://gkanishk-blog.netlify.com) and **quora** profile [here](https://www.quora.com/profile/Kanishk-Gupta-51)
