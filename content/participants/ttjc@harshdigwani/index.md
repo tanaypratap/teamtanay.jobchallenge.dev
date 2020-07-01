@@ -45,7 +45,7 @@ It would be great if someone help me out in improving my backend skills.
 ### how to contact me?
 
 - [LinkedIn](https://www.linkedin.com/in/harshdigwani)
-
+- [Email](mailto:harshdigwani@gmail.com)
 
 ### My Projects
 
@@ -136,9 +136,7 @@ _github link_ : https://github.com/harshdigwani/Emophony
 
 ### Portfolio v2 
 
-_description_ :  Updating my protfolio to second version removing the use of bootstrap an now it is build without any CSS Library only using Pure CSS.
-
-Currently working...
+_description_ :  Updating my protfolio to second version removing the use of bootstrap and now it is build without any CSS Library only using Pure CSS.
 
 _stack_ : HTML, CSS and Flexbox and Media Queries.
 
@@ -147,18 +145,6 @@ _Old Version_   https://harshdigwani.github.io/public/v1/index.html<br/>
 _github link_ : https://github.com/harshdigwani/harshdigwani.github.io
 
 
-
-### Gokart: An Ecommerce WebApp
-
-_description_ Gokart an E-Commerce application which solves the problem of finding the best deals on electronic products near you using user's location.
-
-_stack_ It is a modern Single Page Application (SPA), design and developed in Angular (2+), NodeJS, ExpressJS, MongoDB and MySQL with best practice of web development including MVC architecture, distributed Micro-Services to achieve scalability, Load Balancer for distribution of user's requests and Responsive Design.
-
-_hosted link_ http://gokartecommerce.netlify.com/
-
-_github link_ https://github.com/harshdigwani/Gokart-E-commerce
-
-Many more to come... 
 
 ### blogs
 
