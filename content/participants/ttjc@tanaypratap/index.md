@@ -1,7 +1,7 @@
 ---
-title: dummy student
+title: student
 type: "finalist"
-name: "dummy student"
+name: "student"
 portfolio: "https://tanaypratap.com"
 github-link: "https://github.com/tanaypratap"
 linkedin-link: "https://linkedin.com/in/tanaypratap"
