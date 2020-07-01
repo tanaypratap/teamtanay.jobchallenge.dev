@@ -70,7 +70,7 @@ This is javascript based website, that helps you to find all the open source pro
 ### GitDesk
 
 This is a desktop based application, which gives you a new and fast way to use github
-
+- You can find it [here](https://open-source-project-finder.herokuapp.com)
 - Github repo and preview can be found [here](https://github.com/OptimusRahul/GitDesk)
 
 ### Portfolio   
