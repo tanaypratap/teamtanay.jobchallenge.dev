@@ -25,7 +25,6 @@
     "gatsby-source-filesystem": "^2.1.46",
     "gatsby-transformer-remark": "^2.6.48",
     "gatsby-transformer-sharp": "^2.3.13",
-    "node": "^12.16.1",
     "prismjs": "^1.19.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -40,10 +39,7 @@
     "prettier": "^1.19.1"
   },
   "homepage": "https://github.com/tanaypratap/teamtanay.jobchallenge.dev/blob/master/README.md",
-  "keywords": [
-    "jobChallenge",
-    "teamtanay"
-  ],
+  "keywords": ["jobChallenge", "teamtanay"],
   "license": "MIT",
   "main": "n/a",
   "repository": {
