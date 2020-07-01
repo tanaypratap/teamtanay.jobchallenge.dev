@@ -1,6 +1,6 @@
 ---
 title: Meghna Varma
-type: "participant"
+type: "finalist"
 name: "Meghna Varma"
 portfolio: "https://meghnavarma.netlify.com"
 github-link: "https://github.com/meghnavarma0"
