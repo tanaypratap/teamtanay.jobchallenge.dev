@@ -22,6 +22,7 @@ I love to participate in Hackathons, contribute to the open-source community and
 Job challenge has been a boon for me as I got an opportunity to become the moderator of this Job challenge. Before JC I was afraid to even push code but now I can blindly do that I am loving it. I reviewed multiple pull requests and that helped me a lot to skill up and learn team management. I have built new connections and been volunteering this community which is itself a win-win. All thanks to Tanay for giving me this opportunity.
 I contributed to Open-source organizations like `Microsoft` and `Facebook` along with this job challenge which itself is a badge for me. 
 
+![image](https://user-images.githubusercontent.com/33570551/86209017-4759b400-bb8f-11ea-8df3-b4c47ab5ad20.png)
 
 ## why I am taking this challenge? 🤔💭
 
