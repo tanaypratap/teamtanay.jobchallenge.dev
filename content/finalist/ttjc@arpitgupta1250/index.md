@@ -104,7 +104,7 @@ _Link_ https://medium.com/@arpitgupta1250/stateless-and-stateful-widget-in-flutt
 
 - #### 2. Tips to write smart code
 
-_link_ https://medium.com/@arpitgupta1250/tips-to-write-smart-code-4dc196ed214c
+_link_ https://dev.to/arpitgupta1250/tips-4bf  
 
 
 - #### 3. How to parse json data in dart
