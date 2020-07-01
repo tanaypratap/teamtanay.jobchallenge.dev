@@ -18,8 +18,8 @@ I have experience developing and designing software for the web, from simple lan
 
 ## why are you taking this challenge?
 
-I need a job in July 2020.
-Along with this, I want to contribute more to Open source and expand my learning manifolds.
+I need an internship/job in July 2020.
+I am an active Open source contributor and expanding my learning manifolds with Open Source development and communities. 
 
 ## something interesting about you?
 
@@ -29,12 +29,14 @@ Also, I love painting, petting dogs, and reading.
 
 ### help I need?
 
-It would be good if someone guides me with ReastJs as I have done little in it and want to explore more.
+This challenge helped me a lot in gearing up my game with front-end development. Now I am looking forward to explore backend more to the breadth of my skillset.  
 
 ### how to contact me?
 
 - [Twitter](https://twitter.com/Megha_Pathak_)
 - [LinkedIn](https://linkedin.com/in/megha--pathak/)
+- [E-Mail](meghapathak2013@gmail.com)
+- [Portfolio](https://meghapathak.netlify.com/)
 
 ### projects
 
