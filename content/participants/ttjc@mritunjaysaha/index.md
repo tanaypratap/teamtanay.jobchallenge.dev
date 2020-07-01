@@ -1,6 +1,6 @@
 ---
 title: "Mritunjay Saha"
-type: "finalist"
+type: "participant"
 name: "Mritunjay Saha"
 portfolio: "https://mritunjaysaha.netlify.com"
 github-link: "https://github.com/mritunjaysaha"
