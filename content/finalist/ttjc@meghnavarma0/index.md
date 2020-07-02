@@ -2,7 +2,7 @@
 title: Meghna Varma
 type: "finalist"
 name: "Meghna Varma"
-portfolio: "https://meghnavarma.netlify.com"
+portfolio: "https://meghnavarma.vercel.app/"
 github-link: "https://github.com/meghnavarma0"
 linkedin-link: "https://www.linkedin.com/in/meghna-varma-381282186/"
 looking-for: "job"
