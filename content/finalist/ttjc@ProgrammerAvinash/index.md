@@ -1,6 +1,6 @@
 ---
 title: DeveloperAvinash
-type: "participant"
+type: "finalist"
 name: "Avinash Yadav"
 portfolio: "https://avinashyadav.netlify.com"
 github-link: "https://github.com/ProgrammerAvinash"
@@ -13,7 +13,7 @@ Hi! I am Avinash Yadav let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-I am 22 Years Old ,  lives in Mumbai & Working in TCS.
+I am 23 Years Old , lives in Mumbai & Working in TCS.
 
 ## why are you taking this challenge?
 
@@ -32,6 +32,7 @@ It would be good if someone tells me about Node JS , as i want to learn Node
 
 - [Twitter](https://twitter.com/Aviyadav25/)
 - [LinkedIn](https://www.linkedin.com/in/avinash-yadav-588744151/)
+- [Instagram](https://www.instagram.com/avi_nash_yadav/)
 
 ### projects
 
@@ -53,7 +54,7 @@ _description_ This is Real time Chat app , in which You can Send and Recieve Mes
 
 _stack_ Made this App in React Js , express Js and Node Js
 
-_hosted link_ https://chatapprealtimee.netlify.app/
+_hosted link_ https://chatapprealtime.netlify.app/
 
 _github link_ https://github.com/ProgrammerAvinash/RealTimeChatApp
 
@@ -105,10 +106,9 @@ _description_ I have written really nice blog on JavaScript Engine you can check
 
 _link_ https://medium.com/@avinash.yadav3043/inside-javascript-engine-30cf89dff0e0
 
-#### How To Make REST API`s .
+#### How To Make REST APIs .
+
 
 _description_ I have written really nice blog on Making REST api you can check it out from below given Link.
 
 _link_ https://medium.com/@avinash.yadav3043/how-to-make-rest-api-s-ec1a10fdba39
-
-
