@@ -1,10 +1,10 @@
 ---
-title: student
+title: Anand Kumar Jha
 type: "finalist"
-name: "student"
-portfolio: "https://tanaypratap.com"
-github-link: "https://github.com/tanaypratap"
-linkedin-link: "https://linkedin.com/in/tanaypratap"
+name: "Anand Kumar Jha"
+portfolio: "http://developer-anand.github.io/"
+github-link: "https://github.com/developer-anand"
+linkedin-link: "https://linkedin.com/in/-developer-anand"
 looking-for: "job"
 description: "expert at CSS/HTML learning React"
 ---
