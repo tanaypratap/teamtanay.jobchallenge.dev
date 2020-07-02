@@ -10,6 +10,7 @@ description: "TypeScript | Angular | React | 2 years experiance | Python | Java 
 ---
 
 Namaste, I am Harshith Venkatesh , let me walk you through my intro, projects and blogs.
+I am a believer in "Fake it till you make it"
 “When you stop expecting people to be perfect, you can like them for who they are.”
 
 ### introduction
