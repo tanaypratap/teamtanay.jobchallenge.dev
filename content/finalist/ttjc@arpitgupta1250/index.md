@@ -9,7 +9,9 @@ looking-for: "job"
 description: "C | Java | Python | Flutter | AWS | RedHat Linux | HTML | CSS | SQL"
 ---
 
-Hi! Let me walk you through my intro, projects and blogs.
+
+Hi! I am Arpit Gupta, pursuing B.Tech. from Global Institute of Technology, Jaipur in Computer Science Engineering.
+
 
 ### introduction
 
@@ -36,79 +38,81 @@ I like to explore new things.
 
 - #### 1. BMI Calculator Mobile App
 
-_Description_ App to calculate BMI.
 
-_Stack_ Dart, Flutter.
+_Description -_ App to calculate BMI.
 
-_App Link_ https://drive.google.com/file/d/1t9NgV2qtXthzwu4GKF--3uXB1lpcqiaO/view?usp=sharing
+_Stack -_ Dart, Flutter.
 
-_Github link_ https://github.com/arpitgupta1250/bmi_calculator
+_App Link -_ https://drive.google.com/file/d/1t9NgV2qtXthzwu4GKF--3uXB1lpcqiaO/view?usp=sharing
 
-_Hosted Link_ https://play.google.com/store/apps/details?id=com.bmi_calc
+_Github link -_ https://github.com/arpitgupta1250/bmi_calculator
+
+_Hosted Link -_ https://play.google.com/store/apps/details?id=com.bmi_calc
 
 
 - #### 2. Live News Mobile App
 
-_Description_ App to get all latest news. It fetch news automatically from newsapi.org API.
 
-_Stack_ Dart, Flutter, Newsapi.org API
+_Description -_ App to get all latest news. It fetch news automatically from newsapi.org API.
 
-_App Link_ https://drive.google.com/file/d/15c5Vp3L6-oVQ-grjuPp-OVfYgZd437fZ/view?usp=sharing
+_Stack -_ Dart, Flutter, Newsapi.org API
 
-_Github link_ https://github.com/arpitgupta1250/live_news
+_App Link -_ https://drive.google.com/file/d/15c5Vp3L6-oVQ-grjuPp-OVfYgZd437fZ/view?usp=sharing
 
-_Hosted Link_ https://play.google.com/store/apps/details?id=com.live_news.app
+_Github link -_ https://github.com/arpitgupta1250/live_news
+
+_Hosted Link -_ https://play.google.com/store/apps/details?id=com.live_news.app
 
 - #### 3. Recipedia Mobile App
 
-_Description_ App to get various recipies from main ingredients. It fetch recepies automatically from Edamam API.
+_Description -_ App to get various recipies from main ingredients. It fetch recepies automatically from Edamam API.
 
-_Stack_ Dart, Flutter, Edamam API
+_Stack -_ Dart, Flutter, Edamam API
 
-_App Link_ https://drive.google.com/file/d/17g54JSmQmhvFOQ6aNDjK4AJofNB_FMzI/view?usp=sharing
+_App Link -_ https://drive.google.com/file/d/17g54JSmQmhvFOQ6aNDjK4AJofNB_FMzI/view?usp=sharing
 
-_Github link_ https://github.com/arpitgupta1250/recipedia
+_Github link -_ https://github.com/arpitgupta1250/recipedia
 
-_Hosted Link_ https://play.google.com/store/apps/details?id=com.recipedia.app
+_Hosted Link -_ https://play.google.com/store/apps/details?id=com.recipedia.app
 
 - #### 4. Wallpaper Garage Mobile App
 
-_Description_ App to get all latest wallpapers. It fetch wallpapers automatically from pexels API.
+_Description -_ App to get all latest wallpapers. It fetch wallpapers automatically from pexels API.
 
-_Stack_ Dart, Flutter, Pexels API
+_Stack -_ Dart, Flutter, Pexels API
 
-_App Link_ https://drive.google.com/file/d/1bJD-BURmFf7XDF3EEFMEbHAW9OZ2wbhk/view?usp=sharing
+_App Link -_ https://drive.google.com/file/d/1bJD-BURmFf7XDF3EEFMEbHAW9OZ2wbhk/view?usp=sharing
 
-_Github link_ https://github.com/arpitgupta1250/wallpaper_app
+_Github link -_ https://github.com/arpitgupta1250/wallpaper_app
 
-_Hosted Link_ https://play.google.com/store/apps/details?id=com.wallpaper_garage
+_Hosted Link -_ https://play.google.com/store/apps/details?id=com.wallpaper_garage
 
 - #### 5. Lets Do Web App
 
-_Description_ To-Do website to track all tasks.
+_Description -_ To-Do website to track all tasks.
 
-_Stack_ HTML, CSS, JS
+_Stack -_ HTML, CSS, JS
 
-_Github link_ https://github.com/arpitgupta1250/Lets-Do
+_Github link -_ https://github.com/arpitgupta1250/Lets-Do
 
-_Hosted Link_ https://lets-do.netlify.app/
+_Hosted Link -_ https://lets-do.netlify.app/
 
 
 ### blogs
 
 - #### 1. Stateless and Stateful Widget in Flutter
 
-_Description_ Detail explanation of difference between Stateless and Stateful Widget.
+_Description -_ Detail explanation of difference between Stateless and Stateful Widget.
 
-_Link_ https://medium.com/@arpitgupta1250/stateless-and-stateful-widget-in-flutter-f082092f4179
+_Link -_ https://medium.com/@arpitgupta1250/stateless-and-stateful-widget-in-flutter-f082092f4179
 
 - #### 2. Tips to write smart code
 
-_link_ https://dev.to/arpitgupta1250/tips-4bf  
+_link -_ https://dev.to/arpitgupta1250/tips-4bf
 
 
 - #### 3. How to parse json data in dart
 
-_Description_ Detail explanation of how to use json data in dart code.
+_Description -_ Detail explanation of how to use json data in dart code.
 
-_link_ https://medium.com/@arpitgupta1250/top-dart-packages-to-explore-c2b472c95085
+_link -_ https://medium.com/@arpitgupta1250/top-dart-packages-to-explore-c2b472c95085
