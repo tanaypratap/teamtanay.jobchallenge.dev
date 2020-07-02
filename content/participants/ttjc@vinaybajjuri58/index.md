@@ -36,13 +36,25 @@ Currently making myself good at React. I need some help in learning Back End so 
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+
 
 My projects:
 
-### projects
+### Project1 : URL Shortener
 
-Did a few small projects but I'll share a few better ones here. Working on them.
+
+_description_ Did you ever face a problem if getting a shortened link of any url. Then here is the solution .Here is gi a website which can help you to shorten any url. The front-end is developed using HTML CSS JavaScript and backend is handled by an external api , Which takes care of shorting the url.
+
+_stack_ The website is made using HTML, CSS , JavaScript and the backend is handled using an external API
+
+_hosted link_ https://urlshorten.netlify.app/
+
+_github link_ : https://github.com/vinaybajjuri58/urlShortener
+
+
+
+
+
 
 ### blogs
 

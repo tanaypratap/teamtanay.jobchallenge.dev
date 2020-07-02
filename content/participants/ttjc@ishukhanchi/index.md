@@ -35,7 +35,18 @@ It would be good if someone tells me how to be more productive and what all one 
 
 ### projects
 
-Not a lot of projects are done. I will keep updating it with real links when done.
+My projects:
+
+#### ShopList
+
+_description_ An App for making shopping lists and items are added one by one. After the items are bought, they can be deleted.
+
+_stack_ : React
+
+_hosted link_ https://ikshoplist.netlify.app/
+
+_github link_ https://github.com/ishukhanchi/ShopList
+
 
 ### blogs
 
