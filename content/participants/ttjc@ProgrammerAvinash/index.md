@@ -40,7 +40,9 @@ My projects:
 #### Tetris Game
 
 _description_ the fun little game made with love 
+
 _stack_ Made this game in JavaScript
+
 _hosted link_ https://programmeravinash.github.io/TetrisGame/index.html
 
 _github link_ https://github.com/ProgrammerAvinash/TetrisGame
@@ -51,14 +53,16 @@ _description_ This is Real time Chat app , in which You can Send and Recieve Mes
 
 _stack_ Made this App in React Js , express Js and Node Js
 
-_hosted link_ https://chatapprealtime.netlify.app/
+_hosted link_ https://chatapprealtimee.netlify.app/
 
 _github link_ https://github.com/ProgrammerAvinash/RealTimeChatApp
 
 #### Food Recipe App
 
 _description_ In this App You can Find You favourite Recipes 
+
 _stack_  Made this Food Recipe in React JS
+
 _hosted link_ https://foodsrecipeapp.netlify.app
 
 _github link_ https://github.com/ProgrammerAvinash/foodRecipeApp
@@ -66,7 +70,9 @@ _github link_ https://github.com/ProgrammerAvinash/foodRecipeApp
 #### TicTacToe Game
 
 _description_ This is Fun Little TicTacToe Game Which You can Play on you free Time
+
 _stack_  Made this game in React JS 
+
 _hosted link_ https://tictactoefun.netlify.app
 
 _github link_ https://github.com/ProgrammerAvinash/TicTacToe
@@ -74,13 +80,12 @@ _github link_ https://github.com/ProgrammerAvinash/TicTacToe
 #### TileBreakGame
 
 _description_ This is Fun Little Game Which You can Play by Breaking The Tiles with the Ball
+
 _stack_  Made this game in JavaScript 
+
 _hosted link_ https://tilebreakgame.netlify.app/
 
 _github link_ https://github.com/ProgrammerAvinash/TileBreak
-
-
-
 
 
 ### blogs
@@ -102,7 +107,8 @@ _link_ https://medium.com/@avinash.yadav3043/inside-javascript-engine-30cf89dff0
 
 #### How To Make REST API`s .
 
-
 _description_ I have written really nice blog on Making REST api you can check it out from below given Link.
 
 _link_ https://medium.com/@avinash.yadav3043/how-to-make-rest-api-s-ec1a10fdba39
+
+
