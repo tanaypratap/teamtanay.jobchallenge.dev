@@ -2,6 +2,7 @@
 title: Sarulatha Annadurai
 type: "participant"
 name: "Sarulatha Annadurai"
+
 portfolio: "https://sarulathadurai.netlify.app/"
 github-link: "https://github.com/sarulathadurai"
 linkedin-link: "https://www.linkedin.com/in/sarulatha-annadurai-060226180/"
@@ -13,9 +14,13 @@ Hi! I am an aspiring web developer pursuing 3rd year of computer science enginee
 
 ### introduction
 
+
 I am a complete beginner who had always wanted to learn web and app development and the first step I took is to participate in
 job challenge.By participating in this challenge,I can definitely see difference in myself that I can host sites,write blogs and more.Below is the list
 of projects and blogs for this challenge
+
+I would like to enhance my knowledge in web development by learning MERN stack.I can learn things easily and carry out well.I am passionate and will work hard till I reach my destination.
+
 
 ## why are you taking this challenge?
 I would like to work in MERN stack.Though I am a beginner I believe that I could take part in this challenge and complete it successfully that will definitely boost my confidence level.And,I am willing to work as an intern to observe the work environment and learn how to work in a firm.
@@ -36,6 +41,7 @@ I would appreciate if I get someone to clear my doubts and explain me exact tech
 
 
 ### projects
+
 
 #### Billing App: calculates bill amount
 
@@ -107,3 +113,33 @@ _hosted link_ https://dev.to/sarulathadurai/how-to-use-map-reduce-and-filter-373
 _description_ Here I shared my own experience of how I overcame Imposter Syndrome
 
 _hosted link_ https://dev.to/sarulathadurai/how-to-overcome-imposter-syndrome-2p77
+
+not a lot of projects are done. I will keep updating it with real links when done.
+
+My projects: I don't have any projects as of now but I will update it as and when I complete my projects.
+
+<!#### binder: tinder for books>
+
+<!_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.>
+
+<!_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.>
+
+<!_hosted link_ https://binder.netlify.com>
+
+<!_github link_ https://github.com/tanaypratap/binder>
+#### another project
+
+_description_
+
+_stack_
+
+### blogs
+
+same as projects, I will keep updating my blogs as and when done.
+
+#### why I liked GraphQL over REST?
+
+<!_description_ I will write something really nice here so that you feel like reading my blog.>
+
+<!_link_ https://dev.to/some-imaginary-link>
+

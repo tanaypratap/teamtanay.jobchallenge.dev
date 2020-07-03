@@ -13,6 +13,4 @@ Please follow the steps if your question is not answered here:
 
 3. If you don't find any related issue/question then please [create a fresh issue](https://github.com/tanaypratap/teamtanay.jobchallenge.dev/issues/new). Make sure that you make the question generic enough so that it can be used by other people.
 
-4. You can also join the telegram group https://t.me/teamtanay for discussions.
-
 _Note_ Failure to check for duplicates mean that you don't pay attention to details and instructions. I wouldn't recommend a person like that to anyone personally. Understand that this is a massive free project. Intention to help will be appreciated. Entitlement would not be tolerated.
