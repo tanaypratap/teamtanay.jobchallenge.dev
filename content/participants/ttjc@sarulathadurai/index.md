@@ -110,36 +110,11 @@ _hosted link_ https://dev.to/sarulathadurai/how-to-use-map-reduce-and-filter-373
 
 ### How to overcome Imposter Syndrome?
 
-_description_ Here I shared my own experience of how I overcame Imposter Syndrome
+_description_ Here I shared my own experience on how I overcame Imposter Syndrome
 
 _hosted link_ https://dev.to/sarulathadurai/how-to-overcome-imposter-syndrome-2p77
 
-not a lot of projects are done. I will keep updating it with real links when done.
 
-My projects: I don't have any projects as of now but I will update it as and when I complete my projects.
 
-<!#### binder: tinder for books>
 
-<!_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.>
-
-<!_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.>
-
-<!_hosted link_ https://binder.netlify.com>
-
-<!_github link_ https://github.com/tanaypratap/binder>
-#### another project
-
-_description_
-
-_stack_
-
-### blogs
-
-same as projects, I will keep updating my blogs as and when done.
-
-#### why I liked GraphQL over REST?
-
-<!_description_ I will write something really nice here so that you feel like reading my blog.>
-
-<!_link_ https://dev.to/some-imaginary-link>
 
