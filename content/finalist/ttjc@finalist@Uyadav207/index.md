@@ -170,7 +170,7 @@ You can read by blogs on [My-own-blog-Page](https://utkarsh-blog.netlify.app/)
 
 Expo is a framework for React-Applications. Developer can easily built both Ios and Android platform mobile application. we can easily develop, build , deploy the app quickly. And the best part about react-native is that it gives a Native look to our Mobile / Web Application from the same JavaScript and TypeScript codebase.
 
-I have tried showing my the perfect use of UseState Hooks in here.
+I have tried showing the perfect use of UseState Hooks in here.
 
 **Visit**--[Random Color generator App](https://dev.to/uyadav207/random-color-generator-expo-app-5g4b)
 
