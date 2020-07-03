@@ -48,6 +48,8 @@ This blog is built with Gatsby and hosted serverlessly using AWS Lambda and S3. 
 
 I have created and used Django APIs for Like and Blog Subscription functions. I have also created a CI/CD pipeline using Github action workflow to deploy project at AWS S3.
 
+- **I have also added Progressive Web Apps(PWA) functionality in this blog**
+
 Stack: `GatsbyJS`, `Django`, `AWS`.
 
 #### DEMO
@@ -92,6 +94,8 @@ Designed and developed a clone of youtube using,
 
 **Project is hosted serverlessly on AWS S3, Cloudfront, Lambda, and API Gateway.
 It has CI/CD configured using GitHub Actions to deploy the code at AWS S3**
+
+- **Has Progressive Web Apps(PWA) functionality in this website**
 
 Stack: `ReactJS`, `MaterialUI`, `Django`, `PostgreSQL`, `AWS`.
 
