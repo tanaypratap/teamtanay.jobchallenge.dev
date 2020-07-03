@@ -37,10 +37,6 @@ I would appreciate if I get someone to clear my doubts and explain me exact tech
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
-
-My projects: I don't have any projects as of now but I will update it as and when I complete my projects.
-
 #### Billing App: calculates bill amount
 
 _description_ Can be used in petty shops where there is a need to calculate amount
