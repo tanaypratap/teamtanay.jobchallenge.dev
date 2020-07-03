@@ -1,10 +1,10 @@
 ---
 title: Anand Kumar Jha
-type: "finalist"
+type: "participant"
 name: "Anand Kumar Jha"
-portfolio: 
+portfolio: http://developer-anand.me/
 github-link: "https://github.com/developer-anand"
-linkedin-link: "https://linkedin.com/in/anand-jha-357679183"
+linkedin-link: "https://linkedin.com/in/-developer-anand"
 looking-for: "internship"
 description: "intermediate in JS, React, Vue-js, HTML, CSS, good in c++"
 ---
@@ -17,7 +17,7 @@ I am always excited to learn and apply. I love to explore new things.
 
 ## why are you taking this challenge?
 
-I need an internship.
+I need an Internship | Job.
 I want to learn.
 
 ## something interesting about you?
