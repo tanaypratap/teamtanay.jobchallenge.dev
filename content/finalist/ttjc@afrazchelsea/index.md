@@ -21,7 +21,7 @@ Learning new things, making myself a little better each day.
 
 ## something interesting about you?
 
-I like to play football and gymming is my favourite pastime. I also fancy cooking at times.
+I like to play football and gymming is my favourite pastime. I read a lot of books. Like a lot!
 
 ### help I need?
 
@@ -58,7 +58,7 @@ _github link_ https://github.com/afrazchelsea/recipe-app-react
 
 _description_ GitHub Search Application
 
-_stack_ Made using `HTML`, `CSS`, `Vanilla JS`, and the `GitHub API`.
+_stack_ Made using plain `Javascript` and the `GitHub API`. Used `Bootstrap` for styling.
 
 _hosted link_ https://whats-your-github.netlify.app/
 
@@ -78,7 +78,7 @@ _github link_ https://github.com/afrazchelsea/image-finder-react
 
 _description_ 9 clean UIs inspired from the challenges at [Frontend Mentor](https://frontendmentor.io/challenges)
 
-_stack_ Made using pure `HTML`, `CSS` and `Vanilla JS`
+_stack_ Made using `HTML`, `CSS` and `Vanilla JS`
 
 _hosted link_ https://frontend-mentor-projects.netlify.app/
 
@@ -104,16 +104,6 @@ _hosted link_ https://warm-earth-02647.herokuapp.com/
 
 _github link_ https://github.com/afrazchelsea/expense-tracker-mern
 
-- #### 8. notDiscord
-
-_description_ A realtime chat application with Users and Rooms.
-
-_stack_ `HTML`,`CSS` and `Vanilla JS` for the frontend. `NodeJS`, `Express` and `socket.io` for the backend.
-
-_hosted link_ https://notdiscord.herokuapp.com/
-
-_github link_ https://github.com/afrazchelsea/notDiscord
-
 ### blogs
 
 - #### 1. Web Development in 2020
@@ -138,7 +128,7 @@ _description_ What exactly is Debouncing and Why you should know about it
 _link_ https://afrazblogs.netlify.app/debouncing/
 
 - #### 4. Event Bubbling and Event Capturing in Javascript
-  `June 22, 2020`
+  `June 30, 2020`
 
 _description_ A deep dive into two phases of event flow in Javascript
 
