@@ -6,7 +6,8 @@ portfolio: "https://utkarshdeveloper.netlify.app/"
 github-link: "https://github.com/Uyadav207"
 linkedin-link: "https://www.linkedin.com/in/utkarsh-yadav-37242b17b/"
 looking-for: "internship"
-description: "Loves to work within JavaScript ecosystem | Learning Enthusiast | React-Native and Expo."
+image-link: "https://avatars2.githubusercontent.com/u/50916299?s=460&u=bca51c4c26a9657d5ef5af36dbd53aed0cbde013&v=4"
+description: "Loves to work within JavaScript ecosystem | Learning Enthusiast | React-Native and Expo | Node.js | MongoDB."
 ---
 
 Hi! 👋 I'm Utkarsh Yadav, A student, developer with a background in Computer Science and has keen interest in web and mobile technologies using the JavaScript ecosystem. I am also very much involved in technical writing and loves to write about the stuff related JS ecosystem on [dev.to](https://dev.to/uyadav207).
@@ -39,6 +40,12 @@ I never thought I would write blogs. more or less I'm glad, I did. I got more th
 
 Read my blogs [Here](https://dev.to/uyadav207/)
 
+### 🦠 Me fighting Covid-19 
+
+![contribution](https://github.com/Uyadav207/Contacts_App_React-props/blob/master/contribution.png?raw=true)
+
+![Practice badges](https://github.com/Uyadav207/Contacts_App_React-props/blob/master/badges.png?raw=true)
+
 ## why are you taking this challenge?
 
 I need an internship in July or August.
@@ -54,7 +61,7 @@ I play all sort of sports/games. `In-short`--`Every sport`
 I Love english music although 7/10, I don't remember lyrics. 😋
 And sometimes I talk nerdy. 
 
-### help I need?
+### 🙏 help I need?
 
 It would be good if someone tells me how to prepare for the job interview, Project management and how to make good professional relations. 
 
@@ -71,7 +78,7 @@ It would be good if someone tells me how to prepare for the job interview, Proje
 
 Some of my latest Projects are below.
 
-> Can visit [Here](https://utkarshdeveloper.netlify.app/) for my all projects.
+> Can visit [Here](https://utkarshdeveloper.netlify.app/) for my Portfolio/Testimonials.
 
 My projects:
 
@@ -166,6 +173,16 @@ _stack_: `Netlify` | `React` | `Css` | `Git` | `Material-UI` | `HTML` | `Express
 
 You can read by blogs on [My-own-blog-Page](https://utkarsh-blog.netlify.app/)
 
+#### **Event-Post CODE CAMP 1.0 - A virtual Hackathon 📱**
+
+I am a technical head of `Indian Society for Technical Education Student's Chapter, SRM-NCR`, and we have decided to organize a hackathon. the story how we are going to organize it is below. Have a look. Basically I have written this blog for `EDTIMES` for pre-Event post.
+
+We have made this hackathon an open source hackathon. see how 👇
+
+**Visit**--[CODE CAMP 1.0 - A Virtual Hackathon](https://dev.to/uyadav207/code-camp-a-virtual-hackathon-1npm)
+
+![Hackathon](https://res.cloudinary.com/practicaldev/image/fetch/s--GIUe9JNn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--w8sx4pdC--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/raheprfxv4iwa076jsjl.png)
+
 #### **Random Color Generator App -- React Native 📱**
 
 Expo is a framework for React-Applications. Developer can easily built both Ios and Android platform mobile application. we can easily develop, build , deploy the app quickly. And the best part about react-native is that it gives a Native look to our Mobile / Web Application from the same JavaScript and TypeScript codebase.
@@ -174,12 +191,15 @@ I have tried showing the perfect use of UseState Hooks in here.
 
 **Visit**--[Random Color generator App](https://dev.to/uyadav207/random-color-generator-expo-app-5g4b)
 
+![app](https://res.cloudinary.com/practicaldev/image/fetch/s--DD2ZkY_9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--7euItZoD--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/x9gdn55gz5x0sdiagteo.png)
+
 #### **Git | GitHub and Version Control 🐱‍👓**
 
 New to Git | GitHub or Version control.. This blog is for You. Inside it, all the necessary things needed to start your first github open source contribution is Present. So have a look. 
 
 **Visit**--[Git | github and version control](https://dev.to/uyadav207/git-github-and-version-control-52n1)
 
+![GitHub](https://res.cloudinary.com/practicaldev/image/fetch/s--MLyTpz4d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--okCJQ_iD--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/fu1vcohzo5z0v6l21cie.jpg)
 
 #### **Understanding Hacking 101 🐱‍💻**
 
@@ -187,12 +207,15 @@ Why there is a need of Encryption while writing the server-side Programming and 
 
 **Visit**--[Understanding Hacking 101](https://dev.to/uyadav207/understanding-hacking-101-15l8)
 
+![Hacking](https://res.cloudinary.com/practicaldev/image/fetch/s--zPM7c8B8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--HayFT7dg--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/epjvsizprthr1e5hy7j1.png)
 
 #### **The Front-End I Know 💅**
 
 In here, I have given a brief description about what Front-End development is..? How you can start your career as a Front-End Developer and what all programming stuffs you need to know. and that’s not enough, the reader is provided with the link to the platform which has proper Documentation for each and every Topic related to Front-End and Web Programming. 
 
 **Visit**--[The Front-End I Know](https://medium.com/@yadavutkarsh207/front-end-as-i-know-8da2d140b6e8)
+
+![front-end](https://miro.medium.com/max/1250/1*vMN00em58ENWGxxvfxqORQ.png)
 
 ---
 
