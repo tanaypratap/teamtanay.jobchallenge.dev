@@ -2,7 +2,7 @@
 title: Sarthakux
 type: "participant"
 name: "Sarthak Yadav"
-portfolio: "https://sy-portfolio1.netlify.app"
+portfolio: "https://sy-portfolio1.netlifgity.app"
 github-link: "https://github.com/Sarthakux"
 linkedin-link: "https://www.linkedin.com/in/sarthak-yadav-95a114184/"
 looking-for: "job"
