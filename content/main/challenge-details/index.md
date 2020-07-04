@@ -1,6 +1,6 @@
 ---
 title: Challenge Details
-date: "2015-05-01T22:12:03.284Z"
+date: "2020-03-14T22:12:03.284Z"
 type: "main"
 description: "Challenge Details"
 ---
@@ -28,4 +28,4 @@ To participate all you have to do is
 1.  Host the projects on Netlify or now.sh or any other tool of your choice.
 1.  Create a portfolio to showcase your journey, 5 projects and 3 blogs.
 1.  Get reviews from the mentors and put that on your portfolio too.
-1.  Join the [telegram group](https://t.me/teamtanay) or follow me on [Instagram](https://instagram.com/tanaypratap) for updates about registration.
+1.  Follow me on [Instagram](https://instagram.com/tanaypratap) for updates about registration and for any problems related to the challenge create an issue [here](https://github.com/tanaypratap/teamtanay.jobchallenge.dev/issues).

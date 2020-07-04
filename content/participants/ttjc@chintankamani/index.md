@@ -2,7 +2,7 @@
 title: Chintan Kamani
 type: "participant"
 name: "Chintan Kamani"
-portfolio: "https://chintankamani.github.io"
+portfolio: "https://chintankamani.github.io/portfolio/"
 github-link: "https://github.com/chintankamani/"
 linkedin-link: "https://www.linkedin.com/in/chintan-kamani-a37281146/"
 looking-for: "Internship"
@@ -41,11 +41,8 @@ Not sure about it now, but from time to time I may need some minor helps, Thanks
 
 Not a lot of projects are done. I will keep updating it with real links when done.
 
-
-
 ### blogs
 
 same as projects, I will keep updating my blogs as and when done.
 
-
-
+=======
