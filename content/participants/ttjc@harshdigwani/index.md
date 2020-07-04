@@ -7,6 +7,7 @@ github-link: "https://github.com/harshdigwani"
 linkedin-link: "https://www.linkedin.com/in/harshdigwani"
 medium-link: "https://medium.com/@harshdigwani/"
 looking-for: "job"
+image-link : "https://avatars0.githubusercontent.com/u/46929665?v=4"
 description: "Competitive Programmer || Full Stack Developer || Problem Solver || Student || React || Angular || JavaScript || NodeJS || ExpressJS || Python. "
 ---
 
