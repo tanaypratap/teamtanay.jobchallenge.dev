@@ -6,6 +6,7 @@ portfolio: "https://viralsangani.me/"
 github-link: "https://github.com/viral-sangani"
 linkedin-link: "https://linkedin.com/in/viral-sangani"
 looking-for: "internship"
+image-link: "https://avatars2.githubusercontent.com/u/36530381?s=460&u=c855ebdff9ae53fd8ae4d45d6273c45b06e4f83c&v=4"
 description: "Your Friendly Neighborhood CSE Student. Django | Python | AWS | Linux | ReactJS | GatsbyJS | Javascript "
 ---
 
@@ -78,7 +79,7 @@ Note: Only those issues are considered which passes the regex match i.e. those i
 
 ![https://raw.githubusercontent.com/viral-sangani/TTJC-Reviews/master/github-images/review.gif](https://raw.githubusercontent.com/viral-sangani/TTJC-Reviews/master/github-images/review.gif)
 
-_Hosted Link_: [React Native Expo](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40viral-sangani/ttjc-reviews-edbbb6ae7bcf4781acfbda7c288d006b-signed.apk)  
+_Hosted Link_: [APK Download from AWS S3](https://s3.ap-south-1.amazonaws.com/ttjc.viralsangani.me/ttjc-reviews-signed.apk)  
 _Github Link_: [https://github.com/viral-sangani/TTJC-Reviews](https://github.com/viral-sangani/TTJC-Reviews)
 
 ### **3. WeTube: 📺 Just a Clone of Youtube, made with ReactJS and Django APIs.💥**
@@ -103,7 +104,7 @@ Stack: `ReactJS`, `MaterialUI`, `Django`, `PostgreSQL`, `AWS`.
 
 ![Demo](https://raw.githubusercontent.com/viral-sangani/WeTube/master/src/Static/wetube.gif)
 
-_Hosted Link_: [https://wetube.viralsangani.me/](https://wetube.viralsangani.me/)  
+_Hosted Link_: [https://wetube.viralsangani.me/](https://wetube.viralsangani.me/)
 _Github Link_: [https://github.com/viral-sangani/WeTube](https://github.com/viral-sangani/WeTube)
 
 ### **4. Word-O-Mania: A ReactJs Game 💻**
