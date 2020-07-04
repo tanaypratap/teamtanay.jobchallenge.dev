@@ -6,6 +6,7 @@ portfolio: "https://batralakshay.netlify.app/"
 github-link: "https://github.com/Lakshay-Batra"
 linkedin-link: "https://www.linkedin.com/in/lakshay-batra-888726189/"
 looking-for: "job"
+image-link: "https://avatars1.githubusercontent.com/u/50356418?s=400&u=c4a10cb7a7f70f0353c22773920a94d15ed0702e&v=4"
 description: "Bootstrap | Material Ui | Javascript | React | jQuery | Node | Express | MongoDB | SQL | RESTful Api | Android App Development "
 ---
 
@@ -109,7 +110,7 @@ _github link_ https://github.com/Lakshay-Batra/Keeper-FirstReactApp
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+My blogs:
 
 #### HTML file paths.
 
