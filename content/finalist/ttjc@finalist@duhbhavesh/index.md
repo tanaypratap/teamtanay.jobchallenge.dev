@@ -6,27 +6,29 @@ portfolio: "https://bhaveshkasturi.herokuapp.com/"
 github-link: "https://github.com/duhbhavesh"
 linkedin-link: "https://linkedin.com/in/bhavesh-kasturi"
 looking-for: "job"
+image-link: "https://avatars0.githubusercontent.com/u/62742018?s=400&u=325fd02cc82819ebe22931123c404cafbb10b3b1&v=4"
 description: "Javascript | Mongodb | Nodejs | React | Express"
 ---
 
-Hello there! I'm Bhavesh Kasturi. A Full Stack Developer who specialises in JavaScript Technologies (Node.js, React). Experience in building complete Web applications with backend API systems. Below you'll get to know more about me and my skills. Also you'll find some projects that I've done.
+Hello there! I'm Bhavesh Kasturi, A self-taught Web developer. Below you'll get to know more about me and my skills. Also you'll find some projects that I've done.
 
 ### introduction
 
-Hi, I'm a Tech Enthusiast and I enjoy building Websites. I’m excited for the opportunity to be part of this jobchallenge by Tanay Sir. I'm a keen learner and looking forward to learn and build things during this jobchallenge.
+Hi, I'm a Tech Enthusiast and Passionate about building Websites & Web Apps. Learning Full Stack Web Development (MERN).
+I’m excited for this opportunity & to be a part of this jobchallenge by Tanay Sir. Job challenge has pushed me to even learn more, upskill myself and build things.
 
 ## why are you taking this challenge?
 
-I am looking for job to get hands on experience in Corporate/real-world.
-I want to improve my skills, so this will help me grow.
+I am looking for a job to get hands on experience in Corporate/Real-world & build a strong Network as Community matters a lot. I want to improve my skills, so this will help me grow.
 
 ## something interesting about you?
 
-An avid learner, great cook, good Bike rider! & I've started Meditation.
+An avid learner, good listener, great cook & I enjoy bike riding.
+Also, I meditate regularly.
 
 ### help I need?
 
-It would be good if someone tells me how to work with Databases & front-end frameworks
+It would be good if someone teach me how to build real world scalable applications & work with databases.
 
 ### how to contact me?
 
@@ -36,8 +38,6 @@ It would be good if someone tells me how to work with Databases & front-end fram
 - [Instagram](https://www.instagram.com/duhbhavesh)
 
 ### projects
-
-Not a lot of projects are done. I will keep updating it with real links when done.
 
 My projects:
 
@@ -61,17 +61,7 @@ _live at_ - http://twitchirp.herokuapp.com/
 
 _github link_ - https://github.com/duhbhavesh/twitchirp
 
-#### 3. DealKart
-
-_description_ - E-commerce store for fashion clothes & accessories enjoy hassle free experience with dealkart. Built with javascript no frameworks used!
-
-_stack_ - Javascript, Nodejs, Expressjs
-
-_live at_ - http://dealkart.herokuapp.com/
-
-_github link_ - https://github.com/duhbhavesh/dealkart
-
-#### 4. ColorTones 🎨
+#### 3. ColorTones 🎨
 
 _description_ - Explore and Create your own Color Palettes for your new awesome projects! Created using React.
 
@@ -80,6 +70,16 @@ _stack_ - React, Material UI, Chromajs, Emoji Mart.
 _live at_ - http://colortones.herokuapp.com/
 
 _github link_ - https://github.com/duhbhavesh/colortones
+
+#### 4. DealKart
+
+_description_ - E-commerce store for fashion clothes & accessories enjoy hassle free experience with dealkart. Built with javascript no frameworks used!
+
+_stack_ - Javascript, Nodejs, Expressjs
+
+_live at_ - http://dealkart.herokuapp.com/
+
+_github link_ - https://github.com/duhbhavesh/dealkart
 
 #### 5. Clancord
 
