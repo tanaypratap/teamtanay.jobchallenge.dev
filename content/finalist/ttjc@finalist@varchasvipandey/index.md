@@ -6,10 +6,11 @@ portfolio: "https://varchasvipandey.now.sh/"
 github-link: "https://github.com/varchasvipandey"
 linkedin-link: "https://www.linkedin.com/in/varchasvipandey"
 looking-for: "job"
-description: "JavaScript | MERN Stack Developer | Next.JS | Designer"
+image-link: "https://avatars1.githubusercontent.com/u/9446839?s=460&u=480181c585bc67fbf5c0d2dc4481bc48d9e67434&v=4"
+description: "JavaScript full stack developer."
 ---
 
-Hi! I am Varchasvi Pandey a self taught web-developer and photoshop designer. Let me walk you through my intro, projects and blogs.
+Hi! I am Varchasvi Pandey a self taught web-developer and photoshop designer. Here you will find all my projects and blogs.
 
 ### introduction
 
@@ -32,12 +33,15 @@ I struggle with headers and tokens while working with a front-to-back project. I
 - [Instagram](https://www.instagram.com/varchasvipandey)
 - [Twitter](https://twitter.com/varchasvip)
 - [LinkedIn](https://www.linkedin.com/in/varchasvipandey)
+- [Telegram](https://t.me/varchasvipandey)
 
 ### projects
 
 #### 1. CoviData
 
 CoviData is a simple and fast Covid-19 data application. This application can be used to check the status of Covid-19 in different parts of the world. The application is primarily built for mobile phones but it works and performs equally well on desktops.
+
+![CovidData Mobile App](https://github.com/varchasvipandey/images/blob/master/covidata.png?raw=true)
 
 - [More about this app](https://varchasvipandey.now.sh/covidata)
 - [App link](https://covidata.varchasvipandey.now.sh/)
@@ -47,6 +51,8 @@ CoviData is a simple and fast Covid-19 data application. This application can be
 
 Strenxible is a fitness application for those who find it hard to go to the gym either due to lack of time or money. The app comes with two fitness plans, one for building strength and one for building flexibility. Users can easily install the application on their devices and can workout anytime and anywhere.
 
+![Strenxible Mobile App](https://github.com/varchasvipandey/images/blob/master/strenxible.png?raw=true)
+
 - [More about this app](https://varchasvipandey.now.sh/strenxible)
 - [App link](https://strenxible.now.sh/)
 - [Github link](https://github.com/varchasvipandey/strenxible)
@@ -54,6 +60,8 @@ Strenxible is a fitness application for those who find it hard to go to the gym 
 #### 3. SweetBeat
 
 SweetBeat is a musical application which is meant to provide entertainment. Users can play beats on this application using the provided drum pads. The application comes with two musical genres- Future Bass and Hip-Hop. The app is primarily built for mobile devices but users can also use this application on their desktops using Numpad on the keyboard.
+
+![SweetBeat Mobile App](https://github.com/varchasvipandey/images/blob/master/sweetbeat.png?raw=true)
 
 - [More about this app](https://varchasvipandey.now.sh/sweetbeat)
 - [App link](https://sweetbeat.now.sh/)
@@ -63,6 +71,8 @@ SweetBeat is a musical application which is meant to provide entertainment. User
 
 Express Store is an eCommerce website for purchasing musical instruments. It is a marketplace to find all kinds of instruments. It works just like any other eCommerce website but with slight ease of use.
 
+![Express Store Desktop App](https://github.com/varchasvipandey/images/blob/master/express-store-desktop-app.jpg?raw=true)
+
 - [More about this app](https://varchasvipandey.now.sh/express-store)
 - [App link](https://express-store-app.herokuapp.com/)
 - [Github link](https://github.com/varchasvipandey/express-store)
@@ -70,6 +80,8 @@ Express Store is an eCommerce website for purchasing musical instruments. It is 
 #### 5. Fair And Square
 
 Fair And Square is an online gaming platform which is light-weight. The application is made primarily for desktop users only. This application also works fine on small mobile devices, but a keyboard is essential to play games. People can create an account and compete with other players worldwide.
+
+![Fair & Square Desktop App](https://github.com/varchasvipandey/images/blob/master/fair-and-square-desktop.jpg?raw=true)
 
 - [More about this app](https://varchasvipandey.now.sh/fair-and-square)
 - [App link](https://fair-and-square.herokuapp.com/)
