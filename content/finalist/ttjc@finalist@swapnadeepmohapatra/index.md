@@ -6,6 +6,7 @@ portfolio: "https://www.swapnadeep.com"
 github-link: "https://www.github.com/swapnadeepmohapatra"
 linkedin-link: "https://www.linkedin.com/in/swapnadeep-mohapatra-11b371159/"
 looking-for: "internship"
+image-link: https://avatars2.githubusercontent.com/u/41564532?s=460&u=ac84aa8f047ebb85f5ba8f9e77eca42d961dcf5c&v=4
 description: "React | React Native | JS | Python | Embedded C | IoT | HTML | CSS | SASS | Android | Java | UI Design | Firebase | MongoDB | SQL | Node.js | Express | Socket.io | TypeScript | Bootstrap | Tailwind CSS"
 ---
 
