@@ -104,7 +104,7 @@ Stack: `ReactJS`, `MaterialUI`, `Django`, `PostgreSQL`, `AWS`.
 
 ![Demo](https://raw.githubusercontent.com/viral-sangani/WeTube/master/src/Static/wetube.gif)
 
-_Hosted Link_: [https://wetube.viralsangani.me/](https://wetube.viralsangani.me/)
+_Hosted Link_: [https://wetube.viralsangani.me/](https://wetube.viralsangani.me/)  
 _Github Link_: [https://github.com/viral-sangani/WeTube](https://github.com/viral-sangani/WeTube)
 
 ### **4. Word-O-Mania: A ReactJs Game 💻**
