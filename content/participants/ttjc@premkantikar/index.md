@@ -29,8 +29,8 @@ It would be good if someone helps me to learn backend.
 
 ### how to contact me?
 
-- ![Twitter](https://twitter.com/prem_kantikar_)
-- ![LinkedIn](https://linkedin.com/in/prem-kantikar-849a28131)
+[Twitter](https://twitter.com/prem_kantikar_)
+[LinkedIn](https://linkedin.com/in/prem-kantikar-849a28131)
 
 ### projects
 

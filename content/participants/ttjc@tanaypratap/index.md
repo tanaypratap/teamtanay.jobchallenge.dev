@@ -9,7 +9,7 @@ looking-for: "job"
 description: "expert at CSS/HTML learning React"
 ---
 
-Hi! I am a dummy student let me walk you through my intro, projects and blogs.
+Hi! I am dummy student let me walk you through my intro, projects and blogs.
 
 ### introduction
 
