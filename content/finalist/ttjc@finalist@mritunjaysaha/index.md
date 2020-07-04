@@ -6,83 +6,84 @@ portfolio: "https://mritunjaysaha.netlify.com"
 github-link: "https://github.com/mritunjaysaha"
 linkedin-link: "https://www.linkedin.com/in/mritunjay-saha-89a04796/"
 looking-for: "Internship"
+image-link: "https://avatars3.githubusercontent.com/u/59063979?s=460&u=bfc034f3d3b32dcb6c0e9ce033682de5cee01409&v=4"
 description: "MongoDB | Express.JS | React.JS | Node.js "
 ---
 
-Hi! I am Mritunjay Saha, allow me to introduce myself.
+Hi! I am Mritunjay Saha. I am a self taught Web developer.
 
 ### introduction
 
-I am Mritunjay , 2nd year CSE from NERIST.
+I am Mritunjay, 2nd year CSE from NERIST.
 I want to improve my web-development skills.
 
 ## why are you taking this challenge?
 
-I need an internship in December 2020.
-I want to learn.
+I was looking for an internship. Since, colleges are not opening anytime soon. I would like to do some internships and
+make the most out of my time.
 
 ## something interesting about you?
 
-I don't give up easily.
+I started playing tennis since I was in class 3.
 
 ### help I need?
 
-It will be good for me if someone could help me learn the best practices for
-making a real world projects that would minimize bugs and increase performnace.
+Apart from building projects, I would want help in learning more about the web ecosystem.
 
 ### how to contact me?
 
 - [Instagram](https://www.instagram.com/themritunjaysaha)
-- [Twitter](https://twitter.com/MritunjaySaha1)
+- [Twitter](https://twitter.com/Mritunjay_Saha_)
 - [LinkedIn](https://www.linkedin.com/in/mritunjay-saha-89a04796)
 
-### projects
+## projects
 
-#### Covid-19 Tracker
+### Covid-19 Tracker
 
-_description_ A vanillaJs application to track the number of Covid-19 cases in India.
+_description_ A vanillaJs application to track the number of Covid-19 cases in India with the number of increase cases for each state and for each parameter.
 
-_stack_ JavaScript
+_stack_ `JavaScript` `HTML&CSS` `BootStrap` `Chart.js`
 
 _hosted link_ https://covidupdate.netlify.app/
 
 _github link_ https://github.com/mritunjaysaha/coronavirus-tracker
 
-#### AQI Monitor
+### AQI Monitor
 
-_description_ This allows us to see the air quality index of different cities at a time.
+_description_ vanillaJS web application that allows the user to see the air quality index of multiple cities at a time. User doesn't need to enter the details of the cities Everytime the page reloads. The data is saved on the browser
 
-_stack_ JavaScript
+_stack_ `JavaScript` `HTML&CSS`
 
 _hosted link_ https://aqimonitor.netlify.app/
 
 _github link_ https://github.com/mritunjaysaha/air-quality-monitor
 
-#### Device Tracker
+### DevTrkr
 
-_description_ Keeps track of the devices and shows their location on the Map
+_description_ Sometimes we cannot locate our devices but this web application helps the user to locate their devices.
 
-_stack_ MongoDB is used for database, Node.js and express.js for backend, React for frontend and MapBox for Maps.
+_stack_ `MongoDB` `Node.js` `Express.js` `React.js` `MapBox` `TailwindCSS`
 
 _hosted link_ http://devtrkr.herokuapp.com/
 
 _github link_ https://github.com/mritunjaysaha/device-tracker
 
-#### TodoTimer PWA
+### TodoTimer PWA
 
-_description_ Create todos with a deadline.
+_description_ Most of the time we create a todo without any deadline and often forget about it. This Progressive Web Application helps you to create todos with a deadline. Mobile version
+feels like a native application.
 
-_stack_ React.js
+_stack_ `React.js` `Material-UI`
 
 _hosted link_ http://todotimer.netlify.app/
 
 _github link_ https://github.com/mritunjaysaha/todo-pwa
 
-#### Markdown Previewer
+### Markdown Previewer
 
-_description_ Preview the text in markdown
+_description_ Check normal text in Markdown. It has a format bar so that anyone is new to Markdown can still use it.
 
-_stack_ React.js
+_stack_ `React.js` `Material-UI`
 
 _hosted link_ https://mritunjay-markdown-previewer.netlify.app/
 
