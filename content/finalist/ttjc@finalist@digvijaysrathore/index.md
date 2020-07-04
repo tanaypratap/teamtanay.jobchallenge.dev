@@ -1,41 +1,36 @@
 ---
 title: Digvijay Singh Rathore
-type: "participant"
+type: "finalist"
 name: "Digvijay Singh Rathore"
 portfolio: "https://digvijay.netlify.app"
 github-link: "https://github.com/digvijaysrathore"
 linkedin-link: "https://www.linkedin.com/in/digvijay-singh-rathore-10b632190/"
 looking-for: "internship"
-description: "MERN Stack"
+image-link: "https://avatars3.githubusercontent.com/u/59700645?s=460&u=59aaf467f690a7216b807c927c9b4b399657d98a&v=4"
+description: "MERN Stack | IOT | React Native"
 ---
 
-Hi! I am Digvijay, MERN stack developer.
+Hi! I am Digvijay, MERN stack developer. 👋👨‍💻
 
 ### introduction
 
-Hi! I am Digvijay, a 15 y/o from Jodhpur, Rajasthan. MERN is my staple tech stack. All I have learnt till now is self taught. I loved building digital products, I have worked at a startup previously as an intern. Web dev has empowered me to create something that solves problem and that's what I have did with all of my projects.
+👋👨‍💻 Hi! I am Digvijay, a 15 y/o MERN developer from Jodhpur, Rajasthan. All I have learnt till now is self taught. I love building tech-based products, I have worked at a startup previously as an intern. I enjoy learning new technologies and startup.
 
-![image](https://avatars3.githubusercontent.com/u/59700645?s=460&u=59aaf467f690a7216b807c927c9b4b399657d98a&v=4)
+## why are you taking this challenge? 🤷
 
-## why are you taking this challenge?
+I need an internship/job to have some experience of writing code for a porduction level application that helps a large number of users, which will ultimately let me learn and explore more.
 
-I need an internship/job to have some experience of writing code on scale helping a number of users, which will ultimately let me learn and explore more in my niche.
-
-## something interesting about you?
+## something interesting about you? 🤩
 
 As a 15 year old I always think my next project will be a billion dollar startup.
 
-### help I need?
-
-It would be highly appreciated if I am provided with some help for learning to work with MongoDB or nosql databases.
-
-### how to contact me?
-
+### how to contact me? 📮
+- [Portfolio](https://digvijay.netlify.app)
 - [Twitter](https://twitter.com/novadigvijay)
 - [LinkedIn](https://www.linkedin.com/in/digvijaysrathore)
 - [Email](dynamicdigvijay@gmail.com)
 
-### projects
+### projects 🧑‍💻
 
 - ### 1. Slash Co    
 
@@ -79,7 +74,7 @@ It would be highly appreciated if I am provided with some help for learning to w
 
     **_Stacks_** `React Native`
 
-    - [**_hosted link_**](https://github.com/digvijaysrathore/powerlist)   
+    - [**_hosted link_**](https://expo.io/@digvijaysrathore/powerlist)   
     - [**_github link_**](https://github.com/digvijaysrathore/powerlist) 
 
 - ### 6. News Telegraph    
@@ -100,13 +95,13 @@ It would be highly appreciated if I am provided with some help for learning to w
 	- [**_hosted link_**](https://imagenara.netlify.app)   
     - [**_github link_**](https://github.com/digvijaysrathore/imagenara-frontend) 
 
-### blogs
+### blogs ✍️
 
 - ####  What I learnt while working at an early age startup?
         
     I described my experience with my first professional project. I worked with a team and made something that was to be delivered to the actual users.
 
-     `June 16, 2020`
+    `June 16, 2020`
 
     Find the blog [here](https://medium.com/@digvijaysrathore/what-i-learnt-working-at-an-early-stage-startup-as-a-developer-fa6f01e2916f)
 
