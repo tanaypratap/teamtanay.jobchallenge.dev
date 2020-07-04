@@ -6,7 +6,8 @@ portfolio: "https://digvijay.netlify.app"
 github-link: "https://github.com/digvijaysrathore"
 linkedin-link: "https://www.linkedin.com/in/digvijay-singh-rathore-10b632190/"
 looking-for: "internship"
-description: "MERN Stack"
+image-link: "https://avatars3.githubusercontent.com/u/59700645?s=460&u=59aaf467f690a7216b807c927c9b4b399657d98a&v=4"
+description: "MERN Stack | IOT | React Native"
 ---
 
 Hi! I am Digvijay, MERN stack developer. 👋👨‍💻
@@ -15,18 +16,16 @@ Hi! I am Digvijay, MERN stack developer. 👋👨‍💻
 
 👋👨‍💻 Hi! I am Digvijay, a 15 y/o MERN developer from Jodhpur, Rajasthan. All I have learnt till now is self taught. I love building tech-based products, I have worked at a startup previously as an intern. I enjoy learning new technologies and startup.
 
-![image](https://avatars3.githubusercontent.com/u/59700645?s=460&u=59aaf467f690a7216b807c927c9b4b399657d98a&v=4)
-
 ## why are you taking this challenge? 🤷
 
-I need an internship/job to have some experience of writing code for a porduction level application that helps a large number of users, which will ultimately let me learn and explore more in my niche.
+I need an internship/job to have some experience of writing code for a porduction level application that helps a large number of users, which will ultimately let me learn and explore more.
 
 ## something interesting about you? 🤩
 
 As a 15 year old I always think my next project will be a billion dollar startup.
 
 ### how to contact me? 📮
-
+- [Portfolio](https://digvijay.netlify.app)
 - [Twitter](https://twitter.com/novadigvijay)
 - [LinkedIn](https://www.linkedin.com/in/digvijaysrathore)
 - [Email](dynamicdigvijay@gmail.com)
@@ -75,7 +74,7 @@ As a 15 year old I always think my next project will be a billion dollar startup
 
     **_Stacks_** `React Native`
 
-    - [**_hosted link_**](https://github.com/digvijaysrathore/powerlist)   
+    - [**_hosted link_**](https://expo.io/@digvijaysrathore/powerlist)   
     - [**_github link_**](https://github.com/digvijaysrathore/powerlist) 
 
 - ### 6. News Telegraph    
@@ -102,7 +101,7 @@ As a 15 year old I always think my next project will be a billion dollar startup
         
     I described my experience with my first professional project. I worked with a team and made something that was to be delivered to the actual users.
 
-     `June 16, 2020`
+    `June 16, 2020`
 
     Find the blog [here](https://medium.com/@digvijaysrathore/what-i-learnt-working-at-an-early-stage-startup-as-a-developer-fa6f01e2916f)
 
