@@ -6,6 +6,7 @@ portfolio: "https://meghnavarma.vercel.app/"
 github-link: "https://github.com/meghnavarma0"
 linkedin-link: "https://www.linkedin.com/in/meghna-varma-381282186/"
 looking-for: "job"
+image-link: "https://avatars0.githubusercontent.com/u/53870079?s=400&u=f3086ecd0409e79a3fbdeda4e19a02bcf4e1f3fe&v=4"
 description: "problem solving | HTML | CSS | Javascript | ReactJS | Bootstrap"
 ---
 
