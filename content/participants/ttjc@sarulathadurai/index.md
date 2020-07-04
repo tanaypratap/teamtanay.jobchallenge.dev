@@ -42,7 +42,10 @@ I would appreciate if I get someone to clear my doubts and explain me exact tech
 
 ### projects
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 5ebb55df908e380cde32abd346bc9c473c8bfe70
 #### Billing App: calculates bill amount
 
 _description_ Can be used in petty shops where there is a need to calculate amount
@@ -118,3 +121,7 @@ _hosted link_ https://dev.to/sarulathadurai/how-to-overcome-imposter-syndrome-2p
 
 
 
+<<<<<<< HEAD
+_hosted link_ https://dev.to/sarulathadurai/how-to-overcome-imposter-syndrome-2p77
+=======
+>>>>>>> 5ebb55df908e380cde32abd346bc9c473c8bfe70
