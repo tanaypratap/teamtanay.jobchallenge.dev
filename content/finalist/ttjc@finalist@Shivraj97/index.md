@@ -6,6 +6,7 @@ portfolio: "https://shivrajnag.netlify.app/"
 github-link: "https://github.com/Shivraj97"
 linkedin-link: "https://www.linkedin.com/in/shivraj-n-5150a1b2/"
 looking-for: "job"
+image-link: "https://avatars2.githubusercontent.com/u/43899907?s=400&u=d89e1ffed677c321278fbc7a2ab8017053583046&v=4"
 description: "Python | Javascript | C++ | Java | Dart | React | Node | Django | Flutter | Startup Enthusiast"
 ---
 
