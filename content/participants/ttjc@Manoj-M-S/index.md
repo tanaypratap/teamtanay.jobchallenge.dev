@@ -38,7 +38,7 @@ It would be good if someone can guide me in frontend, backend and database secti
    Technologies used:
    *Frontend : React JS
    *Backend : Node JS, Express
-   \*Database: Mongodb
+   *Database: Mongodb
 
 [Github](https://github.com/Manoj-M-S/Food-Recipe-Website-Frontend)
 [Github](https://github.com/Manoj-M-S/Food-Recipe-Website-BackEnd)
@@ -51,7 +51,7 @@ It would be good if someone can guide me in frontend, backend and database secti
    Technologies used:
    *Frontend : React JS
    *Backend : Node JS, Express
-   \*Database: Mongodb
+   *Database: Mongodb
 
 
 [Github](https://github.com/Manoj-M-S/Art-client)
@@ -64,7 +64,7 @@ It would be good if someone can guide me in frontend, backend and database secti
    Technologies used:
    *Frontend : React JS
    *Backend : Node JS, Express
-   \*Database: Mongodb
+   *Database: Mongodb
 
 [Github](https://github.com/Manoj-M-S/Clone-Client)
 [Github](https://github.com/Manoj-M-S/Clone-Server)
@@ -79,6 +79,19 @@ It would be good if someone can guide me in frontend, backend and database secti
 
 [Github](https://github.com/Manoj-M-S/Music-Player)
 [Netlify](https://manoj-musicplayer.netlify.app/)
+
+
+5. ChatBuddy:
+   A Real Time Chat web application, in which user can create/join rooms and message with other users in real time.
+   Technologies used :
+   *Reactjs
+   *Nodejs
+   *Express
+   *Socket.io
+
+[Github](https://github.com/Manoj-M-S/ChatBuddy-Client)
+[Github](https://github.com/Manoj-M-S/ChatBuddy-Server)
+[Netlify](https://manoj-chatbuddy.netlify.app/)
 
 
 ### blogs
