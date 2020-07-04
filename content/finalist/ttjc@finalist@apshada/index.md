@@ -2,11 +2,12 @@
 title: Aditya Pratap Singh Hada 
 type: "finalist"
 name: "Aditya Pratap Singh Hada"
-portfolio: "http://wistful-rose.surge.sh/"
+portfolio: "http://apshada.netlify.com"
 github-link: "https://github.com/apshada"
 linkedin-link: "https://in.linkedin.com/in/aditya-pratap-singh-hada-0a106b183"
 looking-for: "Internship"
-description: " REACT | NODE |EXPRESSJS | DJANGO "
+image-link: "https://avatars1.githubusercontent.com/u/49001649?s=400&u=c3d356f90f65176d0353f8ee91a5d1b6ea538e9f&v=4"
+description: " REACT | NODE |EXPRESSJS | IONIC "
 ---
 
 Hi! I am Aditya Pratap Singh Hada studying at shri vaishnav vidyapeeth vishwavidyalaya, Indore. Let me walk you through my journey so far.

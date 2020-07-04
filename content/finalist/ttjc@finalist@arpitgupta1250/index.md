@@ -6,7 +6,8 @@ portfolio: "https://arpitgupta.netlify.app"
 github-link: "https://github.com/arpitgupta1250"
 linkedin-link: "https://linkedin.com/in/arpitgupta1250"
 looking-for: "job"
-description: "C | Java | Python | Flutter | AWS | RedHat Linux | HTML | CSS | SQL"
+image-link: "https://avatars2.githubusercontent.com/u/55406857?s=400&u=5c972f71340cd47aed0df1f6028822c127bc867e&v=4"
+description: "C | Python | Java | Flutter | AWS | RedHat Linux | HTML | CSS | SQL"
 ---
 
 
@@ -17,10 +18,12 @@ Hi! I am Arpit Gupta, pursuing B.Tech. from Global Institute of Technology, Jaip
 
 I am an enthusiastic developer seeking to leverage exemplary opportunity in an organization which will help me deliver my best and upgrade my skills.
 
+
 ## why are you taking this challenge?
 
 I am looking for a job.
 I want to learn more stuff and grow my skills.
+
 
 ## something interesting about you?
 
@@ -33,6 +36,7 @@ I like to explore new things.
 - [Instagram](https://www.instagram.com/arpitgupta1250/)
 - [Portfolio](https://arpitgupta.netlify.app)
 - [Twitter](https://twitter.com/arpitgupta1250)
+
 
 ### projects
 
@@ -63,6 +67,7 @@ _Github link -_ https://github.com/arpitgupta1250/live_news
 
 _Hosted Link -_ https://play.google.com/store/apps/details?id=com.live_news.app
 
+
 - #### 3. Recipedia Mobile App
 
 _Description -_ App to get various recipies from main ingredients. It fetch recepies automatically from Edamam API.
@@ -75,6 +80,7 @@ _Github link -_ https://github.com/arpitgupta1250/recipedia
 
 _Hosted Link -_ https://play.google.com/store/apps/details?id=com.recipedia.app
 
+
 - #### 4. Wallpaper Garage Mobile App
 
 _Description -_ App to get all latest wallpapers. It fetch wallpapers automatically from pexels API.
@@ -86,6 +92,7 @@ _App Link -_ https://drive.google.com/file/d/1bJD-BURmFf7XDF3EEFMEbHAW9OZ2wbhk/v
 _Github link -_ https://github.com/arpitgupta1250/wallpaper_app
 
 _Hosted Link -_ https://play.google.com/store/apps/details?id=com.wallpaper_garage
+
 
 - #### 5. Lets Do Web App
 
@@ -105,6 +112,7 @@ _Hosted Link -_ https://lets-do.netlify.app/
 _Description -_ Detail explanation of difference between Stateless and Stateful Widget.
 
 _Link -_ https://medium.com/@arpitgupta1250/stateless-and-stateful-widget-in-flutter-f082092f4179
+
 
 - #### 2. Tips to write smart code
 
