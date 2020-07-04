@@ -2,6 +2,7 @@
 title: Sarulatha Annadurai
 type: "participant"
 name: "Sarulatha Annadurai"
+
 portfolio: "https://sarulathadurai.netlify.app/"
 github-link: "https://github.com/sarulathadurai"
 linkedin-link: "https://www.linkedin.com/in/sarulatha-annadurai-060226180/"
@@ -13,9 +14,13 @@ Hi! I am an aspiring web developer pursuing 3rd year of computer science enginee
 
 ### introduction
 
+
 I am a complete beginner who had always wanted to learn web and app development and the first step I took is to participate in
 job challenge.By participating in this challenge,I can definitely see difference in myself that I can host sites,write blogs and more.Below is the list
 of projects and blogs for this challenge
+
+I would like to enhance my knowledge in web development by learning MERN stack.I can learn things easily and carry out well.I am passionate and will work hard till I reach my destination.
+
 
 ## why are you taking this challenge?
 I would like to work in MERN stack.Though I am a beginner I believe that I could take part in this challenge and complete it successfully that will definitely boost my confidence level.And,I am willing to work as an intern to observe the work environment and learn how to work in a firm.
@@ -37,6 +42,10 @@ I would appreciate if I get someone to clear my doubts and explain me exact tech
 
 ### projects
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5ebb55df908e380cde32abd346bc9c473c8bfe70
 #### Billing App: calculates bill amount
 
 _description_ Can be used in petty shops where there is a need to calculate amount
@@ -104,6 +113,15 @@ _hosted link_ https://dev.to/sarulathadurai/how-to-use-map-reduce-and-filter-373
 
 ### How to overcome Imposter Syndrome?
 
-_description_ Here I shared my own experience of how I overcame Imposter Syndrome
+_description_ Here I shared my own experience on how I overcame Imposter Syndrome
 
 _hosted link_ https://dev.to/sarulathadurai/how-to-overcome-imposter-syndrome-2p77
+
+
+
+
+
+<<<<<<< HEAD
+_hosted link_ https://dev.to/sarulathadurai/how-to-overcome-imposter-syndrome-2p77
+=======
+>>>>>>> 5ebb55df908e380cde32abd346bc9c473c8bfe70
