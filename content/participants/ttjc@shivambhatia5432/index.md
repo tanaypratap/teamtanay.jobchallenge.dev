@@ -35,7 +35,7 @@ I am still learning to develop more and more skills. But sometimes some things a
 - [LinkedIn](https://www.linkedin.com/in/shivam-bhatia-a83ab4185/)
 
 ### projects
-Projects are contained in a repository:https://github.com/shivambhatia5432/basic-react-projects
+Projects are contained in a repository:https://github.com/shivambhatia5432/basic-react-projects<br />
 It is a simple Google Keep clone, I made this app using Reactjs- https://notes-keeper-app-shivam.netlify.app <br />
 It is a simple weather website that updates background with city images,I made this app using Reactjs and Unsplash API and Open weather API- https://weather-app-shivam.netlify.app <br />
 It is a simple recipe app I made this app using Reactjs and Edaman API- https://recipe-app-shivam.netlify.app <br />
