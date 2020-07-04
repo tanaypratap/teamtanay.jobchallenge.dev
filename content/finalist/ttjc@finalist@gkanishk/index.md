@@ -5,7 +5,7 @@ name: "Kanishk Gupta"
 portfolio: "https://gkanishk.github.io/"
 github-link: "https://github.com/gkanishk"
 linkedin-link: "https://linkedin.com/in/gkanishk"
-looking-for: "job"
+looking-for: "job/internship"
 image-link: "https://avatars2.githubusercontent.com/u/33570551?s=460&u=337e1bf4997c63e45f320ce7d8c1016459060c39&v=4"
 description: "Self-learner good at web development, mobile development and working on react "
 ---
@@ -35,11 +35,11 @@ Internship! that's major reason why I am taking up this challenge but apart from
 
 I am 6'4'' 🕺 tall and everyone calls me lumbo. Being tall is major problem I don't get clothes of right size though I have to struggle.  
 
-Apart from that I am found of music🎶 and I have more than 12 playlists based on by mood check my spotify playlists [here](https://open.spotify.com/user/31r5ytacdgyx7cx53upi52ef4bdu?si=ysUUataPRbeC8P6kBl_08Q)
+Apart from that I am fond of music🎶 and I have more than 12 playlists based on by mood check my spotify playlists [here](https://open.spotify.com/user/31r5ytacdgyx7cx53upi52ef4bdu?si=ysUUataPRbeC8P6kBl_08Q)
 
 ### help I need? ⛑
 
-Apart from building testing is important so I want help in optimizing and testing the applications, If I can get some tips how to cope with and optimize apps.
+Apart from building testing is important so I want help in optimizing and testing the applications. If I can get some tips how to cope with and optimize apps.
 
 ### how to contact me? 📞
 
