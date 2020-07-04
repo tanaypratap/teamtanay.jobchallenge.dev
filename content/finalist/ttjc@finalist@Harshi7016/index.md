@@ -112,7 +112,17 @@ Project was mainly focussed on exploring react and PWA, A simple weather app wit
 
 - [**_github link_**](https://github.com/Harshi7016/WeatherAppPWA)
 
-#### 6. KharchaPaani
+#### 6. Where In The Country
+
+Project was mainly focussed on exploring react and PWA, A Progressive Web App based on Country details and flag display with few added features. All the criteria has met for PWA and is mobile friendly.
+
+**_Stacks_** React
+
+- [**_hosted link_**](https://whereintheworldismycountry.netlify.app/)
+
+- [**_github link_**](https://github.com/Harshi7016/WhereInTheWorld)
+
+#### 7. ExpenseTracker
 
 An ExpenseTracker Application which provides the budget details.
 I have built using youtube tutorial and have converted the desktop app to responsive app.
@@ -123,7 +133,7 @@ I have built using youtube tutorial and have converted the desktop app to respon
 
 - [**_github link_**](https://github.com/Harshi7016/ExpenseTracker)
 
-#### 7. Analog Clock
+#### 8. Analog Clock
 
 Simple Analog Clock design with focus to learn basics after going through Tanay Pratap's course on Vanilla JS. It has dark and light mode which can be toggled.
 
