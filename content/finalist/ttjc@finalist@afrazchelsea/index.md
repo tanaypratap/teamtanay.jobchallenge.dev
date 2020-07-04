@@ -6,10 +6,11 @@ portfolio: "http://afrazmomin.netlify.com"
 github-link: "https://github.com/afrazchelsea"
 linkedin-link: "https://linkedin.com/in/afrazm7"
 looking-for: "learning"
-description: "Expert at CSS/HTML. Good at JavaScript. Learning React"
+image-link: "https://avatars2.githubusercontent.com/u/41325430?s=460&u=ac6b113e1f76eced62577cc70bec80301d4fdf13&v=4"
+description: "JavaScript | React | NodeJS"
 ---
 
-Hi! I am Afraz Momin. Let me walk you through my intro, projects and blogs.
+Hey, I'm Afraz. Let me walk you through my intro, projects and blogs.
 
 ### introduction
 
