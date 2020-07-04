@@ -161,7 +161,7 @@ _stack_: `Gatsby` | `Netlify` | `version-control` | `Git` | `React` | `MarkDown`
 
 #### 9. **Note Keep** : Google Keep Cloning
 
-_description_: Blog site to keep my latest and archived Tech Blogs and the blogs are open sourced any one can raise Pull Request and can have there blogs and Recommendations.
+_description_: Keeps your notes for the day. Made with reactjs and Material UI.
 
 _stack_: `Netlify` | `React` | `Css` | `Git` | `Material-UI` | `HTML` | `Express`
 
@@ -191,7 +191,7 @@ I have tried showing the perfect use of UseState Hooks in here.
 
 **Visit**--[Random Color generator App](https://dev.to/uyadav207/random-color-generator-expo-app-5g4b)
 
-![app](https://res.cloudinary.com/practicaldev/image/fetch/s--DD2ZkY_9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--7euItZoD--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/x9gdn55gz5x0sdiagteo.png)
+ ![app](https://res.cloudinary.com/practicaldev/image/fetch/s--DD2ZkY_9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--7euItZoD--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/x9gdn55gz5x0sdiagteo.png)
 
 #### **Git | GitHub and Version Control 🐱‍👓**
 
