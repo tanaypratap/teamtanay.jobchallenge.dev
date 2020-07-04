@@ -42,7 +42,7 @@ class Index extends React.Component {
                 </p>
                 <br/>
                 <p align="center">
-                  All the best to the <a href="/participants/">participants!</a>
+                  All the best to the <a href="/participants/">participants!</a> and the <a href="/finalist/">finalists!</a>
                 </p> 
               </p>
           }
