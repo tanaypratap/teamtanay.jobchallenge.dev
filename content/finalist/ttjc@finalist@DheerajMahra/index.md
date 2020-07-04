@@ -6,14 +6,15 @@ portfolio: "https://dheerajmahra.now.sh"
 github-link: "https://github.com/dheerajmahra"
 linkedin-link: "https://linkedin.com/in/dheerajmahra"
 looking-for: "job"
+image-link: "https://avatars1.githubusercontent.com/u/39774163?s=460&u=470ccfbf2a9541ed3ee5bcfd9f105b00f35b4961&v=4"
 description: "I play with React, Javascript and Frontend everyday. Diving in the Nodejs world as well."
 ---
 
-Hey there! I am Dheeraj Mahra, a 22 years old young lad. Below, you will find more about me and details of my submissions to this #TTJC.
+Hey there! I am Dheeraj Mahra, a 22 years old frontend developer from New Delhi. Let me show you my entries for the challenge.
 
 ### introduction
 
-I have a strong inclination towards Web Programming. My tech stack includes React, Redux, Javascript, Sass, PHP, MySQL. Currently, I'm working on React-Redux projects and learning NodeJS to kick PHP out of my sight.
+I have a strong inclination towards Web Programming. My tech stack includes React, Redux, Javascript, Sass, Firebase, PHP, MySQL. Currently, I'm working on React-Redux projects and learning NodeJS to kick PHP out of my sight.
 
 ## why are you taking this challenge?
 
@@ -46,6 +47,8 @@ Just browse some palettes and make your project colorful.
 - Live Demo: [Colorful](https://colorful.now.sh)
 - Source Code: [Github](https://github.com/DheerajMahra/colorful)
 
+![Preview](https://github.com/DheerajMahra/portfolio/blob/master/src/assets/colorful.png?raw=true)
+
 #### 2. Goalpost | Create your daily tech goals
 
 Goalpost tracks your goal for the day so that people can see what you are working on and get motivation from you. Become more productive and have a clear vision of what you want to achieve today.
@@ -54,6 +57,8 @@ Goalpost tracks your goal for the day so that people can see what you are workin
 
 - Live Demo: [Goalpost](https://goalpost.now.sh)
 - Source Code: [Github](https://github.com/DheerajMahra/goalpost)
+
+![Preview](https://github.com/DheerajMahra/portfolio/blob/master/src/assets/goalpost.png?raw=true)
 
 #### 3. Riocart | E-commerce mobile store
 
@@ -64,6 +69,9 @@ Riocart is an e-commerce mobile store that mocks the functionality of a real-wor
 - Live Demo: [Riocart](https://riocart.now.sh)
 - Source Code: [Github](https://github.com/DheerajMahra/riocart-redux)
 
+![Preview](https://github.com/DheerajMahra/portfolio/blob/master/src/assets/riocart.png?raw=true)
+
+
 #### 4. Imagify | Search and download stock images in a click
 
 Imagify is an app that helps you to download free high quality images in a single click. With over millions of free images of all kinds, it's the best app to download images without any hidden clickbait.
@@ -73,6 +81,8 @@ Imagify is an app that helps you to download free high quality images in a singl
 - Live Demo: [Imagify](https://imagify.vercel.app)
 - Source Code: [Github](https://github.com/DheerajMahra/Imagify)
 
+![Preview](https://github.com/DheerajMahra/portfolio/blob/master/src/assets/imagify.png?raw=true)
+
 #### 5. Gifractor | Create and download custom meme gifs
 
 Record yourself and create custom meme gifs. This app lets you to create two second gifs using your front camera. Download, share the gif and let the meme gif war begin!
@@ -81,6 +91,8 @@ Record yourself and create custom meme gifs. This app lets you to create two sec
 
 - Live Demo: [Gifractor](https://gifractor.now.sh)
 - Source Code: [Github](https://github.com/DheerajMahra/gifractor)
+
+![Preview](https://github.com/DheerajMahra/portfolio/blob/master/src/assets/gifractor.png?raw=true)
 
 
 ### blogs
