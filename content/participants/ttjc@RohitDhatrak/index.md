@@ -35,8 +35,28 @@ I'm here to learn so any guidance, tips, suggestions would be much appreciated.
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+My projects:
+
+### A standard calculator
+
+_description_ This is my first project in web development. I have designed and coded this calculator from scrtach.
+
+_stack_ This project is written in HTML, CSS and Vanilla JavaScript.
+
+_hosted link_ https://rohits-calculator.netlify.app/
+
+_github link_ https://github.com/RohitDhatrak/calculator
+
+### A portal for my classmates
+
+_description_ I have made this wesite for my classmates to keep track of all the notes, important dates, exam syllabus, etc.
+
+_stack_ This project is written in HTML, CSS and Vanilla JavaScript.
+
+_hosted link_ https://btechextc.netlify.app/
+
+_github link_ https://github.com/RohitDhatrak/collegewebsite
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+I will keep updating my blogs as and when done.

@@ -38,22 +38,36 @@ Can't Wait to fill this area!!! Stay tuned
 
 My projects:
 
-<!--
-#### binder: tinder for books
+#### Moviesss
 
-_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.
+_description_ : It is a kind of netflix clone,where user can search for movies ,get list of trending-movies and also add movies as there favorities.
 
-_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
+_stack_ : It is made with React with materializeCSS .It uses TMDB API for movies data.
 
-_hosted link_ https://binder.netlify.com
+_hosted link_ : https://moviesss.netlify.app/
 
-_github link_ https://github.com/tanaypratap/binder
+_github link_ : https://github.com/adithyakam/moviessss
 
-#### another project
+#### Chatzz
 
-_description_
+_description_ : Do you want to have a simple conversation.This app is used to chat with users,to start chatting please login by using an display name and chat room you want to enter.
 
-_stack_ -->
+_stack_ : It is made with React with materializeCSS .It uses Socket.IO for socket connection and express as backend.
+
+_hosted link_ : https://chatzz.netlify.app/
+
+_github link_ : https://github.com/adithyakam/chat-app
+
+#### Expense Traccker
+
+_description_ : This app is used to manage personal finance .App gives way of spending in chart for montly, category-wise.
+additionalNote: you can use a@gmail.com and 1234 for login
+
+_stack_ : It is made with React with React-Router.It uses Express as backend with Rest API,and Postgress as database.
+
+_hosted link_ : https://expense-traccker.netlify.app/
+
+_github link_ : https://github.com/adithyakam/expenseTracker
 
 ### blogs
 

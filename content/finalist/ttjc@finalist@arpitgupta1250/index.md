@@ -10,6 +10,7 @@ image-link: "https://avatars2.githubusercontent.com/u/55406857?s=400&u=5c972f713
 description: "C | Python | Java | Flutter | AWS | RedHat Linux | HTML | CSS | SQL"
 ---
 
+
 Hi! I am Arpit Gupta, pursuing B.Tech. from Global Institute of Technology, Jaipur in Computer Science Engineering.
 
 
@@ -41,6 +42,7 @@ I like to explore new things.
 
 - #### 1. BMI Calculator Mobile App
 
+
 _Description -_ App to calculate BMI.
 
 _Stack -_ Dart, Flutter.
@@ -53,6 +55,7 @@ _Hosted Link -_ https://play.google.com/store/apps/details?id=com.bmi_calc
 
 
 - #### 2. Live News Mobile App
+
 
 _Description -_ App to get all latest news. It fetch news automatically from newsapi.org API.
 
