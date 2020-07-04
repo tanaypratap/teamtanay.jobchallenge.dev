@@ -125,7 +125,7 @@ _hosted link_https://dev.to/sarthakux/javascript-vs-python-3d4l
 
 ### ReactJS Pros n Cons
 
-_description_ A precise and to the point blog on the advantages and disadvantages of ReactJs in today's era.
+_description_ A precise and to the point blog on the pros n cons  of ReactJs in today's era.
 
 
 _hosted link_https://dev.to/sarthakux/reactjs-pros-n-cons-ji0
