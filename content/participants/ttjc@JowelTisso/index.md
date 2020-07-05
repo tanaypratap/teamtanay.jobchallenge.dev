@@ -2,11 +2,11 @@
 title: Jowel Tisso
 type: "participant"
 name: "Jowel Tisso"
-portfolio: "https://joweltisso.netlify.com/"
+portfolio: "joweltissoportfolio.netlify.app"
 github-link: "https://github.com/JowelTisso"
 linkedin-link: "https://www.linkedin.com/in/joweltisso/"
 looking-for: "job"
-description: "Android Studio | Java | learning ReactNative | learning JavaScript"
+description: "Android Studio | Java | learning Kotlin | learning React | learning JavaScript"
 ---
 
 Hi! I am Jowel Tisso, Android App Developer. Progressing to pursue Career in Mobile Development.
@@ -33,7 +33,7 @@ It would be helpful if someone can help me in android Studio and ReactNative.
 - [Twitter](https://twitter.com/joweltisso)
 - [LinkedIn](https://www.linkedin.com/in/joweltisso)
 
-### projects
+### Projects
 
 Projects that i have completed during the job challenge :
 
@@ -58,6 +58,54 @@ _github link_: https://github.com/JowelTisso/InstaScrape
 
 _playstore link_: https://play.google.com/store/apps/details?id=com.joweltisso.android.instascrape
 
-### blogs
+### Teestore: A mern ecommerce app
 
-same as projects, I will keep updating my blogs as and when done.
+_description_: A mern ecommerce tshirt store app with card and paypal payment gateway.
+
+_stack_: MERN
+
+_github link_: https://github.com/JowelTisso/mern-tshirt-store-frontend
+
+_github link_: https://github.com/JowelTisso/mern-tshirt-store-backend
+
+_hosted link_: https://teestore.netlify.app/
+
+### Simple Weather App: A weather checker app
+
+_description_: A weather checker app which displays the temperature and the weather of the prefered location using openweathermap api.
+
+_stack_: React
+
+_github link_: https://github.com/JowelTisso/weather-app
+
+_hosted link_: https://mosumreport.netlify.app/
+
+### Delicious Recipe Finder: a simple recipe finder
+
+_description_: A recipe searching app made with edamam api which gives list of recipes of a searched term.
+
+_stack_: React
+
+_github link_: https://github.com/JowelTisso/recipe-app
+
+_hosted link_: https://recipeseeker.netlify.app/
+
+### Blogs
+
+### My first dive into programming with a game
+
+_description_: It is about the starting phase of my programming journey of as how i connected with it and about the experiences.
+
+_hosted link_: https://dev.to/joweltisso/my-first-dive-into-programming-with-a-game-hl9
+
+### Importance of fitness for a busy person
+
+_description_: I write a blog about how fitness is ignored and why it is an important part of our life specifically for a busy person
+
+_hosted link_: https://dev.to/joweltisso/importance-of-fitness-for-a-busy-person-2hml
+
+### Few of the useful resources that i use as a programmer
+
+_description_: Here i have listed few things which i use normally and made my work a little easier.
+
+_hosted link_: https://dev.to/joweltisso/few-of-the-usefull-resources-that-i-use-as-programmer-36dc
