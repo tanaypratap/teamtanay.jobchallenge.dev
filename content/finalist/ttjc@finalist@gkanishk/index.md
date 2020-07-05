@@ -3,10 +3,10 @@ title: Kanishk Gupta
 type: "finalist"
 name: "Kanishk Gupta"
 portfolio: "https://gkanishk.github.io/"
-github-link: "https://github.com/gkanishk"
-linkedin-link: "https://linkedin.com/in/gkanishk"
-looking-for: "job/internship"
-image-link: "https://avatars2.githubusercontent.com/u/33570551?s=460&u=337e1bf4997c63e45f320ce7d8c1016459060c39&v=4"
+github_link: "https://github.com/gkanishk"
+linkedin_link: "https://linkedin.com/in/gkanishk"
+looking_for: "job/internship"
+image_link: "https://avatars2.githubusercontent.com/u/33570551?s=460&u=337e1bf4997c63e45f320ce7d8c1016459060c39&v=4"
 description: "Self-learner good at web development, mobile development and working on react "
 ---
 

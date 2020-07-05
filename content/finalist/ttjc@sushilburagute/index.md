@@ -3,9 +3,9 @@ title: Sushil Buragute
 type: "finalist"
 name: "Sushil Buragute"
 portfolio: "https://sushilburagute.github.io"
-github-link: "https://github.com/sushilburagute"
-linkedin-link: "https://in.linkedin.com/in/sushil-buragute"
-looking-for: "Job/Internship"
+github_link: "https://github.com/sushilburagute"
+linkedin_link: "https://in.linkedin.com/in/sushil-buragute"
+looking_for: "Job/Internship"
 description: "// MERN // UI/UX // Product //"
 ---
 

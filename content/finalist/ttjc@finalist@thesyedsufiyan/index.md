@@ -3,9 +3,10 @@ title: Syed sufiyan
 type: "finalist"
 name: "syed sufiyan"
 portfolio: "https://syed-portfolio.netlify.app/"
-github-link: "https://github.com/theSyedsufiyan"
-linkedin-link: "https://www.linkedin.com/in/syed-sufiyans/"
-looking-for: "job"
+github_link: "https://github.com/theSyedsufiyan"
+linkedin_link: "https://www.linkedin.com/in/syed-sufiyans/"
+looking_for: "job/internship"
+image_link: "https://avatars0.githubusercontent.com/u/36100349?s=460&u=522f57940e95f59417f7ac6c6d27c9a84a7ae6ae&v=4"
 description: "Javascript | React | node.js | Html | Css"
 ---
 
@@ -31,6 +32,7 @@ learn new technologies.
 
 - [twitter](https://twitter.com/thesyedsufiyan)
 - [instagram](https://www.instagram.com/thesyedsufiyan/)
+- [portfolio](https://syed-portfolio.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/syed-sufiyans/)
 
 ### projects
@@ -95,10 +97,9 @@ _description_ In this blog we'll run through a number of important concepts rela
 
 [Destructuring in javascript](https://medium.com/@syedsufi1066/destructuring-in-javascript-8481c3b56ddc)
 
-_description_ Blog about how destructuring work in javascript
+_description_ Blog about how destructuring work in javascript.
 
 [JavaScript Array Methods (forEach, map, some, find, filter & more)](https://medium.com/@syedsufi1066/javascript-array-methods-foreach-map-some-find-filter-more-ff1e50ec3c50)
 
 _description_ understanding JavaScript array methods and its types.
-
 
