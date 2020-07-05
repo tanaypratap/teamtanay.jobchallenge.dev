@@ -10,11 +10,11 @@ image_link: "https://avatars0.githubusercontent.com/u/29561914?s=400&u=ce4e9dab3
 description: "javascript | typescript | Angular | c++ | HTML | CSS | jquery | Git"
 ---
 
-we can make awesome web apps together.
+Hi! Welcome to my profile.
 
 ### introduction
 
-I am working as a front end developer for past 1 year as an intern, I am part of mechatron robotics ui team.
+I am a web developer who converts ideas and designs into reality. I have worked in multiple teams in my internship and have collaborated to deliver customer centric products. We can build awesome web apps together.
 
 ## why are you taking this challenge?
 
