@@ -69,7 +69,7 @@ class PostsIndex extends React.Component {
                 style={{
                   marginBottom: rhythm(1 / 8),
                   textAlign:'center',
-                  fontWeight:'800'
+                  fontWeight:'700'
                 }}
               >
                 <Link to={node.fields.slug}>{title}</Link>
