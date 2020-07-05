@@ -103,6 +103,13 @@ Some of the blogs which i have written are listed below:-
 
 #### Some not-so-known features in HTML
 
-_description_ In this blog i have written some features which i have found while building projects 
+_description_ In this blog i have written some features which i have found while building projects. 
 
 _link_ https://dev.to/adityasharan01/some-not-so-known-features-in-html-3f66
+
+#### React JS in simple terms
+
+_description_ In this blog i have written about react js what i have learned while watching tutorials.
+
+_link_ https://dev.to/adityasharan01/react-js-in-simple-terms-il8
+
