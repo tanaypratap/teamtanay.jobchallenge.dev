@@ -2,11 +2,11 @@
 title: Lakshay Yadav
 type: "participant"
 name: "Lakshay Yadav"
-portfolio: "https://lakshayyadav.netlify.app/"
+portfolio: "https://lakshayyadav.me/"
 github-link: "https://github.com/Lucky0108"
 linkedin-link: "https://www.linkedin.com/in/lakshay-yadav/"
 looking-for: "internship"
-description: "HTML | CSS | JS"
+description: "HTML | CSS | JS | React"
 ---
 
 Hi! I am Lakshay Yadav, Doing My B.Tech From Anand International College Of Engineering,Jaipur
@@ -48,7 +48,7 @@ My projects:
 _description_ Do You Want To Know The Current Active Cases OR Recovered Cases Of Covid-19 All Over India State Wise? Visit Here..
                This is Just a replica of what i learned from youtube. 
 
-_stack_ Made with HTML, CSS AND JS using Api.
+_stack_ Made with HTML, CSS AND JS using Covid Api.
 
 _hosted link_ https://covid-19counter.herokuapp.com/
 
@@ -60,7 +60,7 @@ _description_ Do You Want To Check The Lyrics of your favourite song for so long
                 Visit Here...
 
 
-_stack_ Made with HTML, CSS AND JS Api.
+_stack_ Made with HTML, CSS AND JS using Api.
 
 _hosted link_ https://getlyrical.netlify.app/
 
@@ -79,12 +79,48 @@ _hosted link_ https://xpenser.netlify.app/
 
 _github link_ https://github.com/Lucky0108/Expense-Calculator
 
+#### Quote Maker : Calculate Your Daily Expenses In One Place
+
+_description_ Active User On Twitter Or Instagram? Programming Lover? If Yes, Visit here and get some Programming related quotes to post. 
+
+
+_stack_ Made with React And Using An Api.
+
+_hosted link_ https://quotemaker.netlify.app/
+
+_github link_ https://github.com/Lucky0108/Programming-Quotes
+
+#### Have Jokes : Get Some Jokes And Lighten Up Your Mood
+
+_description_ Feeling Stressed? Want To Relax For A Moment? Just Sit And See Some Good Jokes To Lighten Up Your Mood.
+                Visit Here...
+
+
+_stack_ Made with HTML, CSS AND JS using Api.
+
+_hosted link_ https://havejokes.netlify.app/
+
+_github link_ https://github.com/Lucky0108/All-Time-Jokes
+
+
 ### blogs
 
-I will keep updating my blogs as and when done.
+Here are few blog posts i wrote recently
 
-<!-- #### why I liked GraphQL over REST?
+#### WHERE TO START YOUR JOURNEY AS WEB DEVELOPER???
 
-_description_ I will write something really nice here so that you feel like reading my blog.
+_description_ Everyone Struggles to get a start in their journey as a web development. So It Is a blog post to help everyone get a start acoording to my experience.
 
-_link_ https://dev.to/some-imaginary-link -->
+_link_ https://weprecursor.wordpress.com/2020/06/27/example-post/
+
+#### Tips To Become Better At Web-Development
+
+_description_ Once We have started our journey as a Web Developer we face some self-doubt. This blog post is to clear all those doubt and provide some usefull tips.
+
+_link_ https://weprecursor.wordpress.com/2020/07/05/tips-to-become-better-at-web-development/
+
+#### Vanilla JS And React JS – What, When And Why?
+
+_description_ This Blog post clears the doubt that many student have as what is the difference between Vanilla and React JS? 
+
+_link_ https://weprecursor.wordpress.com/2020/07/05/vanilla-js-and-react-js-what-when-and-why/
