@@ -2,11 +2,11 @@
 title: Prateek Saini
 type: "participant"
 name: "prateek saini"
-portfolio: "https://prateek1998.github.io/web/"
+portfolio: "https://prateeksaini.me"
 github-link: "https://github.com/prateek1998"
 linkedin-link: "https://www.linkedin.com/in/prateek-saini-ab1797183/"
 looking-for: "job"
-description: "expert at Python Programming and learning MERN Stack"
+description: "Actually I am new in this technology thats why I am not able to showcase my 100%, but know give me chance I fulfill your expectation and commitment. I love MERN Stack specially JavaScript."
 ---
 
 Hi! I am Prateek Saini let me walk you through my intro, projects and blogs.
@@ -47,9 +47,39 @@ _hosted link_ https://learnarray.netlify.app/
 
 _github link_ https://github.com/prateek1998/funWithArray
 
-<!-- #### another project
+#### Currency Converter
 
-_description_
+_description_ In this web app ,users is available to convert currencies like USD to INR or something else .Best part of this app is that it always show the real time currency rate using some fetch Api .it also supports swapping like to swap INR to USD or USD to INR.
+
+_stack_ Made in React and CSS,fetching data using https://api.exchangerates.io
+
+_hosted link_ https://currencychanger.netlify.app
+
+_github link_ https://github.com/prateek1998/currency_converter.git
+
+#### Portfolio Website
+
+_description_ It is the portfilio website in which I show case my all the project which i have made in this challenge or in the past.Best part of this website is that it is totally made using Gastby,React and little bit of Css.
+
+_stack_ Gastby and React
+
+_hosted link_ https://prateeksaini.me
+
+_github link_ https://github.com/codetech98/simplefolio.git
+
+
+### blogs
+
+same as projects,I will keep updating my blogs as and when done.
+
+#### Best Way to Learn something New
+
+_description_ In this blog I explain the golden circle rule which is very important is our career as well as in our life. We have to always ask three question with ourself when you are trying or learning something new eg. WHAT ,WHY and HOW 
+
+_link_ https://medium.com/@pratiiksaini/best-way-to-learn-something-new-340d11c12813
+
+<!-- #### another project
+escription_
 
 _stack_
 
