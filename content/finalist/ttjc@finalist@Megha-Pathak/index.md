@@ -65,7 +65,7 @@ Dodo is a chrome extension to overlay a tiny duck, as a digital companion during
 
 - [**github link**](https://github.com/Megha-Pathak/Dodo) 
 
-![DEMO](https://git.io/JJkXp)
+![DEMO](https://git.io/JJkhE)
 
 ### Hacket - Privacy card game
 
@@ -90,7 +90,7 @@ Tracc is an expense tracker build with React. The app keeps the track of your ex
 
 - [**github link**](https://github.com/Megha-Pathak/Tracc) 
 
-![DEMO](https://git.io/JJk1k)
+![DEMO](https://git.io/JJkhr)
 
 
 ### Reallo - Trello Clone made with React 
@@ -103,7 +103,7 @@ In Reallo, I implemented most of the features of Trello such as- Creating Kanban
 
 - [**github link**](https://github.com/Megha-Pathak/Reallo) 
 
-![DEMO](https://git.io/JJk1m)
+![DEMO](https://git.io/JJkhS)
 
 
 
