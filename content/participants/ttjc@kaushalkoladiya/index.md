@@ -94,6 +94,26 @@ _hosted link_ https://movies4u.netlify.app/
 
 _github link_ https://github.com/kaushalkoladiya/movie-app
 
+#### Instascraping with React
+
+_description_ Show specific instagram handle's information.
+
+_stack_ React
+
+_hosted link_ https://insta-scraping.netlify.app/
+
+_github link_ https://github.com/kaushalkoladiya/insta-scraping
+
+#### Burger Builder
+
+_description_ Make burger with different ingredients.
+
+_stack_ React
+
+_hosted link_ https://burger-builder1.netlify.app/
+
+_github link_ https://github.com/kaushalkoladiya/burger-builder
+
 ### blogs
 
 JavaScript Arrow function
