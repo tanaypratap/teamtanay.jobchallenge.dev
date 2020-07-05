@@ -6,7 +6,7 @@ portfolio: "https://mandeep.netlify.com/"
 github-link: "https://github.com/mannypanwar"
 linkedin-link: "https://linkedin.com/in/mannypanwar"
 looking-for: "internship"
-description: "Html/Css | Boostrap | Javascript | learning React"
+description: "React | Javascript | MERN"
 ---
 
 Hi! I am **Mandeep** let me walk you through my intro, projects and blogs.
@@ -36,10 +36,64 @@ Since I learnt everything online, I would love to know systematic approach to do
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
-
 My projects:
+
+## 1. Pokedex | React
+
+Pokedex app built on React for searching data of a Pokemon from their name
+
+- [Hosted 🌐](https://m-pokedex.netlify.app/)
+
+- [Github 👨‍💻](https://github.com/mannypanwar/pokedex)
+
+## 2. Keeper | React
+
+Keeper is React app for keeping all ur notes at one place.
+
+- [Hosted 🌐](https://m-keeper.netlify.app/)
+
+- [Github 👨‍💻](https://github.com/mannypanwar/keeper)
+
+## 3. Weather App | React
+
+Weather app is for searching current weather, It provides current temp with max and min temperature.
+
+- [Hosted 🌐](https://m-weather.netlify.app/)
+
+- [Github 👨‍💻](https://github.com/mannypanwar/weather-app)
+
+## 4. Lyrics Finder | React
+
+Lyrics Finder is to search lyrics of the song u search.
+
+- [Hosted 🌐](https://m-lyricsfinder.netlify.app/)
+
+- [Github 👨‍💻](https://github.com/mannypanwar/lyricsFinder)
+
+## 5. Expense Tracker | MERN
+
+Expense tracker is to keep track of ur daily Expenses
+
+- [Hosted 🌐](https://shielded-garden-00673.herokuapp.com/)
+
+- [Github 👨‍💻](https://github.com/mannypanwar/expense)
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+## 1. Dark art of centering elements in CSS
+
+This guide is about how to center elements with `flexbox`
+
+- [Hosted 🌐](https://dev.to/mannypanwar/dark-art-of-centering-elements-in-css-5dnp)
+
+## 2. Difference in Asynchronous & Synchronous JavaScript Code
+
+This blog talks about difference in Asynchronous & Synchronous code
+
+- [Hosted 🌐](https://dev.to/mannypanwar/difference-in-asynchronous-synchronous-javascript-code-4gcb)
+
+## 3. 6 VScode Extensions to boost your Code
+
+This blog talks about 6 VScode extension to boost your code.
+
+- [Hosted 🌐](https://dev.to/mannypanwar/6-vscode-extensions-to-boost-your-code-349k)

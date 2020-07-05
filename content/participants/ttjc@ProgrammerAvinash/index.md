@@ -22,7 +22,7 @@ I want to learn MERN Stack.
 
 ## something interesting about you?
 
-I Play Cricket But Don't Like to Watch On TV .
+I Play FootBall But Don't Like to Watch On TV .
 
 ### help I need?
 
@@ -35,30 +35,80 @@ It would be good if someone tells me about Node JS , as i want to learn Node
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
-
 My projects:
 
-#### Coming Soon
+#### Tetris Game
 
-_description_ 
-_stack_ Made 
-_hosted link_ 
+_description_ the fun little game made with love 
 
-_github link_ 
+_stack_ Made this game in JavaScript
 
-#### another project
+_hosted link_ https://programmeravinash.github.io/TetrisGame/index.html
 
-_description_
+_github link_ https://github.com/ProgrammerAvinash/TetrisGame
 
-_stack_
+#### Real Time Chat App
+
+_description_ This is Real time Chat app , in which You can Send and Recieve Messages in Real Time using a Room Name
+
+_stack_ Made this App in React Js , express Js and Node Js
+
+_hosted link_ https://chatapprealtimee.netlify.app/
+
+_github link_ https://github.com/ProgrammerAvinash/RealTimeChatApp
+
+#### Food Recipe App
+
+_description_ In this App You can Find You favourite Recipes 
+
+_stack_  Made this Food Recipe in React JS
+
+_hosted link_ https://foodsrecipeapp.netlify.app
+
+_github link_ https://github.com/ProgrammerAvinash/foodRecipeApp
+
+#### TicTacToe Game
+
+_description_ This is Fun Little TicTacToe Game Which You can Play on you free Time
+
+_stack_  Made this game in React JS 
+
+_hosted link_ https://tictactoefun.netlify.app
+
+_github link_ https://github.com/ProgrammerAvinash/TicTacToe
+
+#### TileBreakGame
+
+_description_ This is Fun Little Game Which You can Play by Breaking The Tiles with the Ball
+
+_stack_  Made this game in JavaScript 
+
+_hosted link_ https://tilebreakgame.netlify.app/
+
+_github link_ https://github.com/ProgrammerAvinash/TileBreak
+
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
 
-#### why I liked GraphQL over REST?
+#### How V8 Engine Came into existence ? & Exploring V8 Engine.
 
-_description_ I will write something really nice here so that you feel like reading my blog.
+_description_ I have written really nice blog on how V8 Engine Came into Existence you can check it out from below given Link.
 
-_link_ https://dev.to/some-imaginary-link
+_link_ https://medium.com/@avinash.yadav3043/javascript-engine-v8-engine-fe48bdfa8445
+
+
+#### Inside JavaScript Engine
+
+
+_description_ I have written really nice blog on JavaScript Engine you can check it out from below given Link.
+
+_link_ https://medium.com/@avinash.yadav3043/inside-javascript-engine-30cf89dff0e0
+
+#### How To Make REST API`s .
+
+_description_ I have written really nice blog on Making REST api you can check it out from below given Link.
+
+_link_ https://medium.com/@avinash.yadav3043/how-to-make-rest-api-s-ec1a10fdba39
+
+

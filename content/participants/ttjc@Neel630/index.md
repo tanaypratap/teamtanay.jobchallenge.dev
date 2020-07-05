@@ -36,8 +36,38 @@ I need someone to guide for NodeJs.
 
 ### projects
 
-Not a lot of projects are done. I will keep updating it with real links when done.
+#### Project 1: Next Dev
+
+_description_
+
+- Developer's social media where developers can sign-up or login,
+  and can post anything, also they can like or unlike and comment
+  posts from other developers.
+
+- User can also build his/her profile including education, experience
+
+_stack_ MERN stack
+
+_github link_ (https://github.com/Neel630/Next-Dev)
+
+_hosted link_ (https://nextdev9.herokuapp.com)
+
+#### Project 2: Rick And Morty
+
+_description_
+
+- Used Rick and Morty API for fetching episode details of the series like
+  date, episode number, name, id. Implemented pagination based on page count
+  received, and it will call API when user clicks on page number.
+
+- User can search episode by name
+
+_stack_ React and React Hooks, Bootstramp
+
+_github link_ (https://github.com/Neel630/React-Rick-And-Morty)
+
+_hosted link_ (https://rickandmorty9.netlify.app)
 
 ### blogs
 
-Same as projects, I will keep updating my blogs as and when done.
+I will keep updating my blogs as and when done.
