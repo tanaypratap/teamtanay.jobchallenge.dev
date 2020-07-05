@@ -42,7 +42,7 @@ _description_ It is a normal news app by using API.
 
 _stack_ React
 
-_hosted link_ https://newsglobe.netlify.app
+_hosted link_ https://lucid-yonath-6f3b3a.netlify.app/
 
 _github link_ https://github.com/kaushalkoladiya/newsglobe
 
@@ -50,7 +50,7 @@ _github link_ https://github.com/kaushalkoladiya/newsglobe
 
 _description_ Social media app.
 
-_stack_ React/Firebase
+_stack_ React, Firebase, Redux
 
 _hosted link_ https://chevronapp.netlify.app/
 
