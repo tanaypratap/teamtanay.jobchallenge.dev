@@ -57,6 +57,27 @@ _hosted link_ https://currencychanger.netlify.app
 
 _github link_ https://github.com/prateek1998/currency_converter.git
 
+#### Corona Earth -3d live
+_description_ In this web site,you will get live status of the corona virus which is spreading in different countries. When you open this website  there is a earth which is to our globe and you can easily data update using your swipe. I am using fetch Api which helps me to get live data. 
+
+_stack_ Made in React and CSS,globe.js
+
+_hosted link_ https://coronaearth.netlify.app
+
+_github link_ https://github.com/prateek1998/coronaearth.git
+
+#### Color Picker App
+_description_ In this web site,you will get more attractive color which is easily available in this website. Best part of this website, is that you can direct copied any color in the form of hex and rub code which is easily acceptable by browser or anything. 
+
+_stack_ Made in React and CSS,Js
+
+_hosted link_ https://uipicker.netlify.app/
+
+_github link_ https://github.com/prateek1998/color-picker.git
+
+
+
+
 #### Portfolio Website
 
 _description_ It is the portfilio website in which I show case my all the project which i have made in this challenge or in the past.Best part of this website is that it is totally made using Gastby,React and little bit of Css.
@@ -77,6 +98,17 @@ same as projects,I will keep updating my blogs as and when done.
 _description_ In this blog I explain the golden circle rule which is very important is our career as well as in our life. We have to always ask three question with ourself when you are trying or learning something new eg. WHAT ,WHY and HOW 
 
 _link_ https://medium.com/@pratiiksaini/best-way-to-learn-something-new-340d11c12813
+
+#### Create your own Blogging Website Using Gatsby and Netlify
+
+_description_ In this blog I will explain you how to create your own blogging website with the help of tools like Gatsby and Netflify.Best part of this tool is that they both are free so we do not require any payments.to make the blogging website. 
+
+_link_ https://medium.com/@pratiiksaini/create-your-own-blogging-website-using-gatsby-and-netlify-62f6faa543d4
+
+#### Best Chrome Extensions for Web Developers
+
+_description_ In this blog I will recommend you some most popular extension which are very useful if you are awesome developer. in this blog, you will find a link and through this link you will directly install your extension on your chrome browser. 
+_link_ https://medium.com/@pratiiksaini/best-chrome-extensions-for-web-developers-8df0d8249318
 
 <!-- #### another project
 escription_
