@@ -6,7 +6,7 @@ portfolio: "https://viralsangani.me/"
 github_link: "https://github.com/viral-sangani"
 linkedin_link: "https://linkedin.com/in/viral-sangani"
 looking_for: "internship"
-image_link: "https://avatars2.githubusercontent.com/u/36530381?s=460&u=c855ebdff9ae53fd8ae4d45d6273c45b06e4f83c&v=4"
+image_link: "https://pbs.twimg.com/profile_images/1267902594162270208/-khk2-Fv_400x400.jpg"
 description: "Your Friendly Neighborhood CSE Student. Django | Python | AWS | Linux | ReactJS | GatsbyJS | Javascript "
 ---
 
@@ -79,7 +79,9 @@ Note: Only those issues are considered which passes the regex match i.e. those i
 
 ![https://raw.githubusercontent.com/viral-sangani/TTJC-Reviews/master/github-images/review.gif](https://raw.githubusercontent.com/viral-sangani/TTJC-Reviews/master/github-images/review.gif)
 
-_Hosted Link_: [APK Download from AWS S3](https://s3.ap-south-1.amazonaws.com/ttjc.viralsangani.me/ttjc-reviews-signed.apk)  
+This app is hosted on AWS S3.  
+_Hosted Link_: [Download arm64-v8a APK **(Recommended)**](https://s3.ap-south-1.amazonaws.com/ttjc.viralsangani.me/ttjc-reviews-signed.apk)  
+_Hosted Link_: [Download x86_64 APK](https://s3.ap-south-1.amazonaws.com/ttjc.viralsangani.me/ttjc-reviews-signed-x86_64.apk)  
 _Github Link_: [https://github.com/viral-sangani/TTJC-Reviews](https://github.com/viral-sangani/TTJC-Reviews)
 
 ### **3. WeTube: 📺 Just a Clone of Youtube, made with ReactJS and Django APIs.💥**
