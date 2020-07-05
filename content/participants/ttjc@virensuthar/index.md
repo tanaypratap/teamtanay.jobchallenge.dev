@@ -34,13 +34,19 @@ It would be good if someone tells me how to get started with react,and advance j
 
 ### projects
 
-As of now not done any project.I will keep updating it with real links when done.
+not a lot of projects are done. I will keep updating it with real links when done.
 
 My projects:
 
-_description_
+#### 1) Newsletter signup
 
-_stack_
+_description_ This is email campaign project , lot of you have seen in many websites that subcribe to my email list , so this is news letter.
+
+_stack_ i made this with __vanila-js__ , __node__ and __express__ , and use _mailchimp api_.
+
+_hosted link_ https://viren-newsletter.herokuapp.com/
+
+_github link_ https://github.com/virensuthar/Newsletter-project
 
 ### blogs
 

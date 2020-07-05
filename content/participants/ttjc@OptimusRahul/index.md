@@ -2,7 +2,7 @@
 title: OptimusRahul
 type: "participant"
 name: "Rahul Srivastava"
-portfolio: "in progress"
+portfolio: "https://rahul-srivastava-portfolio.netlify.app/"
 github-link: "https://github.com/OptimusRahul"
 linkedin-link: "https://www.linkedin.com/in/rahul-srivastava-059930156/"
 looking-for: "job"
@@ -47,8 +47,50 @@ It would be good if someone helps and suggest me the best practices while workin
 
 ### projects
 
-I will start sharing my projects with live links and source code links after I finish implementing them.
+### Covid 19 Tracker
+
+This is react based web app, that give covid 19 status, of all countries.
+
+- You can find it [here](https://covidupdates.netlify.app/)
+- Github repo can be found [here](https://github.com/OptimusRahul/Covid19-Tracker)
+
+### Songify
+
+This is react based music player
+
+- You can find it [here](https://songify-player.netlify.app/)
+- Github repo can be found [here](https://github.com/OptimusRahul/Songify)
+
+### Open Source Project Finder
+
+This is javascript based website, that helps you to find all the open source project.
+
+- You can find it [here](https://open-source-project-finder.herokuapp.com/)
+- Github repo and preview can be found [here](https://github.com/OptimusRahul/Open-Source-Project-Finder)
+
+### GitDesk
+
+This is a desktop based application, which gives you a new and fast way to use github
+
+- Github repo and preview can be found [here](https://github.com/OptimusRahul/GitDesk)
+
+### Portfolio   
+
+My Portfolio
+
+- You can find it [here](https://rahul-srivastava-portfolio.netlify.app/)
+- Github repo can be found [here](https://github.com/OptimusRahul/Portfolio)
+
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+I never thought of writing a blog, but this challenge gave me a new perspective of sharing knowledge.
+
+### Github Oauth WorkFlow
+It can be found here [here](https://link.medium.com/uaKaJqUbK7)
+
+### Mobile Responsive Design
+It can be found here [here](https://link.medium.com/CobpQSXbK7)
+
+### Electron + React
+It can be found here [here](https://link.medium.com/dEcM43ObK7)one.

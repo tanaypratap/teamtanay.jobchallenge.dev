@@ -14,6 +14,7 @@ Hi! I am Prateek Saini let me walk you through my intro, projects and blogs.
 ### introduction
 
 I’m a final year Computer science and engineering student . I was starting Web Development projects last month but I am also have interest in the field of AI and game development.
+
 ## why are you taking this challenge?
 
 I want to learn and make good projects, write blogs and get recommendations from industrial experts, getting feedbacks and improve my coding skills.
@@ -31,27 +32,26 @@ It would be good if someone tells me how to do backend works for my projects.
 - [LinkedIn](https://www.linkedin.com/in/prateek-saini-ab1797183)
 - [Telegram](https://telegram.me/prateeksaini)
 - [email](mailto:pratiiksaini@gmail.com)
+
 ### projects
 
-I will keep updating it with real links when done.
-<!-- <!-- 
-My projects:
+I have done projects along side with learning technologies some of them are:
 
-#### binder: tinder for books
+#### FunWithArray
 
-_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.
+_description_ This is the website which helps developers or programmers to learn Array Methods with the new interesting way.This web app creates awareness towards developers who don't know the actual functionality of the Methods which they are using in their daily coding problems.
 
-_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
+_stack_ Made in React,Javascript and CSS. This is written in React.
 
-_hosted link_ https://binder.netlify.com
+_hosted link_ https://learnarray.netlify.app/
 
-_github link_ https://github.com/tanaypratap/binder
+_github link_ https://github.com/prateek1998/funWithArray
 
-#### another project
+<!-- #### another project
 
 _description_
 
-_stack_ 
+_stack_
 
 ### blogs
 

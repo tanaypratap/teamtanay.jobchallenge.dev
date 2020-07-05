@@ -1,6 +1,6 @@
 ---
 title: Challenge Details
-date: "2015-05-01T22:12:03.284Z"
+date: "2020-03-14T22:12:03.284Z"
 type: "main"
 description: "Challenge Details"
 ---

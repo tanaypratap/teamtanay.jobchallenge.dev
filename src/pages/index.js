@@ -36,17 +36,21 @@ class Index extends React.Component {
               #TeamTanayJobChallenge requires you to finish a minimum of{" "}
               <em>5 projects</em>, <em>3 blogs</em> and <em>2 reviews</em> on
               your projects.
-            </p>
+              <br/>
+                <p align="center">
+                  Registrations closed on&nbsp;&nbsp;<b>1st June,2020</b>
+                </p>
+                <br/>
+                <p align="center">
+                  All the best to the <a href="/participants/">participants!</a> and the <a href="/finalist/">finalists!</a>
+                </p> 
+              </p>
           }
           more={[
             {
               link: "/challenge-details",
               text: "challenge details here...",
             },
-            {
-              link:"/02_is-registration-required/",
-              text:'register here'
-            }
           ]}
         />
 
@@ -66,24 +70,31 @@ class Index extends React.Component {
             },
           ]}
         />
-
         <Section
           header="are we really getting a job?"
           needsBackground={backgroundOrange}
           textNode={
             <p>
+              <p>
               Yes, though the challenge initially was about getting visibility
               and creating projects + profile it has transformed. Now, we have
               hiring partners who are ready to help, interview and hire
               successful participants from the challenge.
+              </p>
+              <br/>
+                <p style={{textAlign:'center'}}>
+                  <a href="/hiring-partners">
+                  know more about hiring partners
+                  </a>
+                </p>
+              <br/>
+                <p style={{textAlign:'center'}}>
+                  <a href="/hiring-hub-welcome">
+                  wanna hire through the challenge?🤔
+                  </a>
+                </p>
             </p>
           }
-          more={[
-            {
-              link: "/hiring-partners",
-              text: "know more about hiring partners",
-            },
-          ]}
         />
 
         <Section

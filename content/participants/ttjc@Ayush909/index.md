@@ -35,9 +35,20 @@ It would be great if someone can guide me to learn react too and would need some
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+## 1) BlogVlog
 
+Blogging Site that fetches blogs written in .md file from github-api.
+Made using ReactJS
 
+Hosted Link- [BlogVlog](https://blogvlog.netlify.app/)  
+Github link - https://github.com/Ayush909/BlogVlog-project
+
+## 2) MerchantLog
+
+MerchantLog is a webapp which allows Merchants/Shop Owners to register their business on the platform through which they can reach more customers.
+
+Hosted Link- [MerchantLog](https://mern-stack-merchant.herokuapp.com/)  
+Github link - https://github.com/Ayush909/MerchantLog
 
 ### blogs
 

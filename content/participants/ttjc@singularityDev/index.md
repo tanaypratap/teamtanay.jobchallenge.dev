@@ -5,11 +5,11 @@ name: "Abhinav Reddy"
 portfolio: "https://github.com/singularityDev/portfolio"
 github-link: "https://github.com/singularityDev"
 linkedin-link: "https://www.linkedin.com/in/abhinav-reddy-6397b9156/"
-looking-for: "job"
-description: "Bootstrap | Materialize | Javascript | AngularJs | node js | Express Js| REST APIs | Python | Flask"
+looking-for: "Job"
+description: "Bootstrap | Materialize | Javascript | AngularJs | ReactJs | node js | Express Js| REST APIs | GraphQL | Python | Flask"
 ---
 
-Hey!, Let's see how I am learning to be creative, innovative and passionate by taking a walkthrough of my profile.
+Hey!, I am learning to be create and innovative through constant and deliberate learning, checkout my profile and let me know how I can improve better. TIA.
 
 ### introduction
 
@@ -33,37 +33,36 @@ I have already explored AngularJs and Flask, now I need help with understanding 
 
 - [Twitter](https://twitter.com/Abhinav_Reddy7)
 - [LinkedIn](https://www.linkedin.com/in/abhinav-reddy-6397b9156/)
+- [Dev.to](https://dev.to/singularitydev)
 
 ### projects
 
-My projects:
+####My projects:
 
 **Portfolio Website (New)**
 
-_description_ Everyone in the creative field must have a portfolio website to showcase their work and experience, I'm not a very experienced one but I do believe that it is necessary no matter the experience. I have played with the flex box and learned ways to make a website responsive within a limited time now.
+_Description_ Everyone in the creative field must have a portfolio website to showcase their work and experience, I'm not a very experienced one but I do believe that it is necessary no matter the experience. I have played with the flex box and learned ways to make a website responsive within a limited time now.
 
-_stack_ I wanted to keep it simple, so, no framework. It is made responsive through hard code using Flex-Box.
+_Stack_ I wanted to keep it simple, so, no framework. It is made responsive through hard code using Flex-Box.
 
-_github link_ https://github.com/singularityDev/portfolio
+_Github link_ https://github.com/singularityDev/portfolio
 
-**Collegium (Old)**
+_Website link_ https://singularitydev.netlify.app
 
-_description_ Every student in a college should be aware of events inside & outside the college, updated with technology. & advancements in their fields, personality development and develop a habit of reading articles of their interests. Collegium is going to be a student targeted website that promises to provide the information on areas mentioned above (unlike other websites), user-friendly & as every department in a college has its own block, so does the website.
+ **Another Todo App (New)**
 
-_stack_ This is written in Python and framework used is Flask, database is MySql.
+_Description_ My Internship was into AngularJs stack and I wanted to explore ReactJs of MERN stack, I thought to learn GraphQL, ApolloClient as well. Once I made the app with CRUD functionalities, also wanted to explore authentication side to implement my own authentication system and  I added authentiation to this website using JWT, I used two tokens, one for generating new tokens and remembering the user on the device, and other for sending requests from client, I've read some articles and watched some videos on better ways to authenticate a user and use tokens without compromising privacy and security. Now, this coud be my boilerplate code for any ReactJs website.  
 
-_github link_ https://github.com/singularityDev/collegium
+_Stack_ MERN stack (ReactJs, GraphQL, Apollo client, NodeJs, ExpressJs, MongoDB), JsonWebToken,  plain HTML and CSS.
 
-**Predicting El Niño/ La Niña (Old)**
+_Github link_ https://github.com/singularityDev/reactapp
 
-_description_ El Niño/La Niña are the Global weather conditions that lasts for at least 6-8 months or a year to over a series of years. These are either extreme drought conditions or extreme rainfall over the tropical Pacific Ocean. These are basically caused by the warming up of ocean surface which is now being effected by human activity (Global Warming). Deal is to predict the years that might be effected with El Niño/La Niña using the available dataset and time-series forecasting algorithm. Use of extensive libraries available for Python-Machine Learning will help us to attain a good result. This prediction will play a vital role in managing the resources through the countries that face this global phenomenal consequences.
-
-_stack_ This is written in Python using Tensorflow, pandas, keras, matplotlib with the help of LSTM (Long Short Term Memory) model on Jupyter notebook first and then run on terminal.
-
-_github link_ https://github.com/singularityDev/El-Nino-La-Nina-Prediction
+_Website link_ https://anothertodoapp2.herokuapp.com
 
 ### blogs
 
 #### Internship at T Works
 
-_description_ I will write this blog on 20th March 2020, when I complete two months of the internship.
+_Description_ After working as a BDA at BYJU'S I felt like I was missing something in my life and then I decided to pursue the career in my field of study no matter how hard it is to become a good developer. I aapplied for an intership and learned a lot in very short span of time with the help of my mentor at workplace, I have put together most of my experiences and learnings in this blog.
+
+_Blog link_ https://dev.to/singularitydev/why-is-internship-25h3
