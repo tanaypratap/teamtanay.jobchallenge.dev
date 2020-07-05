@@ -1,5 +1,5 @@
 ---
-title: OptimusRahul
+title: Rahul Srivastava
 type: "finalist"
 name: "Rahul Srivastava"
 portfolio: "https://rahul-srivastava-portfolio.netlify.app/"

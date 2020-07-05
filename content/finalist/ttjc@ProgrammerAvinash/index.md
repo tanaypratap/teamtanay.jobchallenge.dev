@@ -1,5 +1,5 @@
 ---
-title: DeveloperAvinash
+title: Avinash
 type: "finalist"
 name: "Avinash Yadav"
 portfolio: "https://avinashyadav.netlify.com"
