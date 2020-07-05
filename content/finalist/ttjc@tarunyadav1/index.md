@@ -3,9 +3,9 @@ title: Tarun Yadav
 type: "finalist"
 name: "Tarun Yadav"
 portfolio: "https://tarunyadav.codes/"
-github-link: "https://github.com/tarunyadav1"
-linkedin-link: "https://www.linkedin.com/in/tarunyadav9761/"
-looking-for: "job"
+github_link: "https://github.com/tarunyadav1"
+linkedin_link: "https://www.linkedin.com/in/tarunyadav9761/"
+looking_for: "job"
 description: " Reactjs | HTML | CSS | Nodejs | mongoDB | Bootstrap | JavaScript | Python3 "
 ---
 

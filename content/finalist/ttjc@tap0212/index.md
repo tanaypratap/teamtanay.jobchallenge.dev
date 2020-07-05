@@ -3,9 +3,9 @@ title: Tapan Awasthi
 type: "finalist"
 name: "Tapan Awasthi"
 portfolio: "https://tapanawasthi.dev"
-github-link: "https://github.com/tap0212"
-linkedin-link: "https://www.linkedin.com/in/tapan-awasthi02/"
-looking-for: "job"
+github_link: "https://github.com/tap0212"
+linkedin_link: "https://www.linkedin.com/in/tapan-awasthi02/"
+looking_for: "job"
 description: "An Opportunist, a Believer and a Tech Enthusiast"
 ---
 

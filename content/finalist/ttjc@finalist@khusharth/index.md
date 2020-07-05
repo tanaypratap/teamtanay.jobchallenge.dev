@@ -3,10 +3,10 @@ title: Khusharth Patani
 type: "finalist"
 name: "Khusharth A. Patani"
 portfolio: "https://khusharth.netlify.app/"
-github-link: "https://github.com/khusharth/"
-linkedin-link: "https://www.linkedin.com/in/khusharth/"
-looking-for: "internship"
-image-link: "https://avatars3.githubusercontent.com/u/46857858?s=460&u=c36533cdf2d387a78b13c3617fe29d898a31c02a&v=4"
+github_link: "https://github.com/khusharth/"
+linkedin_link: "https://www.linkedin.com/in/khusharth/"
+looking_for: "internship"
+image_link: "https://avatars3.githubusercontent.com/u/46857858?s=460&u=c36533cdf2d387a78b13c3617fe29d898a31c02a&v=4"
 description: "HTML | CSS | Javascript | React"
 ---
 

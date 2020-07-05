@@ -3,10 +3,10 @@ title: Viral Sangani
 type: "finalist"
 name: "Viral Sangani"
 portfolio: "https://viralsangani.me/"
-github-link: "https://github.com/viral-sangani"
-linkedin-link: "https://linkedin.com/in/viral-sangani"
-looking-for: "internship"
-image-link: "https://avatars2.githubusercontent.com/u/36530381?s=460&u=c855ebdff9ae53fd8ae4d45d6273c45b06e4f83c&v=4"
+github_link: "https://github.com/viral-sangani"
+linkedin_link: "https://linkedin.com/in/viral-sangani"
+looking_for: "internship"
+image_link: "https://avatars2.githubusercontent.com/u/36530381?s=460&u=c855ebdff9ae53fd8ae4d45d6273c45b06e4f83c&v=4"
 description: "Your Friendly Neighborhood CSE Student. Django | Python | AWS | Linux | ReactJS | GatsbyJS | Javascript "
 ---
 

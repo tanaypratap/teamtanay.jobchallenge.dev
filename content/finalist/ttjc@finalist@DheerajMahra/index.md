@@ -3,10 +3,10 @@ title: Dheeraj Mahra
 type: "finalist"
 name: "Dheeraj Mahra"
 portfolio: "https://dheerajmahra.now.sh"
-github-link: "https://github.com/dheerajmahra"
-linkedin-link: "https://linkedin.com/in/dheerajmahra"
-looking-for: "job"
-image-link: "https://avatars1.githubusercontent.com/u/39774163?s=460&u=470ccfbf2a9541ed3ee5bcfd9f105b00f35b4961&v=4"
+github_link: "https://github.com/dheerajmahra"
+linkedin_link: "https://linkedin.com/in/dheerajmahra"
+looking_for: "job"
+image_link: "https://avatars1.githubusercontent.com/u/39774163?s=460&u=470ccfbf2a9541ed3ee5bcfd9f105b00f35b4961&v=4"
 description: "I play with React, Javascript and Frontend everyday. Diving in the Nodejs world as well."
 ---
 
