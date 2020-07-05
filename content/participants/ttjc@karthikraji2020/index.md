@@ -81,7 +81,59 @@ gitlink :[githubLink](https://github.com/karthikraji2020/covid19)
   HTML,CSS,Bootstrap4 
   Vennila Javascript
 
+# 3) vote-Poll
+  votingpoll (https://votepollsystem.herokuapp.com/).
+
+
+Applink :[votepollsystem](https://votepollsystem.herokuapp.com/)
+gitlink :[githubLink](https://github.com/karthikraji2020/votepoll-MEAN)
+
+###### Features
+1. Graphical representation of vote poll data.
+
+## Tech Stack
+ Mean Stack
+ MongoDB-altas
+ Express
+ Angular
+ NodeJS
+
+# 4) WeatherForecast
+  WeatherForecast (https://weather-vennilajs.netlify.app/).
+
+Applink :[votepollsystem](https://weather-vennilajs.netlify.app/)
+gitlink :[githubLink](https://github.com/karthikraji2020/weather-app-js)
+
+###### Features
+1. find a weather by city name
+
+## Tech Stack
+l. HTML
+2. css
+3. Bootstrap
+4. Javascript
+
+# 5) UI-Quizapp
+  uiquiz (https://uiquiz.herokuapp.com/home).
+
+Applink :[uiquiz](https://uiquiz.herokuapp.com/home)
+gitlink :[githubLink](https://github.com/karthikraji2020/uiquizapp)
+
+###### Features
+1. quiz-app
+
+## Tech Stack
+ Mean Stack
+ MongoDB-altas
+ Express
+ Angular
+ NodeJS
+
+
 
 ### blogs
+#### JWT
+JWT [readMore]: (https://dev.to/karthikraji2020/what-is-jwt-5064)
 
-Not a big blogger but I will keep updating my blogs as and when done.
+#### flattenningArray
+flattenningArray [readMore]: (https://dev.to/karthikraji2020/flattening-arrays-in-javascript-2ki4)
