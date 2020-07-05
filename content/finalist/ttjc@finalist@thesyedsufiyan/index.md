@@ -5,7 +5,8 @@ name: "syed sufiyan"
 portfolio: "https://syed-portfolio.netlify.app/"
 github-link: "https://github.com/theSyedsufiyan"
 linkedin-link: "https://www.linkedin.com/in/syed-sufiyans/"
-looking-for: "job"
+looking-for: "job/internship"
+image-link: "https://avatars0.githubusercontent.com/u/36100349?s=460&u=522f57940e95f59417f7ac6c6d27c9a84a7ae6ae&v=4"
 description: "Javascript | React | node.js | Html | Css"
 ---
 
@@ -31,6 +32,7 @@ learn new technologies.
 
 - [twitter](https://twitter.com/thesyedsufiyan)
 - [instagram](https://www.instagram.com/thesyedsufiyan/)
+- [portfolio](https://syed-portfolio.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/syed-sufiyans/)
 
 ### projects
