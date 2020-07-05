@@ -35,7 +35,7 @@ I have a MEN Stack  (MongoDB Express Node). Currently working on react.js.
 - [Outlook](mailto:shah.saddam@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/saddam-shah/)
 
-### projects
+### projects No 1
 
 ### E Commerce Store
 _description_ A full fledged E-commerce Web Application which has 13 unique pages including two dashboards and one payment gateway Where users can view all the products that are differentiated by their categories. 
@@ -102,3 +102,58 @@ Email Id: admin@admin.com
 Password: 12345
 
 For more details, contact me on: shah.saddam@outlook.com.
+
+### projects No 2
+
+### Coffee Shop 
+_description_ A web template for locals business created using react.
+
+_hosted link_ https://project-coffee-shop.netlify.app/
+_github link_ https://github.com/Saddamshah/coffee-shop
+
+### projects No 3
+
+### Book Search App 
+_description_ A simple book search app using react
+
+_hosted link_ https://book-search-project.netlify.app/
+_github link_ https://github.com/Saddamshah/book-search
+
+### projects No 4
+
+### Data Visualization Map 
+_description_ A Data Visualization that show covid cases on map.
+
+_hosted link_ https://data-visualization-covid.herokuapp.com/
+_github link_ https://github.com/Saddamshah/Data-Visualization-covid-
+
+
+### projects No 5
+
+### Currency Converter 
+_description_ A Currency Converter app using react.
+
+ _hosted link_ https://app.netlify.com/sites/currency-converter-project
+_github link_ https://github.com/Saddamshah/currency-converter
+
+
+### Blog
+
+### Blog No 1
+_Name_ What is Programming?
+
+_hosted Link_ https://saddamshahblog.herokuapp.com/blog/1
+
+### Blog No 2
+_Name_ How I learned to code?
+
+_hosted Link_ https://saddamshahblog.herokuapp.com/blog/2
+
+### Blog No 3
+_Name_ Here is how you can be an Accomplished Programmer!
+
+_hosted Link_ https://saddamshahblog.herokuapp.com/blog/3
+
+
+
+
