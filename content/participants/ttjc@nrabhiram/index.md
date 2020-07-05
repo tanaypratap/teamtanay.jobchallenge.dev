@@ -33,7 +33,7 @@ I would be grateful if I am provided insights and advice about the web developme
 - [LinkedIn](https://www.linkedin.com/in/abhiram-reddy-23285b196/)
 
 ### projects
-1. DevlUp
+#### DevlUp
 
 DevlUp is a platform for developers to share their work and make new connections. You can comment on other people's posts and also like them. You get notification whenever a new user joins or a post is created. I used Firebase for the backend and Redux for state management.
 
@@ -46,7 +46,7 @@ Links:
 * Project: (https://devlup.netlify.app/)
 * Github repo: (https://github.com/nrabhiram/develup)
 
-2. Animaze
+#### Animaze
 
 Animaze is a web application you can use to discover new anime. You can look for the top shows of all time or the top shows in a specific genre. You can also search for a specific show by typing in the search bar. You can like shows that you are interested in.
 
@@ -58,7 +58,7 @@ Links:
 * Project: (https://animaze.netlify.app/)
 * Github repo: (https://github.com/nrabhiram/animaze)
 
-3. Bookz
+#### Bookz
 
 Bookz is a simple application which you can use to keep track of the books which you are currently reading. I used functional components and instead of Redux learnt how to use Context API and hooks for state management.
 
@@ -70,7 +70,7 @@ Links:
 * Project: (https://bookz.netlify.app/)
 * Github repo: (https://github.com/nrabhiram/booklist)
 
-4. Utilizer
+#### Utilizer
 
 Utilizer is a multi-page we application. It has a handful of tools which you can use to carry out daily tasks. It has a todo list, calculator, URL bookmarker, pomodoro clock and a meditation app.
 
@@ -83,7 +83,7 @@ Links:
 * Project: (https://utilizer.netlify.app/)
 * Github repo: (https://github.com/nrabhiram/utility-app)
 
-5. Forkify
+#### Forkify
 
 Forkify is a recipe-searching application
 
