@@ -20,7 +20,7 @@ I am a senior year undergrad pursuing B.Tech degree in Electronics & Communicati
 
 For Opportunities!
 
-In the span of last 4 months I amount of things I learned is unimaginable for me. The challenge strengthen my believe in myself and still expanding my knowledge.
+In the span of last 4 months my learning curve is unimaginable for me. The challenge strengthen my believe in myself.
 
 ## Something interesting about me?
 
@@ -67,13 +67,13 @@ This is a books app which displays top 10 books about the topic entered by the u
 
 ### Github Finder
 
-Github finder is a webapp to find github users on the basis of their github handle. It displays user's public github information and top 10 repositories of the user. Concept of debouncing is used while fetching books
+Github finder is a webapp to find github users on the basis of their github handle. It displays user's public github information and top 10 repositories of the user. Concept of debouncing is used while fetching books.
 
 - **Stack** `Vanilla Js`, `Bootstrap`
 
-- [**hosted link**](https://reallo.netlify.com/)
+- [**hosted link**](https://git-acc-finder.netlify.app)
 
-- [**github link**](https://github.com/Megha-Pathak/Reallo)
+- [**github link**](https://github.com/dikshagoyal26/githubFinder)
 
 ### Tic Tac Toe
 
@@ -104,3 +104,51 @@ _description_ In this blog I have described the methods like call(), bind() and 
 _description_ In this blog I have described the difference between let, var and const along with function and block scope
 
 [**Read**](https://dikshagoyal.netlify.app/let-var-const)
+
+## Previous Projects
+
+### Pizza hub
+
+It is a small web service,(MVP product), in which a user can purchase pizza,view his orders, add feed backs. It has two panels admin panel and user panel. Admin can control the website, add,view,delete or update products,view/edit orders, view feed backs ,add another admin(as there is no sign up page for admin,only a login page).
+
+I worked on the backend of the app.
+
+- **Stack** `React`, `NodeJs`
+
+- [**hosted link**](https://pizzahubapp.herokuapp.com/)
+
+- [**github link**](https://github.com/dikshagoyal26/pizza-delivery-Backend)
+
+### Flappy Bird
+
+JavaScript implementation of Flappy bird game.
+
+- **Stack** `Javscript`
+
+- [**hosted link**](https://dikshagoyal26.github.io/flappy-bird/)
+
+- [**github link**](https://github.com/dikshagoyal26/flappy-bird)
+
+### Web Scrapper
+
+A web Scrapping tool to scrape Name & DOB's of US Presidents from Wikipedia or scrape data from reddit.com
+
+- **Stack** `NodeJS`
+
+- [**github link**](https://github.com/dikshagoyal26/webScrapper)
+
+### Flexible Warehousing Software
+
+The Objective of the project was to develop a Logistics web portal for B2C business with three panels ( user, admin and vendor panel). Whenever the user wants to shift from one location to another, he needs to fill a form with some specific details and we display a list of suitable vendors for him, letting him select a vendor for himself. Also, he can manage its orders, view the profile and see the order status. A vendor can view the orders assigned to him, update his profile etc. The web portal was developed using the latest technologies like Node.js, AngularJs etc
+
+- **Stack** `NodeJS`
+
+- [**github link**](https://github.com/dikshagoyal26/Flexible-Warehousing-Software-Backend)
+
+### News App
+
+A pseudo Frontend Application which displays news for different countries based on the category chosen by the user.
+
+- **Stack** `AngularJS`
+
+- [**github link**](https://github.com/dikshagoyal26/NewsApp)
