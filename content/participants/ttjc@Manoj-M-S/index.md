@@ -33,62 +33,73 @@ It would be good if someone can guide me in frontend, backend and database secti
 
 ### projects
 
-1. Food Recipe Website :
-   I had built a small website, where in user can view all recipes and can add/edit/delete recipes.
-   Technologies used:
-   *Frontend : React JS
-   *Backend : Node JS, Express
-   *Database: Mongodb
 
-[Github](https://github.com/Manoj-M-S/Food-Recipe-Website-Frontend)
-[Github](https://github.com/Manoj-M-S/Food-Recipe-Website-BackEnd)
-[Netlify](https://manoj-recipe-website.netlify.app/)
-
-2. Art Ecommerce website :
+### Art Ecommerce website :
    I have built a Art Ecommerce website, where in user can signup, login and add products to cart and buy the products in the cart. Admin can add/Edit/Delete Products and Categories.
-   Login as Admin to see complete functionalities, Email: msm@gmail.com , Password: MSMaa
-   Technologies used:
-   *Frontend : React JS
-   *Backend : Node JS, Express
-   *Database: Mongodb
+   Login as Admin to see complete functionalities, Email: msm@gmail.com , Password: MSMaa .
+#### Technologies used:
+   - Frontend : React JS
+   - Backend : Node JS, Express
+   - Database: Mongodb
 
-[Github](https://github.com/Manoj-M-S/Art-client)
-[Github](https://github.com/Manoj-M-S/Art-server)
+[Github-Client](https://github.com/Manoj-M-S/Art-client)
+[Github-Server](https://github.com/Manoj-M-S/Art-server)
 [Netlify](https://art-website.netlify.app/)
 
-3. Instagram Clone website :
+### Instagram Clone website :
    I have built a Instagram Clone website, with few features of Instagram, where in user can signup, login and create/edit/delete his/her Posts, Follow users, and view their posts.
-   Technologies used:
-   *Frontend : React JS
-   *Backend : Node JS, Express
-   *Database: Mongodb
+#### Technologies used:
+   - Frontend : React JS
+   - Backend : Node JS, Express
+   - Database: Mongodb
 
-[Github](https://github.com/Manoj-M-S/Clone-Client)
-[Github](https://github.com/Manoj-M-S/Clone-Server)
+[Github-Client](https://github.com/Manoj-M-S/Clone-Client)
+[Github-Server](https://github.com/Manoj-M-S/Clone-Server)
 [Netlify](https://manoj-instaclone.netlify.app/)
 
-4. Online Music Player:
+### Food Recipe Website :
+   I had built a small website, where in user can view all recipes and can add/edit/delete recipes.
+#### Technologies used:
+   - Frontend : React JS
+   - Backend : Node JS, Express
+   - Database: Mongodb
+
+[Github-Client](https://github.com/Manoj-M-S/Food-Recipe-Website-Frontend)
+[Github-Server](https://github.com/Manoj-M-S/Food-Recipe-Website-BackEnd)
+[Netlify](https://manoj-recipe-website.netlify.app/)
+
+
+### ChatBuddy:
+   A Real Time Chat web application, in which user can create/join rooms and message with other users in real time.
+#### Technologies used :
+   - Reactjs
+   - Nodejs
+   - Express
+   - Socket.io
+
+[Github-Client](https://github.com/Manoj-M-S/ChatBuddy-Client)
+[Github-Server](https://github.com/Manoj-M-S/ChatBuddy-Server)
+[Netlify](https://manoj-chatbuddy.netlify.app/)
+
+### Online Music Player:
    A Music player website, which can play songs fetched from the database, user can pause, skip, shuffle the songs.
-   Technologies used :
-   *HTML
-   *CSS
-   *JavaScript.
+#### Technologies used :
+   - HTML
+   - CSS
+   - JavaScript.
 
 [Github](https://github.com/Manoj-M-S/Music-Player)
 [Netlify](https://manoj-musicplayer.netlify.app/)
 
-5. ChatBuddy:
-   A Real Time Chat web application, in which user can create/join rooms and message with other users in real time.
-   Technologies used :
-   *Reactjs
-   *Nodejs
-   *Express
-   *Socket.io
 
-[Github](https://github.com/Manoj-M-S/ChatBuddy-Client)
-[Github](https://github.com/Manoj-M-S/ChatBuddy-Server)
-[Netlify](https://manoj-chatbuddy.netlify.app/)
 
 ### blogs
 
-I will keep updating my blogs as and when done.
+1. [How to Fix useEffect Hook executing in an endless loop?] (https://dev.to/manojms/how-to-fix-useeffect-hook-executing-in-an-endless-loop-1oga) 
+  - This Blog is about how to Fix the React Hook, useEffect executing in an endless loop.
+
+2. [Create a basic React Project by implementing React-Router within 10 mins] (https://dev.to/manojms/create-a-basic-react-project-by-implementing-react-router-within-10-mins-pl5)
+  - This Blog is about creating basic React project, by implementing React-Router within 10 mins.
+
+3. [Basic Git Commands] (https://dev.to/manojms/basic-git-commands-jkp)
+  - This Blog is about Basic Git Commands.
