@@ -129,6 +129,16 @@ gitlink :[githubLink](https://github.com/karthikraji2020/uiquizapp)
  Angular
  NodeJS
 
+# 6) shortly
+  shortly is a url shortener.with data visualization.*only backlend completed*.
+gitlink :[githubLink](https://github.com/karthikraji2020/shortly)
+
+## Tech Stack
+1. nodejs 
+2. JWT (Json -web token) authentication
+
+
+
 
 
 ### blogs
