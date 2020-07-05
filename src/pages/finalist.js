@@ -8,12 +8,53 @@ import linkedin from "../assets/linkedin.png"
 import portfolio from "../assets/hyperlink.png"
 
 const styles={
+  container:{
+    padding:'10px'
+  },
+  card:{
+    display:'flex',
+    marginTop:'5px'
+  },
+  imagecard:{
+    width:'25%',
+    padding:'10px',
+    display:'flex',
+    flexDirection:'column',
+    alignItems:'center',
+    height:'100%',
+    justifyContent:'flex-start'
+  },
   image:{
       width:'100px',
       borderRadius:'7px',
       margin:'0',
       marginTop:'5px'
-    }}
+    },
+    name:{
+      marginBottom: rhythm(1 / 8),
+      textAlign:'center',
+      fontWeight:'700'
+    },
+    linksection:{
+      display:'flex',
+      flexDirection:'row',
+      width:'100%',
+      justifyContent:'center',
+      alignItems:'center'
+    },
+    profilelink:{
+      width:'2vh',
+      height:'2vh',
+      marginRight:'1vh'
+    },
+    datacard:{
+      width:'80%',
+      textAlign:'justify'
+    },
+    excerptdata:{
+      marginTop:rhythm(1/2)
+    }
+  }
 
 
 class PostsIndex extends React.Component {
@@ -59,30 +100,27 @@ class PostsIndex extends React.Component {
             maxWidth: rhythm(24),
             maxHeight: 'max-content'
           }}>
-          <div style={{padding:'10px'}}>
-              <div style={{display:'flex',marginTop:'5px'}}>
-                  <div style={{width:'25%',padding:'10px',display:'flex',flexDirection:'column',alignItems:'center',height:'100%',justifyContent:'flex-start'}}>
+          <div style={styles.container}>
+              <div style={styles.card}>
+                  <div style={styles.imagecard}>
                     <Link to={node.fields.slug}> 
                     <img src={image_link} alt="profile" style={styles.image}
                         /></Link>
                       <p
-                style={{
-                  marginBottom: rhythm(1 / 8),
-                  textAlign:'center',
-                  fontWeight:'700'
-                }}
+                style={styles.name}
               >
                 <Link to={node.fields.slug}>{title}</Link>
               </p>
-                      <div style={{display:'flex',flexDirection:'row',width:'100%',justifyContent:'center',alignItems:'center'}}>
-                          <div><a href={github_link}><img src={git} style={{width:'2vh',height:'2vh',marginRight:'1vh'}} /></a></div>
-                          <div><a href={linkedin_link}><img src={linkedin} style={{width:'2vh',height:'2vh',marginRight:'1vh'}}/></a></div>
-                          <div><a href={node.frontmatter.portfolio}><img src={portfolio} style={{width:'2vh',height:'2vh',marginRight:'1vh'}}/></a></div>
+                      <div style={styles.linksection}>
+                          <div><a href={github_link}><img src={git} style={styles.profilelink} /></a></div>
+                          <div><a href={linkedin_link}><img src={linkedin} style={styles.profilelink}/></a></div>
+                          <div><a href={node.frontmatter.portfolio}><img src={portfolio} style={styles.profilelink}/></a></div>
                       </div>
                   </div>
-                  <div style={{width:'80%',textAlign:'justify'}}>
-          <p dangerouslySetInnerHTML={{ __html: node.excerpt }} 
-          style={{marginTop:rhythm(1/2)}}/>
+                  <div style={styles.datacard}>
+          <p 
+          dangerouslySetInnerHTML={{ __html: node.excerpt }} 
+          style={styles.excerptdata}/>
                   </div>
               </div>
               
@@ -108,7 +146,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          excerpt(pruneLength:300)
+          excerpt(pruneLength:330)
           fields {
             slug
           }
