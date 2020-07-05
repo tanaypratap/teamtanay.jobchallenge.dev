@@ -1,6 +1,6 @@
 ---
 title: Viral Sangani
-type: "participant"
+type: "finalist"
 name: "Viral Sangani"
 portfolio: "https://viralsangani.me/"
 github-link: "https://github.com/viral-sangani"

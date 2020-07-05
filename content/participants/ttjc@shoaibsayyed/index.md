@@ -9,7 +9,7 @@ looking-for: "job"
 description: "React | Redux | JavaScript | HTML | CSS | SAAS | Figma"
 ---
 
-Hi! I am Shoaib Sayyed, a Front-End Developer who loves to create beautiful design and experinces.
+Hi! I am Shoaib Sayyed, a MERN Stack Developer(Learning) who loves to create beautiful design and experinces.
 
 ### introduction
 
@@ -31,15 +31,46 @@ It would be good if someone guides me with Firebase(like Authentication) and Rea
 ### how to contact me?
 
 - [Twitter](https://twitter.com/shoaib0311)
-- [LinkedIn](https://www.linkedin.com/in/shoaib-sayyed-522a92163/)
+- [LinkedIn](https://www.linkedin.com/in/shoaib-sayyed/)
 
 ### projects
 
-I will update this section soon with real links. Keep Checking...
+#### 1. Quote - Share Your Thoughts
+
+- [Live URL](https://share-quotes.herokuapp.com/)
+- [Repository on GitHub](https://github.com/shoaib-03/Quote-App)
+
+Hello, Quote App is a **Multi-user** Web App where user can share Quotes with each other. I have created this project using **MERN Stack**. In this app, User can **Create**, **Like**, **Comment** and **Share** their Posts. It has features like **Follow** and **Unfollow** other users, **Deleting Your Posts** and **Comments** and also user can **Update** their Profile.
+
+- **Frontend:** React, React-Router, React-Router-DOM, React-Hooks
+- **Backend:** Node, Express
+- **Database:** MongoDB Atlas
+- **Deployed On:** Heroku
+- **Packages:** Mongoose, jsonwebtoken, bcrypt.js, moment, etc..
+
+I will add more project in this section soon. Keep Checking Please...
 
 ### blogs
 
-Coming Soon...
+#### - 8 Must Know Javascript Array Methods
+
+Hello, I wrote my first blog on "8 Must Know Javascript Array Methods". The reason behind I choose this topic is whenever I do programming Javascript, I always encountered arrays and use any array method. So I thought why not make a of Array Methods that I used generally while programming. That is why came up this blog.
+
+[check out the blog here..](https://dev.to/shoaib03/8-must-know-javascript-array-methods-29d)
+
+#### - 9 Tricks To Write Less JavaScript.
+
+Hello, This is my second blog on "9 Tricks To Write Less JavaScript". In this blog I came up with some methods to reduce the code like Ternary Operator, Template Literals, Arrow Function, etc. According o me, these all are some techniques to write less number of code which helps in many ways.
+
+[check out the blog here..](https://dev.to/shoaib03/9-tricks-to-write-less-javascript-507i)
+
+#### - Styling in React
+
+Hello, This is my third blog on "Styling in React". In this blog, I have wriiten all the methods along with code snippets and explantion to add styles to your React App. The following are the methods Inline Style, CSS-IN-JS(styled-component package), Using App.css/App.scss File and Using Module.css style method.
+
+[check out the blog here..](https://dev.to/shoaib03/styling-in-react-49o1)
+
+I will add more blogs in this section soon. Keep Checking Please...
 
 #### why I like JavaScript over other languages
 
