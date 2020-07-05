@@ -3,10 +3,10 @@ title: Uyadav207
 type: "finalist"
 name: "Utkarsh Yadav"
 portfolio: "https://utkarshdeveloper.netlify.app/"
-github-link: "https://github.com/Uyadav207"
-linkedin-link: "https://www.linkedin.com/in/utkarsh-yadav-37242b17b/"
-looking-for: "internship"
-image-link: "https://avatars2.githubusercontent.com/u/50916299?s=460&u=bca51c4c26a9657d5ef5af36dbd53aed0cbde013&v=4"
+github_link: "https://github.com/Uyadav207"
+linkedin_link: "https://www.linkedin.com/in/utkarsh-yadav-37242b17b/"
+looking_for: "internship"
+image_link: "https://avatars2.githubusercontent.com/u/50916299?s=460&u=bca51c4c26a9657d5ef5af36dbd53aed0cbde013&v=4"
 description: "Loves to work within JavaScript ecosystem | Learning Enthusiast | React-Native and Expo | Node.js | MongoDB."
 ---
 

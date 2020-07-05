@@ -3,10 +3,10 @@ title: tapan chudasama
 type: "finalist"
 name: "Tapan Chudasama"
 portfolio: "https://tapanchudasama.netlify.app"
-github-link: "https://github.com/inflame07"
-linkedin-link: "https://linkedin.com/in/inflame"
-looking-for: "job"
-image-link: "https://avatars3.githubusercontent.com/u/30605436?s=460&u=6c8a3c581849e7d1b69368b5332c4b825c00d898&v=4"
+github_link: "https://github.com/inflame07"
+linkedin_link: "https://linkedin.com/in/inflame"
+looking_for: "job"
+image_link: "https://avatars3.githubusercontent.com/u/30605436?s=460&u=6c8a3c581849e7d1b69368b5332c4b825c00d898&v=4"
 description: "Competitive Coding | C++ | Web Development | Node.js | MongoDB | React"
 ---
 

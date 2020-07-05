@@ -3,10 +3,10 @@ title: Megha Pathak
 type: "finalist"
 name: "Megha Pathak"
 portfolio: "https://meghapathak.netlify.com/"
-github-link: "https://github.com/megha-pathak"
-linkedin-link: "https://linkedin.com/in/megha--pathak"
-image-link: "https://avatars0.githubusercontent.com/u/40709743?s=400&u=081e9e630c5a4fea6acd17d4d43e3e8b8665e6ee&v=4"
-looking-for: "job"
+github_link: "https://github.com/megha-pathak"
+linkedin_link: "https://linkedin.com/in/megha--pathak"
+image_link: "https://avatars0.githubusercontent.com/u/40709743?s=400&u=081e9e630c5a4fea6acd17d4d43e3e8b8665e6ee&v=4"
+looking_for: "job"
 description: "I am a Product-oriented developer who builds things that live on the Web."
 ---
 

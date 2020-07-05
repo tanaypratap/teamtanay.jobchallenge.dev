@@ -3,9 +3,9 @@ title: Syed sufiyan
 type: "finalist"
 name: "syed sufiyan"
 portfolio: "https://syed-portfolio.netlify.app/"
-github-link: "https://github.com/theSyedsufiyan"
-linkedin-link: "https://www.linkedin.com/in/syed-sufiyans/"
-looking-for: "job"
+github_link: "https://github.com/theSyedsufiyan"
+linkedin_link: "https://www.linkedin.com/in/syed-sufiyans/"
+looking_for: "job"
 description: "Javascript | React | node.js | Html | Css"
 ---
 

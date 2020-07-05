@@ -3,9 +3,9 @@ title: Yash Raj
 type: "finalist"
 name: "Yash Raj"
 portfolio: "https://bit.ly/yashrajportfolio"
-github-link: "https://github.com/yashraj2312"
-linkedin-link: "https://linkedin.com/in/yashraj2312"
-looking-for: "Job"
+github_link: "https://github.com/yashraj2312"
+linkedin_link: "https://linkedin.com/in/yashraj2312"
+looking_for: "Job"
 description: "| MongoDB | node.js | React.js | Django | Python | Javascript | AWS | JIRA |"
 ---
 

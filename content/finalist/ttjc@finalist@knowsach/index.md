@@ -3,10 +3,10 @@ title: sachin singh
 type: "finalist"
 name: "sachin singh"
 portfolio: "https://sachinsingh.netlify.com/"
-github-link: "https://github.com/knowsach"
-linkedin-link: "https://www.linkedin.com/in/sachin-singh-6a2867189/"
-looking-for: "job"
-image-link: "https://avatars0.githubusercontent.com/u/29561914?s=400&u=ce4e9dab35d196f4d686805dd2346b6008e0841b&v=4"
+github_link: "https://github.com/knowsach"
+linkedin_link: "https://www.linkedin.com/in/sachin-singh-6a2867189/"
+looking_for: "job"
+image_link: "https://avatars0.githubusercontent.com/u/29561914?s=400&u=ce4e9dab35d196f4d686805dd2346b6008e0841b&v=4"
 description: "javascript | typescript | Angular | c++ | HTML | CSS | jquery | Git"
 ---
 

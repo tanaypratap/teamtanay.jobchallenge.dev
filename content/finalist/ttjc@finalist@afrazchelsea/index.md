@@ -3,10 +3,10 @@ title: Afraz Momin
 type: "finalist"
 name: "Afraz Momin"
 portfolio: "http://afrazmomin.netlify.com"
-github-link: "https://github.com/afrazchelsea"
-linkedin-link: "https://linkedin.com/in/afrazm7"
-looking-for: "learning"
-image-link: "https://avatars2.githubusercontent.com/u/41325430?s=460&u=ac6b113e1f76eced62577cc70bec80301d4fdf13&v=4"
+github_link: "https://github.com/afrazchelsea"
+linkedin_link: "https://linkedin.com/in/afrazm7"
+looking_for: "learning"
+image_link: "https://avatars2.githubusercontent.com/u/41325430?s=460&u=ac6b113e1f76eced62577cc70bec80301d4fdf13&v=4"
 description: "JavaScript | React | NodeJS"
 ---
 

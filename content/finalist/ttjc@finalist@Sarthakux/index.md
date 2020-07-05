@@ -3,10 +3,10 @@ title: Sarthakux
 type: "finalist"
 name: "Sarthak Yadav"
 portfolio: "https://sy-portfolio1.netlify.app"
-github-link: "https://github.com/Sarthakux"
-linkedin-link: "https://www.linkedin.com/in/sarthak-yadav-95a114184/"
-looking-for: "job"
-image-link: "https://avatars0.githubusercontent.com/u/63919768?s=400&u=357fe27ec8fba63c7ee25690b09d79d4db0cf73f&v=4"
+github_link: "https://github.com/Sarthakux"
+linkedin_link: "https://www.linkedin.com/in/sarthak-yadav-95a114184/"
+looking_for: "job"
+image_link: "https://avatars0.githubusercontent.com/u/63919768?s=400&u=357fe27ec8fba63c7ee25690b09d79d4db0cf73f&v=4"
 description: "  HTML | CSS | Javascript| React Javascript"
 ---
 

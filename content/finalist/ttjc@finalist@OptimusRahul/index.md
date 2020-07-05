@@ -3,10 +3,10 @@ title: OptimusRahul
 type: "finalist"
 name: "Rahul Srivastava"
 portfolio: "https://rahul-srivastava-portfolio.netlify.app/"
-github-link: "https://github.com/OptimusRahul"
-linkedin-link: "https://www.linkedin.com/in/rahul-srivastava-059930156/"
-looking-for: "job"
-image-link: "https://avatars2.githubusercontent.com/u/25546644?s=460&u=805be038999803b3db2052a1a5ea23effdd9986c&v=4"
+github_link: "https://github.com/OptimusRahul"
+linkedin_link: "https://www.linkedin.com/in/rahul-srivastava-059930156/"
+looking_for: "job"
+image_link: "https://avatars2.githubusercontent.com/u/25546644?s=460&u=805be038999803b3db2052a1a5ea23effdd9986c&v=4"
 description: "React | Node | Angular | Java"
 ---
 

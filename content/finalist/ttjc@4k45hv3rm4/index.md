@@ -3,9 +3,9 @@ title: Akash Verma
 type: "finalist"
 name: "Akash Verma"
 portfolio: "https://akashverma.netlify.app/"
-github-link: "https://github.com/4k45hv3rm4"
-linkedin-link: "https://www.linkedin.com/in/akash-verma-8473a6151/"
-looking-for: "Internship | Job"
+github_link: "https://github.com/4k45hv3rm4"
+linkedin_link: "https://www.linkedin.com/in/akash-verma-8473a6151/"
+looking_for: "Internship | Job"
 description: " DJANGO | PYTHON |JAVASCRIPT | REACT "
 ---
 
