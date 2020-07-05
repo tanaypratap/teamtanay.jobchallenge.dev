@@ -97,7 +97,7 @@ _description_ In this blog we'll run through a number of important concepts rela
 
 [Destructuring in javascript](https://medium.com/@syedsufi1066/destructuring-in-javascript-8481c3b56ddc)
 
-_description_ Blog about how destructuring work in javascript
+_description_ Blog about how destructuring work in javascript.
 
 [JavaScript Array Methods (forEach, map, some, find, filter & more)](https://medium.com/@syedsufi1066/javascript-array-methods-foreach-map-some-find-filter-more-ff1e50ec3c50)
 
