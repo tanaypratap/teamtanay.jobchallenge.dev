@@ -39,7 +39,7 @@ I have completed the challenge for now and i have realized that there is lot mor
 #### Blog Site
 _description_ A MultiUser Blog Site that let's user put their views on a particular topic as articles or posts and other poeple can view their posts and comment on it . The article content has markdown support too, with tagging and search functionality included.
 
-_stack_ django, Bootstrap , django-markdown, Bootstrap4, django-storages-s3,django-taggit
+_stack_ django , django-markdown, Bootstrap4, django-storages-s3,django-taggit
 
 _hosted link_ http://thegreatblog.herokuapp.com/blog/
 
@@ -48,7 +48,7 @@ _github link_ https://github.com/4k45hv3rm4/dev-journal
 #### Quora clone
 _description_  A quora clone made in django .
 
-_stack_ Django, Bootstrap , python, Bootstrap4
+_stack_ Django , python, Bootstrap4
 
 _hosted link_ https://quora-clone-web.herokuapp.com/home/
 
@@ -91,6 +91,7 @@ _github link_ https://github.com/4k45hv3rm4/Todo_list
 ### Custom User Authentication Using Django
 
 ._description_  Blog includes introduction to django in  a step by step process followed by a small project making a login system .
+
 _hosted link_ https://medium.com/@4k45hr0ck5007/custom-user-authentication-using-django-a23afd7418d5
 
 ### Rest Api's : An Introduction
