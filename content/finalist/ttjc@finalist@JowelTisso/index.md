@@ -1,11 +1,12 @@
 ---
 title: Jowel Tisso
-type: "participant"
+type: "finalist"
 name: "Jowel Tisso"
 portfolio: "joweltissoportfolio.netlify.app"
 github-link: "https://github.com/JowelTisso"
 linkedin-link: "https://www.linkedin.com/in/joweltisso/"
 looking-for: "job"
+image-link: "https://avatars1.githubusercontent.com/u/52632590?s=400&u=591f8558da75762e94b5067612bf3543776e024f&v=4"
 description: "Android Studio | Java | learning Kotlin | learning React | learning JavaScript"
 ---
 
@@ -13,7 +14,7 @@ Hi! I am Jowel Tisso, Android App Developer and Front End Web Developer. Progres
 
 ### introduction
 
-I am 26 years old self taught android developer and front end developer who loves to write and learn codes and understand the fundamentals of programming. I belong from Assam and would love to build my career in IT field.
+I am 26 years old self taught android and front end developer who loves to write and learn codes and understand the fundamentals of programming. I belong from Assam and would love to build my career in IT field.
 
 ## why are you taking this challenge?
 
