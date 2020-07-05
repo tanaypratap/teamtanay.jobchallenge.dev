@@ -2,7 +2,8 @@
 title: Sarulatha Annadurai
 type: "participant"
 name: "Sarulatha Annadurai"
-portfolio: "(empty)"
+
+portfolio: "https://sarulathadurai.netlify.app/"
 github-link: "https://github.com/sarulathadurai"
 linkedin-link: "https://www.linkedin.com/in/sarulatha-annadurai-060226180/"
 looking-for: "internship"
@@ -13,7 +14,13 @@ Hi! I am an aspiring web developer pursuing 3rd year of computer science enginee
 
 ### introduction
 
+
+I am a complete beginner who had always wanted to learn web and app development and the first step I took is to participate in
+job challenge.By participating in this challenge,I can definitely see difference in myself that I can host sites,write blogs and more.Below is the list
+of projects and blogs for this challenge
+
 I would like to enhance my knowledge in web development by learning MERN stack.I can learn things easily and carry out well.I am passionate and will work hard till I reach my destination.
+
 
 ## why are you taking this challenge?
 I would like to work in MERN stack.Though I am a beginner I believe that I could take part in this challenge and complete it successfully that will definitely boost my confidence level.And,I am willing to work as an intern to observe the work environment and learn how to work in a firm.
@@ -35,31 +42,86 @@ I would appreciate if I get someone to clear my doubts and explain me exact tech
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+<<<<<<< HEAD
+=======
 
-My projects: I don't have any projects as of now but I will update it as and when I complete my projects.
+>>>>>>> 5ebb55df908e380cde32abd346bc9c473c8bfe70
+#### Billing App: calculates bill amount
 
-<!#### binder: tinder for books>
+_description_ Can be used in petty shops where there is a need to calculate amount
 
-<!_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.>
+_stack_ Made in React with css.
 
-<!_stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.>
+_hosted link_ https://billsurneed.netlify.app/
 
-<!_hosted link_ https://binder.netlify.com>
+_github link_ https://github.com/sarulathadurai/Billing-.git
 
-<!_github link_ https://github.com/tanaypratap/binder>
-#### another project
+#### Lyric Finder
 
-_description_
+_description_ Can give lyrics for thousands of songs.
 
-_stack_
+_stack_ React,REST api,bootstrap
+
+_hosted link_ https://lyricfinderz.netlify.app/
+
+_github link_ https://github.com/sarulathadurai/LyricFinder.git
+
+### Quiz App
+
+_description_ A quiz app on javascript which may help yourself tune for an interview.
+
+_stack_ React,bootstrap
+
+_hosted link_ https://quiz-in-javascript.netlify.app/
+
+_github link_ https://github.com/sarulathadurai/QuizApp.git
+
+### Dictionary App
+
+_description_ A site where you can get meaning for thousands of words
+
+_stack_ React,bootstrap,google Dictionary Api
+
+_hosted link_ https://findmeaning.netlify.app/
+
+_github link_ https://github.com/sarulathadurai/Dictionary.git
+
+### Weather App
+
+_description_ A site where you can get wheather updates and get weather conditions in any location.
+
+_stack_ React,bootstrap,OpenWeatherMap Api
+
+_hosted link_ https://weathersearcher.netlify.app/
+
+_github link_ https://github.com/sarulathadurai/weather.git
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+### Fetch api using axios and fetch api
 
-#### why I liked GraphQL over REST?
+_description_ Explained how we can work with api in react
 
-<!_description_ I will write something really nice here so that you feel like reading my blog.>
+_hosted link_ https://dev.to/sarulathadurai/fetch-api-using-axios-and-fetch-api-hcc
 
-<!_link_ https://dev.to/some-imaginary-link>
+### How to use map() reduce() and filter() ?
+
+_description_ Explained how to work with arrays in javascript using these methods
+
+_hosted link_ https://dev.to/sarulathadurai/how-to-use-map-reduce-and-filter-373
+
+
+### How to overcome Imposter Syndrome?
+
+_description_ Here I shared my own experience on how I overcame Imposter Syndrome
+
+_hosted link_ https://dev.to/sarulathadurai/how-to-overcome-imposter-syndrome-2p77
+
+
+
+
+
+<<<<<<< HEAD
+_hosted link_ https://dev.to/sarulathadurai/how-to-overcome-imposter-syndrome-2p77
+=======
+>>>>>>> 5ebb55df908e380cde32abd346bc9c473c8bfe70

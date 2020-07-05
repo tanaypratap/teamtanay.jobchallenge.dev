@@ -6,23 +6,22 @@ portfolio: "https://tapanchudasama.netlify.app"
 github-link: "https://github.com/inflame07"
 linkedin-link: "https://linkedin.com/in/inflame"
 looking-for: "job"
-description: "does competitive coding C++|HTML|CSS learning Node.js|MongoDB|Angular"
+description: "Competitive Coding | C++ | Web Development | Node.js | MongoDB | React"
 ---
 
-Hi! My name is Tapan Chudasama. Below you'll get to know more about me and my skills. Also you'll find some projects that I've done.
+Hi! My name is Tapan Chudasama. Below you'll get to know more about me and my skills.
 
 ### introduction
 
-I am a final year CS student. Currently I am doing internship at Cognizant Technology Solutions.
-My areas of expertise include Data Structures, Algorithms and Web Development. I am a fast learner and believer in hard work over talent notion.
+Hi. I am a CS undergrad graduating in 2020. My areas of expertise include Web Development. I also do competitive coding to keep my problem solving skills sharp.
 
 ## why are you taking this challenge
 
-I need an job by the time I finish my internship. Also I want to learn and expand my skill set.
+I need a job in a emerging start-up where I can show my skillset and also learn new and latest technologies to further expand my skillset.
 
 ## something interesting about you
 
-The prospect of how technology can change lives has always fascinated me which is why I took up CS. I also love competitive coding and watching movies.
+The prospect of how technology can change lives has always fascinated me which is why I took up CS. And apart from that I am a Gryffindor.
 
 ### help I need
 
@@ -35,7 +34,7 @@ I want to learn the current trending JS frameworks and it'd be great if someone 
 
 ### projects
 
-Here are all the projects that I have done either by myself to learn some technology or I have done as a part of the college curriculum.
+Here are all the projects that I have done as a part of TeamTanay Job Challenge.
 
 My projects:
 
@@ -49,9 +48,9 @@ _hosted link_ https://yelpcampsite.herokuapp.com/
 
 _github link_ https://github.com/inflame07/webdevbootcamp/tree/master/YelpCamp
 
-#### Simple URL Shortner
+#### Shrinkerr: Simple URL Shortner
 
-_description_ A simple url shortner made using MERN stack.
+_description_ A simple url shortner made using MERN stack. You can either create your own personalized url with custom slug or get a system generated random alphanumeric ID.
 
 _stack_ Front End is served by React.js, Backend by Node.js. And database used is MongoDB.
 
@@ -59,15 +58,35 @@ _hosted link_ https://shrinkerr.herokuapp.com/
 
 _github link_ https://github.com/inflame07/url-shrinker
 
-#### Sudoku Solver
+#### RGB Color Guessing Game
 
-_description_ Sudoku Solver made using backtracking and PyGame in Python
+_description_ A color guessing game with different difficulty modes that gives a random RGB color to guess.
 
-_stack_ Front End is done using PyGame. Back end is done using Python.
+_stack_ React.js
 
-_hosted link_ https://github.com/inflame07/sudoku-solver
+_hosted link_ https://identifycolor.netlify.app/
 
-_github link_ https://github.com/inflame07/sudoku-solver
+_github link_ https://github.com/inflame07/RGB-Color_Guessing_Game
+
+#### Corona Tracker
+
+_description_ A Web App to visualize the situation of Coronavirus in countries all over the world
+
+_stack_ React.js
+
+_hosted link_ https://statometercovid19.netlify.app/
+
+_github link_ https://github.com/inflame07/COVID-19-tracker
+
+#### Numbers Trivia: A chrome extension
+
+_description_ Google Chrome extension that gives you new and intresting trivia about numbers that includes dates or any random number.
+
+_stack_ Node.js
+
+_hosted link_ https://chrome.google.com/webstore/detail/numbers-trivia/hlhgjfmdjomnlhfacokoibjlcmcmgoec?hl=en&authuser=0
+
+_github link_ https://github.com/inflame07/Numbers-Trivia/tree/master
 
 ### blogs
 
@@ -90,3 +109,9 @@ _link_ https://tapanchudasama.netlify.app/backtracking-creating-a-sudoku-solver
 _description_ What are SQL and NoSQL databases and when to use which one
 
 _link_ https://tapanchudasama.netlify.app/sql-or-no-sql
+
+#### How web works
+
+_description_ A detailed note on what happens when you search something in browser
+
+_link_ https://tapanchudasama.netlify.app/what-happens-when-you-search-something-in-your-browser

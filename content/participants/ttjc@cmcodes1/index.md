@@ -5,7 +5,7 @@ name: "Chandra Mohan Pandey"
 portfolio: "https://cmcodes1.github.io"
 github-link: "https://github.com/cmcodes1"
 linkedin-link: "https://linkedin.com/in/cmcodes"
-looking-for: "internship"
+looking-for: "job"
 description: "Analyst | Tech Geek | Developer"
 ---
 
@@ -13,17 +13,18 @@ Welcome to my profile! Scroll down to know more about me!
 
 ### introduction
 
-A professional in the field of IT since the date of birth, who has a great affinity towards everything that's technical; fueled with lots of optimism and self-motivation.
-Wrote a piece of code 7 years ago, it was fun; so that's what I have been doing till date.
+A professional in the field of coding since the date of birth, who has a great affinity towards making useful stuff (mostly with JS); fueled with lots and lots of optimism and self-motivation. 💪
+
+Wrote a piece of code 7 years ago, it was fun; so that’s what I have been doing till date. Also, a huge Marvel fan! 😁
 
 ## why are you taking this challenge?
 
-Looking for an internship.
+Looking for a job.
 
 ## something interesting about you?
 
-Participated in many inter-college competitive coding competitions and always ranked in top 3.
-I lead a community of 5k+ developers. Have a following of 35k+ in total.
+Going hard on mobile app dev with React Native.
+I lead a community of 8k+ developers.
 
 ### help I need?
 
@@ -43,40 +44,28 @@ It would be good if someone tells me how to do auth for apps.
 
 My projects:
 
-#### Cm Calculator
+#### Meme-Maker
 
-_description_ Cm Calculator is a modern console app which provides standard calculator functionality.
+_description_ Do you like memes? Who doesn't? Use this webapp to select a meme and insert a caption. Now, you can be a memer too :D
 
-_stack_ Written in Visual Basic using .NET framework.
+_stack_ HTML, CSS, JS (React)
 
-_github link_ https://github.com/cmcodes1/Cm-Calculator-2.0
+_github link_ https://github.com/cmcodes1/Meme-Maker
 
-#### The Indians Job
+_hosted link_ https://cmcodes-mememaker.netlify.app/
 
-_description_ A website (basically a blog) which provides info about Indian tech companies, trending technologies, soft skills, and interview FAQs.
+#### InstaScrapper
 
-_stack_ Written in HTML, CSS and JS.
+_description_ A web scraping CLI tool for Instagram profiles.
 
-_hosted link_ https://theindiansjob.blogspot.com 
+_stack_ Node.js
 
-_github link_ https://github.com/cmcodes1/The-Indians-Job-Blog
-
-#### Book Shop Management System
-
-_description_ This project provides facilities for the retail book shop to maintain records of the books and also search, display, modification, delete the available books.
-
-_stack_ Written in C++.
-
-_github link_ https://github.com/cmcodes1/Book-Shop-Management-System
-
-#### Electricity-Bill-System
-
-_description_ This project generates the electricity bill for a user.
-
-_stack_ Written in C++.
-
-_github link_ https://github.com/cmcodes1/Electricity-Bill-System
+_github link_ https://github.com/cmcodes1/InstaScraper
 
 ### blogs
 
-Nothing to show here yet! I will update this section when done.
+#### How to prepare for placements (and a good package 😉) ?
+
+_description_ Sharing the tips and resources I used to crack interviews at many big IT companies of India.
+
+_blog link_ https://medium.com/@cmcodes/how-to-prepare-for-placements-and-a-good-package-9e4146d68437

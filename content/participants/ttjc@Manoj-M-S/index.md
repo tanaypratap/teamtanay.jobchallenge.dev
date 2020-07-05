@@ -34,6 +34,7 @@ It would be good if someone can guide me in frontend, backend and database secti
 ### projects
 
 
+
 ### Art Ecommerce website :
    I have built a Art Ecommerce website, where in user can signup, login and add products to cart and buy the products in the cart. Admin can add/Edit/Delete Products and Categories.
    Login as Admin to see complete functionalities, Email: msm@gmail.com , Password: MSMaa .
@@ -47,6 +48,24 @@ It would be good if someone can guide me in frontend, backend and database secti
 [Netlify](https://art-website.netlify.app/)
 
 ### Instagram Clone website :
+=======
+2. Art Ecommerce website :
+
+   I have built a Art Ecommerce website, where in user can signup, login and add products to cart and buy the products in the cart. Admin can add/Edit/Delete Products and Categories.
+   Login as Admin to see complete functionalities, Email: msm@gmail.com , Password: MSMaa
+   Technologies used:
+   *Frontend : React JS
+   *Backend : Node JS, Express
+   *Database: Mongodb
+
+
+[Github](https://github.com/Manoj-M-S/Art-client)
+[Github](https://github.com/Manoj-M-S/Art-server)
+[Netlify](https://art-website.netlify.app/)
+
+
+3. Instagram Clone website :
+
    I have built a Instagram Clone website, with few features of Instagram, where in user can signup, login and create/edit/delete his/her Posts, Follow users, and view their posts.
 #### Technologies used:
    - Frontend : React JS
@@ -90,6 +109,21 @@ It would be good if someone can guide me in frontend, backend and database secti
 
 [Github](https://github.com/Manoj-M-S/Music-Player)
 [Netlify](https://manoj-musicplayer.netlify.app/)
+
+
+
+=======
+5. ChatBuddy:
+   A Real Time Chat web application, in which user can create/join rooms and message with other users in real time.
+   Technologies used :
+   *Reactjs
+   *Nodejs
+   *Express
+   *Socket.io
+
+[Github](https://github.com/Manoj-M-S/ChatBuddy-Client)
+[Github](https://github.com/Manoj-M-S/ChatBuddy-Server)
+[Netlify](https://manoj-chatbuddy.netlify.app/)
 
 
 

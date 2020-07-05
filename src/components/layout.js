@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import { rhythm, scale, background } from "../utils/typography"
 
-const Layout = ({ location, title, children, subtitle, siteTitle }) => {
+const Layout = ({ location, title, children, subtitle, siteTitle, numberOfParticipants }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
 
@@ -53,7 +53,11 @@ const Layout = ({ location, title, children, subtitle, siteTitle }) => {
           textAlign: "center",
         }}
       >
-        {title}
+        {title} 
+        {/* Display the number of particpants */}
+        {numberOfParticipants &&
+          <span>({numberOfParticipants})</span>
+        }
       </h2>
     )
   }
