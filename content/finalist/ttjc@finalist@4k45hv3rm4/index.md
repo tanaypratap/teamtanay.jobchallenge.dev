@@ -6,6 +6,7 @@ portfolio: "https://akashverma.netlify.app/"
 github-link: "https://github.com/4k45hv3rm4"
 linkedin-link: "https://www.linkedin.com/in/akash-verma-8473a6151/"
 looking-for: "Internship | Job"
+image-link: "https://avatars1.githubusercontent.com/u/30963535?s=400&u=f4c3e0d9f280b26f84243f53eb3551f980137933&v=4"
 description: " DJANGO | PYTHON |JAVASCRIPT | REACT "
 ---
 
@@ -13,7 +14,7 @@ Hi! I am Akash Verma studying at St. Mary's Group of Institutions Hyderabad (JNT
 
 ### introduction
 
-I am a Fourth year Computer Science Student and Tech enthusiast skilled in Python, Django , Javascript . MY Journey in this #TTJC Challenge has been awesome , It's like a guy who could not deploy a single web app on heroku to filling all the clusters available in mmy free heroku account . I Love when a web app made by me get's live . It motivates me to do more ...
+I am a Final year Computer Science Student and Tech enthusiast skilled in Python, Django , Javascript . My Journey in this #TTJC Challenge has been awesome , It's like a guy who could not deploy a single web app on heroku to filling all the clusters available in my free heroku account . I Love when a web app made by me get's live . It motivates me to do more ...
 
 ## why are you taking this challenge?
 
@@ -22,7 +23,7 @@ I want to work with mentors and community to get knowledge about new technologie
 
 ## something interesting about you?
 
-I'm an avid book reader and highly interseted in reading biographies as i get to learn from the failures of others.
+I'm an avid book reader and highly intrested in reading biographies as I get to learn from the failures of others.
 
 ### help I need?
 
@@ -36,7 +37,7 @@ I have completed the challenge for now and i have realized that there is lot mor
 ### projects
 
 #### Blog Site
-_description_ This is a MultiUser Blog Site that let's user put their views on a particular topic as articles or posts and other poeple can view their posts and comment on it . The article content has markdown support too.
+_description_ A MultiUser Blog Site that let's user put their views on a particular topic as articles or posts and other poeple can view their posts and comment on it . The article content has markdown support too, with tagging and search functionality included.
 
 _stack_ django, django-markdown, Bootstrap4, django-storages-s3,django-taggit
 
@@ -45,7 +46,7 @@ _hosted link_ http://thegreatblog.herokuapp.com/blog/
 _github link_ https://github.com/4k45hv3rm4/dev-journal
 
 #### Quora clone
-_description_  This is a quora clone made in django
+_description_  A quora clone made in django.
 
 _stack_ Django, python, Bootstrap4
 
@@ -54,7 +55,7 @@ _hosted link_ https://quora-clone-web.herokuapp.com/home/
 _github link_ https://github.com/4k45hv3rm4/quora-clone
 
 #### Freshily E-commerce
-_description_ A E-commerce website listing the fruits and vegetables for sale with cart checkout functionality and payment integration using Braintree.
+_description_ An E-commerce website listing the fruits and vegetables for sale with cart checkout functionality and payment integration using Braintree.
 
 _stack_ Django, django-sessions, Braintree
 
@@ -63,7 +64,6 @@ _hosted link_ https://freshily-web.herokuapp.com/
 _github link_ https://github.com/4k45hv3rm4/freshily-web
 
 #### Personal Blog Site
-
 _description_ This is Blog site I made where I share  articles related to technology and other stuff. This site has full-text search functionality as well as tagging functionality , also the content supports markdown.
 
 _stack_ django, django-taggit, django-markdown
@@ -75,7 +75,7 @@ _github link_ https://github.com/4k45hv3rm4/web_blog
 
 
 #### Tasko-Listo
-_description_ This is a muti user todo app that i made using django , so that users not can list their daily todo's but can also keep track of it and delete it when task is done .
+_description_ This is a muti user todo app that i made using django , so that users not can list their daily todo's but can also keep track of it and delete it when task is done .It has also a login/Signup feature implemented so that people may not miss out their task.
 
 _stack_ Django
 
