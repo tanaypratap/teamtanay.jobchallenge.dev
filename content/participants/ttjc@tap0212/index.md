@@ -3,9 +3,9 @@ title: Tapan Awasthi
 type: "participant"
 name: "Tapan Awasthi"
 portfolio: "https://tapanawasthi.dev"
-github-link: "https://github.com/tap0212"
-linkedin-link: "https://www.linkedin.com/in/tapan-awasthi02/"
-looking-for: "job/internship"
+github_link: "https://github.com/tap0212"
+linkedin_link: "https://www.linkedin.com/in/tapan-awasthi02/"
+looking_for: "job/internship"
 image_link: "https://avatars2.githubusercontent.com/u/40211415?s=460&u=794004e6b714e9f9570bc3e29b5e3280faafde54&v=4"
 description: "An Opportunist, a Believer and a Tech Enthusiast"
 ---
