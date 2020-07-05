@@ -2,9 +2,9 @@
 title: Manoj M S
 type: "finalist"
 name: "Manoj M S"
-github-link: "https://github.com/Manoj-M-S"
-linkedin-link: "https://www.linkedin.com/in/manoj-m-s"
-looking-for: "job"
+github_link: "https://github.com/Manoj-M-S"
+linkedin_link: "https://www.linkedin.com/in/manoj-m-s"
+looking_for: "job"
 image_link: "https://avatars3.githubusercontent.com/u/59591622?s=460&u=225b5e52ad5989534420b4a49a05bf919851c5e6&v=4"
 description: "self-taught developer, Skills: | HTML | CSS | Javascript | React JS | Node.js "
 ---
