@@ -6,7 +6,7 @@ portfolio: "https://lakshayyadav.me/"
 github-link: "https://github.com/Lucky0108"
 linkedin-link: "https://www.linkedin.com/in/lakshay-yadav/"
 looking-for: "internship"
-image-link: "https://avatars1.githubusercontent.com/u/52318871?s=460&u=fff28514f7980292a70512f4e003e45df3a8faba&v=4
+image-link: "https://avatars1.githubusercontent.com/u/52318871?s=460&u=fff28514f7980292a70512f4e003e45df3a8faba&v=4"
 description: "HTML | CSS | JS | React"
 ---
 
