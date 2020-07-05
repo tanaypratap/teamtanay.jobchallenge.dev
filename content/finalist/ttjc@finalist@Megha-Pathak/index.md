@@ -77,7 +77,7 @@ This is a Privacy card game to educate internet newbies about CyberSecurity in a
 
 - [**github link**](https://github.com/Megha-Pathak/Hacket) 
 
-![DEMO](https://git.io/JJk1v)
+![DEMO](https://git.io/JJkp9)
 
 
 ### Tracc - Personal Expense Tracker
@@ -117,7 +117,7 @@ _description_ Blaze helps you understand which muscle(s) is being targeted durin
 
 - [**github link**](https://github.com/Megha-Pathak/Blaze) 
 
-![DEMO](https://git.io/JJk1O)
+![DEMO](https://git.io/JJkpH)
 
 
 
