@@ -1,12 +1,11 @@
 ---
 title: Abhiram Reddy
-type: "finalist"
+type: "participant"
 name: "Abhiram Reddy"
 portfolio: "https://abhiramreddy.netlify.app/"
 github-link: "https://github.com/nrabhiram"
 linkedin-link: "https://linkedin.com/in/tanaypratap"
 looking-for: "job"
-image-link: "https://media-exp1.licdn.com/dms/image/C5603AQFYdU_qNBpPYQ/profile-displayphoto-shrink_200_200/0?e=1598486400&v=beta&t=Wl5ltoM1oIVNo4rIPWwbW_qHeZ1gvW0crsSMrPKN228"
 description: "HTML | CSS | Javscript | React | Node"
 ---
 
