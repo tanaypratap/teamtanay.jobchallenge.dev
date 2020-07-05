@@ -23,7 +23,7 @@ I want to work with mentors and community to get knowledge about new technologie
 
 ## something interesting about you?
 
-I'm an avid book reader and highly intrested in reading biographies as I get to learn from the failures of others.
+I'm an avid book reader and highly interested in reading biographies as I get to learn from the failures of others.
 
 ### help I need?
 
@@ -75,7 +75,7 @@ _github link_ https://github.com/4k45hv3rm4/web_blog
 
 
 #### Tasko-Listo
-_description_ This is a muti user todo app that i made using django , so that users not can list their daily todo's but can also keep track of it and delete it when task is done .It has also a login/Signup feature implemented so that people may not miss out their task.
+_description_ This is a muti user todo app that i made using django , so that users not can list their daily todo's but can also keep track of it and delete it when task is done .It also has a login/Signup feature implemented so that people may not miss out their task.
 
 _stack_ Django
 
