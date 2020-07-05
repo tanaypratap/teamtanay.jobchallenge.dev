@@ -65,7 +65,7 @@ My projects:
 
 Project was mainly focussed on exploring react and PWA, A Progressive Web App based on Breaking Bad Character Display with few added features. All the criteria has met for PWA and is mobile friendly.
 
-**_Stacks_** React
+**_Stacks_** React,HTML5,CSS3, Hosted in Netlify
 
 - [**_hosted link_**](https://iamtheonewhoknocks.netlify.app/)
 
@@ -75,7 +75,7 @@ Project was mainly focussed on exploring react and PWA, A Progressive Web App ba
 
 An eCommerce website for vegetables, the focus was mainly on creating E2E application and I was really happy looking at the end project. The project has signing, register, listing, cart, payment process steps. Through this project, I got the opportunity to explore more on backend NodeJS, ExpressJS, and MongoDB. The hosting of the project is done in the Heroku Platform.
 
-**_Stacks_** React,NodeJS,ExpressJS and MongoDB
+**_Stacks_** React,NodeJS,ExpressJS and MongoDB,HTML5,CSS3,WebPack
 _platform_ Heroku
 
 - [**_hosted link_**](https://farm2wohome.herokuapp.com/)
