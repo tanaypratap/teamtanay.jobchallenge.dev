@@ -1,6 +1,6 @@
 ---
 title: Tapan Awasthi
-type: "participant"
+type: "finalist"
 name: "Tapan Awasthi"
 portfolio: "https://tapanawasthi.dev"
 github_link: "https://github.com/tap0212"
@@ -138,8 +138,6 @@ A production level application must be always tried and tested thoroughly so I n
   _Stack_  `React.js`
 
   [hosted link](https://tapanawasthi.dev/)
-
-
 
 
 
