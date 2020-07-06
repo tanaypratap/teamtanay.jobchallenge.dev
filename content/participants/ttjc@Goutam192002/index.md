@@ -18,7 +18,7 @@ I am tech enthusiast. It started with a curiosity to explore what I can do with 
 
 ## why are you taking this challenge?
 
-I want to build a good work portfolio, also actively looking for a job.
+I want a intership/part-time work.
 
 ## something interesting about you?
 
@@ -37,7 +37,9 @@ I'm good for now :)
 not a lot of projects are done. I will keep updating it with real links when done.
 
 My projects:
-1)
+1) Tic-Tac-Toe AI
+Built a Tic-Tac-Toe AI in python. It is a player vs computer game, the AI uses an implementation of minimax algorithm to decide it's best move.
+Project Link: https://github.com/Goutam192002/tictactoe-AI
 
 2)
 
