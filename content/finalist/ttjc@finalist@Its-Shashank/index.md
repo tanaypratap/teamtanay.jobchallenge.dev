@@ -1,6 +1,6 @@
 ---
 title: Shashank Gaur
-type: "participant"
+type: "finalist"
 name: "Shashank Gaur"
 portfolio: "Updating this soon"
 github-link: "https://github.com/Its-Shashank"
