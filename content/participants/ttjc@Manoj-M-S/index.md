@@ -8,11 +8,11 @@ looking-for: "job"
 description: "self-taught developer, Skills: | HTML | CSS | Javascript | React JS | Node.js "
 ---
 
-Hello there! I am Manoj M S, A self-taught Web developer. Let me walk you through my intro, projects and blogs.
+Hello there! I am Manoj M S, 22 years old full stack developer from Bengaluru. Let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-I come from a different background, I did my B.E in Mechatronics Engineering, I started developing interest in web development and started learning it. Thanks to Tanay and few others, today I have some basic understanding of how web works and have built some projects.
+I come from a different background, I did my B.E in Mechatronics Engineering, I started developing interest in web development and started learning it. Thanks to Tanay and few others, today I have good understanding of how web works and have built projects.
 
 ## why are you taking this challenge?
 
@@ -95,11 +95,14 @@ It would be good if someone can guide me in frontend, backend and database secti
 
 ### blogs
 
-1. [How to Fix useEffect Hook executing in an endless loop?] (https://dev.to/manojms/how-to-fix-useeffect-hook-executing-in-an-endless-loop-1oga) 
-  - This Blog is about how to Fix the React Hook, useEffect executing in an endless loop.
+### 1. How to Fix useEffect Hook executing in an endless loop? 
+  - This article is about React useEffect hook. It discusses how useEffect hook works and how to solve the issue of useEffect hook executing in an endless loop. 
+    [Read More] (https://dev.to/manojms/how-to-fix-useeffect-hook-executing-in-an-endless-loop-1oga) 
 
-2. [Create a basic React Project by implementing React-Router within 10 mins] (https://dev.to/manojms/create-a-basic-react-project-by-implementing-react-router-within-10-mins-pl5)
-  - This Blog is about creating basic React project, by implementing React-Router within 10 mins.
+### 2. Create a basic React Project by implementing React-Router within 10 mins 
+  - This Blog is a tutorial for Reactjs beginners on how to build a basic Reactjs project by implementing React-Router.
+    [Read More ] (https://dev.to/manojms/create-a-basic-react-project-by-implementing-react-router-within-10-mins-pl5)
 
-3. [Basic Git Commands] (https://dev.to/manojms/basic-git-commands-jkp)
-  - This Blog is about Basic Git Commands.
+### 3. Basic Git Commands 
+  - This article is for anyone new to Git. It discusses some of the Basic git commands to get started with git and steps to create their first repository.
+    [Read More] (https://dev.to/manojms/basic-git-commands-jkp)
