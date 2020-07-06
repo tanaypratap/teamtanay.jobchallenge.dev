@@ -36,10 +36,12 @@ I'm good for now :)
 
 not a lot of projects are done. I will keep updating it with real links when done.
 
-My projects:
-1) Tic-Tac-Toe AI
-Built a Tic-Tac-Toe AI in python. It is a player vs computer game, the AI uses an implementation of minimax algorithm to decide it's best move.
-Project Link: https://github.com/Goutam192002/tictactoe-AI
+###Projects
+
+### Tic-Tac-Toe AI
+_description_ Built a Tic-Tac-Toe AI in python. It is a player vs computer game, the AI uses an implementation of minimax algorithm to decide it's best move.
+
+_github link_ https://github.com/Goutam192002/tictactoe-AI
 
 2)
 
