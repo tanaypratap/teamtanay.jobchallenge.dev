@@ -2,7 +2,7 @@
 title: Bhavesh Kasturi
 type: "finalist"
 name: "Bhavesh Kasturi"
-portfolio: "https://bhaveshkasturi.herokuapp.com/"
+portfolio: "https://bhaveshkasturi.netlify.app/"
 github_link: "https://github.com/duhbhavesh"
 linkedin_link: "https://linkedin.com/in/bhavesh-kasturi"
 looking_for: "job"
