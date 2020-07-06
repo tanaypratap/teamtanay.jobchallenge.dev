@@ -2,7 +2,7 @@
 title: Jowel Tisso
 type: "finalist"
 name: "Jowel Tisso"
-portfolio: "joweltissoportfolio.netlify.app"
+portfolio: "https://joweltissoportfolio.netlify.app"
 github_link: "https://github.com/JowelTisso"
 linkedin_link: "https://www.linkedin.com/in/joweltisso/"
 looking_for: "job"

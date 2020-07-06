@@ -3,9 +3,9 @@ title: Jowel Tisso
 type: "participant"
 name: "Jowel Tisso"
 portfolio: "joweltissoportfolio.netlify.app"
-github_link: "https://github.com/JowelTisso"
-linkedin_link: "https://www.linkedin.com/in/joweltisso/"
-looking_for: "job"
+github-link: "https://github.com/JowelTisso"
+linkedin-link: "https://www.linkedin.com/in/joweltisso/"
+looking-for: "job"
 description: "Android Studio | Java | learning Kotlin | learning React | learning JavaScript"
 ---
 
