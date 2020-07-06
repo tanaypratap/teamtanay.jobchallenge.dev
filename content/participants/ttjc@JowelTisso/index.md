@@ -3,9 +3,9 @@ title: Jowel Tisso
 type: "participant"
 name: "Jowel Tisso"
 portfolio: "joweltissoportfolio.netlify.app"
-github-link: "https://github.com/JowelTisso"
-linkedin-link: "https://www.linkedin.com/in/joweltisso/"
-looking-for: "job"
+github_link: "https://github.com/JowelTisso"
+linkedin_link: "https://www.linkedin.com/in/joweltisso/"
+looking_for: "job"
 description: "Android Studio | Java | learning Kotlin | learning React | learning JavaScript"
 ---
 
@@ -35,7 +35,7 @@ It would be helpful if someone can help me in android Studio and React.
 
 ### Projects
 
-Projects that i have completed during the job challenge :
+Projects that I have completed during the job challenge :
 
 ### TTJC Participants App: It is a ttjc participants analysis app
 

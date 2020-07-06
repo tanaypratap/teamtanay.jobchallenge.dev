@@ -3,10 +3,10 @@ title: Jowel Tisso
 type: "finalist"
 name: "Jowel Tisso"
 portfolio: "joweltissoportfolio.netlify.app"
-github-link: "https://github.com/JowelTisso"
-linkedin-link: "https://www.linkedin.com/in/joweltisso/"
-looking-for: "job"
-image-link: "https://avatars1.githubusercontent.com/u/52632590?s=400&u=591f8558da75762e94b5067612bf3543776e024f&v=4"
+github_link: "https://github.com/JowelTisso"
+linkedin_link: "https://www.linkedin.com/in/joweltisso/"
+looking_for: "job"
+image_link: "https://avatars1.githubusercontent.com/u/52632590?s=400&u=591f8558da75762e94b5067612bf3543776e024f&v=4"
 description: "Android Studio | Java | learning Kotlin | learning React | learning JavaScript"
 ---
 
@@ -36,7 +36,7 @@ It would be helpful if someone can help me in android Studio and React.
 
 ### Projects
 
-Projects that i have completed during the job challenge :
+Projects that I have completed during the job challenge :
 
 ### TTJC Participants App: It is a ttjc participants analysis app
 
