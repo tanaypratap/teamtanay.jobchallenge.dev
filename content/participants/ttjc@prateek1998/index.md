@@ -57,15 +57,14 @@ _hosted link_ https://currencychanger.netlify.app
 
 _github link_ https://github.com/prateek1998/currency_converter.git
 
-#### Corona Earth -3d live
+<!-- #### Corona Earth -3d live
 _description_ In this web site,you will get live status of the corona virus which is spreading in different countries. When you open this website  there is a earth which is to our globe and you can easily data update using your swipe. I am using fetch Api which helps me to get live data. 
 
 _stack_ Made in React and CSS,globe.js
 
 _hosted link_ https://coronaearth.netlify.app
 
-_github link_ https://github.com/prateek1998/coronaearth.git
-
+_github link_ https://github.com/prateek1998/coronaearth.git -->
 #### Color Picker App
 _description_ In this web site,you will get more attractive color which is easily available in this website. Best part of this website, is that you can direct copied any color in the form of hex and rub code which is easily acceptable by browser or anything. 
 
@@ -76,9 +75,28 @@ _hosted link_ https://uipicker.netlify.app/
 _github link_ https://github.com/prateek1998/color-picker.git
 
 
+#### Shopping List App
+
+_description_ In this web app, user can add there products in the list which is totally based on nodejs. Best part of this website is that all the data is saved in database so if you saved any data so you can easily access this data anywhere using internet. 
+
+_stack_ Express, Sql and NodeJs
+
+_hosted link_ https://todosave.herokuapp.com
+
+_github link_ https://github.com/prateek1998/todoapp
+
+#### Weather App 
+
+_description_ In this weather app, user can search their area weather using search bar and best part of this web app is that the background image is changed according to the temperature value like if the temp is above 30•c then some bright colors images is shown and if temp is low then some another image is shown. 
+
+_stack_ React fetching data using openweatherapi and css
+
+_hosted link_ https://tempzone.netlify.app/
+
+_github link_ https://github.com/prateek1998/weatherReactapp
 
 
-#### Portfolio Website
+<!-- #### Portfolio Website
 
 _description_ It is the portfilio website in which I show case my all the project which i have made in this challenge or in the past.Best part of this website is that it is totally made using Gastby,React and little bit of Css.
 
@@ -86,8 +104,7 @@ _stack_ Gastby and React
 
 _hosted link_ https://prateeksaini.me
 
-_github link_ https://github.com/codetech98/simplefolio.git
-
+_github link_ https://github.com/codetech98/simplefolio.git -->
 
 ### blogs
 
