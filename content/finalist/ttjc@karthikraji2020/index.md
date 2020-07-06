@@ -140,16 +140,6 @@ gitlink :[githubLink](https://github.com/karthikraji2020/uiquizapp)
 ## Tech Stack
  Angular
 
-# 6) shortly
-_description_  shortly is a url shortener.with data visualization.*only backlend completed*.
-gitlink :[githubLink](https://github.com/karthikraji2020/shortly)
-
-## Tech Stack
-1. nodejs 
-2. JWT (Json -web token) authentication
-
-
-
 ### blogs
 #### Json Web Token 
 _description_ Explained the structure of JWT 
