@@ -10,7 +10,7 @@ image_link: "https://avatars2.githubusercontent.com/u/56935638?s=400&u=6eace63be
 description: " Reactjs | HTML | CSS | Nodejs | mongoDB | Bootstrap | JavaScript | Python3 "
 ---
 
-Bonjour! I am Tarun Yadav an software engineer.
+Bonjour! I am Tarun Yadav a software engineer.
 
 ### introduction
 
