@@ -113,3 +113,8 @@ _description_ In this blog i have written about react js what i have learned whi
 
 _link_ https://dev.to/adityasharan01/react-js-in-simple-terms-il8
 
+#### 7 Useful Websites that you wish You knew them earlier
+
+_description_ In this blog i have written about websites that are quite good to have a look and some are very useful for incraesing prouctivity and some are life hacks website.
+
+_link_ https://dev.to/adityasharan01/7-useful-websites-that-you-wish-you-knew-them-earlier-2cfg
