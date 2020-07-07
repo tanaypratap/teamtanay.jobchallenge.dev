@@ -2,9 +2,10 @@
 title: Anand Kumar Jha
 type: "participant"
 name: "Anand Jha"
-portfolio: 
+portfolio: http://developer-anand.github.io/
 github-link: "https://github.com/developer-anand"
-linkedin-link: "https://linkedin.com/in/anand-jha-357679183"
+linkedin-link: "https://www.linkedin.com/in/-developer-anand/"
+twitter: "https://twitter.com/_anand__jha"
 looking-for: "internship"
 description: "Knowledge of c++, java and CSS/HTML learning React"
 ---
@@ -12,17 +13,16 @@ description: "Knowledge of c++, java and CSS/HTML learning React"
 Hi! I am Anand let me walk you through my intro, projects and blogs.
 
 ### introduction
-
+Hii i am Anand 
 I am always excited to learn and apply.
 
 ## why are you taking this challenge?
 
-I need an internship in june 2020.
-I want to learn.
+I want internship.
 
 ## something interesting about you?
 
-I love to learn new skills.
+I love to learn and explore new skills.
 
 ### help I need?
 
@@ -36,11 +36,77 @@ It would be good if someone helps me in API how to use them and connect with web
 ### projects
 
 My projects:
+I have made some projects to showcase my skills and currently working on some projects i will update here soon.
 
-I'm working on it soon project's will be here
+#### Recipes: find your interested recipe 
+
+_description_ do you wish to cook something and you don't know how recipe? let's search here.
+
+_stack_ Made in javascript with html and css.
+
+_hosted link_ https://search-all-recipes.herokuapp.com/
+
+_github link_ https://github.com/developer-anand/recipes
+
+#### Expense-Tracker: track your all expenses and income
+
+_description_ do you want to know where you spending your money? Let's track here.
+
+_stack_ Made in javascript with html and css.
+
+_hosted link_ https://expense-tracker-application.netlify.app/
+
+_github link_ https://github.com/developer-anand/expense-tracker
+
+#### Weather-Application: Know the weather in your city.
+
+_description_ Do you want to know what's the temperature in your city? let's search here.
+
+_stack_ Made in Vue js html and css and i used weather api
+
+_hosted link_ https://weather-updates-app.netlify.app/
+
+_github link_ https://github.com/developer-anand/weather-app
+
+#### Quiz-game
+
+_description_ let's play the quiz game and increase your knowledge of computer science.
+
+_stack_ Made in javascript with html and css
+
+_hosted link_ https://dev-quiz-game.netlify.app/
+
+_github link_ https://github.com/developer-anand/quiz-game
+
+#### Todo's-Application
+
+_description_ do you wish to remember what to do today? let's add all your work here.
+
+_stack_ Made in javascript with html and css
+
+_hosted link_ https://github.com/developer-anand/To_Do_Application
+
+_github link_ https://github.com/developer-anand/To_Do_Application
 
 ### blogs
-_link_: https://cyberajworld.blogspot.com
 
-I wrote this blog for fun the important blog will be soon updated.
-same as projects, I will keep updating my blogs as and when done.
+I have wriiten some blogs i love to write blogs. I will keep updating my blogs.
+
+#### Learn Basics of Markdown
+
+_description_ I learned markdown and i found it very interesting that's why i have written it. Hope you will like it.
+
+_link_ https://dev.to/developer_anand/learn-basic-markdown-33nl
+
+#### ALL YOU NEED TO START WITH COMMAND LINE
+
+_description_ I have written something good. Hope you will like it.
+
+_link_ https://dev.to/developer_anand/all-you-need-to-started-with-command-line-4347
+
+#### COMPETITIVE PROGRAMMING
+
+_description_ I wrote this blog on the basis of my experience. Hope you will like it.
+
+_link_ https://dev.to/developer_anand/competitive-programming-20e4
+
