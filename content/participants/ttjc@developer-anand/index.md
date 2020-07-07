@@ -1,6 +1,6 @@
 ---
 title: Anand Kumar Jha
-type: "finalist"
+type: "participant"
 name: "Anand Jha"
 portfolio: http://developer-anand.github.io/
 github-link: "https://github.com/developer-anand"
