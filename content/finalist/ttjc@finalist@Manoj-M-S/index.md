@@ -98,12 +98,12 @@ It would be good if someone can guide me in frontend, backend and database secti
 
 ### 1. How to Fix useEffect Hook executing in an endless loop? 
   - This article is about React useEffect hook. It discusses how useEffect hook works and how to solve the issue of useEffect hook executing in an endless loop. 
-    [Read More] (https://dev.to/manojms/how-to-fix-useeffect-hook-executing-in-an-endless-loop-1oga) 
+   [Read More](https://dev.to/manojms/how-to-fix-useeffect-hook-executing-in-an-endless-loop-1oga) 
 
 ### 2. Create a basic React Project by implementing React-Router within 10 mins 
   - This Blog is a tutorial for Reactjs beginners on how to build a basic Reactjs project by implementing React-Router.
-    [Read More ] (https://dev.to/manojms/create-a-basic-react-project-by-implementing-react-router-within-10-mins-pl5)
+   [Read More ](https://dev.to/manojms/create-a-basic-react-project-by-implementing-react-router-within-10-mins-pl5)
 
 ### 3. Basic Git Commands 
-  - This article is for anyone new to Git. It discusses some of the Basic git commands to    get started with git and steps to create their first repository.
-    [Read More] (https://dev.to/manojms/basic-git-commands-jkp)
+  - This article is for anyone new to Git. It discusses some of the Basic git commands to get started with git and steps to create their first repository.
+   [Read More](https://dev.to/manojms/basic-git-commands-jkp)
