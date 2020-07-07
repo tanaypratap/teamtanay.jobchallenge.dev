@@ -26,7 +26,7 @@ I love to learn and explore new skills.
 
 ### help I need?
 
-It would be good if someone helps me in API how to use them and connect with web.
+It would be good if someone helps me backend i not worked with backend and i want to explore.
 
 ### how to contact me?
 
