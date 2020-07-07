@@ -10,7 +10,7 @@ image_link: "https://avatars2.githubusercontent.com/u/33570551?s=460&u=337e1bf49
 description: "Self-learner good at web development, mobile development and working on react "
 ---
 
-Cios! I am Kanishk Gupta a developer, student, and a keen learner. Open source enthusiast and an active contributor to the community. Why wait so let me walk you through my intro and work.
+Ciao! I am Kanishk Gupta a developer, student, and a keen learner. Open source enthusiast and an active contributor to the community. Why wait so let me walk you through my intro and work.
 
 ### introduction 🔏
 
