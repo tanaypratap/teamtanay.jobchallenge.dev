@@ -96,7 +96,7 @@ Applink :[votepollsystem](https://votepollsystem.herokuapp.com/)
 gitlink :[githubLink](https://github.com/karthikraji2020/votepoll-MEAN)
 
 #### DEMO
-![Demo](https://raw.githubusercontent.com/karthikraji2020/votepoll-MEAN/master/assets/images/votePoll.gif)
+![Demo](https://raw.githubusercontent.com/karthikraji2020/votepoll-MEAN/master/src/assets/images/votePoll.gif)
 
 ###### Features
 1. Graphical representation of vote poll data.
