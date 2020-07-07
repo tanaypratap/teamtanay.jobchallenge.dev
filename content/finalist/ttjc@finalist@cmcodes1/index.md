@@ -1,12 +1,13 @@
 ---
 title: cmcodes
-type: "participant"
+type: "finalist"
 name: "Chandra Mohan Pandey"
 portfolio: "https://cmcodes1.github.io"
-github-link: "https://github.com/cmcodes1"
-linkedin-link: "https://linkedin.com/in/cmcodes"
-looking-for: "job"
+github_link: "https://github.com/cmcodes1"
+linkedin_link: "https://linkedin.com/in/cmcodes"
+looking_for: "job"
 description: "Analyst | Tech Geek | Developer"
+image_link: "https://avatars2.githubusercontent.com/u/34341671?s=460&u=73e18d14ad731e271dcb5a16e215cc7cf626721b&v=4"
 ---
 
 A guy who's crazy about React. ⚛
@@ -53,6 +54,8 @@ _description_ A student utility android application.
 _stack_ React Native
 
 _github link_ https://github.com/cmcodes1/Studify
+
+_hosted link_ https://github.com/cmcodes1/Studify/blob/master/app-release.apk
 
 #### cmcodes
 
