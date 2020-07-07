@@ -3,9 +3,9 @@ title: Varen Aggarwal
 type: "finalist"
 name: "Varen Aggarwal"
 portfolio: "https://varenaggarwal.com/"
-github-link: "https://github.com/varenaggarwal"
-linkedin-link: "https://www.linkedin.com/in/varenaggarwal"
-looking-for: "job"
+github_link: "https://github.com/varenaggarwal"
+linkedin_link: "https://www.linkedin.com/in/varenaggarwal"
+looking_for: "job"
 image_link: "https://media-exp1.licdn.com/dms/image/C5603AQFZRcj2HIuXwg/profile-displayphoto-shrink_200_200/0?e=1599696000&v=beta&t=N_Q5rjrrivHpKu4GtO7XJsL9hg2boyUz5wyqOBDXiUI"
 description: "Fullstack Devloper | React | Javascript | Python | AWS "
 
@@ -59,6 +59,7 @@ I love cooking and always ready for some sea food.
 
 ### Screen Recorder 
 - [*Project Link: ​ varenaggarwal.github.io/screenRecorder/​*](https://varenaggarwal.github.io/screenRecorder/)
+- [*Linux Binary: ​ https://github.com/varenaggarwal/screenRecorder/tree/master/out/make*](https://github.com/varenaggarwal/screenRecorder/tree/master/out/make)
 - Created a cross-platform native application for grabbing a choice of window or entire desktop screen and generating a video recording.
 - Tech Stack: JavaScript, HTML/CSS, electron
 
