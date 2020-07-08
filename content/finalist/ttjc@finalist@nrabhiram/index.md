@@ -3,10 +3,10 @@ title: Abhiram Reddy
 type: "finalist"
 name: "Abhiram Reddy"
 portfolio: "https://abhiramreddy.netlify.app/"
-github-link: "https://github.com/nrabhiram"
-linkedin-link: "https://www.linkedin.com/in/abhiram-reddy-23285b196/"
-looking-for: "job"
-image-link: "https://media-exp1.licdn.com/dms/image/C5603AQFYdU_qNBpPYQ/profile-displayphoto-shrink_200_200/0?e=1598486400&v=beta&t=Wl5ltoM1oIVNo4rIPWwbW_qHeZ1gvW0crsSMrPKN228"
+github_link: "https://github.com/nrabhiram"
+linkedin_link: "https://www.linkedin.com/in/abhiram-reddy-23285b196/"
+looking_for: "job"
+image_link: "https://media-exp1.licdn.com/dms/image/C5603AQFYdU_qNBpPYQ/profile-displayphoto-shrink_200_200/0?e=1598486400&v=beta&t=Wl5ltoM1oIVNo4rIPWwbW_qHeZ1gvW0crsSMrPKN228"
 description: "HTML | CSS | Javscript | React | Node"
 ---
 
@@ -98,8 +98,22 @@ Links:
 
 ### blogs
 
-1. [Imports and Exports](https://dev.to/nrabhiram/imports-exports-52fg)
-2. [Why is React So Popular](https://dev.to/nrabhiram/why-is-react-so-popular-1oa1)
-3. [React-Redux](https://dev.to/nrabhiram/react-redux-1622)
+- ## Imports and Exports
+
+    In this blog post, I talk about how one can import and export functions and other pieces of code, which is a feature of ES6 Javascript.
+
+    Blog-post link: (https://dev.to/nrabhiram/imports-exports-52fg)
+
+- ## Why is React So Popular
+
+    In this blog post, I reflect on why I think React is popular and some of the things that React enables us to do, such as creating single-page applications.
+
+    Blog-post link: (https://dev.to/nrabhiram/why-is-react-so-popular-1oa1)
+
+- ## React-Redux
+
+    In this blog post, I explain how to use Redux in an actual React application.
+
+    Blog-post link: (https://dev.to/nrabhiram/react-redux-1622)
 
 

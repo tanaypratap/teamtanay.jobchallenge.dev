@@ -97,8 +97,23 @@ Links:
 
 ### blogs
 
-1. [Imports and Exports](https://dev.to/nrabhiram/imports-exports-52fg)
-2. [Why is React So Popular](https://dev.to/nrabhiram/why-is-react-so-popular-1oa1)
-3. [React-Redux](https://dev.to/nrabhiram/react-redux-1622)
+- ## Imports and Exports
+
+    In this blog post, I talk about how one can import and export functions and other pieces of code, which is a feature of ES6 Javascript.
+
+    Blog-post link: (https://dev.to/nrabhiram/imports-exports-52fg)
+
+- ## Why is React So Popular
+
+    In this blog post, I reflect on why I think React is popular and some of the things that React enables us to do, such as creating single-page applications.
+
+    Blog-post link: (https://dev.to/nrabhiram/why-is-react-so-popular-1oa1)
+
+- ## React-Redux
+
+    In this blog post, I explain how to use Redux in an actual React application.
+
+    Blog-post link: (https://dev.to/nrabhiram/react-redux-1622)
+
 
 
