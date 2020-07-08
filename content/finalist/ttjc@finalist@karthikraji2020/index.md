@@ -11,7 +11,7 @@ looking_for: "job"
 description: " Javascript | Angular 7 | Typescript "
 ---
 
-Hi! I am Karthik, I have got 1.5 years of professional work exprerience mostly worked on javascript and Angular.living in chennai,TamilNadu. Now lets see if I can impress you with my profile 
+Hi! I am Karthik ,currently working in DXC Technology, I have got 1.6 years(1 year startUP+ 0.6 year in MNC) of professional work exprerience mostly worked on javascript and Angular.living in chennai,TamilNadu. Now lets see if I can impress you with my profile 
 
 ### introduction
 
