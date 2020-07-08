@@ -10,7 +10,7 @@ looking-for: "job"
 description: " Javascript | Angular 7 | Typescript "
 ---
 
-Hi! I am Karthik, I have got 1.5 years of professional work exprerience mostly worked on javascript and Angular. Now lets see if I can impress you with my profile 
+Hi! I am Karthik ,currently working in DXC Technology, I have got 1.6 years(1 year startUP+ 0.6 year in MNC) of professional work exprerience mostly worked on javascript and Angular.living in chennai,TamilNadu. Now lets see if I can impress you with my profile 
 
 ### introduction
 
@@ -36,17 +36,21 @@ It would be good if someone tells me how to work with Database and backend .
 
 ### projects
 
-# 1) UiGenaratorKit
+# 1) UiGeneratorKit
  All In One latest Trending UI - Generator-Kit Application.
  
 ## about the application
-  UiGenaratorKit is multi-featured application  that helps designers and developers to choose  (copy css code) or download their own color palettes , linear-gradient as Images as well and soft-ui Genarator (latest ui-design pattern ) for their next successful project.
+ _description_ UiGeneratorKit is multi-featured application  that helps designers and developers to choose  (copy css code) or download their own color palettes , linear-gradient as Images as well and soft-ui Genarator (latest ui-design pattern ) for their next successful project.
 It has a collection of fresh palettes created and liked by users everyday.
 
 It's a Recreation of colorhunt, neumorphism,ui gradient apps which i made in node and ejs.
 
-Applink :[uigenaratorkit](https://uigenaratorkit.herokuapp.com)
+Applink :[uigeneratorkit](https://uigenaratorkit.herokuapp.com)
 gitlink :[githubLink](https://github.com/karthikraji2020/uigenaratorkit)
+
+
+#### DEMO
+![Demo](https://raw.githubusercontent.com/karthikraji2020/uigenaratorkit/master/public/images/uigenkit.gif)
 
 ###### Features
 1. Neumorphism (or) Soft UI Generator.
@@ -63,15 +67,18 @@ gitlink :[githubLink](https://github.com/karthikraji2020/uigenaratorkit)
    Popular socialmedia colors (copy code and downloadable).
 
 ## Tech Stack
-- serverside Rendering (nodejs & ejs) ;
+- serverside Rendering (nodejs & ejs) 
 - bootstrap 4.3
 
 # 2) covid19
-  Covid-19 tracker Application is Graphical representation of statistics Live Data fetching From (https://api.covid19api.com/).
+_description_  Covid-19 tracker Application is Graphical representation of statistics Live Data fetching From (https://api.covid19api.com/).
 
 
 Applink :[Covid-19 Tracker Application](https://wonderful-goldstine-663a7d.netlify.app)
 gitlink :[githubLink](https://github.com/karthikraji2020/covid19)
+
+#### DEMO
+![Demo](https://raw.githubusercontent.com/karthikraji2020/covid19/master/assets/images/covid19.gif)
 
 ###### Features
 1. Search By Country Name.
@@ -82,11 +89,13 @@ gitlink :[githubLink](https://github.com/karthikraji2020/covid19)
   Vennila Javascript
 
 # 3) vote-Poll
-  votingpoll (https://votepollsystem.herokuapp.com/).
-
+ _description_ votingpoll is application you can Create and conduct polls in a minute on your Own. Use it in your flipped classroom, in your lecture or just to amaze your audience. create your poll now! (https://votepollsystem.herokuapp.com/).
 
 Applink :[votepollsystem](https://votepollsystem.herokuapp.com/)
 gitlink :[githubLink](https://github.com/karthikraji2020/votepoll-MEAN)
+
+#### DEMO
+![Demo](https://raw.githubusercontent.com/karthikraji2020/votepoll-MEAN/master/src/assets/images/votePoll.gif)
 
 ###### Features
 1. Graphical representation of vote poll data.
@@ -99,10 +108,13 @@ gitlink :[githubLink](https://github.com/karthikraji2020/votepoll-MEAN)
  NodeJS
 
 # 4) WeatherForecast
-  WeatherForecast (https://weather-vennilajs.netlify.app/).
+ _description_ WeatherForecast (https://weather-vennilajs.netlify.app/).
 
 Applink :[votepollsystem](https://weather-vennilajs.netlify.app/)
 gitlink :[githubLink](https://github.com/karthikraji2020/weather-app-js)
+
+#### DEMO
+![Demo](https://raw.githubusercontent.com/karthikraji2020/weather-app-js/master/assets/images/weatherForcast.gif)
 
 ###### Features
 1. find a weather by city name
@@ -112,28 +124,31 @@ l. HTML
 2. css
 3. Bootstrap
 4. Javascript
+5. OpenWeatherApi
 
 # 5) UI-Quizapp
-  uiquiz (https://uiquiz.herokuapp.com/home).
+_description_  uiquiz is used to brushUp Your UI Skills (https://uiquiz.herokuapp.com/home).
 
 Applink :[uiquiz](https://uiquiz.herokuapp.com/home)
 gitlink :[githubLink](https://github.com/karthikraji2020/uiquizapp)
 
+#### DEMO
+![Demo](https://raw.githubusercontent.com/karthikraji2020/uiquizapp/master/src/assets/images/uiquizapp.gif)
 ###### Features
 1. quiz-app
 
 ## Tech Stack
- Mean Stack
- MongoDB-altas
- Express
  Angular
- NodeJS
-
-
 
 ### blogs
-#### JWT
-JWT [readMore]: (https://dev.to/karthikraji2020/what-is-jwt-5064)
+#### Json Web Token 
+_description_ Explained the structure of JWT 
+[https://dev.to/karthikraji2020/what-is-jwt-5064]: (https://dev.to/karthikraji2020/what-is-jwt-5064)
 
 #### flattenningArray
-flattenningArray [readMore]: (https://dev.to/karthikraji2020/flattening-arrays-in-javascript-2ki4)
+_description_ Explained how to convert multi dimensional array to single dimensional array in javascript using flat method.
+ [https://dev.to/karthikraji2020/flattening-arrays-in-javascript-2ki4]: (https://dev.to/karthikraji2020/flattening-arrays-in-javascript-2ki4)
+
+#### WEBRTC
+_description_ Explained how webrtc works and video call connection establishment
+[https://dev.to/karthikraji2020/what-is-webrtc-18d8]: (https://dev.to/karthikraji2020/what-is-webrtc-18d8)
