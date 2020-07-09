@@ -6,7 +6,7 @@ portfolio: "https://saddamshah.netlify.app/"
 github-link: "https://github.com/Saddamshah/"
 linkedin-link: "https://www.linkedin.com/in/saddam-shah/"
 looking-for: "job"
-image-link: "https://avatars0.githubusercontent.com/u/46083623?s=460&u=d2e51ad2754d31669119720791a3f2a38a05b112&v=4"
+image-link: "https://avatars0.githubusercontent.com/u/46083623?s=460&u=d2e51ad2754d31669119720791a3f2a38a05b112&v=4" 
 description: "expert at Javascript | Node.js | MongoDB | Currently learning React"
 ---
 

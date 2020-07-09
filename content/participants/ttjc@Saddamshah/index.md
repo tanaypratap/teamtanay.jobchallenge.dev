@@ -12,7 +12,7 @@ description: "expert at Javascript | Node.js | MongoDB | Currently learning Reac
 A Self-taught Web Developer was withholding more than one year of experience. Also worked for a startup company for nine months currently doing freelancing.
 
 ### introduction
-
+ 
 I have more than one year of experience in the field of programming and i am very passionate about it..  I am looking forward to becoming the best version myself. 
 
 I have tried a lot of thing in my life  I was working when I was at 18 after working  3 years in BPO (call-centre) finally it been 2 years that I got to know that Codding is the skill that I love to work on. 
