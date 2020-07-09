@@ -35,86 +35,44 @@ I have a MEN Stack  (MongoDB Express Node). Currently working on react.js.
 - [Outlook](mailto:shah.saddam@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/saddam-shah/)
 
-<<<<<<< HEAD
-### Projects
-
-## [ Project No 1 - E Commerce Store ]
-=======
 ## Projects 
 
 ### [ Project No 1 - E Commerce Store ]
->>>>>>> cc7133f8ced5f1391e5bec2da8584e857664e985
 _description_ A full fledged E-commerce Web Application which has 13 unique pages including two dashboards and one payment gateway Where users can view all the products that are differentiated by their categories. 
 Backend is created on Node server and frontend is built on react.js
 Full Authentication system using JWT, where each signup data is stored on MongoDB database using mongo atlas.
 
 _hosted link_ https://fashionstoreproject.netlify.app
 _github link_ https://github.com/Saddamshah/fashion-store
-<<<<<<< HEAD
-_API github link_ https://github.com/Saddamshah/fashionstoreapi
-
-Kindly read the depth overview in the GitHub readme file on this repository.
-
-## [ Project No 2 Coffee Shop ] 
-=======
 _API github link_ https://github.com/Saddamshah/fashionstoreapi 
 
 Kindly read the depth overview in the GitHub readme file on this repository.
 
 ### [ Project No 2 - Coffee Shop ] 
->>>>>>> cc7133f8ced5f1391e5bec2da8584e857664e985
 _description_ A web template for locals business created using react.
 
 _hosted link_ https://project-coffee-shop.netlify.app/
 _github link_ https://github.com/Saddamshah/coffee-shop
 
-<<<<<<< HEAD
-
-##  [ Project No 3 Book Search App ] 
-=======
 ### [ Project No 3 - Book Search App ]
->>>>>>> cc7133f8ced5f1391e5bec2da8584e857664e985
 _description_ A simple book search app using react
 
 _hosted link_ https://book-search-project.netlify.app/
 _github link_ https://github.com/Saddamshah/book-search
 
-<<<<<<< HEAD
-
-##  [ Project No 4 Data Visualization Map ]
-=======
 ### [ Project No 4 Data Visualization Map ]
->>>>>>> cc7133f8ced5f1391e5bec2da8584e857664e985
 _description_ A Data Visualization that show covid cases on map.
 
 _hosted link_ https://data-visualization-covid.herokuapp.com/
 _github link_ https://github.com/Saddamshah/Data-Visualization-covid-
 
-<<<<<<< HEAD
-##  [ Project No 5 Currency Converter ]
-=======
 ### [ Project No 5 Currency Converter ]
->>>>>>> cc7133f8ced5f1391e5bec2da8584e857664e985
 _description_ A Currency Converter app using react.
 
 _hosted link_ https://app.netlify.com/sites/currency-converter-project
 _github link_ https://github.com/Saddamshah/currency-converter
 
 
-<<<<<<< HEAD
-### Blogs
-
-## [ Blog No 1 ]
-_Name_ What is Programming?
-_hosted Link_ https://saddamshahblog.herokuapp.com/blog/1
-
-## [ Blog No 2 ]
-_Name_ How I learned to code?
-_hosted Link_ https://saddamshahblog.herokuapp.com/blog/2
-
-## [ Blog No 3 ]
-_Name_ Here is how you can be an Accomplished Programmer!
-=======
 ## Blog
 
 ### [ Blog No 1 ]
@@ -130,7 +88,6 @@ _hosted Link_ https://saddamshahblog.herokuapp.com/blog/2
 ### [ Blog No 3 ]
 _title_ Here is how you can be an Accomplished Programmer!
 
->>>>>>> cc7133f8ced5f1391e5bec2da8584e857664e985
 _hosted Link_ https://saddamshahblog.herokuapp.com/blog/3
 
 
