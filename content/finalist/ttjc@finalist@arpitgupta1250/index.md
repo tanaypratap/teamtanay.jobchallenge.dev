@@ -16,7 +16,7 @@ Hi! I am Arpit Gupta, pursuing B.Tech. from Global Institute of Technology, Jaip
 
 ### introduction
 
-I am an enthusiastic developer seeking to leverage exemplary opportunity in an organization which will help me deliver my best and upgrade my skills.
+I am an enthusiastic developer who always desires to know new stuff, devotes full efforts to my work, and wants to leverage an opportunity in an organization where I can use my skills for the betterment of both and enhance them.
 
 
 ## why are you taking this challenge?
@@ -33,8 +33,8 @@ I like to explore new things.
 ### how to contact me?
 
 - [LinkedIn](https://linkedin.com/in/arpitgupta1250)
-- [Instagram](https://www.instagram.com/arpitgupta1250/)
 - [Portfolio](https://arpitgupta.netlify.app)
+- [Instagram](https://www.instagram.com/arpitgupta1250/)
 - [Twitter](https://twitter.com/arpitgupta1250)
 
 
