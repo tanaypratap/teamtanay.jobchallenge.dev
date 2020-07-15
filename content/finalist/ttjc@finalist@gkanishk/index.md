@@ -47,6 +47,7 @@ Apart from building testing is important so I want help in optimizing and testin
 - [LinkedIn](https://linkedin.com/in/gkanishk)
 - [Portfolio](https://gkanishk.github.io/)
 - [Insta](https://instagram.com/gkanishk_)
+- [Email](mailto:kanishkgupta11@yahoo.com)
 
 ## projects 👷‍♂️
 
