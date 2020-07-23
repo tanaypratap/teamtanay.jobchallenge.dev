@@ -3,9 +3,9 @@ title: Saddam Shah
 type: "participant"
 name: "Saddam Shah"
 portfolio: "https://saddamshah.netlify.app/"
-github-link: "https://github.com/Saddamshah/"
-linkedin-link: "https://www.linkedin.com/in/saddam-shah/"
-looking-for: "job"
+github_link: "https://github.com/Saddamshah/"
+linkedin_link: "https://www.linkedin.com/in/saddam-shah/"
+looking_for: "job"
 description: "expert at Javascript | Node.js | MongoDB | Currently learning React"
 ---
 
@@ -69,7 +69,7 @@ _github link_ https://github.com/Saddamshah/Data-Visualization-covid-
 ### [ Project No 5 Currency Converter ]
 _description_ A Currency Converter app using react.
 
-_hosted link_ https://app.netlify.com/sites/currency-converter-project
+_hosted link_ https://currency-converter-project.netlify.app/
 _github link_ https://github.com/Saddamshah/currency-converter
 
 
