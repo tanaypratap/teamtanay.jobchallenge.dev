@@ -53,7 +53,12 @@ const styles={
     },
     excerptdata:{
       marginTop:rhythm(1/2)
-    }
+    },
+contact:{
+  textAlign:'right',
+  padding:'5px',
+  margin:'5px'
+}
   }
 
 
@@ -85,6 +90,7 @@ class PostsIndex extends React.Component {
             `react`,
           ]}
         />
+        <div style={styles.contact}>For any queries contact <a href="https://gkanishk.github.io/" target="blank">here</a></div>
         {faqs.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           const github_link= node.frontmatter.github_link || ""
@@ -92,7 +98,6 @@ class PostsIndex extends React.Component {
           const image_link=node.frontmatter.image_link || "https://user-images.githubusercontent.com/33570551/86525652-a2e5b380-bea7-11ea-9188-6f9424021e53.png"
           const portfolioL=node.frontmatter.portfolio || ""
           return (
-            
           <div  key={node.fields.slug} style={{
             paddingRight: `${rhythm(3 / 4)}`,
             paddingLeft: `${rhythm(3 / 4)}`,
@@ -104,11 +109,9 @@ class PostsIndex extends React.Component {
               <div style={styles.card}>
                   <div style={styles.imagecard}>
                     <Link to={node.fields.slug}> 
-                    <img src={image_link} alt="profile" style={styles.image}
-                        /></Link>
-                      <p
-                        style={styles.name}
-                      >
+                    <img src={image_link} alt="profile" style={styles.image}/>
+                    </Link>
+                      <p style={styles.name}>
                         <Link to={node.fields.slug}>{title}</Link>
                       </p>
                       <div style={styles.linksection}>
@@ -118,9 +121,9 @@ class PostsIndex extends React.Component {
                       </div>
                   </div>
                   <div style={styles.datacard}>
-          <p 
-          dangerouslySetInnerHTML={{ __html: node.excerpt }} 
-          style={styles.excerptdata}/>
+                    <p 
+                    dangerouslySetInnerHTML={{ __html: node.excerpt }} 
+                    style={styles.excerptdata}/>
                   </div>
               </div>
               
