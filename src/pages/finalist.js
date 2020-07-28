@@ -90,7 +90,7 @@ class PostsIndex extends React.Component {
           const github_link= node.frontmatter.github_link || ""
           const linkedin_link=node.frontmatter.linkedin_link || ""
           const image_link=node.frontmatter.image_link || "https://user-images.githubusercontent.com/33570551/86525652-a2e5b380-bea7-11ea-9188-6f9424021e53.png"
-          
+          const portfolioL=node.frontmatter.portfolio || ""
           return (
             
           <div  key={node.fields.slug} style={{
@@ -107,14 +107,14 @@ class PostsIndex extends React.Component {
                     <img src={image_link} alt="profile" style={styles.image}
                         /></Link>
                       <p
-                style={styles.name}
-              >
-                <Link to={node.fields.slug}>{title}</Link>
-              </p>
+                        style={styles.name}
+                      >
+                        <Link to={node.fields.slug}>{title}</Link>
+                      </p>
                       <div style={styles.linksection}>
                           <div><a href={github_link}><img src={git} style={styles.profilelink} /></a></div>
                           <div><a href={linkedin_link}><img src={linkedin} style={styles.profilelink}/></a></div>
-                          <div><a href={node.frontmatter.portfolio}><img src={portfolio} style={styles.profilelink}/></a></div>
+                          <div><a href={portfolioL}><img src={portfolio} style={styles.profilelink}/></a></div>
                       </div>
                   </div>
                   <div style={styles.datacard}>
