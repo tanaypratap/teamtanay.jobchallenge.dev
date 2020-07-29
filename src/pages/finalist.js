@@ -90,7 +90,7 @@ class PostsIndex extends React.Component {
             `react`,
           ]}
         />
-        <div style={styles.contact}>For any queries contact <a href="https://gkanishk.github.io/" target="_blank">here</a></div>
+        <div style={styles.contact}>For any queries, please contact <a href="https://gkanishk.github.io/" target="_blank">here</a></div>
         {faqs.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           const github_link= node.frontmatter.github_link || ""
