@@ -31,13 +31,15 @@ Going hard on mobile app dev with React Native.
 
 ### help I need?
 
-It would be good if someone recommends me some books on JS.
+It would be good if someone tells me how to scale an app.
 
 ### how to contact me?
 
 - [E-mail](mailto:chandramohan.pandey2015@gmail.com)
 
 - [Twitter](https://twitter.com/cmcodes1)
+
+- [GitHub](https://github.com/cmcodes1)
 
 - [Instagram](https://instagram.com/cmcodes)
 
@@ -46,6 +48,16 @@ It would be good if someone recommends me some books on JS.
 ### projects
 
 My projects:
+
+#### Tanay Pratap Search Engine
+
+_description_ Do you have a question for Tanay? Search here before you ask him!
+
+_stack_ HTML, CSS, JS (React, MDB React)
+
+_github link_ https://github.com/cmcodes1/tanaypratap-search-engine
+
+_hosted link_ https://tanaypratapsearchengine.netlify.app/
 
 #### Studify
 
@@ -57,7 +69,7 @@ _github link_ https://github.com/cmcodes1/Studify
 
 _hosted link_ https://github.com/cmcodes1/Studify/blob/master/app-release.apk
 
-#### cmcodes
+#### cmcodes1.github.io
 
 _description_ My portfolio website.
 
