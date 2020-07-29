@@ -106,24 +106,22 @@ In Reallo, I implemented most of the features of Trello such as- Creating Kanban
 ![DEMO](https://git.io/JJkhS)
 
 
+### Moviefy - A Movie finding App
 
-### Blaze - An Exercise Tracking App
+In Moviefy you can search for latest movies and get their premiere date and short description for helping you to decide, whether you want to watch them or not. 
 
-_description_ Blaze helps you understand which muscle(s) is being targeted during exercise. The application consists of anatomy of the human body which encompasses over 320 children nodes --each representing a particular muscle or muscle group that comprises the anatomical structure. When a user clicks or response to an exercise each muscle changes its color to highlight which muscles are being targeted. The application, using D3.js, displays an interactive bar chart to show the max-weight achieved for each workout.
+- **Stack** `React`, `Materialize CSS`
 
-- **Stack** `React`, `D3.js`
+- [**hosted link**](https://moviefy-iota.vercel.app/)
 
-- [**hosted link**](https://blaze-pi.vercel.app/)
+- [**github link**](https://github.com/Megha-Pathak/moviefy) 
 
-- [**github link**](https://github.com/Megha-Pathak/Blaze) 
-
-![DEMO](https://git.io/JJkpH)
-
+![DEMO](https://git.io/JJuDF)
 
 
 ## Blogs
 
-I often write about Web Development and Product Management. Some of my recent blogs are - 
+I often write about Web Development and Product Management on my recently started blog named [Learn With Megha](https://learnwithmegha.netlify.app/). Some of my recent blogs are - 
 
 ### Why Product thinking is essential for Developers and how to apply it? 
 _description_ In this blog I have described the difference between Project thinking and Product thinking. Along, with the structure of Product thinking that developers can adept while working on software. The blog got featured in - Weekly Webtips publication. 
