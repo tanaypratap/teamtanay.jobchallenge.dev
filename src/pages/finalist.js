@@ -90,7 +90,7 @@ class PostsIndex extends React.Component {
             `react`,
           ]}
         />
-        <div style={styles.contact}>For any queries contact <a href="https://gkanishk.github.io/" target="blank">here</a></div>
+        <div style={styles.contact}>For any queries contact <a href="https://gkanishk.github.io/" target="_blank">here</a></div>
         {faqs.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           const github_link= node.frontmatter.github_link || ""
@@ -115,9 +115,9 @@ class PostsIndex extends React.Component {
                         <Link to={node.fields.slug}>{title}</Link>
                       </p>
                       <div style={styles.linksection}>
-                          <div><a href={github_link}><img src={git} style={styles.profilelink} /></a></div>
-                          <div><a href={linkedin_link}><img src={linkedin} style={styles.profilelink}/></a></div>
-                          <div><a href={portfolioL}><img src={portfolio} style={styles.profilelink}/></a></div>
+                          <div><a href={github_link} target="_blank" ><img src={git} style={styles.profilelink} /></a></div>
+                          <div><a href={linkedin_link} target="_blank" ><img src={linkedin} style={styles.profilelink}/></a></div>
+                          <div><a href={portfolioL} target="_blank" ><img src={portfolio} style={styles.profilelink}/></a></div>
                       </div>
                   </div>
                   <div style={styles.datacard}>
