@@ -61,7 +61,9 @@ Tanay , you have helped me a lot in this, While I will definitely would follow y
 
 My projects:
 
-#### 1. I am the One Who Knocks
+#### 1. I am the Onge Who Knocks
+
+![project image](https://i.ibb.co/7Q8QTyj/project5.png)
 
 Project was mainly focussed on exploring react and PWA, A Progressive Web App based on Breaking Bad Character Display with few added features. All the criteria has met for PWA and is mobile friendly.
 
@@ -72,6 +74,8 @@ Project was mainly focussed on exploring react and PWA, A Progressive Web App ba
 - [**_github link_**](https://github.com/Harshi7016/BreakingBad)
 
 #### 2. Farm 2 Home
+
+![project image](https://i.ibb.co/86Z4Fzc/project6.png)
 
 An eCommerce website for vegetables, the focus was mainly on creating E2E application and I was really happy looking at the end project. The project has signing, register, listing, cart, payment process steps. Through this project, I got the opportunity to explore more on backend NodeJS, ExpressJS, and MongoDB. The hosting of the project is done in the Heroku Platform.
 
@@ -94,6 +98,8 @@ Entry Level React Project with more emphasis on learning state ,display of data 
 
 #### 4. Covid-19 Tracker
 
+![project image](https://i.ibb.co/Nm5dbFb/project3.png)
+
 Covid-19 Tracker web application which gets the response from the API: https://covid19.mathdro.id/api and using responsive cards and charts , recovered,infected and death cases details are displayed
 
 **_Stacks_** React JS
@@ -103,6 +109,8 @@ Covid-19 Tracker web application which gets the response from the API: https://c
 - [**_github link_**](https://github.com/Harshi7016/CoronaTracker)
 
 #### 5. Weather App
+
+![project image](https://i.ibb.co/7ps7BzX/project4.png)
 
 Project was mainly focussed on exploring react and PWA, A simple weather app with autocomplete place work in progress. All the criteria has met for PWA and is mobile friendly
 
@@ -114,6 +122,8 @@ Project was mainly focussed on exploring react and PWA, A simple weather app wit
 
 #### 6. Where In The Country
 
+![project image](https://i.ibb.co/BwhY0zm/project1.png)
+
 Project was mainly focussed on exploring react and PWA, A Progressive Web App based on Country details and flag display with few added features. All the criteria has met for PWA and is mobile friendly.
 
 **_Stacks_** React
@@ -123,6 +133,8 @@ Project was mainly focussed on exploring react and PWA, A Progressive Web App ba
 - [**_github link_**](https://github.com/Harshi7016/WhereInTheWorld)
 
 #### 7. ExpenseTracker
+
+![project image](https://i.ibb.co/RTm3yGX/project2.png)
 
 An ExpenseTracker Application which provides the budget details.
 I have built using youtube tutorial and have converted the desktop app to responsive app.
