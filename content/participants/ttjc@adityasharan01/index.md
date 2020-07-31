@@ -28,7 +28,7 @@ I m great PUBG player at Deathmatch mode
 
 ### help I need?
 
-It would be good if i could get some help at css part of the website and want to learn more about react.
+It would be good if i could get some help at css part of the website and want to learn more about react(topics like redux & graphQL).
 
 ### how to contact me?
 
@@ -37,32 +37,79 @@ It would be good if i could get some help at css part of the website and want to
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
+Projects I have done are mentioned below:-
 
 My projects:
 
-#### binder: tinder for books
+#### Balloon Popping Game
 
-_description_ do you wish to meet people who have read the same book so that you can talk hours about the same book? Try this.
+_description_ Game in which different colors of ballon flows from bottom to top.If any balloon reach the top game ends
 
 _stack_ Made in React with hooks and context. This is written in typescript. Backend is powered by Express and MongoDB.
 
-_hosted link_ https://binder.netlify.com
+_hosted link_ https://popgame.netlify.app/
 
-_github link_ https://github.com/tanaypratap/binder
+_github link_ https://github.com/adityasharan01/balloonpop
 
-#### another project
+#### Lyrics Serach
 
-_description_
+_description_ Game in which different colors of ballon flows from bottom to top.If any balloon reach the top game ends
 
-_stack_
+_stack_ Made with purely Vanilla JS.
+
+_hosted link_ https://lyyric.netlify.app/
+
+_github link_ https://github.com/adityasharan01/Lyrics-search
+
+#### MealFinder
+
+_description_ Display UI with form to search and button to generate
+Connect to API and get meals
+Display meals in DOM with image and hover effect
+Click on meal and see the details
+Click on generate button and fetch & display a random meal
+
+_stack_ Made with purely Vanilla JS.
+
+_hosted link_ https://khanapakao.netlify.app/
+
+_github link_ https://github.com/adityasharan01/khana-pakao
+
+#### Joke Generator
+
+_description_ Display UI with form to search and button to generate
+Connect to API and get joke
+Click on generate button and fetch & display a random jokes from chuck norris
+
+_stack_ Made with purely Vanilla JS.
+
+_hosted link_ https://lolism.netlify.app/
+
+_github link_ https://github.com/adityasharan01/Joke-Generator
+
+#### Loan Calculator
+_description_ It helps to calculate the loan amount given years to repay and rate of interest.
+It will give us the monthly amount as result along with total interest served on the amount.
+
+_stack_ Made with purely Vanilla JS.
+
+_hosted link_ https://udhaar.netlify.app/
+
+_github link_ https://github.com/adityasharan01/Loan-Calculator
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+Some of the blogs which i have written are listed below:-
 
-#### why I liked GraphQL over REST?
+#### Some not-so-known features in HTML
 
-_description_ I will write something really nice here so that you feel like reading my blog.
+_description_ In this blog i have written some features which i have found while building projects. 
 
-_link_ https://dev.to/some-imaginary-link
+_link_ https://dev.to/adityasharan01/some-not-so-known-features-in-html-3f66
+
+#### React JS in simple terms
+
+_description_ In this blog i have written about react js what i have learned while watching tutorials.
+
+_link_ https://dev.to/adityasharan01/react-js-in-simple-terms-il8
+

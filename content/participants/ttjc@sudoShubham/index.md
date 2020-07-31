@@ -37,9 +37,20 @@ I am new in web devlopment, it will be nice if I get proper guidance and directi
 - [LinkedIn](https://www.linkedin.com/in/shubhampagare)
 
 ### projects
-I will add once I'm done with my projects. 
+1:Google photos clone:
+    Created the first React App using Unsplash API.It's a simple image search application.
+
+Hosted Link:https://frosty-bell-336839.netlify.app/
+Github Link:https://github.com/sudoShubham/Photo-Search-ReactApp
+
+2:Videogram:
+    Simple Web application for youtube videos. simple web application for surfing youtube videos using ReactJs library and youtube public API.
+
+Hosted Link:https://react-videogram.netlify.app/
+Github Link:https://github.com/sudoShubham/Videogram-ReactApp
 
 
 ### blogs
-I will add once I'm done with my blogs. 
+1:AI Hype vs Reality:
+    https://medium.com/@shubhamp2017/ai-hype-vs-reality-b8a8d1c6a4e8
 

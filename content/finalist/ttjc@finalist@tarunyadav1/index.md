@@ -3,25 +3,26 @@ title: Tarun Yadav
 type: "finalist"
 name: "Tarun Yadav"
 portfolio: "https://tarunyadav.codes/"
-github-link: "https://github.com/tarunyadav1"
-linkedin-link: "https://www.linkedin.com/in/tarunyadav9761/"
-looking-for: "job"
+github_link: "https://github.com/tarunyadav1"
+linkedin_link: "https://www.linkedin.com/in/tarunyadav9761/"
+looking_for: "job"
+image_link: "https://avatars2.githubusercontent.com/u/56935638?s=400&u=6eace63becf0738071e69e6d56ecd9cbb7f0487b&v=4"
 description: " Reactjs | HTML | CSS | Nodejs | mongoDB | Bootstrap | JavaScript | Python3 "
 ---
 
-Bonjour! I am Tarun Yadav an engineering student. I am a self-taught learner and learn computer science online.
+Bonjour! I am Tarun Yadav a software engineer.
 
 ### introduction
 
-I'm Software Engineer. I have made my decision to learn web development after reading pyjama profit and one thing I learn from this book is that job in supply-demand thing. I am very excited about this challenge.
+I have been coding for 3 years. Most of my experience lies in full-stack development with JavaScript and it's frameworks. I have worked with JavaScript/NodeJS, ReactJs, and a little bit of C and Python.
 
 ## why are you taking this challenge?
 
-I need a web developer job.
+I want to be Software Engineer and job Challenge is also happens to be the same direction that I want to take in my career.
 
 ## something interesting about you?
 
-I have a good knowledge of the Universe, the theory of relativity and can love to discuss it when we meet. I also love Iron man.
+I create cool projects and also contribute to open source.
 
 ### help I need?
 
@@ -59,7 +60,7 @@ _hosted link_ https://doistnow.netlify.app/
 
 _github link_ https://github.com/tarunyadav1/Doist-React-App-Using-firebase-
 
-#### THIRD PROJECT :- Slack clone with React Firebase Redux 
+#### THIRD PROJECT :- Slack clone with React Firebase Redux
 
 <img src="https://i.ibb.co/KqY0fZZ/smartmockups-kbycowi0.png" alt="smartmockups-kbycowi0" border="0">
 
@@ -70,7 +71,6 @@ _Tech stack_ React | Firebase Auth and Database | Semantic UI | Redux | JavaScri
 _hosted link_ https://devconnects.netlify.app/
 
 _github link_ https://github.com/tarunyadav1/Slack-clone-with-React-Firebase-Redux
-
 
 #### FOURTH PROJECT :- Ecommerce Store React Redux Firebase StripePayment
 
@@ -84,14 +84,13 @@ _hosted link_ https://meshstore.netlify.app/
 
 _github link_ https://github.com/tarunyadav1/Ecommerce-store-React-Redux-Firebase-StripePayment
 
-
-#### FIFTH PROJECT :- Medium Clone with ReactJS 
+#### FIFTH PROJECT :- Medium Clone with ReactJS
 
 <img src="https://i.ibb.co/hgHCw2V/smartmockups-kbycq6k9.png" alt="smartmockups-kbycq6k9" border="0">
 
 _Description_ This is Medium clone made with React. User's can post article with tags and filter the article with tags.
 
-_Tech stack_ React | JavaScript 
+_Tech stack_ React | JavaScript
 
 _hosted link_ https://mediumdev.netlify.app/
 
@@ -110,7 +109,6 @@ _link_ https://medium.com/@tarunyadav9761/the-birth-of-react-and-reason-to-learn
 _Description_ In this blog, I explain about React hooks. First I begin with what are hooks, then I explain `useState` and `useEffect`.This will help beginner to understand hooks easily.
 
 _link_ https://dev.to/tarunyadav1/beginners-guide-to-react-hooks-getting-started-with-react-hooks-4lnd
-
 
 #### Step-By-Step Guide to Stripe Payments in React
 
