@@ -6,12 +6,15 @@ portfolio: "https://harshith-venkatesh.netlify.app"
 github-link: "https://github.com/Harshi7016"
 linkedin-link: "https://www.linkedin.com/in/harshith-v-7016ece/"
 looking-for: "job/learning experiance"
+image-link: "https://avatars1.githubusercontent.com/u/44545218?s=400&u=5d32d7effce48e0e305d53e8806adad2d5d85eb5&v=4"
 description: "TypeScript | Angular | React | 2 years experiance | Python | Java | NodeJS | Exploring Opportunities"
 ---
 
 Namaste, I am Harshith Venkatesh , let me walk you through my intro, projects and blogs.
-I am a believer in "Fake it till you make it"
-“When you stop expecting people to be perfect, you can like them for who they are.”
+
+> ### I am a believer in "Fake it till you make it"
+>
+> ### “When you stop expecting people to be perfect, you can like them for who they are.”
 
 ### introduction
 
@@ -58,67 +61,99 @@ Tanay , you have helped me a lot in this, While I will definitely would follow y
 
 My projects:
 
-#### 0.Analog Clock
+#### 1. I am the Onge Who Knocks
 
-Simple Analog Clock design with focus to learn basics after going through Tanay Pratap's course on Vanilla JS. It has dark and light mode which can be toggled.
+![project image](https://i.ibb.co/7Q8QTyj/project5.png)
 
-**_Stacks_** `Vanilla JS`
+Project was mainly focussed on exploring react and PWA, A Progressive Web App based on Breaking Bad Character Display with few added features. All the criteria has met for PWA and is mobile friendly.
 
-- [**_hosted link_**] https://darklightmodeanalogclock.netlify.app
+**_Stacks_** React,HTML5,CSS3, Hosted in Netlify
 
-- [**github link_**] https://github.com/Harshi7016/AnalogClockDarkLightMode
+- [**_hosted link_**](https://iamtheonewhoknocks.netlify.app/)
 
-#### 1.Simple React To Do List
+- [**_github link_**](https://github.com/Harshi7016/BreakingBad)
+
+#### 2. Farm 2 Home
+
+![project image](https://i.ibb.co/86Z4Fzc/project6.png)
+
+An eCommerce website for vegetables, the focus was mainly on creating E2E application and I was really happy looking at the end project. The project has signing, register, listing, cart, payment process steps. Through this project, I got the opportunity to explore more on backend NodeJS, ExpressJS, and MongoDB. The hosting of the project is done in the Heroku Platform.
+
+**_Stacks_** React,NodeJS,ExpressJS and MongoDB,HTML5,CSS3,WebPack
+_platform_ Heroku
+
+- [**_hosted link_**](https://farm2wohome.herokuapp.com/)
+
+- [**_github link_**](https://github.com/Harshi7016/Farm2Homev1)
+
+#### 3. Simple React To Do List
 
 Entry Level React Project with more emphasis on learning state ,display of data with simple animation. It gave me more perspective on data manipulation using props and state.
 
 **_Stacks_** React JS
 
-- [**_hosted link_**] https://Harshi7016.github.io/ReactToDo
+- [**_hosted link_**](https://Harshi7016.github.io/ReactToDo)
 
-- [**github link_**] https://github.com/Harshi7016/ReactToDo
+- [**_github link_**](https://github.com/Harshi7016/ReactToDo)
 
-#### 2.Covid-19 Tracker
+#### 4. Covid-19 Tracker
+
+![project image](https://i.ibb.co/Nm5dbFb/project3.png)
 
 Covid-19 Tracker web application which gets the response from the API: https://covid19.mathdro.id/api and using responsive cards and charts , recovered,infected and death cases details are displayed
 
 **_Stacks_** React JS
 
-- [**_hosted link_**] https://covid19trackerdemo.netlify.app
+- [**_hosted link_**](https://covid19trackerdemo.netlify.app)
 
-- [**github link_**] https://github.com/Harshi7016/CoronaTracker
+- [**_github link_**](https://github.com/Harshi7016/CoronaTracker)
 
-#### 3.Weather App
+#### 5. Weather App
+
+![project image](https://i.ibb.co/7ps7BzX/project4.png)
 
 Project was mainly focussed on exploring react and PWA, A simple weather app with autocomplete place work in progress. All the criteria has met for PWA and is mobile friendly
 
 **_Stacks_** React
 
-- [**_hosted link_**] https://progressiveweatherapp.netlify.app/
+- [**_hosted link_**](https://progressiveweatherapp.netlify.app/)
 
-- [**github link_**] https://github.com/Harshi7016/WeatherAppPWA
+- [**_github link_**](https://github.com/Harshi7016/WeatherAppPWA)
 
-#### 4.Farm 2 Home
+#### 6. Where In The Country
 
-An eCommerce website for vegetables, the focus was mainly on creating E2E application and I was really happy looking at the end project. The project has signing, register, listing, cart, payment process steps. Through this project, I got the opportunity to explore more on backend NodeJS, ExpressJS, and MongoDB. The hosting of the project is done in the Heroku Platform.
+![project image](https://i.ibb.co/BwhY0zm/project1.png)
 
-**_Stacks_** React,NodeJS,ExpressJS and MongoDB
-_platform_ Heroku
+Project was mainly focussed on exploring react and PWA, A Progressive Web App based on Country details and flag display with few added features. All the criteria has met for PWA and is mobile friendly.
 
-- [**_hosted link_**] https://farm2wohome.herokuapp.com/
+**_Stacks_** React
 
-- [**github link_**] https://github.com/Harshi7016/Farm2Homev1
+- [**_hosted link_**](https://whereintheworldismycountry.netlify.app/)
 
-#### 5.KharchaPaani
+- [**_github link_**](https://github.com/Harshi7016/WhereInTheWorld)
+
+#### 7. ExpenseTracker
+
+![project image](https://i.ibb.co/RTm3yGX/project2.png)
 
 An ExpenseTracker Application which provides the budget details.
 I have built using youtube tutorial and have converted the desktop app to responsive app.
 
 **_Stacks_** Angular7
 
-- [**_hosted link_**] https://kharchapaani.netlify.app/
+- [**_hosted link_**](https://kharchapaani.netlify.app/)
 
-- [**github link_**] https://github.com/Harshi7016/ExpenseTracker
+- [**_github link_**](https://github.com/Harshi7016/ExpenseTracker)
+
+#### 8. Analog Clock
+
+Simple Analog Clock design with focus to learn basics after going through Tanay Pratap's course on Vanilla JS. It has dark and light mode which can be toggled.
+
+**_Stacks_** `Vanilla JS`
+
+- [**_hosted link_**](https://darklightmodeanalogclock.netlify.app)
+
+- [**_github link_**](https://github.com/Harshi7016/AnalogClockDarkLightMode)
 
 ### blogs
 
