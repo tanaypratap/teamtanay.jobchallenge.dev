@@ -3,10 +3,10 @@ title: Harshith Venkatesh
 type: "finalist"
 name: "Harshith Venkatesh"
 portfolio: "https://harshith-venkatesh.netlify.app"
-github-link: "https://github.com/Harshi7016"
-linkedin-link: "https://www.linkedin.com/in/harshith-v-7016ece/"
-looking-for: "job/learning experiance"
-image-link: "https://avatars1.githubusercontent.com/u/44545218?s=400&u=5d32d7effce48e0e305d53e8806adad2d5d85eb5&v=4"
+github_link: "https://github.com/Harshi7016"
+linkedin_link: "https://www.linkedin.com/in/harshith-v-7016ece/"
+looking_for: "job/learning experiance"
+image_link: "https://avatars1.githubusercontent.com/u/44545218?s=400&u=5d32d7effce48e0e305d53e8806adad2d5d85eb5&v=4"
 description: "TypeScript | Angular | React | 2 years experiance | Python | Java | NodeJS | Exploring Opportunities"
 ---
 
