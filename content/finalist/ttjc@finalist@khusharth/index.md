@@ -2,7 +2,7 @@
 title: Khusharth Patani
 type: "finalist"
 name: "Khusharth A. Patani"
-portfolio: "https://khusharth.netlify.app/"
+portfolio: "https://khusharth.dev/"
 github_link: "https://github.com/khusharth/"
 linkedin_link: "https://www.linkedin.com/in/khusharth/"
 looking_for: "internship"
@@ -16,13 +16,13 @@ Hi! I am Khusharth Patani let me walk you through my intro, projects and blogs.
 
 I am a 3rd year student currently pursuing B.tech CSE specialized in Network Security from MIT-ADT School Of Engineering, Pune.
 
-I am a quick learner and always curious to learn new technologies.
+I am a quick learner and always curious to learn about new technologies.
 
 I enjoy the process of creating beautiful websites from designing to deploying it in the end.
 
 ## why are you taking this challenge?
 
-I need an internship in July 2020.
+I need an internship in January 2021.
 
 To get out of my comfort zone and improve myself.
 
@@ -34,7 +34,7 @@ I also have interest in cyber security.
 
 ### help I need?
 
-It would be helpful if someone can guide on how to prepare for interviews for good product based companies.
+It would be helpful if someone can guide me or give some tips on how to prepare for offcampus placements/interviews.
 
 ### how to contact me?
 
@@ -46,7 +46,7 @@ It would be helpful if someone can guide on how to prepare for interviews for go
 
 ### 1. Musology :
 
-A web application where you can search for music notes , listen to a preview of it and also find its lyrics.
+A web application where you can search for music, listen to a preview of it and also find its lyrics.
 
 _tech stack:_ HTML, CSS, Javascript
 
@@ -60,11 +60,11 @@ _hosted link:_ https://musology.netlify.app/
 
 ### 2. gitpedia
 
-A web application to view a github's user profile in a more simple and beautiful way. Built using React, Chart JS , styled components and more .
+A web application to view a github's user profile in a more simple and beautiful way. This project has received 80+ stars on github.
 
 _tech stack:_ React, Chat Js, Styled-components
 
-_github link:_ https://github.com/khusharth/girpedia
+_github link:_ https://github.com/khusharth/gitpedia
 
 _hosted link:_ https://gitpedia.netlify.app/
 
@@ -74,7 +74,7 @@ _hosted link:_ https://gitpedia.netlify.app/
 
 ### 3. Memoire
 
-A simple memory card game built with React Js and Sass having 3 different themes (Robots, Pokemon and Dogs) to choose from.
+A simple memory card game built with React Js and Sass having 3 different themes (Robots, Pokemon and Dogs) to choose from. A user is given 100 sec in which they need to find 8 pairs.
 
 _tech stack:_ React, Saas
 
@@ -102,7 +102,7 @@ _hosted link:_ https://geeksnews.netlify.app/
 
 ### 5. doyouknow
 
-A Quiz web application based on questions related to core subjects in computer science.
+A Quiz web application based on questions related to core subjects in computer science like DBMS, Computer Networks, Operating System and Data Structure and Algorithms.
 
 _tech stack:_ React, Sass
 
