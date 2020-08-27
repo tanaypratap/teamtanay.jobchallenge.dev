@@ -62,7 +62,12 @@ contact:{
 status:{
   display:'flex',
   justifyContent:'flex-end',
-  flexDirection:'row'}
+  flexDirection:'row'
+},
+link:{
+  textDecoration:'none',
+  color:'inherit'
+}
   }
 
 
@@ -131,7 +136,17 @@ class PostsIndex extends React.Component {
                     dangerouslySetInnerHTML={{ __html: node.excerpt }} 
                     style={styles.excerptdata}/>
                     <div  style={styles.status}>
-                    <span style={{padding:'4px 13px 4px',borderRadius:'2px',backgroundColor:bgcolor,color:'#DCF8C6',fontWeight:'500'}}>{status}</span>
+                    <span style={
+                      {padding:'4px 13px 4px',
+                      borderRadius:'2px',
+                      backgroundColor:bgcolor,
+                      color:'#DCF8C6',
+                      fontWeight:'500'}
+                      }>
+                        <Link to={node.fields.slug} style={styles.link}>
+                          {status}
+                        </Link>
+                      </span>
                     </div>
                   </div>
               </div>
