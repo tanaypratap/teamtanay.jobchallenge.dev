@@ -141,7 +141,7 @@ class PostsIndex extends React.Component {
                       borderRadius:'2px',
                       backgroundColor:bgcolor,
                       color:'#DCF8C6',
-                      fontWeight:'500'}
+                      fontWeight:'400'}
                       }>
                         <Link to={node.fields.slug} style={styles.link}>
                           {status}
