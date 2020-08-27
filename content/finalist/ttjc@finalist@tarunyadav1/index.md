@@ -8,6 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/tarunyadav9761/"
 looking_for: "job"
 image_link: "https://avatars2.githubusercontent.com/u/56935638?s=400&u=6eace63becf0738071e69e6d56ecd9cbb7f0487b&v=4"
 description: " Reactjs | HTML | CSS | Nodejs | mongoDB | Bootstrap | JavaScript | Python3 "
+status: ''
 ---
 
 Bonjour! I am Tarun Yadav a software engineer.

@@ -8,6 +8,7 @@ linkedin_link: "https://in.linkedin.com/in/aditya-pratap-singh-hada-0a106b183"
 looking_for: "Internship"
 image_link: "https://avatars1.githubusercontent.com/u/49001649?s=400&u=c3d356f90f65176d0353f8ee91a5d1b6ea538e9f&v=4"
 description: " REACT | NODE |EXPRESSJS | IONIC "
+status: ''
 ---
 
 Hi! I am Aditya Pratap Singh Hada studying at shri vaishnav vidyapeeth vishwavidyalaya, Indore. Let me walk you through my journey so far.

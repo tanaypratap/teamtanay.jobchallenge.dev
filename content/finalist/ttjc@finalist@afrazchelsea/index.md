@@ -8,6 +8,7 @@ linkedin_link: "https://linkedin.com/in/afrazm7"
 looking_for: "learning"
 image_link: "https://avatars2.githubusercontent.com/u/41325430?s=460&u=ac6b113e1f76eced62577cc70bec80301d4fdf13&v=4"
 description: "JavaScript | React | NodeJS"
+status: ''
 ---
 
 Hey, I'm Afraz. Let me walk you through my intro, projects and blogs.

@@ -8,6 +8,7 @@ linkedin_link: "https://linkedin.com/in/gkanishk"
 looking_for: "job/internship"
 image_link: "https://avatars2.githubusercontent.com/u/33570551?s=460&u=337e1bf4997c63e45f320ce7d8c1016459060c39&v=4"
 description: "Self-learner good at web development, mobile development and working on react "
+status: ''
 ---
 
 Ciao! I am Kanishk Gupta a developer, student, and a keen learner. Open source enthusiast and an active contributor to the community. Why wait so let me walk you through my intro and work.

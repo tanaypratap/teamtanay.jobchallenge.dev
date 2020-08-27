@@ -8,6 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/khusharth/"
 looking_for: "internship"
 image_link: "https://avatars3.githubusercontent.com/u/46857858?s=460&u=c36533cdf2d387a78b13c3617fe29d898a31c02a&v=4"
 description: "HTML | CSS | Javascript | React"
+status: ''
 ---
 
 Hi! I am Khusharth Patani let me walk you through my intro, projects and blogs.

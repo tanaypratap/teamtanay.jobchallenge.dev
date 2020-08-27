@@ -8,6 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/digvijay-singh-rathore-10b632190/"
 looking_for: "internship"
 image_link: "https://avatars3.githubusercontent.com/u/59700645?s=460&u=59aaf467f690a7216b807c927c9b4b399657d98a&v=4"
 description: "MERN Stack | IOT | React Native"
+status: ''
 ---
 
 Hi! I am Digvijay, MERN stack developer. 👋👨‍💻

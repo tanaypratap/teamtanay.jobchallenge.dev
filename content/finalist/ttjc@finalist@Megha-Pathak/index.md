@@ -8,6 +8,7 @@ linkedin_link: "https://linkedin.com/in/megha--pathak"
 image_link: "https://avatars0.githubusercontent.com/u/40709743?s=400&u=081e9e630c5a4fea6acd17d4d43e3e8b8665e6ee&v=4"
 looking_for: "job"
 description: "I am a Product-oriented developer who builds things that live on the Web."
+status: ''
 ---
 
 Namaste Everyone! This is Megha Pathak, a curiosity-driven, Product-minded developer passionate about envisioning and developing great products. I Strive to create software that not only functions efficiently under the hood but also provides intuitive, pixel-perfect user experiences. I am an active Open Source contributor as well.

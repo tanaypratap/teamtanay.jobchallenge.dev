@@ -8,6 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/dikshagoyal26/"
 image_link: "https://avatars3.githubusercontent.com/u/34977174?s=400&u=9831d37daead95e55fbf659f689236593f118af6&v=4"
 looking_for: "job"
 description: "JavaScript Developer| NodeJs |MongoDB |Angular | Full Stack Developer|Tech Enthusiast"
+status: 'Hired'
 ---
 
 Namaste! I am Diksha, MEAN stack developer.

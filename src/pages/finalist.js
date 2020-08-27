@@ -58,6 +58,15 @@ contact:{
   textAlign:'right',
   padding:'5px',
   margin:'5px'
+},
+status:{
+  display:'flex',
+  justifyContent:'flex-end',
+  flexDirection:'row'
+},
+link:{
+  textDecoration:'none',
+  color:'inherit'
 }
   }
 
@@ -97,6 +106,8 @@ class PostsIndex extends React.Component {
           const linkedin_link=node.frontmatter.linkedin_link || ""
           const image_link=node.frontmatter.image_link || "https://user-images.githubusercontent.com/33570551/86525652-a2e5b380-bea7-11ea-9188-6f9424021e53.png"
           const portfolioL=node.frontmatter.portfolio || ""
+          const status=node.frontmatter.status || "Open to get Hired"
+          const bgcolor=(node.frontmatter.status)?'#EA4335':'#25D366'
           return (
           <div  key={node.fields.slug} style={{
             paddingRight: `${rhythm(3 / 4)}`,
@@ -124,6 +135,19 @@ class PostsIndex extends React.Component {
                     <p 
                     dangerouslySetInnerHTML={{ __html: node.excerpt }} 
                     style={styles.excerptdata}/>
+                    <div  style={styles.status}>
+                    <span style={
+                      {padding:'4px 13px 4px',
+                      borderRadius:'2px',
+                      backgroundColor:bgcolor,
+                      color:'#DCF8C6',
+                      fontWeight:'400'}
+                      }>
+                        <Link to={node.fields.slug} style={styles.link}>
+                          {status}
+                        </Link>
+                      </span>
+                    </div>
                   </div>
               </div>
               
@@ -161,6 +185,7 @@ export const pageQuery = graphql`
             github_link
             image_link
             linkedin_link
+            status
             priority
           }
         }

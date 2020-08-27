@@ -8,6 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/tapan-awasthi02/"
 looking_for: "job/internship"
 image_link: "https://avatars2.githubusercontent.com/u/40211415?s=460&u=794004e6b714e9f9570bc3e29b5e3280faafde54&v=4"
 description: "An Opportunist, a Believer and a Tech Enthusiast"
+status: 'Hired'
 ---
 
 Olá! I am Tapan Awasthi, a young guy determined to make it BIG, a learner and a technology lover. Let me walk you through my intro and works.

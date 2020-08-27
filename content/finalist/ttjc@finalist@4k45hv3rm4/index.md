@@ -8,6 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/akash-verma-8473a6151/"
 looking_for: "Internship | Job"
 image_link: "https://avatars1.githubusercontent.com/u/30963535?s=460&u=f4c3e0d9f280b26f84243f53eb3551f980137933&v=4"
 description: " DJANGO | PYTHON |JAVASCRIPT | REACT | BOOTSTRAP | SQL |"
+status: ''
 ---
 
 Hi! I am Akash Verma studying at St. Mary's Group of Institutions Hyderabad (JNTUH) . Let me walk you through my journey so far.

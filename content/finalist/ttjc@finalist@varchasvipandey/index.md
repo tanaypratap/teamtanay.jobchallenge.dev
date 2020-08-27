@@ -8,6 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/varchasvipandey"
 looking_for: "job"
 image_link: "https://avatars1.githubusercontent.com/u/9446839?s=460&u=480181c585bc67fbf5c0d2dc4481bc48d9e67434&v=4"
 description: "JavaScript full stack developer."
+status: 'Hired'
 ---
 
 Hi! I am Varchasvi Pandey a self taught web-developer and photoshop designer. Here you will find all my projects and blogs.
