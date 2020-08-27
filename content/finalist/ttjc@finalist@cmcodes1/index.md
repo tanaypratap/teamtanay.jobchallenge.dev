@@ -8,6 +8,7 @@ linkedin_link: "https://linkedin.com/in/cmcodes"
 looking_for: "job"
 description: "Analyst | Tech Geek | Developer"
 image_link: "https://avatars2.githubusercontent.com/u/34341671?s=460&u=73e18d14ad731e271dcb5a16e215cc7cf626721b&v=4"
+status: ''
 ---
 
 A guy who's crazy about React. ⚛

@@ -8,6 +8,7 @@ linkedin_link: "https://linkedin.com/in/arpitgupta1250"
 looking_for: "job"
 image_link: "https://avatars2.githubusercontent.com/u/55406857?s=400&u=5c972f71340cd47aed0df1f6028822c127bc867e&v=4"
 description: "C | Python | Java | Flutter | AWS | RedHat Linux | HTML | CSS | SQL"
+status: ''
 ---
 
 

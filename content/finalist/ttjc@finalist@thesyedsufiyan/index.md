@@ -8,6 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/syed-sufiyans/"
 looking_for: "job/internship"
 image_link: "https://avatars0.githubusercontent.com/u/36100349?s=460&u=522f57940e95f59417f7ac6c6d27c9a84a7ae6ae&v=4"
 description: "Javascript | React | node.js | Html | Css"
+status: ''
 ---
 
 Hi! I am a Syed sufiyan let me walk you through my intro, projects and blogs.

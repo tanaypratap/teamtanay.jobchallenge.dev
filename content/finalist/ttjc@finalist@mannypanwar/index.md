@@ -8,6 +8,7 @@ linkedin_link: "https://linkedin.com/in/mannypanwar"
 looking_for: "internship"
 image_link: "https://avatars3.githubusercontent.com/u/47856939?s=400&u=e7236f6f2cbf87d9d52d2044d15832b303f3f9b8&v=4"
 description: "React | Javascript | MERN"
+status: ''
 ---
 
 Hi! I am **Mandeep** let me walk you through my intro, projects and blogs.

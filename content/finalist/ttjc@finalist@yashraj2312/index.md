@@ -8,6 +8,7 @@ linkedin_link: "https://linkedin.com/in/yashraj2312"
 looking_for: "Job"
 image_link: "https://avatars1.githubusercontent.com/u/48771399?s=460&u=5f35e5cc2747883e7bf96c35d43dc4d0e1abb028&v=4"
 description: "| MongoDB | Express.js | React.js | Node.js | Django | Python | Javascript | AWS | Postman |"
+status: ''
 ---
 
 Hey there! I am Yash Raj and I am on a journey to become **Jack of all trades,Master of One.**

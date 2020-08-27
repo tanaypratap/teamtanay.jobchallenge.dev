@@ -8,6 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/meghna-varma-381282186/"
 looking_for: "job"
 image_link: "https://avatars0.githubusercontent.com/u/53870079?s=400&u=f3086ecd0409e79a3fbdeda4e19a02bcf4e1f3fe&v=4"
 description: "problem solving | HTML | CSS | Javascript | ReactJS | Bootstrap"
+status: ''
 ---
 
 Hi! I am Meghna, please help me walk you through my profile :)

@@ -8,6 +8,7 @@ linkedin_link: "https://linkedin.com/in/abhishek-25586b14b"
 looking_for: "job/internship"
 image_link: "https://avatars2.githubusercontent.com/u/31899726?s=400&u=d480f346c7db91ca16fda14b6915018499416d19&v=4"
 description: " Learning MERN stack | Competitive programming in C++ | UI/UX Design in Figma"
+status: ''
 ---
 
 Hello! 👋 I'm Abhishek, a wannabe web and/or mobile developer. Well, I can develop things, let's add great to that. A great web and/or mobile developer,

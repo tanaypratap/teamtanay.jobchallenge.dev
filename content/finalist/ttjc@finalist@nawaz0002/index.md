@@ -8,6 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/md-nawazish-230880189/"
 looking_for: "job"
 image_link: "https://avatars2.githubusercontent.com/u/33606313?s=400&u=0d140f6dd9b6c157220b05013226d77ea47379ee&v=4"
 description: " MERN stack Developer"
+status: ''
 ---
 
 Hello!👋 I'm Md Nawazish Alam, a am web developer. I want to be a great developer like who can able to develop any application someone told me to do,I have done two internship also as a web developer

@@ -7,6 +7,7 @@ github_link: "https://github.com/ProgrammerAvinash"
 linkedin_link: "https://www.linkedin.com/in/avinash-yadav-588744151/"
 looking_for: "job"
 description: "Learning MERN Stack"
+status: ''
 ---
 
 Hi! I am Avinash Yadav let me walk you through my intro, projects and blogs.
