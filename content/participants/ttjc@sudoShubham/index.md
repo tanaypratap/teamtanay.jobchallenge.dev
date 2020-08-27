@@ -49,6 +49,10 @@ Github Link:https://github.com/sudoShubham/Photo-Search-ReactApp
 Hosted Link:https://react-videogram.netlify.app/
 Github Link:https://github.com/sudoShubham/Videogram-ReactApp
 
+3:Streamy:
+    Web application for streaming games/videos. Used Redux for state management,google auth2 for authorization.
+Hosted Link:https://zealous-hodgkin-ac4772.netlify.app/
+Github Link:https://github.com/sudoShubham/Streaming 
 
 ### blogs
 1:AI Hype vs Reality:
