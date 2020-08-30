@@ -41,6 +41,16 @@ I have made my portfolio , a pig game and a budget webapp using javascript only.
 
 My projects:
 
+### THE EXPENSE app
+
+    _description_ It is a webapp which keeps the track of expense and income of the user.
+
+    _stack_ Backend is in javascript, frontend is equipped with HTML and CSS
+    
+    _hosted link_ https://xpensejournal.netlify.com/
+
+    _github link_ https://github.com/ooreally/Expense_Journal
+
 ### PIG DICE game : A very famous game of dice.
 
     _description_ It is a fun game like all other games of dice but a little bit tricky . Try it using given link.
