@@ -1,12 +1,13 @@
 ---
-title: DeveloperAvinash
+title: Avinash
 type: "finalist"
 name: "Avinash Yadav"
 portfolio: "https://avinashyadav.netlify.com"
-github-link: "https://github.com/ProgrammerAvinash"
-linkedin-link: "https://www.linkedin.com/in/avinash-yadav-588744151/"
-looking-for: "job"
+github_link: "https://github.com/ProgrammerAvinash"
+linkedin_link: "https://www.linkedin.com/in/avinash-yadav-588744151/"
+looking_for: "job"
 description: "Learning MERN Stack"
+status: ''
 ---
 
 Hi! I am Avinash Yadav let me walk you through my intro, projects and blogs.

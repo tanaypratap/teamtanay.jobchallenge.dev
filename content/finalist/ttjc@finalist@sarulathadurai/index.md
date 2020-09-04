@@ -3,11 +3,12 @@ title: Sarulatha Annadurai
 type: "finalist"
 name: "Sarulatha Annadurai"
 portfolio: "https://sarulathadurai.netlify.app/"
-github-link: "https://github.com/sarulathadurai"
-linkedin-link: "https://www.linkedin.com/in/sarulatha-annadurai-060226180/"
-image-link: "https://avatars3.githubusercontent.com/u/52416786?s=460&u=47eff0618b5b4e41d423d7b86e99a1d091dfa153&v=4"
-looking-for: "internship"
+github_link: "https://github.com/sarulathadurai"
+linkedin_link: "https://www.linkedin.com/in/sarulatha-annadurai-060226180/"
+image_link: "https://avatars3.githubusercontent.com/u/52416786?s=460&u=47eff0618b5b4e41d423d7b86e99a1d091dfa153&v=4"
+looking_for: "internship"
 description: "A complete beginner willing to put in whatever it takes!"
+status: ''
 ---
 
 Hi! I am an aspiring web developer pursuing 3rd year of computer science engineering from UCEK ,Tamil Nadu.

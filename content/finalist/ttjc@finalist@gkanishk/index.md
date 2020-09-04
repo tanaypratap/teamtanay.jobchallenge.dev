@@ -3,14 +3,15 @@ title: Kanishk Gupta
 type: "finalist"
 name: "Kanishk Gupta"
 portfolio: "https://gkanishk.github.io/"
-github-link: "https://github.com/gkanishk"
-linkedin-link: "https://linkedin.com/in/gkanishk"
-looking-for: "job/internship"
-image-link: "https://avatars2.githubusercontent.com/u/33570551?s=460&u=337e1bf4997c63e45f320ce7d8c1016459060c39&v=4"
+github_link: "https://github.com/gkanishk"
+linkedin_link: "https://linkedin.com/in/gkanishk"
+looking_for: "job/internship"
+image_link: "https://avatars2.githubusercontent.com/u/33570551?s=460&u=337e1bf4997c63e45f320ce7d8c1016459060c39&v=4"
 description: "Self-learner good at web development, mobile development and working on react "
+status: ''
 ---
 
-Cios! I am Kanishk Gupta a developer, student, and a keen learner. Open source enthusiast and an active contributor to the community. Why wait so let me walk you through my intro and work.
+Ciao! I am Kanishk Gupta a developer, student, and a keen learner. Open source enthusiast and an active contributor to the community. Why wait so let me walk you through my intro and work.
 
 ### introduction 🔏
 
@@ -47,6 +48,7 @@ Apart from building testing is important so I want help in optimizing and testin
 - [LinkedIn](https://linkedin.com/in/gkanishk)
 - [Portfolio](https://gkanishk.github.io/)
 - [Insta](https://instagram.com/gkanishk_)
+- [Email](mailto:kanishkgupta11@yahoo.com)
 
 ## projects 👷‍♂️
 

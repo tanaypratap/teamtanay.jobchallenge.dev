@@ -3,12 +3,13 @@ title: Harsh Digwani
 type: "finalist"
 name: "Harsh Digwani"
 portfolio: "https://harshdigwani.github.io/"
-github-link: "https://github.com/harshdigwani"
-linkedin-link: "https://www.linkedin.com/in/harshdigwani"
+github_link: "https://github.com/harshdigwani"
+linkedin_link: "https://www.linkedin.com/in/harshdigwani"
 medium-link: "https://medium.com/@harshdigwani/"
-looking-for: "job"
-image-link : "https://avatars0.githubusercontent.com/u/46929665?v=4"
+looking_for: "job"
+image_link : "https://avatars0.githubusercontent.com/u/46929665?v=4"
 description: "Competitive Programmer || Full Stack Developer || Problem Solver || Student || React || Angular || JavaScript || NodeJS || ExpressJS || Python. "
+status: ''
 ---
 
 Hi! I am a Harsh Digwani let me walk you through my intro, projects and blogs.

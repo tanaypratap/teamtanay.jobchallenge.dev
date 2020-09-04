@@ -8,13 +8,13 @@ linkedin-link: "https://www.linkedin.com/in/syed-sufiyans/"
 looking-for: "job/internship"
 image-link: "https://avatars0.githubusercontent.com/u/36100349?s=460&u=522f57940e95f59417f7ac6c6d27c9a84a7ae6ae&v=4"
 description: "Javascript | React | node.js | Html | Css | firebase | sass"
----
+
 
 Hi! I am a Syed sufiyan let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-i love to build things, contribute to open source and showcase by building projects. 
+i love to build things, contribute to open source and showcase by building projects.
 
 ## why are you taking this challenge?
 
@@ -87,7 +87,6 @@ _hosted link_ https://quiz-game-js.netlify.app
 
 _github link_ https://github.com/thesyedsufiyan/quiz-game-app
 
-
 #### car insurance app
 
 _description_ calculate car insurance.
@@ -122,5 +121,4 @@ _description_ Blog about how destructuring work in javascript.
 [JavaScript Array Methods (forEach, map, some, find, filter & more)](https://medium.com/@syedsufi1066/javascript-array-methods-foreach-map-some-find-filter-more-ff1e50ec3c50)
 
 _description_ understanding JavaScript array methods and its types.
-
 

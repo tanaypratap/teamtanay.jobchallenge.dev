@@ -3,11 +3,12 @@ title: Varchasvi Pandey
 type: "finalist"
 name: "Varchasvi Pandey"
 portfolio: "https://varchasvipandey.now.sh/"
-github-link: "https://github.com/varchasvipandey"
-linkedin-link: "https://www.linkedin.com/in/varchasvipandey"
-looking-for: "job"
-image-link: "https://avatars1.githubusercontent.com/u/9446839?s=460&u=480181c585bc67fbf5c0d2dc4481bc48d9e67434&v=4"
+github_link: "https://github.com/varchasvipandey"
+linkedin_link: "https://www.linkedin.com/in/varchasvipandey"
+looking_for: "job"
+image_link: "https://avatars1.githubusercontent.com/u/9446839?s=460&u=480181c585bc67fbf5c0d2dc4481bc48d9e67434&v=4"
 description: "JavaScript full stack developer."
+status: 'Hired'
 ---
 
 Hi! I am Varchasvi Pandey a self taught web-developer and photoshop designer. Here you will find all my projects and blogs.
@@ -37,7 +38,16 @@ I struggle with headers and tokens while working with a front-to-back project. I
 
 ### projects
 
-#### 1. CoviData
+#### 1. Expressions
+
+Expressions is a simple, fast, secure and reliable app for buildinng professional web-portfolios with ease. Make a fully customized portfolio quickly and edit it anytime like the way you want. Share your unique portfolio with your personal Expressions link provided by the application.
+
+![Expressions Mobile App](https://github.com/varchasvipandey/images/blob/master/expressions.png?raw=true)
+
+- [More about this app](https://varchasvipandey.now.sh/expressions)
+- [App link](https://expressions.vercel.app/)
+
+#### 2. CoviData
 
 CoviData is a simple and fast Covid-19 data application. This application can be used to check the status of Covid-19 in different parts of the world. The application is primarily built for mobile phones but it works and performs equally well on desktops.
 
@@ -47,7 +57,7 @@ CoviData is a simple and fast Covid-19 data application. This application can be
 - [App link](https://covidata.varchasvipandey.now.sh/)
 - [Github link](https://github.com/varchasvipandey/coviData)
 
-#### 2. Strenxible
+#### 3. Strenxible
 
 Strenxible is a fitness application for those who find it hard to go to the gym either due to lack of time or money. The app comes with two fitness plans, one for building strength and one for building flexibility. Users can easily install the application on their devices and can workout anytime and anywhere.
 
@@ -57,7 +67,7 @@ Strenxible is a fitness application for those who find it hard to go to the gym 
 - [App link](https://strenxible.now.sh/)
 - [Github link](https://github.com/varchasvipandey/strenxible)
 
-#### 3. SweetBeat
+#### 4. SweetBeat
 
 SweetBeat is a musical application which is meant to provide entertainment. Users can play beats on this application using the provided drum pads. The application comes with two musical genres- Future Bass and Hip-Hop. The app is primarily built for mobile devices but users can also use this application on their desktops using Numpad on the keyboard.
 
@@ -67,7 +77,7 @@ SweetBeat is a musical application which is meant to provide entertainment. User
 - [App link](https://sweetbeat.now.sh/)
 - [Github link](https://github.com/varchasvipandey/sweetbeat)
 
-#### 4. Express Store
+#### 5. Express Store
 
 Express Store is an eCommerce website for purchasing musical instruments. It is a marketplace to find all kinds of instruments. It works just like any other eCommerce website but with slight ease of use.
 
@@ -77,7 +87,7 @@ Express Store is an eCommerce website for purchasing musical instruments. It is 
 - [App link](https://express-store-app.herokuapp.com/)
 - [Github link](https://github.com/varchasvipandey/express-store)
 
-#### 5. Fair And Square
+#### 6. Fair And Square
 
 Fair And Square is an online gaming platform which is light-weight. The application is made primarily for desktop users only. This application also works fine on small mobile devices, but a keyboard is essential to play games. People can create an account and compete with other players worldwide.
 
