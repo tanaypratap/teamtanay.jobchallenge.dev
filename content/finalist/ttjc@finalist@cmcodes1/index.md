@@ -21,18 +21,18 @@ Wrote a piece of code 7 years ago, it was fun; so that’s what I have been doin
 
 ## why are you taking this challenge?
 
-Looking for a job.
+Looking for a job. 😃
 
 ## something interesting about you?
 
-I am an INTJ.
-National Youth Parliament Speaker.
-I lead a community of 10k+ developers.
-Going hard on mobile app dev with React Native.
+I am an INTJ. 😊
+National Youth Parliament Speaker. 🎤
+I lead a community of 10k+ developers. 😇
+Going hard on mobile app dev with React Native. 👨‍💻
 
 ### help I need?
 
-It would be good if someone tells me how to scale an app.
+It would be good if someone tells me how to scale an app. 🚀
 
 ### how to contact me?
 
@@ -50,7 +50,7 @@ It would be good if someone tells me how to scale an app.
 
 My projects:
 
-#### Tanay Pratap Search Engine
+#### Tanay Pratap Search Engine 🔎
 
 _description_ Do you have a question for Tanay? Search here before you ask him!
 
@@ -60,7 +60,7 @@ _github link_ https://github.com/cmcodes1/tanaypratap-search-engine
 
 _hosted link_ https://tanaypratapsearchengine.netlify.app/
 
-#### Studify
+#### Studify ✅
 
 _description_ A student utility android application.
 
@@ -70,7 +70,7 @@ _github link_ https://github.com/cmcodes1/Studify
 
 _hosted link_ https://github.com/cmcodes1/Studify/blob/master/app-release.apk
 
-#### cmcodes1.github.io
+#### cmcodes1.github.io 😄
 
 _description_ My portfolio website.
 
@@ -80,7 +80,7 @@ _github link_ https://github.com/cmcodes1/cmcodes1.github.io
 
 _hosted link_ https://cmcodes1.github.io/
 
-#### Meme Maker
+#### Meme Maker 😂
 
 _description_ Do you like memes? Who doesn't? Use this webapp to select a meme and insert a caption. Now, you can be a memer too :D
 
@@ -90,7 +90,7 @@ _github link_ https://github.com/cmcodes1/Meme-Maker
 
 _hosted link_ https://cmcodes-mememaker.netlify.app/
 
-#### InstaScrapper
+#### InstaScrapper 📊
 
 _description_ A web scraping CLI tool for Instagram profiles.
 
@@ -98,7 +98,7 @@ _stack_ Node.js
 
 _github link_ https://github.com/cmcodes1/InstaScraper
 
-#### To-Do-App
+#### To-Do-App ✔
 
 _description_ A webapp which provides standard note-taking functionality.
 
@@ -110,15 +110,9 @@ _hosted link_ https://cmcodes-todoapp.netlify.app/
 
 ### blogs
 
-#### How to prepare for placements (and a good package 😉) ?
+#### My website now loads in less than 1 sec! Here's how I did it! ⚡
 
-_description_ Sharing the tips and resources I used to crack interviews at many big IT companies of India.
-
-_blog link_ https://medium.com/@cmcodes/how-to-prepare-for-placements-and-a-good-package-9e4146d68437
-
-#### My website now loads in less than 2 sec! Here's how I did it! ⚡
-
-_description_ Sharing the tips and tricks I used to load my portfolio in just 1.8 seconds and achieved a performance score of 94 on lighthouse.
+_description_ Sharing the tips and tricks I used to load my portfolio in just 0.8 seconds and achieved a performance score of 97 on lighthouse.
 
 _blog link_ https://dev.to/cmcodes/my-website-now-loads-in-less-than-2-sec-here-s-how-i-did-it-hoj
 
@@ -127,3 +121,15 @@ _blog link_ https://dev.to/cmcodes/my-website-now-loads-in-less-than-2-sec-here-
 _description_ Sharing the tips and tricks I used to achieve a SEO score of 100 on lighthouse.
 
 _blog link_ https://dev.to/cmcodes/how-my-portfolio-got-a-seo-score-of-100-456c
+
+#### How to add Splash Screen in a React Native Android App? 🌟
+
+_description_ Sharing all the steps which I did to implement it within minutes!
+
+_blog link_ https://dev.to/cmcodes/how-to-add-splash-screen-in-a-react-native-android-app-287l
+
+#### How to prepare for placements (and a good package 😉) ?
+
+_description_ Sharing the tips and resources I used to crack interviews at many big IT companies of India.
+
+_blog link_ https://medium.com/@cmcodes/how-to-prepare-for-placements-and-a-good-package-9e4146d68437
