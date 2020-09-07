@@ -68,7 +68,17 @@ _stack_ React Native
 
 _github link_ https://github.com/cmcodes1/Studify
 
-_hosted link_ https://github.com/cmcodes1/Studify/blob/master/app-release.apk
+_hosted link_ https://play.google.com/store/apps/details?id=com.cmcodes.studify
+
+#### Weather Bot 🌞
+
+_description_ An automated bot that notifies you every morning about the weather in your city.
+
+_stack_ Node.js
+
+_github link_ https://github.com/cmcodes1/weather-bot
+
+_hosted link_ https://t.me/cmcodes_weather_bot
 
 #### cmcodes1.github.io 😄
 
@@ -97,16 +107,6 @@ _description_ A web scraping CLI tool for Instagram profiles.
 _stack_ Node.js
 
 _github link_ https://github.com/cmcodes1/InstaScraper
-
-#### To-Do-App ✔
-
-_description_ A webapp which provides standard note-taking functionality.
-
-_stack_ HTML, CSS, JS (React)
-
-_github link_ https://github.com/cmcodes1/To-Do-App
-
-_hosted link_ https://cmcodes-todoapp.netlify.app/
 
 ### blogs
 
