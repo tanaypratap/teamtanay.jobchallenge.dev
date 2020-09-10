@@ -3,10 +3,10 @@ title: Syed sufiyan
 type: "finalist"
 name: "syed sufiyan"
 portfolio: "https://syedportfolio.netlify.app/"
-github-link: "https://github.com/theSyedsufiyan"
-linkedin-link: "https://www.linkedin.com/in/syed-sufiyans/"
-looking-for: "job/internship"
-image-link: "https://avatars0.githubusercontent.com/u/36100349?s=460&u=522f57940e95f59417f7ac6c6d27c9a84a7ae6ae&v=4"
+github_link: "https://github.com/theSyedsufiyan"
+linkedin_link: "https://www.linkedin.com/in/syed-sufiyans/"
+looking_for: "job/internship"
+image_link: "https://avatars0.githubusercontent.com/u/36100349?s=460&u=522f57940e95f59417f7ac6c6d27c9a84a7ae6ae&v=4"
 description: "Javascript | React | node.js | Html | Css | firebase | sass"
 status: ''
 
