@@ -2,20 +2,19 @@
 title: Syed sufiyan
 type: "finalist"
 name: "syed sufiyan"
-portfolio: "https://syed-portfolio.netlify.app/"
+portfolio: "https://syedportfolio.netlify.app/"
 github_link: "https://github.com/theSyedsufiyan"
 linkedin_link: "https://www.linkedin.com/in/syed-sufiyans/"
 looking_for: "job/internship"
 image_link: "https://avatars0.githubusercontent.com/u/36100349?s=460&u=522f57940e95f59417f7ac6c6d27c9a84a7ae6ae&v=4"
-description: "Javascript | React | node.js | Html | Css"
+description: "Javascript | React | node.js | Html | Css | firebase | sass"
 status: ''
 ---
-
 Hi! I am a Syed sufiyan let me walk you through my intro, projects and blogs.
 
 ### introduction
 
-i love to build things and showcase by building apps.
+i love to build things, contribute to open source and showcase by building projects.
 
 ## why are you taking this challenge?
 
@@ -33,7 +32,7 @@ learn new technologies.
 
 - [twitter](https://twitter.com/thesyedsufiyan)
 - [instagram](https://www.instagram.com/thesyedsufiyan/)
-- [portfolio](https://syed-portfolio.netlify.app/)
+- [portfolio](https://syedportfolio.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/syed-sufiyans/)
 
 ### projects
@@ -47,6 +46,25 @@ _stack_ Made in React with Redux. This is written in JavaScript styled using sty
 _hosted link_ https://forte-live.herokuapp.com
 
 _github link_ https://github.com/thesyedsufiyan/forte-clothing
+
+#### Amazon clone
+
+_description_ Amazon clone user can authenticate, add and delete items.
+
+_stack_ ReactJs, firebase
+
+_hosted link_ https://ama-zon-cl-one.web.app/
+
+_github link_ https://github.com/thesyedsufiyan/amazon-clone
+
+#### Loan calculator
+
+_description_ Calculate loan by providing amount and term.
+_stack_ ReactJs
+
+_hosted link_ https://loan-calculator2.netlify.app/
+
+_github link_ https://github.com/thesyedsufiyan/loan-calculator
 
 #### perfect cocktail app
 
