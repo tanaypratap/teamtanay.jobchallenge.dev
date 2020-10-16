@@ -8,7 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/joweltisso/"
 looking_for: "job"
 image_link: "https://avatars1.githubusercontent.com/u/52632590?s=400&u=591f8558da75762e94b5067612bf3543776e024f&v=4"
 description: "Android Studio | Java | learning Kotlin | learning React | learning JavaScript"
-status: ''
+status: 'Not looking for change'
 ---
 
 Hi! I am Jowel Tisso, Android App Developer and Front End Web Developer. Progressing to pursue Career in Mobile or Web Dev.

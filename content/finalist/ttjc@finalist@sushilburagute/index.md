@@ -8,7 +8,7 @@ linkedin_link: "https://in.linkedin.com/in/sushil-buragute"
 looking_for: "Job/Internship"
 image_link: "https://raw.githubusercontent.com/sushilburagute/npm-package-portfolio/master/ss.jpeg"
 description: "// MERN // UI/UX // Product //"
-status: ''
+status: 'Not looking for change'
 ---
 
 👨‍💻Hello, my name is Sushil.
