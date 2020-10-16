@@ -6,7 +6,7 @@ portfolio: "https://abhiramreddy.netlify.app/"
 github_link: "https://github.com/nrabhiram"
 linkedin_link: "https://www.linkedin.com/in/abhiram-reddy-23285b196/"
 looking_for: "job"
-image_link: "https://media-exp1.licdn.com/dms/image/C5603AQFYdU_qNBpPYQ/profile-displayphoto-shrink_200_200/0?e=1598486400&v=beta&t=Wl5ltoM1oIVNo4rIPWwbW_qHeZ1gvW0crsSMrPKN228"
+image_link: "https://avatars2.githubusercontent.com/u/62073792?s=400&u=ca3b7a3595d4f7a8b8f823a3527dece40d2d84ff&v=4"
 description: "HTML | CSS | Javscript | React | Node"
 status: ''
 ---

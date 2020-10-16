@@ -8,7 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/saddam-shah/"
 looking_for: "job"
 image_link: "https://avatars0.githubusercontent.com/u/46083623?s=460&u=d2e51ad2754d31669119720791a3f2a38a05b112&v=4" 
 description: "Expert at Javascript | Node.js | MongoDB | Currently learning React"
-status: ''
+status: 'Hired'
 ---
 
 A Self-taught Web Developer was withholding more than one year of experience. Also worked for a startup company for nine months currently doing freelancing.
