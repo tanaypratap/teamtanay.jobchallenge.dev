@@ -78,8 +78,8 @@ class PostsIndex extends React.Component {
     const siteTitle = data.site.siteMetadata.title
     const faqs = data.allMarkdownRemark.edges.sort((item1, item2) => {
       // sort the data according to the names 
-      const name1 = item1.node.frontmatter.status;
-      const name2 = item2.node.frontmatter.status;
+      const name1 = item1.node.frontmatter.title;
+      const name2 = item2.node.frontmatter.title;
       return name1 > name2 ? 1 : -1;
     });
 
