@@ -9,9 +9,11 @@ looking-for: "Job"
 description: "React | Djngo | Data Structure | CPP"
 ---
 
+Hello!! I'm Ramakant soni , currently I'm persuing B.Tech in Electronics and Communication.
+
 ### introduction
 
-Hello!! I am a forth year student from NIT bhopal.                       
+I am a forth year student from NIT bhopal.                       
 My primary skills include C++ , Data Structure , NodeJS , React , Django.              
 I want to learn and make some good projects to improve my Portfolio.
 
