@@ -105,7 +105,7 @@ class Index extends React.Component {
                 </p>
               <br/>
                 <p style={{textAlign:'center'}}>
-                  <a href="/hiring-hub-welcome">
+                  <a href="https://elevatelabs.tech/hire" target="_blank">
                   wanna hire through the challenge?🤔
                   </a>
                 </p>
