@@ -1,11 +1,12 @@
 ---
 title: Karthik Raji
-type: "participant"
+type: "finalist"
 name: "Karthik Raji"
 portfolio: "http://karthikraji2020.github.io"
-github-link: "https://github.com/karthikraji2020"
-linkedin-link: "https://www.linkedin.com/in/karthik-r-a70001194"
-looking-for: "job"
+github_link: "https://github.com/karthikraji2020"
+linkedin_link: "https://www.linkedin.com/in/karthik-r-a70001194"
+image_link: "https://avatars3.githubusercontent.com/u/51771000?s=460&u=d81898ba5f6135caba2a45abc12b1b45e110d42a&v=4"
+looking_for: "job"
 
 description: " Javascript | Angular 7 | Typescript "
 ---
