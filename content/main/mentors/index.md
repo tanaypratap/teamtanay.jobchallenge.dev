@@ -22,4 +22,4 @@ Once we introduce them we'll have an extensive chat with them. You will get to k
 
 We do need more mentors seeing the interest in this challenge.
 
-This space is coming up. Initial mentorships were forged from my (Tanay's) personal connections but soon it will be open to all.
+Interested in mentoring? more details [here](https://elevatelabs.tech/)
