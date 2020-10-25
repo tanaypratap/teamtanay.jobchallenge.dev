@@ -6,7 +6,7 @@ portfolio: "https://aportfolio.netlify.com"
 github-link: "https://github.com/ooreally"
 linkedin-link: "https://www.linkedin.com/in/anupam-s-10b93089/"
 looking-for: "internship"
-description: "Javascript | C++ | HTML | CSS  "
+description: "Javascript | C++ | HTML | CSS | ReactJs "
 ---
 
 Hello! I am Anupam Srivastava, B.Tech CSE student at Indian Institute Of Information Technology(IIIT) Surat, always ready to learn new tech .Let me walk you through my intro, projects and blogs.
@@ -22,7 +22,7 @@ First of all I need an internship and I want to do something produvctive which c
 
 ## something interesting about you?
 
-- I have a good taste in music , I like singing too.
+- I have a good taste in music , I like singing and play guitar too.
 - I am good at playing lawn tennis.
 
 ### help I need?
@@ -37,9 +37,18 @@ I am a begginer so I would need help in react and everything which comes under w
 
 ### projects
 
-I have made my portfolio , a pig game and a budget webapp using javascript only.
+I have made my portfolio , a pig game and a budget webapp using javascript only. I have recently made my-burger app using ReactJs mainly
 
 My projects:
+
+### MY-BURGER
+    __description_ My-burger app is a fun SPA (Single Page Application) to build and order a burger of your choice facilitating register and login for users .
+
+    _stack_ Build using ReactJs,Javascript,HTML,CSS and the backend is equipped with Google Firebase
+    
+    _hosted link_ https://my-burger-react-c960a.web.app/
+
+    _github link_ https://github.com/ooreally/my-burger
 
 ### THE EXPENSE app
 
