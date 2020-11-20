@@ -39,7 +39,7 @@ It would be good if someone guides me to lean Cloud computing...
 _description_ A real time muliple user chat application, by `NodeJS` , `Socket.io`, `Express`
 _stack_ Frontend - `Bootstrap` and `JQuery`.
 
-_hosted link_  https://github.com/aritrochakraborty29/realtime_chat2
+_hosted link_  https://realtime-chat2.herokuapp.com/
 
 _github link_  https://github.com/aritrochakraborty29/realtime_chat2
 
