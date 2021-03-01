@@ -26,7 +26,7 @@
     "gatsby-transformer-remark": "^2.8.30",
     "gatsby-transformer-sharp": "^2.5.13",
     "node": "^13.14.0",
-    "prismjs": "^1.21.0",
+    "prismjs": "^1.23.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
