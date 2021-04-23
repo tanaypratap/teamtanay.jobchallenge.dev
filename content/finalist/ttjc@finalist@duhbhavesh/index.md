@@ -2,12 +2,13 @@
 title: Bhavesh Kasturi
 type: "finalist"
 name: "Bhavesh Kasturi"
-portfolio: "https://bhaveshkasturi.herokuapp.com/"
+portfolio: "https://bhaveshkasturi.netlify.app/"
 github_link: "https://github.com/duhbhavesh"
 linkedin_link: "https://linkedin.com/in/bhavesh-kasturi"
 looking_for: "job"
 image_link: "https://avatars0.githubusercontent.com/u/62742018?s=400&u=325fd02cc82819ebe22931123c404cafbb10b3b1&v=4"
 description: "Javascript | Mongodb | Nodejs | React | Express"
+status: ''
 ---
 
 Hello there! I'm Bhavesh Kasturi, A self-taught Web developer. Below you'll get to know more about me and my skills. Also you'll find some projects that I've done.

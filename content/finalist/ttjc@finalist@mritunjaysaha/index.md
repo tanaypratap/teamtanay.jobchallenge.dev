@@ -8,6 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/mritunjay-saha-89a04796/"
 looking_for: "Internship"
 image_link: "https://avatars3.githubusercontent.com/u/59063979?s=460&u=bfc034f3d3b32dcb6c0e9ce033682de5cee01409&v=4"
 description: "MongoDB | Express.JS | React.JS | Node.js "
+status: 'Not looking for change'
 ---
 
 Hi! I am Mritunjay Saha. I am a self taught Web developer.
@@ -42,7 +43,7 @@ Apart from building projects, I would want help in learning more about the web e
 
 _description_ A vanillaJs application to track the number of Covid-19 cases in India with the number of increase cases for each state and for each parameter.
 
-_stack_ `JavaScript` `HTML&CSS` `BootStrap` `Chart.js`
+_stack_ `JavaScript` `HTML` `CSS` `BootStrap` `Chart.js`
 
 _hosted link_ https://covidupdate.netlify.app/
 
@@ -50,9 +51,9 @@ _github link_ https://github.com/mritunjaysaha/coronavirus-tracker
 
 ### AQI Monitor
 
-_description_ vanillaJS web application that allows the user to see the air quality index of multiple cities at a time. User doesn't need to enter the details of the cities Everytime the page reloads. The data is saved on the browser
+_description_ A vanillaJS web application that allows the user to see the air quality index of multiple cities at a time. User doesn't need to enter the details of the cities Everytime the page reloads. The data is saved on the browser.
 
-_stack_ `JavaScript` `HTML&CSS`
+_stack_ `JavaScript` `HTML` `CSS`
 
 _hosted link_ https://aqimonitor.netlify.app/
 
@@ -81,7 +82,7 @@ _github link_ https://github.com/mritunjaysaha/todo-pwa
 
 ### Markdown Previewer
 
-_description_ Check normal text in Markdown. It has a format bar so that anyone is new to Markdown can still use it.
+_description_ Check normal text in Markdown. It has a format bar so that anyone who is new to Markdown can still use it.
 
 _stack_ `React.js` `Material-UI`
 

@@ -8,6 +8,7 @@ linkedin_link: "https://www.linkedin.com/in/swapnadeep-mohapatra-11b371159/"
 looking_for: "internship"
 image_link: "https://avatars2.githubusercontent.com/u/41564532?s=460&u=ac84aa8f047ebb85f5ba8f9e77eca42d961dcf5c&v=4"
 description: "React | React Native | JS | Python | Embedded C | IoT | HTML | CSS | SASS | Android | Java | UI Design | Firebase | MongoDB | SQL | Node.js | Express | Socket.io | TypeScript | Bootstrap | Tailwind CSS"
+status: 'Hired'
 ---
 
 Hola! I am Swapnadeep Mohapatra. I am currently a class 11 student. But don't go with my age I code really well. I like to make Full Stack Web and Mobile Applications.

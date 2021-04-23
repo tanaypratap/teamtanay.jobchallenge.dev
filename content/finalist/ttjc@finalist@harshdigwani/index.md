@@ -9,6 +9,7 @@ medium-link: "https://medium.com/@harshdigwani/"
 looking_for: "job"
 image_link : "https://avatars0.githubusercontent.com/u/46929665?v=4"
 description: "Competitive Programmer || Full Stack Developer || Problem Solver || Student || React || Angular || JavaScript || NodeJS || ExpressJS || Python. "
+status: 'Hired'
 ---
 
 Hi! I am a Harsh Digwani let me walk you through my intro, projects and blogs.

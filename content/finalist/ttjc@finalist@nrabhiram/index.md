@@ -1,12 +1,14 @@
 ---
 title: Abhiram Reddy
-type: "partcipant"
+type: "finalist"
 name: "Abhiram Reddy"
 portfolio: "https://abhiramreddy.netlify.app/"
-github-link: "https://github.com/nrabhiram"
-linkedin-link: "https://www.linkedin.com/in/abhiram-reddy-23285b196/"
-looking-for: "job"
+github_link: "https://github.com/nrabhiram"
+linkedin_link: "https://www.linkedin.com/in/abhiram-reddy-23285b196/"
+looking_for: "job"
+image_link: "https://avatars2.githubusercontent.com/u/62073792?s=400&u=ca3b7a3595d4f7a8b8f823a3527dece40d2d84ff&v=4"
 description: "HTML | CSS | Javscript | React | Node"
+status: ''
 ---
 
 Hey there! I'm Abhiram and I would love to share my journey so far with you.
@@ -114,6 +116,5 @@ Links:
     In this blog post, I explain how to use Redux in an actual React application.
 
     Blog-post link: (https://dev.to/nrabhiram/react-redux-1622)
-
 
 

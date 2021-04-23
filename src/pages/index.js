@@ -27,10 +27,26 @@ class Index extends React.Component {
             `react`,
           ]}
         />
+        <Section
+          header="Elevate Labs aka Job Challenge 2.0"
+          textNode={
+            <p>
+              We ran a job challenge earlier this year from March to June and got 10+ students placed 
+              in various companies as interns and full-time employees. If you could not complete Job Challenge, 
+              Elevatelabs is for you, why wait?
+              </p>
+          }
+          more={[
+            {
+              link: "https://elevatelabs.tech",
+              text: "check more details here...",
+            },
+          ]}
+        />
 
         <Section
           header="what's the challenge?"
-          
+          needsBackground={backgroundGrey}
           textNode={
             <p>
               #TeamTanayJobChallenge requires you to finish a minimum of{" "}
@@ -42,7 +58,7 @@ class Index extends React.Component {
                 </p>
                 <br/>
                 <p align="center">
-                  All the best to the <a href="/participants/">participants!</a> and the <a href="/finalist/">finalists!</a>
+                  All the best to the <a href="/participants/">participants</a> and the <a href="/finalist/">finalists!</a>
                 </p> 
               </p>
           }
@@ -56,7 +72,7 @@ class Index extends React.Component {
 
         <Section
           header="what's TeamTanay?"
-          needsBackground={backgroundGrey}
+          needsBackground={backgroundOrange}
           textNode={
             <p>
               An open community of over 20K students and developers spanning
@@ -72,7 +88,7 @@ class Index extends React.Component {
         />
         <Section
           header="are we really getting a job?"
-          needsBackground={backgroundOrange}
+          
           textNode={
             <p>
               <p>
@@ -89,7 +105,7 @@ class Index extends React.Component {
                 </p>
               <br/>
                 <p style={{textAlign:'center'}}>
-                  <a href="/hiring-hub-welcome">
+                  <a href="https://elevatelabs.tech/hire" target="_blank">
                   wanna hire through the challenge?🤔
                   </a>
                 </p>
@@ -99,6 +115,7 @@ class Index extends React.Component {
 
         <Section
           header="do we have help?"
+          needsBackground={backgroundGrey}
           textNode={
             <p>
               Yes, you have and will have plenty of help from seniors across the
@@ -116,7 +133,7 @@ class Index extends React.Component {
 
         <Section
           header="have some questions?"
-          needsBackground={backgroundGrey}
+          
           textNode={
             <p>
               We're sure you're having tons of questions. We got a lot of them
@@ -132,6 +149,7 @@ class Index extends React.Component {
         />
         <Section
           header="did you checkout our blogs?"
+          needsBackground={backgroundOrange}
           textNode={
             <p>
               We have cumulated free learning resources, cheap Udemy courses,

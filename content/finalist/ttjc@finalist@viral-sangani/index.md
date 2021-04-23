@@ -8,6 +8,7 @@ linkedin_link: "https://linkedin.com/in/viral-sangani"
 looking_for: "internship"
 image_link: "https://pbs.twimg.com/profile_images/1267902594162270208/-khk2-Fv_400x400.jpg"
 description: "Your Friendly Neighborhood CSE Student. Django | Python | AWS | Linux | ReactJS | GatsbyJS | Javascript "
+status: 'Hired'
 ---
 
 Hi there!👋 I am a Viral Sangani let me walk you through my intro, projects and blogs.
