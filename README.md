@@ -8,7 +8,7 @@ Website for the job challenge #teamtanay
 
 ## website
 
-https://2020.teamtanay.jobchallenge.dev/
+https://jobchallenge.netlify.app/
 
 ## how to register?
 
