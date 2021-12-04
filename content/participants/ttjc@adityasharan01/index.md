@@ -97,6 +97,15 @@ _hosted link_ https://udhaar.netlify.app/
 
 _github link_ https://github.com/adityasharan01/Loan-Calculator
 
+#### Weather App
+_description_ It helps to determine the weather of your area by automatically detecting the longitutde and latittude of the coordinate position.
+
+_stack_ Made with purely Vanilla JS.
+
+_hosted link_ https://acds.netlify.app/
+
+_github link_ https://github.com/adityasharan01/Weather-App
+
 ### blogs
 
 Some of the blogs which i have written are listed below:-
@@ -113,3 +122,8 @@ _description_ In this blog i have written about react js what i have learned whi
 
 _link_ https://dev.to/adityasharan01/react-js-in-simple-terms-il8
 
+#### 7 Useful Websites that you wish You knew them earlier
+
+_description_ In this blog i have written about websites that are quite good to have a look and some are very useful for incraesing prouctivity and some are life hacks website.
+
+_link_ https://dev.to/adityasharan01/7-useful-websites-that-you-wish-you-knew-them-earlier-2cfg
