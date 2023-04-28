@@ -14,6 +14,11 @@ https://jobchallenge.netlify.app/
 
 https://www.youtube.com/watch?v=QzjgBj9oaAA
 
+## finalists tanay pratap job challenge 2020
+
+https://2020.teamtanay.jobchallenge.dev/finalist/
+
+
 ## need help?
 
 Join the telegram group t.me/teamtanay
